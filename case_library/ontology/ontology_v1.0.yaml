@@ -1,0 +1,451 @@
+# AI Case Library Ontology v1.0
+#
+# Validated against 1,440 claims from 202 cases
+# Classification success rate: 79.9%
+# Finalised: 2026-01-19
+
+version: "1.0"
+effective_date: "2026-01-19"
+status: evidence_based
+
+corpus_stats:
+  claims_analysed: 1440
+  classification_rate: 0.799
+  high_confidence_rate: 0.678
+
+# =============================================================================
+# MECHANISM DIMENSION
+# =============================================================================
+# Question: How does the AI create value?
+# Cardinality: 1-2 tags per claim
+
+mechanism:
+  description: How the AI creates value for the organisation
+  cardinality: "1-2"
+  
+  terms:
+    automation:
+      label: Automation
+      short_definition: AI performs tasks previously done by humans
+      detailed_description: >
+        AI performs tasks previously done by humans, reducing manual effort.
+        The human is removed from the loop for routine execution.
+      indicators:
+        - handles
+        - processes
+        - executes
+        - replaces manual
+        - automates
+      corpus_stats:
+        count: 377
+        percentage: 0.28
+        avg_confidence: 0.87
+        
+    augmentation:
+      label: Augmentation
+      short_definition: AI enhances human capabilities
+      detailed_description: >
+        AI enhances human capabilities without replacing the human.
+        The human remains in the loop but is more effective.
+      indicators:
+        - assists
+        - supports
+        - helps
+        - enhances
+        - empowers
+      corpus_stats:
+        count: 360
+        percentage: 0.26
+        avg_confidence: 0.84
+        
+    optimization:
+      label: Optimization
+      short_definition: AI finds better solutions within constraints
+      detailed_description: >
+        AI finds better solutions within existing constraints.
+        Improves efficiency, reduces waste, or increases yield.
+      indicators:
+        - improves
+        - optimises
+        - reduces waste
+        - increases efficiency
+        - better allocation
+      corpus_stats:
+        count: 429
+        percentage: 0.31
+        avg_confidence: 0.83
+        
+    innovation:
+      label: Innovation
+      short_definition: AI enables fundamentally new capabilities
+      detailed_description: >
+        AI enables fundamentally new products, services, or business models.
+        Creates capabilities that didn't exist before.
+      indicators:
+        - new product
+        - new capability
+        - novel approach
+        - first-of-kind
+        - breakthrough
+      corpus_stats:
+        count: 191
+        percentage: 0.14
+        avg_confidence: 0.81
+
+# =============================================================================
+# OUTCOME DIMENSION
+# =============================================================================
+# Question: What business result does the AI produce?
+# Cardinality: 1-4 tags per claim
+
+outcome:
+  description: The business result produced by the AI
+  cardinality: "1-4"
+  
+  terms:
+    velocity:
+      label: Velocity (Time-to-Value)
+      short_definition: Acceleration of time to deliver value
+      detailed_description: >
+        Reduction in cycle time, faster delivery, quicker time-to-market,
+        or accelerated decision-making. Same outcome achieved in less time.
+      indicators:
+        - faster
+        - reduced time
+        - accelerated
+        - hours to minutes
+        - days to hours
+        - real-time
+      metric_patterns:
+        - "X% faster"
+        - "reduced from X to Y"
+        - "X hours saved"
+      corpus_stats:
+        count: 524
+        percentage: 0.30
+        avg_confidence: 0.87
+        
+    experience:
+      label: Experience
+      short_definition: Improved quality of interaction
+      detailed_description: >
+        Improved quality of interaction for customers, employees, or partners.
+        Better satisfaction, engagement, or usability.
+      indicators:
+        - satisfaction
+        - engagement
+        - usability
+        - customer experience
+        - employee experience
+      metric_patterns:
+        - "X point NPS increase"
+        - "X% satisfaction improvement"
+      corpus_stats:
+        count: 409
+        percentage: 0.23
+        avg_confidence: 0.85
+        
+    cost_reduction:
+      label: Cost Reduction
+      short_definition: Operational efficiency gains
+      detailed_description: >
+        Operational efficiency gains reducing what you spend internally.
+        Direct savings through efficiency, automation, or optimisation.
+      indicators:
+        - reduced costs
+        - savings
+        - efficiency gains
+        - lower operating costs
+      metric_patterns:
+        - "X% reduction in costs"
+        - "£/$/€ X saved"
+        - "X FTEs saved"
+      corpus_stats:
+        count: 317
+        percentage: 0.18
+        avg_confidence: 0.86
+        
+    revenue_lift:
+      label: Revenue Lift
+      short_definition: Direct increase in revenue
+      detailed_description: >
+        Direct increase in revenue, sales, or monetisation.
+        New revenue streams or improved conversion.
+      indicators:
+        - increased revenue
+        - higher sales
+        - better conversion
+        - new revenue stream
+      metric_patterns:
+        - "X% increase in sales"
+        - "£/$/€ X additional revenue"
+      corpus_stats:
+        count: 304
+        percentage: 0.17
+        avg_confidence: 0.85
+        
+    risk_avoidance:
+      label: Risk Avoidance
+      short_definition: Prevention of potential losses
+      detailed_description: >
+        Prevention or mitigation of potential losses.
+        Reduced fraud, fewer errors, improved compliance, safety.
+      indicators:
+        - reduced risk
+        - improved compliance
+        - error reduction
+        - safety improvement
+        - avoided losses
+        - fraud prevention
+      metric_patterns:
+        - "X% reduction in fraud"
+        - "£/$/€ X losses prevented"
+        - "X% fewer errors"
+      corpus_stats:
+        count: 141
+        percentage: 0.08
+        avg_confidence: 0.86
+        
+    cost_erosion:
+      label: Cost Erosion
+      short_definition: Competitive pricing pressure (external)
+      detailed_description: >
+        Competitive pressure reducing what you can charge externally.
+        Margin compression from competitive dynamics, distinct from
+        internal cost_reduction.
+      indicators:
+        - pricing pressure
+        - margin compression
+        - competitive pricing
+        - price competition
+      metric_patterns:
+        - "X% price reduction while maintaining margin"
+      corpus_stats:
+        count: 47
+        percentage: 0.03
+        avg_confidence: 0.88
+        
+    business_growth:
+      label: Business Growth
+      short_definition: Organisational scale expansion
+      detailed_description: >
+        Growth in organisational scale (customers, market share, valuation)
+        attributable to AI, distinct from direct revenue or efficiency gains.
+      indicators:
+        - customer acquisition
+        - market share
+        - valuation
+        - user growth
+        - expansion
+      metric_patterns:
+        - "X customers acquired"
+        - "X% market share"
+        - "unicorn status"
+      corpus_stats:
+        count: null  # New term, to be populated
+        percentage: null
+        avg_confidence: null
+      notes: >
+        Added in v1.0 based on discovery pipeline findings.
+        Captures scale expansion that doesn't fit cost/revenue directly.
+
+# =============================================================================
+# COGNITIVE_DEPTH DIMENSION
+# =============================================================================
+# Question: What level of AI sophistication is demonstrated?
+# Cardinality: 1 tag per claim
+
+cognitive_depth:
+  description: The analytical sophistication of the AI capability
+  cardinality: "1"
+  
+  terms:
+    descriptive:
+      label: Descriptive
+      short_definition: What happened? - Reporting and summarisation
+      detailed_description: >
+        AI that reports, summarises, or describes what has happened.
+        Includes dashboards, reports, data aggregation, and basic
+        pattern recognition in historical data.
+      indicators:
+        - summarises
+        - reports
+        - dashboards
+        - aggregates data
+        - shows trends
+      corpus_stats:
+        count: 379
+        percentage: 0.27
+        avg_confidence: 0.76
+        
+    diagnostic:
+      label: Diagnostic
+      short_definition: Why did it happen? - Root cause analysis
+      detailed_description: >
+        AI that analyses why something happened, identifies root causes,
+        or explains patterns. Goes beyond description to provide insight
+        into causation.
+      indicators:
+        - root cause analysis
+        - explains why
+        - identifies drivers
+        - diagnostic
+        - anomaly detection
+      corpus_stats:
+        count: 83
+        percentage: 0.06
+        avg_confidence: 0.83
+        
+    predictive:
+      label: Predictive
+      short_definition: What will happen? - Forecasting and prediction
+      detailed_description: >
+        AI that forecasts future outcomes, predicts events, or estimates
+        probabilities. Uses historical patterns to anticipate what will
+        happen next.
+      indicators:
+        - predicts
+        - forecasts
+        - anticipates
+        - probability
+        - likelihood
+        - demand forecasting
+      corpus_stats:
+        count: 151
+        percentage: 0.11
+        avg_confidence: 0.84
+        
+    prescriptive:
+      label: Prescriptive
+      short_definition: What should we do? - Recommendations
+      detailed_description: >
+        AI that recommends actions, provides decision support, or suggests
+        next best actions. Goes beyond prediction to advise on response.
+      indicators:
+        - recommends
+        - suggests
+        - advises
+        - next best action
+        - should do
+      corpus_stats:
+        count: 497
+        percentage: 0.35
+        avg_confidence: 0.77
+        
+    generative:
+      label: Generative
+      short_definition: Create this - Content generation
+      detailed_description: >
+        AI that generates new content including text, code, images, designs,
+        or other creative outputs. Creates artifacts that didn't exist before.
+      indicators:
+        - generates
+        - creates
+        - writes
+        - produces
+        - designs
+      corpus_stats:
+        count: null  # Split from generative_autonomous
+        percentage: null
+        avg_confidence: null
+      notes: >
+        Split from generative_autonomous in v1.0.
+        Distinct from autonomous - can be generative but not autonomous
+        (e.g., human reviews AI-written content before use).
+        
+    autonomous:
+      label: Autonomous
+      short_definition: Do this - Independent action
+      detailed_description: >
+        AI that takes action or makes decisions without per-instance human
+        direction. Executes tasks independently within defined parameters.
+      indicators:
+        - handles independently
+        - executes
+        - acts
+        - decides
+        - automates end-to-end
+      corpus_stats:
+        count: null  # Split from generative_autonomous
+        percentage: null
+        avg_confidence: null
+      notes: >
+        Split from generative_autonomous in v1.0.
+        Distinct from generative - can be autonomous but not generative
+        (e.g., rule-based auto-trading).
+        Some systems are both (e.g., AI agent that writes and sends emails).
+
+# =============================================================================
+# CO-OCCURRENCE PATTERNS
+# =============================================================================
+# Common mechanism + outcome combinations from corpus analysis
+
+co_occurrence_patterns:
+  common:
+    - pattern: [automation, velocity]
+      count: 221
+      interpretation: Automating tasks speeds them up
+    - pattern: [augmentation, experience]
+      count: 180
+      interpretation: Helping humans improves customer/employee experience
+    - pattern: [optimization, cost_reduction]
+      count: 167
+      interpretation: Finding efficiencies reduces costs
+    - pattern: [augmentation, velocity]
+      count: 166
+      interpretation: AI assistance speeds up human work
+    - pattern: [optimization, velocity]
+      count: 139
+      interpretation: Optimisation often means faster
+    - pattern: [automation, cost_reduction]
+      count: 122
+      interpretation: Removing manual work cuts costs
+    - pattern: [optimization, revenue_lift]
+      count: 113
+      interpretation: Better targeting/pricing increases revenue
+    - pattern: [innovation, revenue_lift]
+      count: 97
+      interpretation: New products generate new revenue
+      
+  suspicious:
+    - pattern: [automation, augmentation]
+      reason: Usually one or the other - verify claim involves both
+    - pattern: [cost_erosion, revenue_lift]
+      reason: Opposite value drivers - verify claim addresses both
+
+# =============================================================================
+# VALIDATION RULES
+# =============================================================================
+
+validation:
+  required_dimensions:
+    - mechanism
+    - outcome
+    - cognitive_depth
+  incompatible_pairs: []
+  suspicious_combinations:
+    - tags: [automation, augmentation]
+      reason: Usually one or the other - verify claim really involves both
+    - tags: [cost_erosion, revenue_lift]
+      reason: Different value drivers - verify claim addresses both
+
+# =============================================================================
+# EVOLUTION HISTORY
+# =============================================================================
+
+history:
+  - version: "0.1"
+    date: "2026-01-19"
+    changes:
+      - Initial starter ontology for discovery pipeline
+      
+  - version: "1.0"
+    date: "2026-01-19"
+    changes:
+      - Validated against 1,440 claims corpus
+      - Added business_growth to OUTCOME (new term)
+      - Removed innovation from OUTCOME (duplicate of MECHANISM term)
+      - Split generative_autonomous into generative + autonomous
+      - Added corpus statistics to all terms
+      - Added co-occurrence patterns
+      - Rejected proposed terms: strategic_positioning, engagement_improvement, platform_enablement, contextual
