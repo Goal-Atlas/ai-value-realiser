@@ -1,0 +1,53 @@
+{
+  "case_id": "rio-tinto-mine-of-the-future",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Gudai-Darri mine will have 43 million tons annual capacity with 40+ year expected life",
+      "quote": "With an expected life of more than 40 years and an annual capacity of 43 million tons, Gudai-Darri will underpin future production of Rio Tinto's Pilbara Blend product."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Mine will increase iron ore production volumes and improve product mix from second half of the year",
+      "quote": "It's expected to increase iron ore production volumes and improve product mix from the Pilbara from the second half of this year."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Technology deployment makes the mine safer and more productive",
+      "quote": "Gudai-Darri's combination of data and analytics, machine learning and automation, will make this mine safer and more productive."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Construction phase supported over 3,000 jobs with 600 permanent operational roles",
+      "quote": "Development of the mine supported more than 3,000 jobs during the construction and design phase with the operation requiring around 600 permanent roles."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "A$3.2 billion in goods and services sourced within Western Australia during construction",
+      "quote": "A total of A$3.2 billion ($2.2 billion U.S.) in goods and services were sourced within Western Australia (WA) during the construction phase"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Solar farm will power one-third of operational needs with renewable energy",
+      "quote": "Once the new solar farm is complete, it will be able to power one-third of Gudai-Darri's operational needs with renewable energy."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Integrated planning approach extracted US$10 million of additional value",
+      "quote": "Farry said that the initial project had been successful, 'extracting around US$10 million ($13.47 million) of additional value.'"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Koodaideri will deliver world-first performance by being safer, smarter and more productive than any other mine",
+      "quote": "Koodaideri will adopt many new processes and technologies and will deliver world first performance by being safe, smarter and more productive than any other mine."
+    }
+  ]
+}

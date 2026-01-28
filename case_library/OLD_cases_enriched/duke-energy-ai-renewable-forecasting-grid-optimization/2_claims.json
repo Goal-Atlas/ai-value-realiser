@@ -1,0 +1,65 @@
+{
+  "case_id": "duke-energy-ai-renewable-forecasting-grid-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "The platform reduces customer impact and makes electricity more reliable and less expensive",
+      "quote": "This patent is about optimizing the grid to reduce impact to customers now and in the future. It's also about partnering with the customer to make electricity more reliable and less expensive."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The platform enables proactive problem resolution and automatic identification of solutions",
+      "quote": "Say the tool forecasts an equipment overload, it automatically identifies a fix \u2013 like rerouting power. It also generates an hourly forecast, enabling engineers to screen for distributed energy sources to power customers when demand for electricity is high."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The platform enables more efficient grid management for customers",
+      "quote": "This patent is one of those bucket list items I've always dreamt about, so this is a big deal for us to manage the grid more efficiently for customers."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "The platform maintains grid reliability while keeping costs affordable as renewables are added",
+      "quote": "With this newly patented technology, engineers can feel more confident that as more intermittent renewables are added, the grid can flex up and down to maintain reliability and keep costs affordable for customers."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Managed charging reduces infrastructure burden and saves customers money",
+      "quote": "In shifting demand away from peak periods, it reduces the unnecessary burden on utility infrastructure while saving customers money on their energy bill."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "The green revolution will cost significantly less by utilizing existing customer assets",
+      "quote": "In the end, the cost of the green revolution will be way less, because we're utilizing an asset that already exists at people's homes."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Human-machine collaboration drives productivity, safety, and quality improvements",
+      "quote": "Effective human-machine collaboration can drive productivity, safety, and quality of work effort thus producing better outcomes. Modern technologies can change the existing work methods for the better and offer advantages to both workers and utility."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Battery storage enhances grid reliability and resilience while supporting clean energy transition",
+      "quote": "This commitment not only enhances grid reliability and resilience but also paves the way for a more sustainable energy future."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Battery storage provides grid stability and supports greater renewable energy integration",
+      "quote": "The Suwannee site's 5-MW system, offering up to eight hours of storage, demonstrates the potential of sodium-sulfur batteries to provide grid stability and support greater renewable energy integration."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Residential battery storage empowers homeowners and contributes to grid stability",
+      "quote": "The increasing adoption of residential battery storage, driven by programs like PowerPair, empowers homeowners to take control of their energy consumption and contribute to grid stability."
+    }
+  ]
+}

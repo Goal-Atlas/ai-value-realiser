@@ -1,0 +1,35 @@
+{
+  "case_id": "pwc-embeds-ai-into-consulting-to-drive-efficiency-and-client-innovation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "PwC Business services transformation case study: PwC",
+      "url": "https://www.pwc.com/us/en/library/case-studies/business-services-transformation-pwc.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "PwC's Results Show the Consulting Model Is Shifting - Strat-Bridge",
+      "url": "https://www.strat-bridge.com/insights/pwcs-results-2025/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "PwC AI solutions on AWS: Industry transformation at scale",
+      "url": "https://www.pwc.com/us/en/technology/alliances/amazon-web-services/ai-solutions.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Artificial Intelligence at PwC - Emerj Artificial Intelligence Research",
+      "url": "https://emerj.com/ai-at-pwc-two-use-cases/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "Harnessing AI and data for sustainable business",
+      "url": "https://www.pwc.com/m1/en/media-centre/articles/harnessing-ai-and-data-for-sustainable-business.html",
+      "doc_type": "News Article"
+    }
+  ]
+}

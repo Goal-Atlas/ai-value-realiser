@@ -1,0 +1,29 @@
+{
+  "case_id": "uchicago-medicine-unified-patient-data-scaling",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "UChicago Medicine and the University of Chicago Collaborate with MDClone to Improve Healthcare Data Access for Clinical Care Insights and Research",
+      "url": "https://mdclone.com/press-release/uchicago-medicine-and-the-university-of-chicago-collaborate-with-mdclone-to-improve-healthcare-data-access-for-clinical-care-insights-and-research/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "UChicago Medicine Undertaking 'Data Democratization' Effort",
+      "url": "https://www.hcinnovationgroup.com/analytics-ai/quality-continuous-performance-improvement/article/55299078/uchicago-medicine-undertaking-data-democratization-effort",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Salesforce Collaborates with UChicago Medicine to Enhance Patient Support",
+      "url": "https://www.salesforce.com/news/press-releases/2025/06/24/university-chicago-agentforce-patient-support/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S4",
+      "title": "Healthcare Delivery Science and Innovation",
+      "url": "https://hdsi.uchicago.edu/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

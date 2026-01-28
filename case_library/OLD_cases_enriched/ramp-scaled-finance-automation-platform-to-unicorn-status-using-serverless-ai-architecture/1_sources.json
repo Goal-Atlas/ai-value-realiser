@@ -1,0 +1,35 @@
+{
+  "case_id": "ramp-scaled-finance-automation-platform-to-unicorn-status-using-serverless-ai-architecture",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Ramp Secured US$500m to Advance AI Finance Automation",
+      "url": "https://fintechmagazine.com/news/more-funding-helping-ramp-pick-up-pace",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Exclusive: Fintech Decacorn Ramp Acquires Jolt AI to Help Its Engineers 'Build Faster'",
+      "url": "https://news.crunchbase.com/fintech/ramp-jolt-ai-acquisition-fintech-ai-ma/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Ramp raises $500M to rush AI",
+      "url": "https://www.paymentsdive.com/news/ramp-raises-500m-to-rush-ai/756360/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "AI in Finance Best Practices: Automate Low-Value Work",
+      "url": "https://ramp.com/blog/ai-in-finance",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "Ramp case study",
+      "url": "https://stripe.com/customers/ramp",
+      "doc_type": "Case Study"
+    }
+  ]
+}

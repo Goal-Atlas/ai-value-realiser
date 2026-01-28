@@ -1,0 +1,23 @@
+{
+  "case_id": "heidi-health-ai-medical-scribe-admin-simplification",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Heidi Health's AI tool halves the time GPs spend on paperwork",
+      "url": "https://www.heidihealth.com/blog/ai-tool-halves-time-gps-spend-on-paperwork",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Heidi Health raises $65M to expand global reach of its AI medical scribe platform",
+      "url": "https://www.mobihealthnews.com/news/heidi-health-raises-65m-expand-global-reach-its-ai-medical-scribe-platform",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Heidi | The World's Leading AI Medical Scribe",
+      "url": "https://webflow.heidihealth.com/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "kraft-heinz-reduced-marketing-campaign-creation-time-8-weeks-to-8-hours",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Kraft Heinz case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/kraftheinz",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Kraft Heinz Is Using GenAI To Reimagine The Future Of Creative Content",
+      "url": "https://www.forrester.com/blogs/how-kraft-heinz-is-using-genai-to-re-imagine-the-future-of-creative-content/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Kraft-Heinz | The New Storytellers | Contentful",
+      "url": "https://www.contentful.com/case-studies/kraft-heinz/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

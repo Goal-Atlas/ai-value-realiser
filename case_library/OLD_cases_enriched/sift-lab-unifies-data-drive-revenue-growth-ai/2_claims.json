@@ -1,0 +1,59 @@
+{
+  "case_id": "sift-lab-unifies-data-drive-revenue-growth-ai",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Campaign performance increases by up to 200%",
+      "quote": "Increases campaign performance by up to 200%"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Marketers perform analytics and campaign setup 10x faster",
+      "quote": "Marketers perform analytics and campaign setup 10x faster"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "5-7% uplift in annual revenue across enterprise clients",
+      "quote": "5\u20137% uplift in annual revenue across enterprise clients"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "15-30% increase in customer lifetime value for customers with marketing consent",
+      "quote": "15-30% increase in CLV on customers with marketing consent"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "40-50% improvement in return on ad spend (ROAS)",
+      "quote": "40\u201350% improvement in return on ad spend (ROAS)"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Up to 50% improvement in return on ad spend through predictive audiences",
+      "quote": "Marketers can then export predictive audiences, products or customers with any attributes directly to Google Ads and other platforms, with clients reporting up to 50% improvement in return on ad spend (ROAS)."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Analytics workflows run up to 10 times faster",
+      "quote": "Retailers using the platform have reported analytics workflows that run up to 10 times faster than before."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "Predictive segmentation saves hundreds of hours per year",
+      "quote": "According to one client, predictive segmentation alone has saved them hundreds of hours per year."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S1",
+      "claim": "Basket analysis feature saves 5 months of development time",
+      "quote": "As one customer put it, 'The basket analysis alone would have taken us five months to build, and now it's out of the box'"
+    }
+  ]
+}

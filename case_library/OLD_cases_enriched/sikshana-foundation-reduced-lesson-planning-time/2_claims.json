@@ -1,0 +1,59 @@
+{
+  "case_id": "sikshana-foundation-reduced-lesson-planning-time",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered assistant helps teachers save time while creating high-quality teaching resources",
+      "quote": "Backed by Microsoft India CSR, Shiksha copilot helps teachers create personalized, high-quality teaching resources while saving time."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The initiative aims to improve learning outcomes and support 1,000 government school teachers",
+      "quote": "This AI-powered digital assistant is a research project, which is a collaboration between Sikshana Foundation and Microsoft Research India, aims to improve learning outcomes and support 1,000 government school teachers across Karnataka."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The program successfully digitized 4,000 libraries by the end of the year",
+      "quote": "We, along with support from Dell Technologies are happy to be part of this, as we are on track to digitize 4000 libraries (Arivu Kendra) by the end of the year."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Samyak Prerana program supports 15,000 students across 199 schools in three blocks of Gujarat",
+      "quote": "It will support 15,000 students of Class IV to VIII in 199 schools spread across three blocks of Gujarat."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Shiksha Co-pilot reduces time for teachers to generate high-quality personalized content",
+      "quote": "Shiksha Co-pilot is centred around the teachers' needs by focusing on empowering teachers to generate high-quality personalized content while also reducing the time to do this."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "The initiative will enhance teaching ability of educators and learning capacity of students",
+      "quote": "This initiative will enhance the teaching ability of educators and the learning capacity of student"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "1,000 teachers will receive training in the initial phase with plans for statewide extension",
+      "quote": "In its initial phase, 1,000 teachers across the state will receive training on using Shiksha Co-pilot, with plans to extend the project statewide as it progresses."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "OMR solution was used to assess nearly 55 lakh students from class 4 through 10 for academic performance",
+      "quote": "This technology was used for the 2019 and 2020 CSAS where nearly 55 lakhs students from class 4 thru 10, were assessed for academic performance."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Custom OMR solution offers significant cost savings compared to commercial alternatives",
+      "quote": "Most commercial OMR solutions are very expensive and are also not very child friendly. Sikshana has used SDAPS open-source OMR library and by creating an end-to-end process with supporting python scripts have a developed a solution that can be customized and scaled very easily."
+    }
+  ]
+}

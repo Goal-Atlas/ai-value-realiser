@@ -1,0 +1,29 @@
+{
+  "case_id": "wimbledon-ai-fan-engagement",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How AI is acing it at the Wimbledon Tennis Championships",
+      "url": "https://apnews.com/video/how-ai-is-acing-it-at-the-wimbledon-tennis-championships-b56d286ff18c4ba390b7f121d85c3c5f",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "IBM extends technology partnership with Wimbledon tennis tournament",
+      "url": "https://uk.investing.com/news/company-news/ibm-extends-technology-partnership-with-wimbledon-tennis-tournament-93CH-4439455",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Wimbledon employs AI to protect players from online abuse",
+      "url": "https://www.theguardian.com/sport/article/2024/jul/05/wimbledon-tennis-ai-artificial-intelligence-players-online-abuse",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "AI Takes Center Stage in Combating Online Abuse From Wimbledon to Main Street",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2024/ai-takes-center-stage-combating-online-abuse-wimbledon-main-street/",
+      "doc_type": "News Article"
+    }
+  ]
+}

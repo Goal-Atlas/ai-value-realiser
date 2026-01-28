@@ -1,0 +1,35 @@
+{
+  "case_id": "c2i-genomics-ai-genomic-blood-cancer-detection",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "C2i's technology provides up to 100x more sensitive cancer detection than competing technologies",
+      "quote": "C2i's cancer intelligence technology works by applying whole-genome sequencing and artificial intelligence to just a 2ml blood sample to provide up to 100x more sensitive cancer detection than competing technologies."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The technology eliminates the need to develop patient-specific assays, enabling high performance with reduced logistics and rapid turnaround",
+      "quote": "This technology also eliminates the need to develop a patient-specific assay, enabling high performance and personalized monitoring with reduced logistic and rapid turnaround."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The platform detects trace amounts of persistent or recurrent cancer much earlier at far lower levels to improve treatment decisions and outcomes",
+      "quote": "the C2-Intelligence Platform, a cancer diagnostics service that monitors the patient's disease progression and detects trace amounts of persistent or recurrent cancer much earlier, at far lower levels, to inform better treatment decisions and improve outcomes."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "C2inform detects traces of cancer in patient blood samples at earlier stages compared to currently available technologies",
+      "quote": "C2inform uses whole genome sequencing to identify cancer-related mutations by employing AI-driven pattern recognition to detect traces of cancer in patient blood samples at earlier stages compared to currently available technologies."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "The platform enables nationwide healthcare system integration and population-scale access",
+      "quote": "Through the partnership, C2i Genomics's and its whole-genome-based assay will be integrated into a nationwide healthcare system for the first time. With Ichilov Hospital Labs serving as the reference lab for cancer hospitals across Israel, C2inform tests will become accessible to the entire population of Israel, accounting for nearly 10 million people."
+    }
+  ]
+}

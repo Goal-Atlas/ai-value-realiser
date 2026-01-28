@@ -1,0 +1,115 @@
+{
+  "case_id": "endex-openai-financial-model-reconciliation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims 3x speed improvement in financial workflows, which is functional optimization. However, 'intelligence' is vague - unclear what specific process is being measured.",
+      "evidence_quality_assessment": "Named organization (Endex) but lacks specific metrics methodology. What does '3x faster intelligence' actually measure? Source appears to be vendor/partnership announcement.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Speed claim needs clarification - what baseline, what process, how measured?"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workflow simplification while maintaining accuracy - clear process optimization. Replicable pattern for financial analysis workflows.",
+      "evidence_quality_assessment": "Named organization but claim is qualitative without measurable improvement metrics. 'Simpler' and 'without sacrificing accuracy' are subjective assessments.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process improvement claim but lacks quantification of simplification benefits"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - automating financial reconciliation and freeing analyst time for higher-value work. Highly replicable pattern across finance organizations.",
+      "evidence_quality_assessment": "Named organization with specific process description (identifies discrepancies, flags restatements, provides citations). Clear value proposition of time reallocation.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - specific process automation with clear workforce augmentation benefit"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims efficiency gains in financial modeling workflows, which fits Tier 1. However, 'new levels of efficiency, insight, and institutional knowledge' is very broad and unmeasurable.",
+      "evidence_quality_assessment": "Named organization but extremely vague claims. No specific metrics or measurable improvements. Reads like marketing copy rather than substantive case evidence.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too generic - needs specific examples of efficiency gains or process improvements"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Testimonial about user experience rather than functional optimization. No specific process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "Anonymous sources ('early users from hedge funds') with subjective qualitative assessment. No measurable claims or specific organizational attribution.",
+      "apqc_functions": [],
+      "notes": "Pure testimonial without substantive process or efficiency claims - insufficient for Tier 1"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce augmentation pattern - automating repetitive tasks to free professionals for strategic work. Replicable across finance functions.",
+      "evidence_quality_assessment": "Named organization but aspirational/future-focused language ('building a future'). Lists specific task categories (data gathering, reconciliation, reporting) but no current performance metrics.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Good strategic fit but reads more like vision statement than current capability evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on optimizing existing financial processes rather than creating new business models or revenue streams. No evidence of tier 1 elements."
+}

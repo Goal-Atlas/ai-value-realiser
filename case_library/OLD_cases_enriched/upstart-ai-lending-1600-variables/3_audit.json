@@ -1,0 +1,272 @@
+{
+  "case_id": "upstart-ai-lending-1600-variables",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates fundamental change in credit access - 27% more approvals represents new market creation by serving previously excluded borrowers. This is doing new things (expanding addressable market) not just doing things better.",
+      "evidence_quality_assessment": "Specific metric (27%, 620K borrowers, $7.8B loans) with authoritative source (U.S. Consumer Financial Protection Bureau study). Named organization with traceable claims.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Core transformation claim - AI enables serving a fundamentally different customer base"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "16% lower interest rates combined with expanded approval demonstrates value creation through AI-driven risk assessment. This enables new competitive positioning and market dynamics.",
+      "evidence_quality_assessment": "Specific metric (16% below average) from authoritative government source (CFPB study). High credibility.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Supports transformation narrative - better risk pricing enables new market positioning"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Doubling approval rates 'overnight' indicates fundamental shift in business capability and addressable market. This is business model transformation - from serving limited segment to much broader market.",
+      "evidence_quality_assessment": "First-party account from named organization. While 'nearly doubled' is approximate, the dramatic nature and context provide strong evidence of transformation.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Key transformation moment - demonstrates AI enabling fundamentally different business capability"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is operational efficiency improvement (5x faster testing), not strategic transformation. Faster model testing is doing the same thing better, not doing new things.",
+      "evidence_quality_assessment": "Specific metric and technical detail, but describes process optimization rather than business model change.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tier 1 claim - operational improvement, not transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Reducing training time from days to hours is process optimization, not strategic transformation. This enables faster iteration but doesn't change the fundamental business model.",
+      "evidence_quality_assessment": "Clear operational metric but describes efficiency gain, not value creation change.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tier 1 claim - operational efficiency, not business transformation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "264% revenue growth with positive net income demonstrates successful business model execution at scale. This validates the transformation from traditional lending model to AI-driven platform.",
+      "evidence_quality_assessment": "Specific financial metrics ($135.44M net income, 264% growth) for named public company. Highly credible.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Financial validation of transformation success - dramatic growth indicates new value creation model"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Revenue performance indicates ongoing business success but doesn't directly demonstrate transformation. More of a performance metric than transformation evidence.",
+      "evidence_quality_assessment": "Specific financial data ($127.63M vs $124.53M estimate) from public company reporting. High quality evidence.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Performance metric rather than transformation indicator - shows ongoing success but not strategic change"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "7% growth is modest and doesn't indicate transformation. This appears to be routine business performance reporting.",
+      "evidence_quality_assessment": "Specific metric ($255.42M, 7% growth) from credible source but represents normal business performance.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Routine performance metric - doesn't demonstrate transformation"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "31% increase in loan transactions with 89K new borrowers demonstrates continued market expansion enabled by AI model. Shows ongoing transformation impact in serving broader market.",
+      "evidence_quality_assessment": "Specific metrics (31% increase, 144K loans, 89K new borrowers) from public company reporting. High quality evidence.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates ongoing transformation impact - continued expansion of addressable market"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "91% full automation represents fundamental change in service delivery model. This is transformation from human-mediated to AI-driven process, enabling different economics and scale.",
+      "evidence_quality_assessment": "Specific metric (91%) with clear definition (no documents, calls, or human involvement). Public company disclosure.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Core transformation evidence - AI enables fundamentally different service delivery model"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "$40B in loans to 3M consumers over ten years demonstrates scale of transformation impact. This validates the creation of a new lending model serving previously underserved market.",
+      "evidence_quality_assessment": "Specific cumulative metrics ($40B, 3M consumers, 10 years) from first-party source. Demonstrates sustained transformation at scale.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scale validation of transformation - demonstrates sustained new value creation model"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "3-6x better risk separation is fundamental improvement in core lending capability, enabling different business model with expanded market access and better pricing.",
+      "evidence_quality_assessment": "Specific range (3-6x) from first-party source. While broad range, the magnitude indicates significant capability advancement.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Core capability transformation - dramatically better risk assessment enables new business model"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "90% processing without human intervention represents fundamental change in service delivery model and operational structure. This enables different economics and scale.",
+      "evidence_quality_assessment": "Specific metric (90%) with clear operational definition from first-party source. High credibility.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Operational transformation evidence - AI enables fundamentally different service delivery model"
+    },
+    {
+      "claim_id": "C14",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "101% more approvals (essentially doubling) represents fundamental expansion of addressable market. This is creating new market access, not just optimizing existing processes.",
+      "evidence_quality_assessment": "Specific metric (101% more approvals) from first-party source. Clear quantification of transformation impact.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Market expansion transformation - AI enables serving fundamentally broader customer base"
+    },
+    {
+      "claim_id": "C15",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "38% lower APRs combined with expanded approvals demonstrates value creation through superior risk assessment. This enables new competitive positioning and market dynamics.",
+      "evidence_quality_assessment": "Specific metric (38% lower APRs) from first-party source, consistent with other pricing claims.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Pricing transformation - AI enables better risk pricing while expanding market access"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Upstart demonstrates genuine business model transformation from traditional credit scoring to AI-driven lending platform, creating new market access for previously excluded borrowers while maintaining profitability. The 'remove the AI' test confirms transformation - without AI models, Upstart's expanded approval capability and risk assessment advantage disappear entirely."
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "aon-managed-fully-remote-financial-close-workday",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This describes optimization of financial close processes by consolidating systems, which is functional improvement. However, the claim is about avoiding complexity rather than demonstrating measurable improvement.",
+      "evidence_quality_assessment": "Named organization (Aon) but lacks specific metrics. The quote suggests this is from a case study or interview, but no quantified benefits are provided - only avoided challenges.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "System consolidation for financial close is a valid optimization, but lacks measurable outcomes. Needs quantified benefits to be fully substantiated."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Enabling fully remote financial close across 120 countries represents process optimization and operational efficiency improvement. The scale (120 countries) suggests significant coordination complexity being managed.",
+      "evidence_quality_assessment": "Named organization and specific scope (120 countries), but lacks quantified benefits. Source appears to be a case study title/summary rather than detailed metrics.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Remote capability across 120 countries implies significant process improvement, but needs specific metrics on time savings, accuracy improvements, or cost reductions."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Similar to C2 - describes process optimization for remote financial close operations. The term 'smooth' suggests improved efficiency but is qualitative rather than quantified.",
+      "evidence_quality_assessment": "Named organization with specific geographic scope, but 'smooth' is subjective. Appears to be marketing copy or case study title rather than substantive evidence.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate of C2 with less specific language. 'Smooth' operation is claimed but not quantified or defined."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing financial close processes rather than business model innovation. However, all claims lack the quantified metrics needed for full approval."
+}

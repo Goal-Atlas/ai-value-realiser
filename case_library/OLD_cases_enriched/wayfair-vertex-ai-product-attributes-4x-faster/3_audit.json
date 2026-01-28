@@ -1,0 +1,124 @@
+{
+  "case_id": "wayfair-vertex-ai-product-attributes-4x-faster",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - automating product categorization improves existing catalog management process. Highly replicable pattern for any retailer with large product portfolios.",
+      "evidence_quality_assessment": "Named organization (Wayfair), specific scope (30 million products), credible source. Time-to-market improvement is measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes existing product management function with clear efficiency gains"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - eliminating manual tagging reduces operational costs in existing process. Replicable for similar catalog operations.",
+      "evidence_quality_assessment": "Named organization and specific process described, but cost savings not quantified. 'Delivered cost savings' is vague without metrics.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but lacks quantified savings metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes existing e-commerce function - better product attributes should improve conversion. Replicable pattern for online retailers.",
+      "evidence_quality_assessment": "Named organization with logical causal chain (better attributes → better conversion), but conversion rate improvement not quantified.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Reasonable claim but lacks specific conversion rate metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of ML development process - dramatically reduces time for model tuning. Highly replicable for organizations doing ML development.",
+      "evidence_quality_assessment": "Named organization with very specific time reduction metric (2 weeks → 1 hour). Dramatic but credible improvement in bounded process.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - specific, dramatic efficiency gain in technical process"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes ML deployment process with massive efficiency gain. Pattern highly replicable for ML-driven organizations.",
+      "evidence_quality_assessment": "Named organization, very specific time reduction (1 month → 1 hour), detailed explanation of automation approach. Highly credible.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Outstanding Tier 1 case - dramatic process optimization with clear methodology"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes organizational workflow by reducing dependencies between teams. Enables self-service model development. Replicable for data science organizations.",
+      "evidence_quality_assessment": "Named organization with clear process improvement described. Removes bottleneck between data scientists and engineers.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good organizational efficiency improvement - reduces cross-team dependencies"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too general - describes ML usage scope rather than specific functional optimization. No clear efficiency, cost, or quality improvement described.",
+      "evidence_quality_assessment": "While organization is named and customer count is specific, this is a capability statement rather than an improvement claim.",
+      "apqc_functions": [],
+      "notes": "Not a valid Tier 1 claim - describes scale of ML usage rather than optimization outcome"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All valid claims describe functional optimizations within existing business model - product management, ML development processes, and organizational workflows. No business model transformation or new revenue streams described."
+}

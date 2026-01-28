@@ -1,0 +1,23 @@
+{
+  "case_id": "bitazza-scaled-broker-platform-crypto-adoption-google-cloud-ai",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Bitazza case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/bitazza",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Bitazza - Case Study",
+      "url": "https://www.fuse.io/casestudies/bitazza",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Trade at Bitazza: Reasons Why Centralized Crypto Trading Platforms Are Super Secure",
+      "url": "https://blogth.bitazza.com/en/blog/what-are-centralized-crypto-trading-platforms",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

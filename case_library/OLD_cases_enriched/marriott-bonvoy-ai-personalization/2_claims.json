@@ -1,0 +1,59 @@
+{
+  "case_id": "marriott-bonvoy-ai-personalization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI adoption for travel planning has grown significantly, with 50% of travelers now using AI compared to 26% two years prior",
+      "quote": "Artificial intelligence has become a core component of trip planning for millions of consumers in EMEA, with half of all travellers in the research (50%) saying they have used AI to plan or research a holiday - this is up from 41% last year and just 26% the year before, showing a strong rise in two years."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Consumer trust in AI booking platforms is growing, with 50% comfortable booking through AI platforms",
+      "quote": "Reinforcing the increased familiarity and trust travellers are placing in AI, half (50%) say that in future they would feel 'comfortable' booking holiday accommodation through AI platforms. Just 18% say the idea makes them 'uncomfortable'."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Lux-scaping trend shows strong adoption with 22% of consumers having done it in the past 12 months",
+      "quote": "Six in ten (59%) have previously done this, with more than one in five consumers (22%) having done it in the past 12 months \u2013 showing how travellers are trying to both indulge themselves with a moment of luxury and make their travel budgets go further."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Passion pursuit travel shows high engagement with 68% of travelers having done this previously and 33% doing it at least once a year",
+      "quote": "Almost seven in ten travellers (68%) say they have done this previously, with a third of these (33%) typically doing this at least once a year."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Marriott's AI search tool provides personalized rental options from a large inventory of 140,000 properties",
+      "quote": "Homes & Villas by Marriott Bonvoy, a luxury home rental offering, is testing an AI search tool designed to provide customers with personalized rental options from a pool of 140,000 properties."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AI-powered search enables natural language queries making question asking easier for customers",
+      "quote": "Developed in partnership with Publicis Sapient, the search tool can accept natural language queries, making question asking easier."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Adobe Experience Cloud enables Marriott to deliver personalized experiences across its large portfolio of 30+ brands and nearly 8,800 properties",
+      "quote": "Help the company match individuals with the best options across its portfolio of more than 30 brands and nearly 8,800 properties"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Personalization helps build guest loyalty, support direct bookings and loyalty expansion",
+      "quote": "Adobe solutions help Marriott build guest loyalty over time, support direct bookings and loyalty expansion, and help guests receive a high-touch experience on property."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Marriott can deliver highly personalized moments at scale throughout the entire customer journey",
+      "quote": "The Adobe Experience Cloud is helping our teams across the globe to deliver highly personalized moments at scale throughout the entire journey and across touchpoints, including Marriott's award-winning Marriott Bonvoy App"
+    }
+  ]
+}

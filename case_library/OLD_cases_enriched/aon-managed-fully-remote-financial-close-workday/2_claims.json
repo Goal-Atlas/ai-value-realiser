@@ -1,0 +1,23 @@
+{
+  "case_id": "aon-managed-fully-remote-financial-close-workday",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Aon avoided the complexity and challenges of managing financial close across multiple systems by using a single system",
+      "quote": "Doing a close in 10 or 15 different systems would have been a real challenge."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Aon achieved a fully remote financial close across 120 countries using a single system",
+      "quote": "Aon's CFO shares how the organization achieved a fully remote financial close across 120 countries with a single system"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Aon managed a smooth, fully remote financial close across 120 countries",
+      "quote": "Find out how Aon managed a smooth, fully remote financial close across 120 countries"
+    }
+  ]
+}

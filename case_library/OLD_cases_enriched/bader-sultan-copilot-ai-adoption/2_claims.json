@@ -1,0 +1,71 @@
+{
+  "case_id": "bader-sultan-copilot-ai-adoption",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "52% of employees saw positive impact on work quality from Microsoft 365 Copilot",
+      "quote": "Putting Microsoft 365 Copilot into the hands of employees helped them realize ways to increase productivity, with 52% of employees seeing a positive impact on the quality of their work"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "31% of employees reported reduced cognitive fatigue from using Copilot",
+      "quote": "31% reporting less cognitive fatigue"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "84% of users found Copilot's suggestions fair, respectful and non-biased",
+      "quote": "84% finding Copilot's suggestions fair, respectful and non-biased"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "95% of developers reported enjoying coding more with GitHub Copilot",
+      "quote": "resulting in 95% of developers reporting they enjoyed coding more"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Code writing time reduced from 8 hours to 2 hours (75% reduction)",
+      "quote": "Writing code now takes two hours instead of eight"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Chatbot launch time reduced from 3 months to 10 days (89% reduction)",
+      "quote": "chatbots can be launched in 10 days instead of three months"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Presentation preparation time reduced from 6 hours to 45 minutes (87.5% reduction)",
+      "quote": "presentations can be prepared in 45 minutes instead of six hours"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "25% increase in staff engagement during meetings",
+      "quote": "Copilot has also driven a 25% increase in staff engagement during meetings"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S1",
+      "claim": "Building permit processing time reduced from 15 weeks to 5-7 weeks (53-67% reduction)",
+      "quote": "the average time it takes to process a permit approval decreased from 15 weeks to 5-7 weeks"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S1",
+      "claim": "Marketing campaign time-to-market reduced from 3 months to less than 1 month (67%+ reduction)",
+      "quote": "the team reduced time-to-market for campaigns from three months to less than one"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S1",
+      "claim": "20-50% time savings across marketing analysis tasks",
+      "quote": "with employees citing a 20%-50% time savings across tasks like full-funnel analysis, supply management analysis and budget management"
+    }
+  ]
+}

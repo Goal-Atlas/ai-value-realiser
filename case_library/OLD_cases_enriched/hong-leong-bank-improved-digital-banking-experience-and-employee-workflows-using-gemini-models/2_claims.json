@@ -1,0 +1,47 @@
+{
+  "case_id": "hong-leong-bank-improved-digital-banking-experience-and-employee-workflows-using-gemini-models",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Hong Leong Bank became the first bank in Malaysia to offer fully digital account onboarding, eliminating physical branch visits",
+      "quote": "Hong Leong Bank and Hong Leong Islamic Bank have announced a historic milestone by becoming the first bank in Malaysia to offer a truly digital onboarding experience for Malaysians looking to open a bank account; eliminating the need for physical branch or Self-Service Terminal visits."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The digital onboarding process was simplified to just three steps through the Apply@HLB mobile app",
+      "quote": "With the 'Apply@HLB' mobile app, customers can open a bank account in three simple steps - verify identity with the national identity card and a selfie, fill in personal details and lastly, create a username and password for HLB Connect, the Bank's online and mobile banking platform."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The bank observed significant shift to digital banking over 7 months during the pandemic",
+      "quote": "We have seen a significant shift to digital banking over the past 7 months. Expanding our digital offerings with a first-of-its-kind digital account opening through eKYC will further propel the move to digital banking."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Hong Leong Bank's digital-at-the-core strategy successfully simplified customer interactions across channels and improved customer experience",
+      "quote": "Our digital-at-the-core strategy over the past few years has successfully enabled us to simplify how customers interact with us across channels of their choice and get a delightful experience."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "HLF's customized digital platform for vehicle loans achieved a 300% increase in processed loans from S$99 million to S$400 million",
+      "quote": "For instance, a customised digital platform for vehicle loans achieved a 300% increase in processed loans, rising from S$99 million in 2023 to S$400 million in 2024."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "The digital transformation streamlined operations and enhanced user experience through digital tools",
+      "quote": "This success highlights HLF's ability to streamline operations and enhance user experience through digital tools."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "HLF's scalable infrastructure and partnerships reduce operational costs and enhance service quality",
+      "quote": "Its scalable infrastructure, coupled with partnerships like the one with WeBank, reduces operational costs and enhances service quality."
+    }
+  ]
+}

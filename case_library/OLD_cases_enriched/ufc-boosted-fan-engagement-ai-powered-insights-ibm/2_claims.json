@@ -1,0 +1,65 @@
+{
+  "case_id": "ufc-boosted-fan-engagement-ai-powered-insights-ibm",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI system processes massive data volumes to enhance fan experience",
+      "quote": "this new technology taps into more than 13.2 million UFC data points from over 20 years of fights, as well as data from more than 2,400 current and former UFC athletes. This helps elevate the viewing experience for both hardcore and casual fans alike."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI delivers both deep analysis and fast processing simultaneously",
+      "quote": "Anyone who uses AI tools knows they are normally able to go deep or fast, but not both. In collaborating with IBM for these new in-fight stats, though, we have optimized Insights Engine to accomplish both \u2014 a true game-changer."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI transforms live sports viewing experience globally",
+      "quote": "The launch of In-Fight Insights is the latest example of how AI is really changing the game for the live sports viewing experience for fans around the world"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "AI provides richer viewing experience through real-time data",
+      "quote": "Essentially, this will provide more data and \u2013 UFC hopes \u2013 a richer viewing experience for every fan tuning into live or on-demand UFC content."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Partnership revolutionizes analytics in live sports",
+      "quote": "Together, we're pioneering a product to revolutionize analytics and information in live sports. This partnership marks a pivotal win, not only for UFC and IBM, but also for fans around the world."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI creates new fan connection opportunities and builds excitement",
+      "quote": "Data and AI solutions like UFC Insights Engine built with IBM watsonx can offer current fans entirely new ways to connect with their favorite athletes and sports, while also building excitement among new generations of MMA fans."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "AI transforms complex data into scalable content across multiple platforms",
+      "quote": "finding ways to quickly transform this complex information into unique, engaging, and scalable content for fans across its broadcast, digital, and social platforms at more than 40 live events annually"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Partnership unlocks new engagement opportunities across entire event lifecycle",
+      "quote": "For the UFC leadership team, its partnership with IBM unlocks new engagement opportunities across every phase of the UFC event lifecycle."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "AI enables deeper and enhanced fan experiences",
+      "quote": "With IBM, UFC can deliver deeper and more enhanced fan experiences. This partnership expands the potential for robust, data-led experiences at every touchpoint for fans at the event and online."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Real-time data insights provide competitive advantage in sports",
+      "quote": "Whether kicking a ball, swinging a bat, or throwing a punch, real-time data-driven insights are the new competitive edge."
+    }
+  ]
+}

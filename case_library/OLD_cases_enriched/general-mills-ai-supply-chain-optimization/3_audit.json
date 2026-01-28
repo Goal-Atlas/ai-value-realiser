@@ -1,0 +1,162 @@
+{
+  "case_id": "general-mills-ai-supply-chain-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of existing logistics operations - AI improving shipment assessment efficiency. Pattern is replicable across food/CPG companies with similar distribution networks.",
+      "evidence_quality_assessment": "Named organization (General Mills), specific quantified metric ($20M savings), traceable to fiscal year 2024. Source appears credible with executive attribution.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear cost optimization in established supply chain function with specific ROI metrics."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of existing manufacturing processes through real-time performance monitoring. Waste reduction is classic efficiency improvement within established operations.",
+      "evidence_quality_assessment": "Named organization with specific projected savings ($50M). While predictive rather than realized, the specificity and executive source make it credible.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid Tier 1 manufacturing optimization case with substantial projected impact."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear logistics optimization improving both cost and service levels. Pattern is replicable across similar distribution-heavy businesses.",
+      "evidence_quality_assessment": "Named organization and executive attribution (CFO Kofi Bruce), but lacks specific quantified metrics. Claims are directional rather than measured.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but vague on specific improvements - needs quantification for full approval."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes investment levels rather than functional optimization outcomes. No specific process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "While specific (doubled since 2019) and attributed to CEO, this is an input metric rather than an operational improvement claim.",
+      "apqc_functions": [
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Investment data rather than capability improvement - doesn't demonstrate functional optimization."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C1 - same functional optimization of logistics operations with clear replicability.",
+      "evidence_quality_assessment": "Duplicate of C1 - same strong evidence quality with named organization and specific metrics.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate claim - same assessment as C1."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C2 - same manufacturing process optimization with waste reduction focus.",
+      "evidence_quality_assessment": "Duplicate of C2 - same evidence quality with specific projected savings.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate claim - same assessment as C2."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C3 - same logistics optimization improving cost and service.",
+      "evidence_quality_assessment": "Duplicate of C3 - same evidence quality issues with lack of specific metrics.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate claim - same assessment as C3."
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of existing marketing/audience engagement processes. 300% engagement increase suggests efficiency improvement in customer targeting and campaign management.",
+      "evidence_quality_assessment": "Anonymous organization ('leading broadcast network') weakens credibility. Specific metric (300% increase) is strong but source appears to be vendor marketing material.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong metric but anonymous case study from vendor source raises credibility concerns."
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes Palantir's revenue performance rather than a customer's functional optimization. No process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "While specific and quantified, this is vendor revenue data rather than customer capability improvement.",
+      "apqc_functions": [],
+      "notes": "Vendor performance metric rather than customer capability case - not relevant for Tier 1 assessment."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1, C2, C3, C5, C6, C7, and C8 all describe functional optimization within existing business models. No business model transformation or new revenue streams indicated."
+}

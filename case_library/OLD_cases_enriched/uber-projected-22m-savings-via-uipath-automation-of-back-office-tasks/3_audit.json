@@ -1,0 +1,186 @@
+{
+  "case_id": "uber-projected-22m-savings-via-uipath-automation-of-back-office-tasks",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - RPA automation of back-office tasks is a classic efficiency improvement pattern. Replicable across organizations with similar manual processes.",
+      "evidence_quality_assessment": "Named organization (Uber), specific quantified metric ($10M annual savings), appears to be from authoritative source discussing production deployment.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear cost reduction through process automation with specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific functional optimization of invoicing process. Clear efficiency gain (reduced errors, increased customer satisfaction) in established business function. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization (Uber Freight), specific scope (80+ customers, 7 portals), measurable outcomes (error reduction, satisfaction improvement).",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 example - process automation with clear scope and benefits"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scaling of automation capability within existing invoicing function. Shows progression from pilot to broader implementation - classic capability expansion pattern.",
+      "evidence_quality_assessment": "Specific metrics showing scale progression (1 to nearly 100 customers/shippers), named organization, traceable progression.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shows successful scaling of Tier 1 automation capability"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Provides baseline context for automation coverage improvement. Supports the efficiency optimization narrative by showing starting point.",
+      "evidence_quality_assessment": "Specific percentage (20%) and timeframe (two years ago), provides measurable baseline for improvement claims.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Supporting context claim that establishes improvement baseline"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims operational streamlining which fits Tier 1, but 'agentic AI' suggests more advanced capabilities that might border on tier 1 depending on implementation.",
+      "evidence_quality_assessment": "Named organization (WEX), specific savings amount ($2.7M), but appears to be from marketing material rather than detailed case study.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Needs review - savings claim is specific but source appears promotional, and 'agentic AI' terminology suggests potential complexity beyond typical Tier 1"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic process efficiency improvement in claims processing - classic Tier 1 optimization. Pattern highly replicable in similar administrative contexts.",
+      "evidence_quality_assessment": "Named organization (U.S. Department of Veteran Affairs), highly specific metrics (27 days to 12 hours), dramatic improvement suggests credible transformation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - dramatic process efficiency improvement with specific metrics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes new revenue generation ($1B run rate) from a new advertising division launched in 2022 - this is business model expansion/new revenue stream creation, not functional optimization.",
+      "evidence_quality_assessment": "While evidence quality is good (specific metrics, named organization), this is misclassified as Tier 1.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "MISCLASSIFIED - This is tier 1 (new business model/revenue stream), not Tier 1 functional optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process speed improvement in ad sales - clear functional optimization of existing sales process. Replicable pattern for sales process automation.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement (70% speed increase), measurable process enhancement.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear Tier 1 sales process optimization with specific metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Efficiency improvements in demand intake and sales processes - classic functional optimization. Pattern applicable to other sales organizations.",
+      "evidence_quality_assessment": "Specific metrics (50% faster intake, 70% faster end-to-end process), named organization, measurable improvements.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing multiple process efficiency improvements"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Cloud modernization of existing processes - infrastructure optimization that enables efficiency gains. Replicable modernization pattern.",
+      "evidence_quality_assessment": "Specific scope (100+ processes), named organization, clear modernization initiative.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "IT infrastructure modernization supporting process optimization"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Operational visibility improvement through dashboards - supports better decision-making and process management. Classic business intelligence optimization.",
+      "evidence_quality_assessment": "Specific count (75+ dashboards), named organization, clear operational improvement focus.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Operational visibility enhancement supporting better process management"
+    }
+  ],
+  "tier_verification": "Most claims are correctly classified as tier 1 functional optimizations. However, C7 appears to be misclassified - it describes new revenue stream creation ($1B advertising platform) which is tier 1 business model innovation, not tier 1 process optimization."
+}

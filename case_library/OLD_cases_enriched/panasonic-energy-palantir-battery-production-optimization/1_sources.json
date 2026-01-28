@@ -1,0 +1,23 @@
+{
+  "case_id": "panasonic-energy-palantir-battery-production-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Palantir to integrate smart tech into Panasonic's battery facility | Facilities Dive",
+      "url": "https://www.facilitiesdive.com/news/palantir-panasonic-energy-smart-tech-facilities/652455/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Palantir backs firms in US manufacturing AI push By Investing.com",
+      "url": "https://www.investing.com/news/company-news/palantir-backs-firms-in-us-manufacturing-ai-push-93CH-3765976",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Panasonic Energy Begins Mass Production at New Automotive Lithium-ion Battery Factory in Kansas, Aiming for Annual Capacity of 32 GWh to Accelerate U.S. Local Production",
+      "url": "https://news.panasonic.com/global/press/en250714-6",
+      "doc_type": "Press Release"
+    }
+  ]
+}

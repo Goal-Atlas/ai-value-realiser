@@ -1,0 +1,59 @@
+{
+  "case_id": "exscientia-precision-drug-design",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Exscientia makes 10 times fewer compounds than the industry average",
+      "quote": "Using this synthesis-aware, iterative approach built on AWS, Exscientia makes 10 times fewer compounds than the industry average."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Exscientia has accelerated drug design by up to 70 percent while decreasing capital cost by 80 percent",
+      "quote": "Exscientia has accelerated drug design by up to 70 percent while decreasing capital cost by 80 percent, compared with industry benchmarks."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Six AI-designed molecules have entered clinical trials",
+      "quote": "Six molecules that Exscientia designed using AI have entered clinical trials."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Automated robotic lab can operate 24/7 with minimal human supervision",
+      "quote": "Thus, its lab\u2014orchestrated by AWS microservices\u2014can operate 24/7 with minimal human supervision"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Exscientia raised $510 million in the largest IPO for a European biotech company",
+      "quote": "In October 2021, Exscientia achieved a significant milestone by going public on the Nasdaq stock market, raising $510 million in what became the largest initial public offering for a European biotech company."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Company grew from 5 employees to 450-strong team operating in more than 20 countries",
+      "quote": "From modest beginnings with just five employees, today Exscientia's 450-strong team operates in more than 20 countries and has six established global offices."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Centaur AI platform cuts drug discovery timeline from 4.5 years to 12-15 months",
+      "quote": "It achieves it in revolutionary timescales, cutting the industry average timeline from 4.5 years to just 12 to 15 months."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "First AI-designed drug candidate created in just 12 months",
+      "quote": "It took just 12 months to discover and represents the first ever AI-designed drug candidate to enter clinical trials."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "Achieved 75% prediction success rate in drug design methodology",
+      "quote": "The outcome was an automated and adaptive methodology for designing drug ligands to multitarget profiles with a 75% prediction success rate."
+    }
+  ]
+}

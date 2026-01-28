@@ -1,0 +1,47 @@
+{
+  "case_id": "experian-automated-code-transformation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Model development time reduced from months to days or hours",
+      "quote": "this revolutionary solution slashes model development turning months-long processes into days\u2014or even hours"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Continental Finance Company reduced data-building time by 75%",
+      "quote": "Continental Finance Company, for example, reduced data-building time by a remarkable 75% after adopting Experian Assistant"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Businesses achieve proven cost savings through optimized analytics processes",
+      "quote": "By optimizing analytics processes, businesses can achieve proven cost savings, enhanced data visibility, and faster product deployment"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Enhanced data visibility achieved through analytics optimization",
+      "quote": "By optimizing analytics processes, businesses can achieve proven cost savings, enhanced data visibility, and faster product deployment"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Faster product deployment enabled through optimized analytics",
+      "quote": "By optimizing analytics processes, businesses can achieve proven cost savings, enhanced data visibility, and faster product deployment"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Productivity boost through natural language processing capabilities",
+      "quote": "The tool not only boosts productivity but also fosters collaboration and accessibility"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Improved collaboration and accessibility in analytics",
+      "quote": "The tool not only boosts productivity but also fosters collaboration and accessibility"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "walmart-supply-chain-ai-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "4 ways Walmart is scaling AI to unify its supply chain",
+      "url": "https://www.supplychaindive.com/news/4-walmart-supply-chain-ai-uses/760891/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Walmart, Amazon, and other retail giants are using AI to reinvent the supply chain\u2014from warehouse to checkout",
+      "url": "https://fortune.com/2025/07/23/walmart-amazon-ai-supply-chain-retail/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "AI and Robotics: Walmart's Strategy to Enhance Supply Chain Efficiency",
+      "url": "https://www.businessinsider.com/ai-robotics-walmart-distribution-supply-chain-efficiency-2025-9",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "How Walmart enhances its inventory, supply chain through AI",
+      "url": "https://www.ciodive.com/news/walmart-AI-ML-retail/638582/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Case Study: Walmart's AI-Enhanced Supply Chain Operations",
+      "url": "https://aiexpert.network/case-study-walmarts-ai-enhanced-supply-chain-operations/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

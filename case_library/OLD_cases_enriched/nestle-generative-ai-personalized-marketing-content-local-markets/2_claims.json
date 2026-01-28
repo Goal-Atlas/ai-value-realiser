@@ -1,0 +1,53 @@
+{
+  "case_id": "nestle-generative-ai-personalized-marketing-content-local-markets",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S3",
+      "claim": "70% reduction in time and costs for scaling digital twins",
+      "quote": "It should also reduce the time and costs associated with scaling digital twins by 70%, according to the company."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S3",
+      "claim": "Established baseline of 4,000 3D digital master products with plans to expand to 10,000",
+      "quote": "Nestl\u00e9 has established a baseline of 4,000 3D digital master products, primarily for its global brands, and plans to expand that number to 10,000 digital twins over the next two years, covering both global and local portfolios."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "72% of media investment shifted to digital with 340 million first-party data records",
+      "quote": "The company has already shifted 72% of its media investment to digital and amassed more than 340 million first-party data records."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "AI content production system significantly reduced time-to-market and costs",
+      "quote": "The AI content production system has significantly reduced time-to-market for visual assets while lowering associated costs."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "Faster iteration cycles and increased diversity in product concept development",
+      "quote": "Early adoption of generative AI within product R&D has led to faster iteration cycles and increased diversity in product concept development."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "More targeted consumer interactions increasing engagement and brand loyalty",
+      "quote": "Personalization initiatives have helped deliver more targeted interactions with consumers, increasing engagement and strengthening brand loyalty across multiple product categories."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S5",
+      "claim": "66% higher return on ad spend for ads with creative quality score above 66%",
+      "quote": "Ads that had a creative quality score of above 66% had a 66% higher ROAS."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Transformational results from AI-ranked ads meeting creative requirements",
+      "quote": "That process created a set of 'rules' for successful campaigns and early tests generated transformational results, finding that ads that meet the new creative requirements generate a significantly higher return on ad spend."
+    }
+  ]
+}

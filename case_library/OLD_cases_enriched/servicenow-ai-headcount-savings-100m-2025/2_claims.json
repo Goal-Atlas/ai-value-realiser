@@ -1,0 +1,77 @@
+{
+  "case_id": "servicenow-ai-headcount-savings-100m-2025",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "ServiceNow is on course to realize $100 million in savings on global headcount in 2025 due to internal AI implementation",
+      "quote": "ServiceNow claims it is on course to realize $100 million in savings on its global headcount this year due to the internal implementation of AI."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "ServiceNow achieved 22.5% year-over-year revenue growth to $3.2 billion",
+      "quote": "during which it revealed total revenues jumped 22.5 percent year-on-year to $3.2 billion"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "ServiceNow's net income increased 47% to $385 million",
+      "quote": "net income bounced 47 percent to $385 million"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI will deliver productivity gains through reduced staffing costs",
+      "quote": "CFO Gina Mastantuono said it would make productivity gains from its use of AI and see that in reduced staffing costs"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "ServiceNow reported Q3 FY 2025 non-GAAP revenue of $3.4 billion, up 20.5% year-over-year",
+      "quote": "ServiceNow (NYSE: NOW) reported Q3 FY 2025 non-GAAP revenue of $3.4 billion, up 20.5% year-over-year (YoY) in constant currency (cc)"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Non-GAAP subscription revenue was $3.3 billion, up 20.5% year-over-year",
+      "quote": "Non-GAAP subscription revenue was $3.3 billion, up 20.5% YoY (at cc)"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Non-GAAP net income was $1.0 billion with diluted EPS of $4.82, up 29.6% year-over-year",
+      "quote": "Non-GAAP net income was $1.0 billion (Q3 FY 2024: $775 million) and non-GAAP diluted EPS was $4.82, up 29.6% YoY"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "AI products are on pace to exceed $0.5 billion in annual contract value in FY 2025",
+      "quote": "ServiceNow's AI portfolio is scaling as a cross-platform upsell driver, with AI products on pace to exceed $0.5 billion in annual contract value (ACV) in FY 2025"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Now Assist recorded 12 deals over $1 million in net new ACV, including one over $10 million",
+      "quote": "Now Assist recorded 12 deals over $1 million in net new ACV (NNACV), including one over $10 million"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "AI Agent Assist consumption increased more than 55x since late May",
+      "quote": "AI Agent Assist consumption increased more than 55x since late May"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "AI Control Tower deal volume quadrupled quarter-over-quarter",
+      "quote": "AI Control Tower deal volume quadrupled quarter-over-quarter (QoQ)"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Federal agencies have an estimated 30% efficiency potential with multi-year savings opportunity",
+      "quote": "Management highlighted an estimated 30% efficiency potential and multi-year savings opportunity for agencies adopting ServiceNow's AI platform"
+    }
+  ]
+}

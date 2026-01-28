@@ -1,0 +1,131 @@
+{
+  "case_id": "omega-healthcare-productivity-automation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "UiPath automations processed more than 60 million transactions in four years",
+      "quote": "In just four years, UiPath automations have processed more than 60 million transactions at Omega Healthcare."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "100% increase in worker productivity",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing a 100% increase in worker productivity"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "40% reduction in time spent on documentation tasks",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 40% reduction in time spent on documentation tasks"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Monthly savings of 6,700 worker hours",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... monthly savings of 6,700 worker hours"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "50% reduction in turnaround time",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 50% reduction in turnaround time"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "99.5% process accuracy achieved",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... an impressive process accuracy of 99.5%"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "30% return on investment within the first year",
+      "quote": "These improvements not only enhance operational efficiency and cost savings for Omega Healthcare's customers but also deliver a 30% return on investment within the first year."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "UiPath automations processed more than 60 million transactions in four years",
+      "quote": "In just four years, UiPath automations have processed more than 60 million transactions at Omega Healthcare."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "100% increase in worker productivity",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing a 100% increase in worker productivity"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "40% reduction in time spent on documentation tasks",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 40% reduction in time spent on documentation tasks"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Monthly savings of 6,700 worker hours",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... monthly savings of 6,700 worker hours"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "50% reduction in turnaround time",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 50% reduction in turnaround time"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S3",
+      "claim": "99.5% process accuracy achieved",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... an impressive process accuracy of 99.5%"
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S3",
+      "claim": "30% return on investment within the first year",
+      "quote": "These improvements not only enhance operational efficiency and cost savings for Omega Healthcare's customers, but also deliver a 30% return on investment within the first year."
+    },
+    {
+      "claim_id": "C15",
+      "source_id": "S4",
+      "claim": "UiPath automations processed more than 60 million transactions in four years",
+      "quote": "In just four years, UiPath automations have processed more than 60 million transactions at Omega Healthcare."
+    },
+    {
+      "claim_id": "C16",
+      "source_id": "S4",
+      "claim": "100% increase in worker productivity",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing a 100% increase in worker productivity"
+    },
+    {
+      "claim_id": "C17",
+      "source_id": "S4",
+      "claim": "40% reduction in time spent on documentation tasks",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 40% reduction in time spent on documentation tasks"
+    },
+    {
+      "claim_id": "C18",
+      "source_id": "S4",
+      "claim": "Monthly savings of 6,700 worker hours",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... monthly savings of 6,700 worker hours"
+    },
+    {
+      "claim_id": "C19",
+      "source_id": "S4",
+      "claim": "50% reduction in turnaround time",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... a 50% reduction in turnaround time"
+    },
+    {
+      "claim_id": "C20",
+      "source_id": "S4",
+      "claim": "99.5% process accuracy achieved",
+      "quote": "After implementing UiPath, Omega Healthcare is experiencing... an impressive process accuracy of 99.5%"
+    },
+    {
+      "claim_id": "C21",
+      "source_id": "S4",
+      "claim": "30% return on investment within the first year",
+      "quote": "These improvements not only enhance operational efficiency and cost savings for Omega Healthcare's customers, but also deliver a 30% return on investment within the first year."
+    }
+  ]
+}

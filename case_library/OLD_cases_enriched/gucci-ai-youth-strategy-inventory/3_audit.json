@@ -1,0 +1,126 @@
+{
+  "case_id": "gucci-ai-youth-strategy-inventory",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims functional optimization of design process with reduced cycles, which fits Tier 1. However, lacks specific metrics for the claimed 'significant' reduction.",
+      "evidence_quality_assessment": "Named organization (Gucci) but claims are vague without quantified improvements. Source appears to be marketing/promotional content rather than authoritative case study.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Design cycle optimization is valid Tier 1, but needs specific metrics and authoritative sourcing"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process efficiency improvement in design iteration, which is appropriate Tier 1 functional optimization.",
+      "evidence_quality_assessment": "Named organization but lacks quantification of 'fraction of the time' - no specific time savings metrics provided. Source quality uncertain.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Valid optimization claim but needs quantified time savings to be fully credible"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Virtual prototyping for waste reduction and process acceleration fits Tier 1 optimization criteria well.",
+      "evidence_quality_assessment": "Named organization with specific process description, but lacks quantified waste reduction or time savings metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good process description but needs quantified sustainability and efficiency metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Brand valuation ranking is not a functional optimization - this is market positioning data, not operational improvement.",
+      "evidence_quality_assessment": "Specific metric and timeframe provided, but not relevant to Tier 1 capability assessment.",
+      "apqc_functions": [],
+      "notes": "Market positioning data, not operational capability improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "NFT innovation represents new market/product creation rather than functional optimization of existing processes.",
+      "evidence_quality_assessment": "Factual claim but represents innovation/market creation, not process optimization.",
+      "apqc_functions": [],
+      "notes": "Innovation/market creation activity, not functional optimization - potentially tier 1"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue figures are financial performance data, not functional optimization metrics.",
+      "evidence_quality_assessment": "Specific financial data but not relevant to operational capability assessment.",
+      "apqc_functions": [],
+      "notes": "Financial performance data, not operational improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Social media follower counts are marketing metrics, not functional optimization indicators.",
+      "evidence_quality_assessment": "Specific metrics provided but not relevant to operational capability improvement.",
+      "apqc_functions": [],
+      "notes": "Marketing reach metrics, not operational capability"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer demographic data is market analysis, not functional process optimization.",
+      "evidence_quality_assessment": "Specific demographic data but not relevant to operational improvement assessment.",
+      "apqc_functions": [],
+      "notes": "Market demographic data, not operational capability"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "E-commerce sales percentage is channel mix data, not functional optimization.",
+      "evidence_quality_assessment": "Specific metric but represents channel strategy rather than operational improvement.",
+      "apqc_functions": [],
+      "notes": "Sales channel data, not operational optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Demographic sales data is market analysis, not functional capability improvement.",
+      "evidence_quality_assessment": "Authoritative source (CEO quote) but not relevant to operational optimization.",
+      "apqc_functions": [],
+      "notes": "Market demographic data, not operational capability"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial growth metrics are performance outcomes, not functional optimization processes.",
+      "evidence_quality_assessment": "Specific financial metrics but not relevant to operational capability assessment.",
+      "apqc_functions": [],
+      "notes": "Financial performance data, not operational improvement"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Parent company revenue growth is financial performance, not functional optimization.",
+      "evidence_quality_assessment": "Specific financial data but not relevant to operational capability improvement.",
+      "apqc_functions": [],
+      "notes": "Financial performance data, not operational capability"
+    }
+  ],
+  "tier_verification": "Only claims C1-C3 relate to AI-driven functional optimization (design process improvements). Claims C4-C12 are market/financial data not relevant to tier 1 assessment. The AI design claims need stronger quantification and authoritative sourcing to be fully approved."
+}

@@ -1,0 +1,230 @@
+{
+  "case_id": "texas-rangers-databricks-player-performance-analysis",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - centralizing data management to eliminate redundancy and reduce costs in existing operations",
+      "evidence_quality_assessment": "Generic benefits claim without specific metrics or quantification. Reads like vendor marketing language.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization pattern but lacks specificity for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of decision-making processes during operations, which is functional improvement",
+      "evidence_quality_assessment": "Vague claim about 'real-time insights' without specific examples or measurable outcomes",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Conceptually valid but too generic to verify impact"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing data processing function with specific improvement (hours/days to real-time)",
+      "evidence_quality_assessment": "Specific improvement claim with clear before/after comparison, though could be more quantified",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong functional optimization claim with measurable improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of roster construction decision-making process using analytics - clear functional improvement",
+      "evidence_quality_assessment": "Named organization (Texas Rangers), specific executive (Chris Young), concrete outcome (World Series victory)",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence linking analytics optimization to measurable business outcome"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of strategic decision-making throughout operations with specific scope (162 regular + 17 postseason games)",
+      "evidence_quality_assessment": "Specific context with named individuals (Bochy, coaching staff) and quantified scope of application",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-documented optimization of decision-making processes with specific context"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes infrastructure capacity constraint that necessitated optimization - establishes business case for improvement",
+      "evidence_quality_assessment": "Specific timeline (by 2021) and clear problem statement from named organization",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of infrastructure optimization need with specific timeline"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear ROI metric demonstrates optimization of IT infrastructure investment with quantified business value",
+      "evidence_quality_assessment": "Specific, quantified metric (375% ROI) from named organization with traceable source",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong quantified evidence of infrastructure optimization ROI"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quantified cost optimization (4x improvement) in data warehouse operations - clear functional efficiency gain",
+      "evidence_quality_assessment": "Specific metric with clear baseline comparison (prior cloud data warehouse)",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong cost optimization evidence with specific improvement ratio"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific optimization of data ingestion process with quantified improvement (10x cost-effectiveness)",
+      "evidence_quality_assessment": "Highly specific metric for defined use case from authoritative source",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent quantified evidence of process optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce productivity optimization with specific improvement percentage across defined team scope",
+      "evidence_quality_assessment": "Quantified productivity gain (61%) with specific scope (data teams) from named organization",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "8.2",
+          "name": "Develop and manage IT business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong productivity optimization evidence with clear scope and metrics"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of data availability and processing speed (2x more data, lower latency) enabling faster analysis workflows",
+      "evidence_quality_assessment": "Specific metrics (2x data volume) with clear operational impact (faster iteration) from authoritative source",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-documented technical and process optimization with quantified improvements"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Vague competitive positioning claim without specific functional optimization described",
+      "evidence_quality_assessment": "Marketing language without specific metrics or measurable outcomes to verify the claim",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too generic and promotional to verify as substantive optimization claim"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (data management, decision-making, infrastructure) rather than business model transformation or new revenue streams."
+}

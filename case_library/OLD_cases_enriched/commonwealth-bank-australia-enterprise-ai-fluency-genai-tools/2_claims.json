@@ -1,0 +1,53 @@
+{
+  "case_id": "commonwealth-bank-australia-enterprise-ai-fluency-genai-tools",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "CBA achieved comprehensive cloud migration as first Australian bank",
+      "quote": "In 2023, with the help of Atlassian's data residency program, the CBA became the first bank in Australia to migrate all of its users and operations to a cloud platform."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI adoption enables alleviation of tedious, repetitive tasks for staff",
+      "quote": "After looking at early reports of adoption of Atlassian's AI, the CBA realized they could alleviate many tedious, repetitive tasks from their staff as they continue to scale."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI features deliver strong returns that outpace onboarding investment",
+      "quote": "The CBA doubled down on testing every possible scenario they could brainstorm to be assured that AI would not only be secure but would bring strong returns that would outpace the level of onboarding investment."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "GenAI messaging reduces customer need to contact call center",
+      "quote": "Work so far has been aimed at boosting AI messaging capabilities and reducing the need for customers to interact with the bank's contact centre."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "GenAI improves customer dispute process by understanding context without additional information requests",
+      "quote": "The biggest gamechanger here is with generative AI we're able to understand more of the customer context. We're able to infer more of the information without having to ask the customer for more information."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "CBA achieved first-mover advantage in Australia with GenAI chatbot capabilities",
+      "quote": "The ability to launch a generative AI-powered chatbot and messaging experience in itself is very cutting edge. We're the first ones to do it in Australia."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI for All program drives employee innovation in daily work",
+      "quote": "We launched our 'AI for All' program where we opened it up to all of our employees and we've given them the foundational capabilities that are required in the generative AI environment. Many of our employees are now using that skill in their day-to-day jobs. The innovation that is coming out of that is pretty incredible."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "GenAI chatbots enable faster product testing and improvement cycles",
+      "quote": "if proved, means we could use GenAI to enable us to get a better product or service in front of customers earlier"
+    }
+  ]
+}

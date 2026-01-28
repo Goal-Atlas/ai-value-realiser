@@ -1,0 +1,77 @@
+{
+  "case_id": "roche-accelerated-drug-discovery-target-identification",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI collaboration enables scientific innovation and R&D at previously unattainable scale",
+      "quote": "Collaboration leverages expertise in artificial intelligence from Genentech and NVIDIA to unlock scientific innovation and empower R&D at a scale previously unattainable in pursuit of novel therapies."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI platform will dramatically accelerate drug discovery and development pace",
+      "quote": "Our collaboration to create Genentech's next-generation AI platform will dramatically accelerate the pace of drug discovery and development."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI generates insights at unprecedented scale and speed",
+      "quote": "By harnessing the power of AI models and algorithms, with our unique data and experiments, we're unlocking scientific discoveries with incredible speed and generating insights at an unprecedented scale"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI makes drug development more predictable and cost-effective while boosting R&D success rates",
+      "quote": "Genentech believes that AI plays an invaluable role in revolutionizing drug development, in combination with people, science and technology, helping make it more predictable and cost-effective, boosting the success rate of R&D over the long term"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "AI has potential to revolutionize drug discovery by enhancing data analysis and prediction for faster treatments",
+      "quote": "Leveraging artificial intelligence (AI) and machine learning (ML) have the potential to revolutionize drug discovery by enhancing data analysis and prediction, leading to faster and more effective treatments."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Lab in a loop approach streamlines traditional trial-and-error and improves model performance across all programs",
+      "quote": "This streamlines the traditional trial-and-error approach for novel therapies and improves the performance of the models across all programmes."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI enables rapid generation and testing of thousands of virtual molecular structures",
+      "quote": "AI and ML also enable the rapid generation and testing of virtual structures for thousands of new molecules and the simulation of their interactions with therapeutic targets."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "AI collaboration aims to bring medicines to patients faster than current methods",
+      "quote": "by doing so we have a tremendous opportunity to hopefully bring medicines to patients faster than we do today"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "AI will help design better therapies faster and extend lives of millions of patients",
+      "quote": "AI will help untangle disease biology, predict effective approaches, and design better therapies faster, ultimately extending and improving the lives of millions of patients."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Traditional drug development has become progressively slower, more expensive, and fraught with failure",
+      "quote": "the process of translating this knowledge into new medicines has become progressively slower, more expensive, and fraught with failure"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Drug development costs exceed $2 billion per new drug, with some analyses at $2.8 billion",
+      "quote": "The fully capitalized, risk-adjusted cost to bring a single new drug to market now exceeds $2 billion, with some analyses placing the figure closer to $2.8 billion."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Only 7.9% likelihood of drug candidates successfully navigating from Phase I to market",
+      "quote": "The overall likelihood of a drug candidate successfully navigating the clinical trial process from Phase I to market is a mere 7.9%."
+    }
+  ]
+}

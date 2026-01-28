@@ -1,0 +1,35 @@
+{
+  "case_id": "deloitte-ai-consulting-services",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI Comes of Age: Deloitte's 17th Annual Tech Trends Report Reveals How Leading Organizations Are Scaling AI for Outcomes and Impact \u2013 Press Release | Deloitte US",
+      "url": "https://www.deloitte.com/us/en/about/press-room/deloitte-tech-trends-2026.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Deloitte Launches AI Advantage for CFOs With AWS and Anthropic \u2013 Press Release | Deloitte US",
+      "url": "https://www2.deloitte.com/us/en/pages/about-deloitte/articles/press-releases/deloitte-launches-ai-advantage-for-cfos.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "AI and Data Operations Management Services | Deloitte US",
+      "url": "https://www.deloitte.com/us/en/services/consulting/services/ai-data-operations-management-services.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Deloitte Launches AI Solution Suite for Human and Machine Workforce - Press release | Deloitte US",
+      "url": "https://www.deloitte.com/us/en/about/press-room/deloitte-launches-ai-solution-suite-for-human-and-machine-workforce.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S5",
+      "title": "State of Generative AI Q4 \u2013 Press Release | Deloitte US",
+      "url": "https://www.deloitte.com/us/en/about/press-room/state-of-generative-ai.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "morgan-stanley-ai-assistant-financial-advisors",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Morgan Stanley Is Training GPT To Help Financial Advisors",
+      "url": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Morgan Stanley's Open AI-powered solution for advisors has expanded - InvestmentNews",
+      "url": "https://www.investmentnews.com/fintech/morgan-stanleys-open-ai-powered-solution-for-advisors-has-expanded/254880",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: AI at Morgan Stanley \u2013 Reshaping the Future of Financial Services - AIX | AI Expert Network",
+      "url": "https://aiexpert.network/ai-at-morgan-stanley-2025/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "How Morgan Stanley's AI Helped Close 100K New Clients This Year - The Daily Upside",
+      "url": "https://www.thedailyupside.com/technology/artificial-intelligence/how-morgan-stanleys-ai-helped-close-100k-new-clients-this-year/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "The Morgan Stanley Case Study - Illuminate AI",
+      "url": "https://illuminateai.co.uk/experience/the-morgan-stanley-case-study/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

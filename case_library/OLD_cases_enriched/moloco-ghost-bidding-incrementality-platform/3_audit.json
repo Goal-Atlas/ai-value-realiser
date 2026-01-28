@@ -1,0 +1,133 @@
+{
+  "case_id": "moloco-ghost-bidding-incrementality-platform",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes performance metrics of an advertising platform, not business model transformation. High ROAS is an optimization outcome, not evidence of doing fundamentally new things.",
+      "evidence_quality_assessment": "First-party marketing claim without independent validation. ROAS metrics are common advertising performance indicators, not transformation evidence.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Performance metric from ad platform - this is Tier 1 optimization, not tier 1 transformation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Comparative performance improvement (3x higher ROAS) describes better execution of existing ad targeting, not business model change or new market creation.",
+      "evidence_quality_assessment": "Marketing claim comparing to 'legacy RMNs' without specific attribution or independent verification. Lacks specificity on measurement methodology.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Efficiency improvement in ad targeting - clearly Tier 1, not transformation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Example of advertising ROI measurement and attribution - this is optimizing existing advertising models, not creating new business models or markets.",
+      "evidence_quality_assessment": "Hypothetical example ($10K → $40K) used for illustration purposes, not a specific case study with named organization.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Hypothetical advertising example - not evidence of transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Media mix diversification and ROAS improvement describes optimization of existing advertising strategies, not fundamental business model change.",
+      "evidence_quality_assessment": "Specific metric (214% improvement) but lacks named organizations or independent verification. Appears to be aggregated platform data.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Media diversification strategy - optimization, not transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Turo expanding advertising channels and measuring incrementality is marketing optimization, not business model transformation. Turo's core peer-to-peer car sharing model remains unchanged.",
+      "evidence_quality_assessment": "Named organization (Turo) but vague claim about 'increased platform bookings' without specific metrics or timeframes.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marketing channel expansion for existing business model - not transformation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "High completion rates for CTV ads describe advertising format performance, not business model innovation or market creation.",
+      "evidence_quality_assessment": "Specific completion rate metrics (93-96%) but this describes standard advertising performance measurement, not transformation outcomes.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Advertising format performance metrics - not transformation evidence"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Krafton using CTV advertising for game launch describes marketing campaign execution, not business model change. Gaming and advertising models remain traditional.",
+      "evidence_quality_assessment": "Named organization (Krafton) and specific campaign (Cookie Run India) but only describes 'significant growth' without quantification or independent verification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marketing campaign case study - not evidence of transformation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Sports betting app achieving 'strong conversion efficiency' through geo-targeted CTV campaigns describes advertising optimization, not business model transformation.",
+      "evidence_quality_assessment": "Unnamed organization ('leading sports betting app') with vague performance claims ('strong results', 'strong conversion efficiency') lacking specific metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Anonymous case with vague performance claims - not transformation evidence"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Game publisher using CTV for user acquisition at 'efficient costs' describes marketing optimization, not transformation of business model or creation of new markets.",
+      "evidence_quality_assessment": "Unnamed organization ('leading Chinese game publisher') with vague efficiency claims lacking specific metrics or validation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Anonymous case with vague efficiency claims - not transformation evidence"
+    }
+  ],
+  "tier_verification": "This case is misclassified as tier 1. All claims describe advertising platform performance optimization, ROAS improvements, and marketing campaign efficiency - these are clearly tier 1 optimization cases. No evidence of business model transformation, new market creation, or AI as core product. Moloco appears to be an advertising technology platform optimizing existing ad targeting and measurement, not transforming how businesses create value. Should be reclassified as tier 1."
+}

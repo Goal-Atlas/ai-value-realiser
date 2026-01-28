@@ -1,0 +1,83 @@
+{
+  "case_id": "accenture-reduced-it-demand-citizen-dev-platform",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes platform optimization for application deployment, which is functional improvement. However, the claim is quite generic about 'minimal effort' without specific metrics or process details.",
+      "evidence_quality_assessment": "Accenture is named but this appears to be from AWS case study material. The claim lacks specific quantified benefits or detailed process improvements. 'Minimal effort' is vague.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear IT function optimization but lacks specific metrics or measurable improvements"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost optimization through infrastructure model change - moving from on-premises to PaaS to avoid hardware costs. This is a replicable pattern for similar platform providers.",
+      "evidence_quality_assessment": "Named organization (Accenture/Blueriq), specific benefit (avoiding on-premises hardware costs), appears to be from official AWS case study which provides credible attribution.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear cost reduction benefit through infrastructure optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization for automation identification and application deployment speed. This fits Tier 1 functional improvement, but the claim combines two different functions without clear separation.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics. 'Speed up time' is mentioned but no quantification provided. The claim is somewhat vague about what specific improvements were achieved.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Functional optimization claimed but lacks specific metrics or timeframe improvements"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational improvements in application deployment and configuration management. This is functional optimization but the benefits are described in qualitative terms only.",
+      "evidence_quality_assessment": "Named organization but very generic claims. 'Easier' and 'simplify' are subjective without specific metrics or process details. Lacks quantified improvements.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process improvement claimed but lacks specific measurable benefits or detailed methodology"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization of IT deployment and platform management processes rather than business model innovation or new revenue streams."
+}

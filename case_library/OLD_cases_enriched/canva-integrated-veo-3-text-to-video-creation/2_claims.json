@@ -1,0 +1,71 @@
+{
+  "case_id": "canva-integrated-veo-3-text-to-video-creation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Consolidates multiple creative tools in a single platform workflow",
+      "quote": "According to Canva, the integration is part of its multi-model approach, which aims to consolidate creative tools in a single platform. Users can already generate text, images, and full design layouts with Canva AI. The addition of video generation brings a new format to the existing workflow."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Democratizes professional creative tools for all users",
+      "quote": "Danny Wu, Head of AI Products at Canva, wrote in a blog post that the tool expands the platform's AI capabilities by offering video generation within the same space where users already design and create. He described the feature as part of a broader effort to 'put powerful, professional tools in the hands of everyone.'"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Brings cinematic-style video creation to millions without specialized skills",
+      "quote": "The integration brings cinematic-style video creation to millions without the need for specialized software or skills."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Democratizes access to powerful video generation technology within existing subscriptions",
+      "quote": "By democratizing access to a powerful technology like Google's Veo 3 inside Canva AI, your big ideas can now be brought to life in the highest quality video and sound, all from within your existing Canva subscription."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Makes AI video generation more accessible and affordable for casual users",
+      "quote": "For many creators, AI-generated video has been powerful but hard to use and even harder to afford for casual users. Veo 3 and Google Flow is part of the Ultra package, which is $249/month. By bringing Veo 3 into Canva's all-in-one platform, video creation is now as accessible as generating AI images or graphics."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Enables creation of polished, brandable video content in just a few clicks",
+      "quote": "It also shows how fast AI video generation is evolving: the fact that users can now create polished, brandable video clips \u2014 with audio \u2014 in just a few clicks would have seemed impossible a year ago."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Demolishes barriers to high-quality video creation for marketers and creators",
+      "quote": "For years, creating high-quality video has been the domain of specialists with technical skills and expensive software. This barrier has consistently challenged marketers and creators who need to produce engaging content at scale. A new partnership between Google and Canva, however, is set to demolish this barrier."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Dramatically lowers barriers to entry for high-quality video production",
+      "quote": "This integration dramatically lowers the barrier to entry for high-quality video, putting immense pressure on other creative tool providers."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Provides tools for businesses to become video-first organizations",
+      "quote": "For businesses, the message is unmistakable: the tools to become a video-first organization are now more powerful and accessible than ever."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "Democratizes cutting-edge technology through all-in-one AI strategy",
+      "quote": "Why it matters: Canva's all-in-one AI strategy democratises cutting-edge tech, while combining video generation and editing in one workflow transforms creative possibilities for social posts, brand videos, pitch decks and more."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Transforms creative possibilities across multiple content formats",
+      "quote": "combining video generation and editing in one workflow transforms creative possibilities for social posts, brand videos, pitch decks and more."
+    }
+  ]
+}

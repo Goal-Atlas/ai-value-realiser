@@ -1,0 +1,206 @@
+{
+  "case_id": "morgan-stanley-ai-assistant-financial-advisors",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - high adoption indicates successful augmentation of advisor workflow. Replicable pattern for knowledge worker productivity.",
+      "evidence_quality_assessment": "Named organization (Morgan Stanley), specific metric (98%), traceable to firm statement.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong adoption metric indicates successful capability enhancement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - efficiency gains allowing more client focus. Replicable for advisory services.",
+      "evidence_quality_assessment": "Named organization but vague quantification ('immense efficiency'). No specific time savings or metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Qualitative claim needs quantitative backing for full approval"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - document retrieval efficiency improvement. Highly replicable pattern for knowledge management.",
+      "evidence_quality_assessment": "Named organization, specific metrics (20% to 80% improvement), measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong quantified efficiency improvement in core business function"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear scalability improvement in existing function. Pattern replicable for document-heavy organizations.",
+      "evidence_quality_assessment": "Named organization, specific metrics (7,000 to 100,000+ queries), demonstrates scale capability.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Impressive scaling metrics demonstrate operational capability enhancement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Confirms successful functional optimization through high adoption. Indicates utility and trust in capability enhancement.",
+      "evidence_quality_assessment": "Named organization, specific metric (98%), includes qualitative assessment of utility and trust.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Reinforces adoption success with additional context on user acceptance"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Unclear if this is functional optimization or business outcome. 'AI helped close' lacks specificity about the optimization mechanism.",
+      "evidence_quality_assessment": "Named organization and specific metric (100,000 clients) but causal attribution to AI is vague.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Business outcome claimed but mechanism of AI contribution unclear"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Business outcome metric without clear connection to specific functional optimization. Could be influenced by many factors beyond AI.",
+      "evidence_quality_assessment": "While metrics are specific and organization named, no direct causal link to AI capability established.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "High-level business metric without demonstrated AI causation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - time savings per client meeting. Highly replicable pattern for advisory services.",
+      "evidence_quality_assessment": "Named organization, specific metric (30 minutes per meeting), first-party advisor account cited.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Concrete time savings metric from practitioner perspective"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "High-level business outcome without clear connection to specific AI-driven functional optimization.",
+      "evidence_quality_assessment": "While metric is specific ($6 trillion), causal attribution to AI capabilities is speculative.",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Business outcome metric without demonstrated AI causation"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization through knowledge management tool adoption. Replicable for team-based knowledge work.",
+      "evidence_quality_assessment": "Named organization, specific adoption metric (98% of teams), indicates regular usage pattern.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong adoption metric for knowledge management capability"
+    },
+    {
+      "claim_id": "C11",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization concept - cost reduction and resource reallocation. Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization but vague quantification ('considerable cost savings'). No specific metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Logical cost optimization claim but lacks quantitative evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization of existing advisory and knowledge management processes rather than business model transformation."
+}

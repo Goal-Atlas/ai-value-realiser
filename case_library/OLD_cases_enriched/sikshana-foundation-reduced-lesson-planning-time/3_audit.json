@@ -1,0 +1,158 @@
+{
+  "case_id": "sikshana-foundation-reduced-lesson-planning-time",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - AI assists teachers in creating teaching resources, which optimizes existing lesson planning processes. Pattern is replicable across educational institutions.",
+      "evidence_quality_assessment": "Named organization (Sikshana Foundation, Microsoft India) but lacks specific quantified metrics for time savings. Claims are general ('saves time', 'high-quality') without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantified evidence of time savings to be fully approved"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes program scope and objectives rather than specific functional optimization. The 'improve learning outcomes' is aspirational without demonstrated results.",
+      "evidence_quality_assessment": "Named organizations and specific target (1,000 teachers, Karnataka state) but no measurable outcomes or process improvements demonstrated yet.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        }
+      ],
+      "notes": "More of a program description than a capability improvement claim. Lacks evidence of actual optimization achieved."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - digitizing libraries improves access and management of educational resources. Highly replicable pattern for educational institutions.",
+      "evidence_quality_assessment": "Named organizations (Sikshana Foundation, Dell Technologies), specific quantified outcome (4,000 libraries digitized), traceable achievement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of functional improvement with specific metrics and named partners"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes program scale rather than functional optimization. No specific process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "Specific metrics (15,000 students, 199 schools, three blocks of Gujarat) but lacks description of what functional improvements are being delivered.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scale metrics are clear but lacks evidence of actual capability improvements or optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - reducing time for content generation while maintaining quality is a classic efficiency improvement. Pattern is replicable.",
+      "evidence_quality_assessment": "Named solution (Shiksha Co-pilot) and clear process description, but lacks quantified metrics for time reduction. Claims are qualitative rather than measurable.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs specific time savings metrics to be fully approved"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague and aspirational. 'Enhance teaching ability' and 'learning capacity' are outcomes, not specific functional optimizations.",
+      "evidence_quality_assessment": "No specific metrics, processes, or measurable improvements described. Generic aspirational statement.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Lacks substance - no specific process optimization or measurable improvement described"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes training program scale rather than functional optimization achieved. No specific process improvement described.",
+      "evidence_quality_assessment": "Specific target (1,000 teachers) and expansion plan mentioned, but no evidence of actual capability improvements delivered.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear program scope but lacks evidence of functional optimization or efficiency gains"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - OMR technology improves assessment process efficiency and scale. Pattern is highly replicable for educational assessment.",
+      "evidence_quality_assessment": "Named organization, specific quantified outcome (55 lakh students assessed), specific time period (2019-2020), traceable implementation.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of process optimization with specific scale metrics and implementation details"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - custom OMR solution reduces costs compared to commercial alternatives while improving usability. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific technology (SDAPS open-source OMR), clear cost advantage claim with technical implementation details.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of cost optimization with technical details, though specific savings amounts not quantified"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimizations within existing educational processes rather than business model changes or new revenue streams."
+}

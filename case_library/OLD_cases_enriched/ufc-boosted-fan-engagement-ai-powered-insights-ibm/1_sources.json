@@ -1,0 +1,35 @@
+{
+  "case_id": "ufc-boosted-fan-engagement-ai-powered-insights-ibm",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "IBM and UFC launch AI-powered 'In-Fight Insights' platform for fans",
+      "url": "https://www.foxbusiness.com/sports/ufc-ibm-reveal-ai-powered-in-fight-insights-technology-ahead-madison-square-garden-event",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "IBM and UFC launch AI-powered in-fight insights platform",
+      "url": "https://www.investing.com/news/company-news/ibm-and-ufc-launch-aipowered-infight-insights-platform-93CH-4360110",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "IBM becomes first-ever AI partner for UFC",
+      "url": "https://www.sportcal.com/sponsorship/ibm-becomes-first-ever-ai-partner-for-ufc/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "UFC turns to IBM to punch through its data deadlock",
+      "url": "https://www.hfsresearch.com/research/ufc-ibm-data-deadlock/",
+      "doc_type": "Report"
+    },
+    {
+      "source_id": "S5",
+      "title": "IBM Unveils AI-Powered In-Fight Insights for UFC Events",
+      "url": "https://www.gurufocus.com/news/3210109/ibm-unveils-aipowered-infight-insights-for-ufc-events",
+      "doc_type": "News Article"
+    }
+  ]
+}

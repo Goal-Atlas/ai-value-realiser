@@ -1,0 +1,33 @@
+{
+  "case_id": "unilever-ai-recruitment",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI Case Study | Unilever saved over 50,000 hours in candidate interview time and delivered over \u00a31M annual savings and improved candidate diversity with machine analysis of video-based interviewing.",
+      "url": "https://www.bestpractice.ai/ai-case-study-best-practice/unilever_saved_over_50,000_hours_in_candidate_interview_time_and_delivered_over_%C2%A31m_annual_savings_and_improved_candidate_diversity_with_machine_analysis_of_video-based_interviewing.",
+      "doc_type": "Case Study",
+      "content": "AI Case Study\nUnilever saved over 50,000 hours in candidate interview time and delivered over \u00a31M annual savings and improved candidate diversity with machine analysis of video-based interviewing.\nUnilever, a global leader in consumer, struggled with outdated and highly manual hiring practices. They would take up to six months to sift through 250,000 applications to hire 800 individuals. Using HireVue's solution they were able to filter up to 80% of the candidate pool Based on verbal responses to video interview questions that measure job-related competencies. It is claimed to have saved over \u00a31M in annual costs along with 50,000 hours in candidate time over 18 months and to improved the diversity of candidates selected.\nIndustry\nConsumer Goods And Services\nRetail General\nProject Overview\n\"Through HireVue Assessments, artificial-intelligence was able to filter up to 80% of the candidate pool, using large language models to analyze candidate responses, ultimately surfacing those candidates that are most likely to be successful at Unilever.\"\nReported Results\nHireVue claims that \"Unilever has:\n* Saved 50,000 hours in candidate time over 18 months\n* \u00a31M annual costs savings\n* 96% candidate completion rate compared to 50%\n* 90% reduction in time to hire\n* 16% increase in diversity hires.\"\nTechnology\nThe company claims sophisticated \"emotion recognition technology.\"\nFunction\nHuman Resources\nRecruitment\nBackground\n\"A global leader in consumer goods, Unilever\u2019s products can be found in more than 190 countries. Their 400+ brands meet their consumer\u2019s needs across personal and home care, food, and more. To meet rapidly changing and dynamic consumer demands, Unilever recognized the need to attract talent from around the globe, appealing specifically to the millennial workforce.\"\nUnilever suffered from \"...outdated processes rooted in paper, phone screens and manual assessments. 4-6 months to sift through 250,000 applications to hire 800 individuals.\"\nBenefits\nData"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Unilever Uses AI Video Interviews to Transform Recruitment",
+      "url": "https://www.gobeyond.ai/ai-resources/case-studies/unilever-ai-video-interview-recruitment-diversity",
+      "doc_type": "Case Study",
+      "content": "Error fetching content: HTTPSConnectionPool(host='www.gobeyond.ai', port=443): Max retries exceeded with url: /ai-resources/case-studies/unilever-ai-video-interview-recruitment-diversity (Caused by NameResolutionError(\"HTTPSConnection(host='www.gobeyond.ai', port=443): Failed to resolve 'www.gobeyond.ai' ([Errno 8] nodename nor servname provided, or not known)\"))"
+    },
+    {
+      "source_id": "S3",
+      "title": "Unilever: Transforming Preliminary Hiring Through End-to-End AI-based ...",
+      "url": "https://icmrindia.org/casestudies/catalogue/Human Resource and Organization Behavior/HROB272.htm",
+      "doc_type": "Case Study",
+      "content": "Unilever: Transforming Preliminary Hiring Through End-to-End AI-based Digital Process\nAbstract Case Intro 1 Case Intro 2 Excerpts\nAbstract\nThis case study explores how Unilever revolutionized its campus hiring process by integrating advanced AI technologies, addressing challenges such as inefficiencies, prolonged timelines, and limited candidate insights. Targeting millennial talent, the company partnered with leading AI vendors like Pymetrics, Amberjack, and HireVue to design a streamlined, digital recruitment strategy. The process was structured into four steps: an application phase, followed by neuroscience-based games to assess cognitive and emotional attributes, AI-driven video interviews for deeper candidate evaluation, and a final assessment at Unilever's Discovery Center. This transformation delivered remarkable results, including a 75% reduction in recruitment time, enhanced diversity in hires, and cost savings exceeding GBP 1 million. The case concludes with Unilever's plans to expand the digital model beyond graduate hiring and refine the system for a more personalized candidate experience.\nThe case is ideal for faculty teaching management courses at both undergraduate and graduate levels, particularly in disciplines such as Human Resource Management, Organizational Behavior, and Technology in Business. It can also support courses on Leadership and Innovation or Digital Transformation. Topics covered include AI in HR, recruitment process optimization, diversity and inclusion, and change management. Through this case, faculty can encourage students to analyze the challenges and opportunities of integrating AI in business processes, evaluate measurable impacts, and propose strategies for scaling innovations within large organizations\nIssues\nThe case is structured to achieve the following teaching objectives:\n- Analyze how artificial intelligence can streamline and enhance the hiring process, leading to more efficient and unbiased talent acquisition.\n- Examine the application of neuroscience-based gamification tools for assessing a candidate\u00e2s traits, decision-making, and fit within an organization.\n- Discuss the potential challenges and benefits of fully digitalized recruitment.\nContents\n-\nIntroduction\nExisting Hiring Process\nImplementing a New Solution\nThe New Digital Recruitment Process\nRoad Ahead\nExhibts\nKeywords\nUnilever; Hiring; Recruitment & Selection; Artificial Intelligence (AI); Gamification; Diversity and Inclusion; Talent Acquisition; Talent Management; Agile HR; HR Analytics; Human Resource Planning Unilever; Pymetrics; Amberjack; HireVue; Neuroscience-based Gamification;\nBuy this case study (Please select any one of the payment options)"
+    },
+    {
+      "source_id": "S4",
+      "title": "Case Study: How Unilever Cut Time-to-Hire by 75% Using AI",
+      "url": "https://airecruiterlab.com/resources/fortune-500-ai-recruitment",
+      "doc_type": "Case Study",
+      "content": "Content extraction failed"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "vertiv-closed-security-investigations-50-faster-google-security-operations",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a testimonial about a conference/networking event, not about AI optimizing business functions. No process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "While it has a named source (Mike Orosz, CISO at Vertiv), the claim is about conference value rather than operational capability enhancement.",
+      "apqc_functions": [],
+      "notes": "Not a capability case - this is marketing testimonial content unrelated to AI-driven functional optimization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes AI automation of security alert investigation process, which would optimize existing security operations. Pattern is replicable across organizations with similar security workflows.",
+      "evidence_quality_assessment": "Google is named as the vendor, but this appears to be a product announcement (preview Q2 2025) rather than a proven implementation with measurable results. No specific metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization potential but lacks implementation evidence or quantified benefits. Product announcement rather than case study."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Very generic claim about data pipeline management capabilities without specific process description or context of how AI optimizes existing functions.",
+      "evidence_quality_assessment": "Extremely vague - no specific organization, no quantified benefits, no detailed process description. Reads like marketing copy.",
+      "apqc_functions": [],
+      "notes": "Insufficient detail to assess as capability case. Generic product marketing without substantive operational claims."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes AI-assisted threat hunting and response that extends/augments existing security teams. This optimizes security operations through human-AI collaboration, fitting Tier 1 pattern.",
+      "evidence_quality_assessment": "Mandiant is named as provider and service is 'generally available', but no specific customer results, metrics, or measurable improvements provided. Reads more like service description than case study.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear workforce augmentation pattern but lacks specific evidence of implementation results or quantified benefits. Service description rather than proven case."
+    }
+  ],
+  "tier_verification": "Claims C2 and C4 are correctly classified as potential tier 1 capability cases (security operations optimization), but both lack implementation evidence. C1 and C3 are not capability cases at all."
+}

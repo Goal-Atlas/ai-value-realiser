@@ -1,0 +1,150 @@
+{
+  "case_id": "loop-earplugs-unified-data-accelerates-decisions-drives-measurable-revenue-growth",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of manufacturing/production function with specific cost reduction metric. Replicable pattern for production efficiency.",
+      "evidence_quality_assessment": "Named organization (Loop Earplugs), specific quantified metric (79% cost reduction, from ~71K to 15K euros), appears from credible source.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear production optimization with specific cost metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of production timeline function. Acceleration from 3 weeks to 5 days represents significant process improvement that's replicable.",
+      "evidence_quality_assessment": "Named organization, specific time metrics, measurable improvement claim.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong production efficiency optimization with clear time-based metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of marketing function performance with specific completion rate metric. Replicable pattern for marketing effectiveness.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (98% completion rate), measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear marketing function optimization with specific performance metric"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes creative function enhancement, but 'tenfold multiplication' is vague and difficult to verify or replicate without more context.",
+      "evidence_quality_assessment": "Named organization but metric is imprecise and subjective. 'Creative potential' is not clearly measurable.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Vague metric makes this difficult to verify; creative enhancement is valid optimization but needs clearer measurement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes overall business growth, not specific functional optimization. Growth percentage alone doesn't indicate AI-driven process improvement.",
+      "evidence_quality_assessment": "While specific (15,275% growth, Deloitte recognition), this is a business outcome metric, not a functional optimization claim.",
+      "apqc_functions": [],
+      "notes": "Business growth metric, not functional optimization - doesn't fit Tier 1 criteria"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of marketing campaign performance with AI-generated content. Specific completion rates show functional improvement that's replicable.",
+      "evidence_quality_assessment": "Named organization, specific metrics (95% and 98% completion rates), clear AI application to marketing function.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong marketing optimization case with specific performance metrics for AI-generated campaigns"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue growth metric describes business outcome, not specific functional optimization. No indication of which processes were improved.",
+      "evidence_quality_assessment": "Specific revenue figure but this is a business result, not a functional improvement claim.",
+      "apqc_functions": [],
+      "notes": "Business outcome metric, not functional optimization - doesn't meet Tier 1 criteria"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Overall business growth metrics, not specific functional optimizations. Volume and revenue figures are business outcomes.",
+      "evidence_quality_assessment": "Specific metrics but these are business results, not process improvement claims.",
+      "apqc_functions": [],
+      "notes": "Business growth metrics, not functional optimization claims"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Advertising spend level is a business metric, not a functional optimization claim. No improvement or efficiency gain indicated.",
+      "evidence_quality_assessment": "Specific figure but this is spending data, not an optimization outcome.",
+      "apqc_functions": [],
+      "notes": "Spending metric, not optimization claim - doesn't fit Tier 1 criteria"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Profitability is a business outcome, not a specific functional optimization. No process improvement indicated.",
+      "evidence_quality_assessment": "Clear timeline and outcome but this is a business result, not functional optimization.",
+      "apqc_functions": [],
+      "notes": "Business profitability outcome, not functional optimization"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of organic revenue generation function, exceeding target performance. Replicable pattern for revenue mix optimization.",
+      "evidence_quality_assessment": "Named organization, specific metrics (28.63% vs 20% target), measurable performance improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear marketing/sales function optimization with specific target vs. achievement metrics"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of organic traffic generation function with significant growth metric. Replicable pattern for digital marketing optimization.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (340.49% YoY growth), measurable improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong digital marketing optimization with specific growth metrics"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most approved claims represent clear functional optimizations (production, marketing) rather than business model changes. Rejected claims are business outcome metrics that don't demonstrate specific process improvements."
+}

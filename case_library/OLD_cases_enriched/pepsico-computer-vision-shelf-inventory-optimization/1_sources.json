@@ -1,0 +1,29 @@
+{
+  "case_id": "pepsico-computer-vision-shelf-inventory-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "PepsiCo machine vision: Shelf intelligence case study",
+      "url": "https://www.griddynamics.com/blog/pepsico-shelf-intelligence",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How PepsiCo harnesses data to help retailers increase sales",
+      "url": "https://www.supplychaindive.com/news/pepsico-data-sales-product-mix-shelf-space-optimization/607774/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "PepsiCo's Journey to Inventory Management Modernization",
+      "url": "https://www.couchbase.com/blog/pepsicos-journey-to-inventory-management-modernization/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "How is Pepsi Transforming Logistics and Supply Chain Tech?",
+      "url": "https://www.joneselitelogistics.com/blog/how-is-pepsi-transforming-logistics-and-supply-chain-tech/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

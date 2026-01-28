@@ -1,0 +1,29 @@
+{
+  "case_id": "thermo-fisher-ai-productivity-scientific-work",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Using Artificial Intelligence to Drive MS Workflow Productivity - AnalyteGuru",
+      "url": "https://www.thermofisher.com/blog/analyteguru/using-artificial-intelligence-to-drive-ms-workflow-productivity/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Thermo Fisher Scientific to Accelerate Life Science Breakthroughs with OpenAI",
+      "url": "https://www.businesswire.com/news/home/20251016668531/en/Thermo-Fisher-Scientific-to-Accelerate-Life-Science-Breakthroughs-with-OpenAI",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Lab of the Future Conference 2025: How the Digital Automated Lab, AI, and Orchestration Are Accelerating Science - The Connected Lab",
+      "url": "https://www.thermofisher.com/blog/connectedlab/lab-of-the-future-conference-2025-how-the-digital-automated-lab-ai-and-orchestration-are-accelerating-science/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Thermo Fisher Scientific's AI Strategy: Analysis of Dominance in Life Sciences - Klover.ai",
+      "url": "https://www.klover.ai/thermo-fisher-scientific-ai-strategy-analysis-of-dominance-in-life-sciences/",
+      "doc_type": "News Article"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "anz-core-banking-system-ibm-z-developer-tools",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "ANZ increased capacity for timelier mainframe backups and faster disaster recovery performance",
+      "quote": "ANZ, a top-five bank in Australia, sought to increase its capacity for timelier mainframe backups and faster DR performance to ensure high availability for its more than 8.5 million customers."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "ANZ built inter-site resiliency capacity with mirrored IBM zSystems servers",
+      "quote": "They built out an inter-site resiliency capacity, running mirrored IBM zSystems servers"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "ANZ serves more than 8.5 million customers requiring high availability",
+      "quote": "to ensure high availability for its more than 8.5 million customers"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "scania-accelerating-work-across-global-workforce-using-openai-tools",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Scania and OpenAI collaborate for responsible use of AI in sustainable transport",
+      "url": "https://www.scania.com/group/en/home/newsroom/news/2024/scania-and-openai-collaborate-for-responsible-use-of-ai-in-sustainable-transport.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Scania, OpenAI Partner on A.I. use in Sustainable Transport",
+      "url": "https://www.fleetequipmentmag.com/scania-openai-responsible-ai-sustainable-transport/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "BLOG: How we use AI to build a developer-first culture",
+      "url": "https://www.scania.com/group/en/home/career/life-at-scania/software-developers-at-scania/blog-posts/blog-how-we-use-ai-to-build-a-developer-first-culture.html",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

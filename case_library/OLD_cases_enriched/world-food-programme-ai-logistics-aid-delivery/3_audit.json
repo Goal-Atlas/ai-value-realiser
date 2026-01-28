@@ -1,0 +1,140 @@
+{
+  "case_id": "world-food-programme-ai-logistics-aid-delivery",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - speeds up existing humanitarian aid delivery process. Pattern is replicable across disaster response organizations.",
+      "evidence_quality_assessment": "Organization (WFP) is named but claim lacks specific metrics. 'Significantly speeds up' is vague without quantification.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantified evidence of speed improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes existing damage assessment function with clear efficiency gains. 'Unprecedented precision and speed' suggests significant improvement over manual methods.",
+      "evidence_quality_assessment": "Named organization but 'unprecedented precision and speed' lacks specific metrics. Need quantified comparison to baseline methods.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear process optimization but marketing language without specific metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce efficiency optimization - 5 people assessing 600,000 buildings demonstrates significant productivity gains over traditional methods.",
+      "evidence_quality_assessment": "Specific metrics provided: 600,000 buildings, 81% accuracy, 5 team members. Quantified and verifiable claims from named organization.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with specific metrics demonstrating clear efficiency gains"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates speed optimization in coverage assessment - 530 km2 in less than a week shows significant efficiency improvement.",
+      "evidence_quality_assessment": "Specific metrics: 530 km2, 1.3 million people, less than one week timeframe. Quantified claims from traceable source.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency metrics demonstrating rapid area coverage capability"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quantifies assessment capability output - identifying 28,000+ damaged structures demonstrates scale efficiency in damage assessment function.",
+      "evidence_quality_assessment": "Specific output metric (28,000+ structures) with context (Turkey earthquake). Verifiable claim from named organization.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Concrete output metric demonstrating assessment capability scale"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of resource allocation process through data integration. Pattern is replicable for resource planning functions.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics on efficiency gains. 'Efficient resource allocation' needs quantification.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "1.3",
+          "name": "Develop and measure strategic initiatives",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process description but needs metrics on allocation efficiency improvements"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes aid prioritization process during disaster response. Function improvement is clear and replicable pattern.",
+      "evidence_quality_assessment": "Named disaster event (Hurricane Ian) and organization but 'effectively prioritize' lacks specific metrics on improvement.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but needs quantified evidence of prioritization effectiveness"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing humanitarian aid delivery functions rather than business model innovation. Focus is on efficiency, speed, and accuracy improvements in established processes."
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "pwc-embeds-ai-into-consulting-to-drive-efficiency-and-client-innovation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "PwC identified approximately $100 million in cost savings from eliminating manual and repetitive activities",
+      "quote": "They identified approximately $100 million in cost savings, largely from eliminating manual and repetitive activities that took up employee time."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "PwC's overall profit rose 20% to \u00a31.37b despite stagnant revenue growth",
+      "quote": "PwC's overall profit rose 20% to \u00a31.37b, a 20% profit margin, despite stagnant top-line growth."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "88% of senior executives plan to increase AI-related budgets in the next 12 months",
+      "quote": "According to PwC's May 2025 AI Agent Survey, 88% of senior executives plan to increase their AI-related budgets in the next 12 months, driven by the growing promise of agentic AI."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Two-thirds of organizations adopting AI agents are seeing measurable productivity gains",
+      "quote": "And among organizations already adopting AI agents, two-thirds are seeing measurable gains in productivity."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "PwC reduced external translation service costs by 40 percent using AI",
+      "quote": "Reduction in external translation service costs by 40 percent."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI translation platform processes 30,000 words per minute",
+      "quote": "Alexa Translations claims that its platform translates 30,000 words per minute."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "GL.ai bot can analyze billions of data points in milliseconds for fraud detection",
+      "quote": "The company claims the bot scans data from across the entire organization by analyzing billions of data points in milliseconds."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "25% of investors are willing to pay up to a 50% premium for companies that integrate sustainability",
+      "quote": "25% of investors are willing to pay up to a 50% premium for companies that integrate sustainability."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_id": "publicis-groupe-coreai-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "CoreAI enables businesses to scale personalized content production and tailor experiences to specific audiences",
+      "quote": "This will enable businesses to scale the production of personalized content, and through Publicis Groupe's industry-leading identity solutions, tailor experiences to specific audiences \u2013 driving deeper engagement, innovation and growth for clients."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Firefly generative AI provides speed, creative control, improved workflows, and cost efficiency",
+      "quote": "Publicis Groupe's agencies and production studios will go a step further with commercially safe Firefly generative AI models for image, vector and video creation, providing both speed and creative control for clients to personalize experiences at scale \u2013 while at the same time improving workflows, cost efficiency and driving creative expression."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Publicis reported organic revenue growth of 6.3% in 2023, above prior guidance",
+      "quote": "Publicis enacting the latest chapter in its transformation comes as the network reported organic revenue growth of 6.3% in 2023, above prior guidance."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Epsilon experienced double-digit growth and data/tech segment accounted for one-third of net revenue in Q4",
+      "quote": "Publicis' data and tech segment accounted for a third of net revenue in Q4, with Epsilon experiencing double-digit growth over the period."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "CoreAI massively improves efficiency by allowing strategists to immediately respond with analysis instead of weeks of data scientist work",
+      "quote": "Instead of having teams of data scientists working to clean and then to harmonize and then to analyze the data over the course of weeks, our strategists immediately respond with clear analysis of the opportunity."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Publicis reported 6.3% organic growth in 2023, surpassing industry averages, partly attributed to digital and AI-driven initiatives",
+      "quote": "The group reported a 6.3% organic growth in 2023, surpassing industry averages and attributing this success partly to its digital and AI-driven initiatives."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "CoreAI has demonstrated potential in streamlining operations, enhancing creative processes, and delivering personalized marketing at scale",
+      "quote": "CoreAI has demonstrated potential in streamlining operations, enhancing creative processes, and delivering personalized marketing at scale."
+    }
+  ]
+}

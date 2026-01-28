@@ -1,0 +1,47 @@
+{
+  "case_id": "wells-fargo-customer-decision-hub",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Wells Fargo achieved significant customer engagement through AI virtual assistant with over 21 million interactions",
+      "quote": "Per its annual report of 2023, consumers interacted over 21 million times last year with the bank via this virtual assistant."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Wells Fargo reported strong financial performance with 11% increase in net income",
+      "quote": "Financially, Wells Fargo reported strong performance in 2023 and generated $19.1 billion in net income, an 11 percent increase from the previous year."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Wells Fargo achieved 47% increase in quarterly net income",
+      "quote": "The company also reported strong financial performance for the fourth quarter of 2024. Its net income reached $5.1 billion, representing a significant 47% increase compared to the same quarter in the previous year."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI enables Wells Fargo to deliver hyper-personalized interactions that drive engagement and revenue",
+      "quote": "Advanced analytics to personalize customer engagement at scale: Leveraging predictive and adaptive analytics for real-time decision-making and generative AI for dynamic content creation to deliver hyper-personalized interactions that drive engagement and revenue."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Fargo virtual assistant handled over 20 million interactions with projections to manage over 100 million annually",
+      "quote": "Fargo handled over 20 million interactions since its launch, with projections to manage over 100 million interactions annually."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Virtual assistant significantly reduced response time and improved customer satisfaction",
+      "quote": "The virtual assistant significantly reduced the response time for customer inquiries, leading to improved customer satisfaction."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI automation freed up human agents to handle more complex customer demands, boosting operational efficiency",
+      "quote": "By handling routine queries through automation, Fargo freed up human agents to tackle more intricate customer demands, thus boosting operational efficiency."
+    }
+  ]
+}

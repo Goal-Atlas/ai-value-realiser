@@ -1,0 +1,53 @@
+{
+  "case_id": "bitazza-scaled-broker-platform-crypto-adoption-google-cloud-ai",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Scaled data infrastructure to support $4.6 billion in transactions in 2024",
+      "quote": "Scaled data infrastructure to support $4.6 billion in transactions in 2024"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Accelerated financial statement creation by 75%, reducing process time from one year to three months",
+      "quote": "Accelerated financial statement creation by 75%, cutting the process from one year to three months"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Maintains regulatory compliance with near-real-time data reporting",
+      "quote": "Maintains regulatory compliance with near-real-time data report"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Empowers data team to build and run CI/CD pipelines without dedicated DevOps engineer",
+      "quote": "Empowers data team to build and run their own CI/CD pipelines, without a dedicated DevOps engineer"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Built and scaled data infrastructure to drive $4.6B in transactions in 2024",
+      "quote": "its data team built and scaled its data infrastructure to drive $4.6B in transactions in 2024"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Must process and submit accurate daily aggregated millions of transactions for compliance",
+      "quote": "Bitazza Thailand must process near-real-time and submit accurate daily aggregated millions of transactions"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Thai cryptocurrency market revenue expected to reach US$256.4 million in 2023",
+      "quote": "according to Statista, the Thai cryptocurrency market revenue is expected to reach US$256.4 million in 2023"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Offers trading of over 80 currencies in secure and regulated marketplace",
+      "quote": "A secure and regulated marketplace that offers global prices, allowing users to buy, sell, or trade over 80 currencies"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "johnson-controls-automates-invoice-processing",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Johnson Controls processes hundreds of thousands of invoices per day across the organization worldwide",
+      "quote": "As such, it deals with \"hundreds of thousands\" of invoices per day across the organization, worldwide, Engel said."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Johnson Controls aims to achieve 90% hands-free invoice processing by end of year",
+      "quote": "Our goal from an IT standpoint is to get up in the 90s in terms of a percentage being handled hands-free, Engel said. I'm confident we'll make it to 90%, probably by the end of the year."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The pilot proved the technology works for creating a touchless AP system",
+      "quote": "If they all match up, you wind up having a touchless AP system, Engel said. In practice, exceptions in the business process and other \"internal workings\" sometimes thwart the automation routines. But the pilot proved the technology works, he said."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Johnson Controls is a Fortune 500 leader with more than $25B in annual revenue",
+      "quote": "Johnson Controls is a Fortune 500 leader in building technology with more than $25B in annual revenue."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Johnson Controls processes approximately 100,000 invoices each month",
+      "quote": "With operations in 150+ countries and approximately 100,000 invoices processed each month, Johnson Controls runs AR at massive scale."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Collection rate increased from 20% to 27% with Debt Register, saving $1.8M annually",
+      "quote": "Before Debt Register: 20% collection rate, costing $3.6M annually - With Debt Register: collection rate increased to 27%, saving $1.8M annually"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Combined collection rate rose to 36%, increasing overall collections by $17M",
+      "quote": "Combined (Debt Register + DCAs): total collection rate rose to 36%, increasing overall collections by $17M"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Debt Register allows more effective cash collection while saving time and reducing frustrations",
+      "quote": "Debt Register is an incredibly flexible and fast tool that delivers results. It allows us to collect cash more effectively, saving time and reducing frustrations. The team appreciates its ease of use and the immediate impact it has on our collections process."
+    }
+  ]
+}

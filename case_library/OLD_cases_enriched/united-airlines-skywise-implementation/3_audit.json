@@ -1,0 +1,140 @@
+{
+  "case_id": "united-airlines-skywise-implementation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes data management optimization which is functional improvement, but very generic without specific process details",
+      "evidence_quality_assessment": "Named organization (United Airlines) but claim lacks specificity - no metrics, timeframes, or concrete examples of efficiency gains",
+      "apqc_functions": [
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Generic efficiency claim without substantive detail or measurement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Platform consolidation represents operational optimization by reducing system complexity, but lacks specific process improvement details",
+      "evidence_quality_assessment": "Named organization but purely descriptive of platform capabilities without evidence of actual improvement or adoption outcomes",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Technology capability description without demonstrated business impact"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Operational reliability enhancement is clear functional optimization, but claim is aspirational ('will provide') rather than demonstrated",
+      "evidence_quality_assessment": "Named organizations (United, Palantir, Airbus) but forward-looking promise rather than achieved result",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Future-tense promise rather than demonstrated capability improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Fleet performance maximization is clear operational optimization, but lacks specificity about what performance metrics or processes are improved",
+      "evidence_quality_assessment": "Named organization but vague on actual improvements - 'maximize performance' and 'continuously improve' without metrics or examples",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Generic optimization claim without specific measurable outcomes"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Operational efficiency in maintenance and flight operations is clearly functional optimization within established airline operations",
+      "evidence_quality_assessment": "Named organization and specific functional areas identified, but 'significant value' is unquantified and no concrete examples provided",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Identifies specific operational areas but lacks quantified benefits or concrete examples"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Operational performance improvement across aviation value chain suggests functional optimization, but very broad and generic",
+      "evidence_quality_assessment": "Claims industry-wide adoption ('all major aviation players') but provides no specific examples, metrics, or verification of this broad assertion",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Overly broad industry claim without substantiation or specific examples"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Improved prediction accuracy through data sharing represents analytical capability enhancement, which is functional optimization",
+      "evidence_quality_assessment": "Logical premise about data network effects but no specific metrics, examples, or evidence of actual prediction accuracy improvements",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Theoretical benefit of data network effects without demonstrated results"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing airline operational functions (maintenance, flight operations, data management) rather than new business models or revenue streams"
+}

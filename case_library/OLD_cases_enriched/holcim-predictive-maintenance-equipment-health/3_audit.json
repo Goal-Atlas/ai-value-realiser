@@ -1,0 +1,116 @@
+{
+  "case_id": "holcim-predictive-maintenance-equipment-health",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing logistics delivery function - 7 minutes faster delivery is a measurable efficiency gain in bounded process",
+      "evidence_quality_assessment": "Named organization (Holcim), specific quantified metric (7 minutes), appears to be from AWS case study which is traceable",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear delivery optimization with specific time savings metric"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent optimization claim - 800,000 hours saved across 200,000 job sites represents massive efficiency gains in logistics operations",
+      "evidence_quality_assessment": "Named organization, highly specific metrics (800k hours, 200k sites), scale suggests credible enterprise deployment",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Exceptional Tier 1 case with quantified efficiency gains at enterprise scale"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "On-time delivery optimization - 6.4 million loads represents quality improvement in existing delivery function",
+      "evidence_quality_assessment": "Named organization, specific volume metric, consistent with other claims suggesting reliable source",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong delivery performance optimization with substantial volume metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Route and load optimization is clear functional improvement, but this is a target/goal rather than achieved result",
+      "evidence_quality_assessment": "Named organization and specific target (24% by 2030), but represents future commitment rather than demonstrated capability",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Future target rather than current achievement - may belong in strategic planning rather than operational capability"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is context/background information about scale, not a claim about AI optimization or improvement",
+      "evidence_quality_assessment": "While specific about scale (billions, hundreds of millions of tons), this describes existing operations rather than AI-driven improvements",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Background context only - no optimization or improvement claim made"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - digitizing paper tickets streamlines delivery operations and reduces waste",
+      "evidence_quality_assessment": "Named organization, specific process change (7 paper copies to electronic), measurable operational improvement",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process digitization with clear efficiency and sustainability benefits"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all approved claims describe optimization of existing logistics and delivery functions rather than business model changes or new revenue streams"
+}

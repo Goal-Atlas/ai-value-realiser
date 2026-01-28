@@ -1,0 +1,35 @@
+{
+  "case_id": "intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Introducing Intercom's AI Copilot: Increase agent efficiency by 31% - The Intercom Blog",
+      "url": "https://www.intercom.com/blog/announcing-fin-ai-copilot/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Fin 2: The first AI agent that delivers human-quality service - The Intercom Blog",
+      "url": "https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "What's new with Fin 3: The best AI Agent for complex queries across every channel - The Intercom Blog",
+      "url": "https://www.intercom.com/blog/whats-new-with-fin-3/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Headlines from Pioneer 2025: Fin 3, the vision for a unified Customer Agent, and what's next for customer experience - The Intercom Blog",
+      "url": "https://www.intercom.com/blog/headlines-from-pioneer-2025/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "Intercom Releases Fin 2 AI Agent - Smart Customer Service",
+      "url": "https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx",
+      "doc_type": "News Article"
+    }
+  ]
+}

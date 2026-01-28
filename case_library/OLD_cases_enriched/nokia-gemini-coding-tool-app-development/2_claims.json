@@ -1,0 +1,65 @@
+{
+  "case_id": "nokia-gemini-coding-tool-app-development",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Developers can create 5G applications faster with AI-enhanced tools",
+      "quote": "Nokia and Google Cloud collaborate to help developers worldwide create 5G applications faster with telco APIs"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI capabilities improve developer productivity through coding assistance",
+      "quote": "This will enable developers to easily consume AI in their applications and improve productivity with coding assistance agents"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Healthcare companies can provide better and safer customer experiences",
+      "quote": "beginning with healthcare industry to help telehealth companies provide better, safer customer experiences"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Developers gain access to standardized 5G network capabilities globally",
+      "quote": "Google Cloud's expansive developer community, covering all major industries and geographies, will benefit by having access to standardized 5G network capabilities around the world"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Platform enables developers to create value for customers faster",
+      "quote": "enabling thousands of Google Cloud developers to tap into our network capabilities so that they can create value for their customers faster"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Platform accelerates software application development for new use cases",
+      "quote": "enables application developers and communication service providers (CSPs) to accelerate the work of producing software applications for new enterprise, industrial, and consumer use cases"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "CSPs can monetize 5G and 4G network assets beyond basic connectivity",
+      "quote": "monetizing 5G and 4G network assets beyond basic connectivity"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Platform provides CSPs a viable pathway to utilize 5G assets for value creation",
+      "quote": "providing CSPs a viable new pathway to utilize their 5G assets for enterprise and consumer value creation"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Developers can create enhanced applications and experiences for customers",
+      "quote": "this platform gives developers a meaningful way to create enhanced applications and experiences for their customers"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Platform enables creation and monetization of solutions for new use cases",
+      "quote": "Developers and CSPs can leverage the combination of Nokia's Network as Code platform with the DISH 5G Open RAN cloud-based network to create and monetize solutions for new use cases across both consumer and enterprise markets"
+    }
+  ]
+}

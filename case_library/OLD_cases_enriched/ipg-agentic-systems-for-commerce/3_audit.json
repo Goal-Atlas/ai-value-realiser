@@ -1,0 +1,144 @@
+{
+  "case_id": "ipg-agentic-systems-for-commerce",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Shows performance improvement but unclear if this represents business model transformation or optimization of existing services",
+      "evidence_quality_assessment": "Named organization (IPG) with specific metric (double-digit improvement) but lacks granular details on measurement methodology",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Performance metrics suggest impact but need clarity on whether this is new revenue stream or enhanced existing services"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Explicitly describes expansion beyond core capability set into new solution areas - clear business model expansion",
+      "evidence_quality_assessment": "Direct quote from IPG leadership describing strategic intent to create new revenue streams beyond traditional marketing communications",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear articulation of business model transformation from marketing services to AI-enabled commerce solutions"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Demonstrates measurable impact but unclear if this represents new market creation or enhancement of existing marketing services",
+      "evidence_quality_assessment": "Specific metrics (double-digit improvements) with named scale (two dozen brands) but lacks detailed attribution or methodology",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong performance indicators but strategic transformation unclear without more context on service model change"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost curve flattening which could indicate transformation but may be efficiency improvement rather than business model change",
+      "evidence_quality_assessment": "Conceptual claim without specific metrics or detailed evidence of implementation",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Cost optimization language suggests Tier 1 characteristics; needs evidence of fundamental business model change"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Rapid adoption of agentic commerce system suggests new category creation beyond traditional marketing tools",
+      "evidence_quality_assessment": "Specific adoption numbers (20+ CPG brands) with clear differentiation from traditional AI-enabled tools",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of new product category with clear market differentiation from existing tool-based approaches"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market research finding about challenger vs legacy brands - not directly related to IPG's business transformation",
+      "evidence_quality_assessment": "Specific data (16 of 18 categories) but this is market context rather than evidence of IPG's transformation",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Market intelligence rather than transformation evidence; provides context but not proof of IPG's business model change"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market performance data about brand categories - contextual information rather than transformation evidence",
+      "evidence_quality_assessment": "Specific metrics (86 percentage point deltas) but describes market conditions, not IPG's transformation",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Market research data providing context for why transformation is needed, but not evidence of IPG's actual transformation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market inefficiency observation - describes problem that creates opportunity but not IPG's solution or transformation",
+      "evidence_quality_assessment": "Specific statistic (90% of pages untouched) but describes market gap rather than IPG's response",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Market opportunity identification rather than transformation evidence; shows why change is needed but not what IPG has achieved"
+    }
+  ],
+  "tier_verification": "Partially correct classification. Claims C2 and C5 demonstrate genuine tier 1 transformation (new business model, expansion beyond core services). Claims C1 and C3 show strong performance but need validation of strategic transformation vs. optimization. Claims C4, C6, C7, C8 are market context rather than transformation evidence. The core transformation claim (expanding from marketing communications into AI-enabled commerce solutions) is valid tier 1."
+}

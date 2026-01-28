@@ -1,0 +1,53 @@
+{
+  "case_id": "natura-revolutionized-testing-substances-google-cloud-ai",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Testing time reduced from days to hours",
+      "quote": "A battery of tests on components and essences, something essential for Natura's business, that used to take days are now performed in hours using Google Cloud Platform"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Time-to-market reduced by one third",
+      "quote": "Since Natura started using the platform, it reduced its products' time-to-market by one third, from 1 year to 8 months"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "90% cost reduction in test project investments",
+      "quote": "The test project in the cloud's virtual environment meant spending only 10% of the projected investments"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Increased test volume due to lower cost per test",
+      "quote": "With a lower cost per test, the company managed to create a much larger volume than expected"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Migrated 900 TB of data and 20,000+ accounts in six months",
+      "quote": "Migrated 900 TB of data and 20,000+ accounts from the previous solution in just six months"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "80%+ employee satisfaction rate with new collaboration suite",
+      "quote": "Achieved an 80%+ employee satisfaction rate with the new collaboration suite through well-planned change management programs"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Eliminated 17+ hours of manual work per week",
+      "quote": "Eliminated 17+ hours of manual work per week with AppSheet to give its finance team more time to focus on high-value analysis and planning"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Reduced information search time by 83%",
+      "quote": "Reduced internal information search time from 30 minutes down to five with an internal knowledge base in Google Sites"
+    }
+  ]
+}

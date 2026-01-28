@@ -1,0 +1,23 @@
+{
+  "case_id": "natura-revolutionized-testing-substances-google-cloud-ai",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "NATURA Case Study | Google Cloud Documentation",
+      "url": "https://cloud.google.com/customers/natura",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Natura's new collaboration approach | Google Workspace | Google Workspace Blog",
+      "url": "https://workspace.google.com/blog/customer-stories/how-natura-used-google-workspace-new-collaboration-approach",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "101 real-world gen AI use cases with technical blueprints | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/real-world-gen-ai-use-cases-with-technical-blueprints",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

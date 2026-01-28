@@ -1,0 +1,35 @@
+{
+  "case_id": "canva-integrated-veo-3-text-to-video-creation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Canva adds Google's Veo 3 model to enable text-to-video generation - CNBC TV18",
+      "url": "https://www.cnbctv18.com/technology/canva-google-veo-3-model-text-to-video-feature-ws-l-19623141.htm",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Google's Veo 3 comes to Canva, allows users to generate 8-second video clips using\u2026 - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/googles-veo-3-comes-to-canva-allows-users-to-generate-8-second-video-clips-using/articleshow/121936408.cms",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Google's Veo 3 video model is now live in Canva \u2014 here's how to try it",
+      "url": "https://tech.yahoo.com/ai/articles/google-veo-3-video-model-193226592.html",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Google Veo 3 Lands in Canva: Marketers Must Embrace Generative Video",
+      "url": "https://aragonresearch.com/google-veo-3-canva-marketing-generative-video/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "iTWire Google's Veo 3 comes to Canva introducing create a video clip",
+      "url": "https://itwire.com/business-it-news/business-intelligence/itwire-google-s-veo-3-comes-to-canva-introducing-create-a-video-clip.html",
+      "doc_type": "News Article"
+    }
+  ]
+}

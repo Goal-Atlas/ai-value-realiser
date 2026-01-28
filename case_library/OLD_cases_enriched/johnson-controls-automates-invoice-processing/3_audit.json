@@ -1,0 +1,119 @@
+{
+  "case_id": "johnson-controls-automates-invoice-processing",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Establishes scale context for invoice processing optimization - clear functional scope within accounts payable operations",
+      "evidence_quality_assessment": "Named organization (Johnson Controls), specific volume metric (hundreds of thousands daily), attributed to named executive (Engel)",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Context-setting claim that establishes the scale of the AP function being optimized"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization target for existing AP function - 90% automation represents significant efficiency improvement in established process",
+      "evidence_quality_assessment": "Specific target metric (90%), timeline (end of year), attributed to named IT executive with confidence statement",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong capability case - quantified automation target for core financial process"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes successful proof of concept for touchless AP system - clear functional optimization with replicable automation pattern",
+      "evidence_quality_assessment": "Named organization, executive attribution, describes both success and limitations (exceptions), credible technical detail",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Validates technical feasibility of the automation approach with realistic acknowledgment of process exceptions"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Organizational context - establishes credibility and scale of the company implementing the optimization",
+      "evidence_quality_assessment": "Verifiable Fortune 500 status and revenue figure, establishes organizational credibility",
+      "apqc_functions": [
+        {
+          "id": "1.1",
+          "name": "Define the business concept and long-term vision",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Context claim that supports credibility of the case study organization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Provides scale context but conflicts with C1 - 100k monthly vs hundreds of thousands daily doesn't align mathematically",
+      "evidence_quality_assessment": "Specific metric but appears to be from different source with conflicting volume data",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Volume discrepancy with C1 needs clarification - may be AR vs AP distinction or measurement error"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of collections function - quantified improvement in existing AR process with specific cost savings",
+      "evidence_quality_assessment": "Specific metrics (20% to 27% collection rate, $1.8M savings), named technology (Debt Register), measurable outcome",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong capability case with quantified ROI for collections optimization"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates combined optimization approach achieving 36% collection rate - clear functional improvement with substantial financial impact",
+      "evidence_quality_assessment": "Specific combined metrics (36% rate, $17M increase), shows comprehensive optimization results",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent capability case showing significant financial impact from collections process optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes qualitative benefits of collections optimization - efficiency gains and user experience improvements in established function",
+      "evidence_quality_assessment": "First-party testimonial describing operational benefits, though less quantified than other claims",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Qualitative validation of the collections optimization benefits from user perspective"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing financial functions (AP automation and AR collections improvement) rather than business model changes or new revenue streams"
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "crediclub-audit-automation-savings",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Fundraising is a financial event, not functional optimization. Does not describe improving existing processes or operations.",
+      "evidence_quality_assessment": "While specific ($80M) and traceable, this is not a capability improvement claim.",
+      "apqc_functions": [],
+      "notes": "Fundraising announcement - not a capability case claim"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Capitalization ratio improvement is a financial outcome of funding, not operational optimization through AI/technology.",
+      "evidence_quality_assessment": "Specific metrics provided but not related to process improvement or efficiency gains.",
+      "apqc_functions": [],
+      "notes": "Financial metric resulting from capital injection - not capability optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth rate is a business outcome metric, not a description of functional process optimization.",
+      "evidence_quality_assessment": "Specific metric but no connection to how processes were improved or optimized.",
+      "apqc_functions": [],
+      "notes": "Business growth metric - lacks process optimization detail"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes business model transformation (branch-based to digital), not optimization of existing functions. This is strategic restructuring, not capability enhancement.",
+      "evidence_quality_assessment": "Specific and well-documented transformation, but represents business model change rather than process optimization.",
+      "apqc_functions": [],
+      "notes": "Business model transformation - should be classified as tier 1, not Tier 1"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer count and market ranking are business outcomes, not descriptions of functional optimization or process improvement.",
+      "evidence_quality_assessment": "Specific metrics and market position data, but no operational improvement claims.",
+      "apqc_functions": [],
+      "notes": "Market performance metrics - not capability optimization claims"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Asset size is a financial metric, not a functional optimization claim.",
+      "evidence_quality_assessment": "Specific financial data but unrelated to process improvement. Note: MX$5.1 million seems unusually low for an institution with 1.6M customers - possible data error.",
+      "apqc_functions": [],
+      "notes": "Financial metric only - no operational improvement described. Asset figure appears questionable."
+    }
+  ],
+  "tier_verification": "MISCLASSIFIED - This case appears to describe business model transformation (tier 1) rather than capability optimization (tier 1). The digital transformation from branch-based to fully digital represents fundamental business model change, not functional process improvement. No claims describe AI/technology optimizing existing processes for efficiency, cost reduction, or quality improvement."
+}

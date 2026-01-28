@@ -1,0 +1,154 @@
+{
+  "case_id": "camping-world-modernized-contact-centers",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of customer service operations through automation. Pattern is replicable across contact centers.",
+      "evidence_quality_assessment": "Generic industry claim without specific organization attribution. Lacks verification of the 70% automation rate and $5.50 savings figure.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Industry-level claim needs specific organizational validation to be fully credible"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear cost optimization through automation of customer service function. Replicable pattern.",
+      "evidence_quality_assessment": "Specific cost metric provided but lacks organizational attribution or methodology explanation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Cost savings figure needs validation through specific case study or methodology"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing customer service operations. Pattern replicable for other retailers with contact centers.",
+      "evidence_quality_assessment": "Named organization (Camping World), specific metric (33% efficiency improvement), appears to be from IBM case study.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear functional optimization and measurable results"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of customer engagement within existing service model. Replicable pattern for customer service operations.",
+      "evidence_quality_assessment": "Named organization, specific metric (40% engagement increase), traceable to IBM case study.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear capability enhancement with quantified improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of customer service engagement metrics. Replicable across similar contact center operations.",
+      "evidence_quality_assessment": "Named organization with specific quantified result from what appears to be official case study documentation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Consistent with other claims, reinforces credibility through multiple source confirmation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational efficiency improvement in customer service delivery. Pattern applicable to other contact centers.",
+      "evidence_quality_assessment": "Named organization, specific measurable improvement (33-second reduction), from credible case study source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Concrete operational metric showing process optimization"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Direct optimization of workforce efficiency within existing customer service function. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement, consistent across multiple sources.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of capability enhancement with clear efficiency gains"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of customer service availability and data capture processes. Replicable pattern for improving existing service operations.",
+      "evidence_quality_assessment": "Named organization, specific functional improvements described, appears to be from authoritative case study.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Describes both service optimization and sales support enhancement through better data capture"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing customer service operations rather than business model transformation. Focus is on efficiency, cost reduction, and quality improvements within established contact center functions."
+}

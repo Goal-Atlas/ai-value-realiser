@@ -1,0 +1,47 @@
+{
+  "case_id": "acentra-health-medscribe-azure-openai-documentation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "60% reduction in administrative time allowing staff to focus on patient care",
+      "quote": "60% Reduction in Administrative Time: Staff could now dedicate more time to direct patient care rather than navigating paperwork."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "30% improvement in patient response times through automation",
+      "quote": "30% Improvement in Patient Response Times: With automation in place, Acentra Health has seen a drastic decrease in time lags for patient queries and service requests."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Enhanced patient satisfaction through streamlined processes",
+      "quote": "Enhanced Patient Satisfaction: Surveys reflect a notable increase in patient satisfaction due to streamlined appointment scheduling and improved communication channels."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Significant cost savings through automation and operational efficiency",
+      "quote": "By automating redundant tasks and enhancing operational efficiency, Acentra Health realized significant cost savings."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Improved resource allocation by reducing manual workload",
+      "quote": "The reduced manual workload allowed for the reallocation of resources, focusing efforts on innovative patient care programs rather than administrative tasks."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Higher employee job satisfaction due to reduction in mundane tasks",
+      "quote": "Employees report higher job satisfaction due to a decline in mundane tasks, allowing them to engage more deeply with the patients."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Transformation from reactive to proactive patient care through predictive analytics",
+      "quote": "This predictive capability allows practitioners to forecast patient needs effectively, leading to proactive rather than reactive care."
+    }
+  ]
+}

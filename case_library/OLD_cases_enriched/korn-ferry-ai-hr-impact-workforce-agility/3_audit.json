@@ -1,0 +1,121 @@
+{
+  "case_id": "korn-ferry-ai-hr-impact-workforce-agility",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a survey sentiment metric, not functional optimization. No process improvement or efficiency gain described.",
+      "evidence_quality_assessment": "While specific (58%), this measures perception rather than operational impact. No functional improvement claimed.",
+      "apqc_functions": [],
+      "notes": "Survey data about AI implementation sentiment does not constitute a capability case - no operational optimization demonstrated."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Employee optimism about future AI impact is not current functional optimization. No existing process improvement described.",
+      "evidence_quality_assessment": "Specific metric but measures sentiment/expectation rather than achieved operational results.",
+      "apqc_functions": [],
+      "notes": "Forward-looking sentiment data, not evidence of current capability enhancement."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Belief about future value enhancement is not current functional optimization. No process improvement described.",
+      "evidence_quality_assessment": "Specific percentage but measures future expectations, not current operational improvements.",
+      "apqc_functions": [],
+      "notes": "Expectation data rather than demonstrated capability improvement."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Training adequacy perception is not functional optimization. No process efficiency or improvement described.",
+      "evidence_quality_assessment": "Specific metric but measures training perception rather than operational impact or results.",
+      "apqc_functions": [],
+      "notes": "Training readiness survey data, not evidence of functional optimization."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - 75% cost reduction in hiring process is significant efficiency gain in established HR function.",
+      "evidence_quality_assessment": "Specific quantified metric but no organization attribution. Appears to be Korn Ferry's own service results but lacks client identification.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong efficiency claim but needs client attribution for full credibility. Pattern is replicable across organizations."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - 30% faster time-to-shortlist represents measurable efficiency improvement in recruitment process.",
+      "evidence_quality_assessment": "Specific metric but lacks individual organization attribution. General claim about 'organizations using AI' without named examples.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Solid efficiency metric but needs specific organizational examples for stronger evidence quality."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - 2-3x higher win rates on complex searches shows significant effectiveness improvement in recruitment.",
+      "evidence_quality_assessment": "Specific range but lacks individual organization attribution. General industry claim without named case examples.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong effectiveness improvement but needs organizational attribution for full credibility."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes data platform scale/capability rather than functional optimization outcomes. No process improvement metrics provided.",
+      "evidence_quality_assessment": "Specific data points but describes platform features rather than operational improvements or efficiency gains.",
+      "apqc_functions": [],
+      "notes": "Platform capability description, not evidence of functional optimization or process improvement."
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Survey finding about reward program communication practices, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "Specific metric but describes current state problem rather than AI solution or improvement.",
+      "apqc_functions": [],
+      "notes": "Market research finding, not capability case evidence."
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Survey data about reward strategy communication issues, not functional optimization through AI.",
+      "evidence_quality_assessment": "Specific metrics but describes problems rather than AI-driven solutions or improvements.",
+      "apqc_functions": [],
+      "notes": "Problem identification from survey, not capability improvement evidence."
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future salary increase plans are not AI-driven functional optimization. No process improvement described.",
+      "evidence_quality_assessment": "Specific metric but describes future compensation plans, not operational improvements through AI.",
+      "apqc_functions": [],
+      "notes": "Compensation planning data, not evidence of AI capability enhancement."
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future salary increase statistics are not AI-driven functional optimization. No process improvement described.",
+      "evidence_quality_assessment": "Specific metric but describes compensation trends, not AI-driven operational improvements.",
+      "apqc_functions": [],
+      "notes": "Market trend data, not capability case evidence."
+    }
+  ],
+  "tier_verification": "Most claims are survey/sentiment data rather than functional optimization evidence. Claims C5-C7 show potential tier 1 capability improvements in recruitment but lack organizational attribution. The case appears to mix market research with some capability claims."
+}

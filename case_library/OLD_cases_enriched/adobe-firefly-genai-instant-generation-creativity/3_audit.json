@@ -1,0 +1,220 @@
+{
+  "case_id": "adobe-firefly-genai-instant-generation-creativity",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates market leadership in new AI-generated content category with specific metrics (3 billion images). Shows Adobe successfully entering and dominating a new market segment.",
+      "evidence_quality_assessment": "Strong - specific metric (3 billion images), named company (Adobe), authoritative first-party source with verifiable claims.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear evidence of new market creation and leadership in AI-generated commercial content"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "90% new users indicates significant market expansion beyond Adobe's traditional customer base - evidence of accessing previously unreachable segments through AI capabilities.",
+      "evidence_quality_assessment": "Strong - specific metric (90%), named company, first-party source from official Adobe communications.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates market expansion and customer base transformation through AI accessibility"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes capability improvements but lacks clear evidence of business model transformation. Focuses on 'faster' production rather than fundamentally new value creation.",
+      "evidence_quality_assessment": "Moderate - named company and specific technical improvements mentioned, but lacks quantitative metrics on transformation impact.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "More operational improvement than strategic transformation - may be Tier 1 element"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims to remove barriers and save time, but doesn't demonstrate new business model or market creation. Sounds more like efficiency improvement.",
+      "evidence_quality_assessment": "Weak - vague claims about 'putting hours back' without specific metrics or quantifiable evidence.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Lacks specificity and appears more focused on efficiency than transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic efficiency claims ('greater efficiency') without evidence of business model change or new market creation.",
+      "evidence_quality_assessment": "Weak - marketing language without specific metrics or demonstrable transformation outcomes.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague and efficiency-focused for tier 1 - appears to be Tier 1 content"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates AI feature becoming the primary value driver within Adobe's flagship product - shows AI centrality to user engagement and product value.",
+      "evidence_quality_assessment": "Strong - specific claim about feature usage leadership, named product (Photoshop), authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Shows AI becoming core to Adobe's primary product value proposition"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "20x scaling in 6 months demonstrates rapid infrastructure transformation to support new AI-driven business model and market demand.",
+      "evidence_quality_assessment": "Strong - specific metric (20x scaling, 6 months timeframe), named company, technical partnership details (Amazon EC2).",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates infrastructure transformation to support new AI-driven business model"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Rapid 9-month development and integration across flagship products shows strategic transformation of Adobe's entire creative suite around AI capabilities.",
+      "evidence_quality_assessment": "Strong - specific timeline (9 months), named products (Photoshop, Illustrator, etc.), verifiable integration claims.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Shows systematic transformation of Adobe's product portfolio around AI capabilities"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Democratization of design capabilities ('anyone at any skill level') represents market expansion and accessibility transformation - new user segments can now access creative capabilities.",
+      "evidence_quality_assessment": "Moderate - clear capability description from official source, though lacks specific adoption metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates democratization and market expansion through AI accessibility"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Commercial usage rights represent fundamental shift in AI-generated content business model - enables new revenue streams and business applications.",
+      "evidence_quality_assessment": "Strong - specific policy change with clear business implications, official Adobe source.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Enables new business models through commercial usage rights for AI-generated content"
+    },
+    {
+      "claim_id": "C11",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Platform consolidation claim but lacks specific evidence of business model transformation beyond convenience and cost savings.",
+      "evidence_quality_assessment": "Moderate - addresses real market pain point but lacks specific metrics on consolidation impact or adoption.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Platform play potential but needs stronger evidence of transformation vs. convenience"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "End-to-end workflow platform represents business model shift from individual tools to comprehensive creative platform - enables new integrated value proposition.",
+      "evidence_quality_assessment": "Moderate - clear platform strategy description from official source, though lacks specific workflow completion metrics.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates platform transformation enabling complete creative workflows"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Adobe is transforming from traditional creative software to AI-powered creative platform, creating new markets (AI-generated commercial content), expanding customer base (90% new users), and enabling new business models (commercial AI content rights). Some claims (C3, C4, C5) appear more tier 1 focused on efficiency rather than transformation."
+}

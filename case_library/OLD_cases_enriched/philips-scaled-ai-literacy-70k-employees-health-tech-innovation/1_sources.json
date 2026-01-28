@@ -1,0 +1,29 @@
+{
+  "case_id": "philips-scaled-ai-literacy-70k-employees-health-tech-innovation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Using AI and ML to Improve Medical Imaging Diagnostics | Philips Case Study | AWS",
+      "url": "https://aws.amazon.com/solutions/case-studies/philips-healthsuite-machine-learning/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "The AI Revolution in Healthcare. Authors: Tim Hulsen, Senior Data & AI\u2026 | by Philips | Philips Technology Blog | Medium",
+      "url": "https://medium.com/philips-technology-blog/the-ai-revolution-in-healthcare-2fe341229ac2",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Philips' Approach to AI: Innovating Responsibly | Philips Technology Blog",
+      "url": "https://medium.com/philips-technology-blog/navigating-the-future-philips-and-the-evolving-ai-regulation-landscape-5ff05e70bd3d",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Philips Future Health Index 2025: AI poised to transform global healthcare, urging leaders to act now",
+      "url": "https://www.philips.com/a-w/about/news/archive/standard/news/press/2025/philips-future-health-index-2025-ai-poised-to-transform-global-healthcare-urging-leaders-to-act-now.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

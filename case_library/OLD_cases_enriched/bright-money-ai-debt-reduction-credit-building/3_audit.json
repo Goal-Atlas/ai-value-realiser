@@ -1,0 +1,78 @@
+{
+  "case_id": "bright-money-ai-debt-reduction-credit-building",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes a problem statement (database load from duplicate requests) but does not describe any AI optimization or improvement achieved. No functional optimization is claimed.",
+      "evidence_quality_assessment": "While the problem is described specifically, there is no claim of improvement, efficiency gain, or AI solution implementation. This is a problem identification, not a capability enhancement.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Problem statement only - no optimization or improvement claimed"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This identifies a resource consumption issue (analyst time) but does not describe any optimization, automation, or efficiency improvement achieved through AI or other means.",
+      "evidence_quality_assessment": "The claim is vague ('significant time', 'a lot of time') with no quantification and describes a problem rather than a solution or improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.2",
+          "name": "Develop and manage IT business strategy",
+          "confidence": "low"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Problem identification without solution or improvement metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes a limitation of existing tools (pre-defined events limiting exploratory analysis) but does not claim any improvement or optimization was achieved.",
+      "evidence_quality_assessment": "Clear description of a constraint but no evidence of how this was addressed or improved. No capability enhancement is claimed.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Describes tool limitations but no improvement or solution implementation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This identifies a requirement for data transformation and enrichment but does not describe any actual implementation, efficiency gain, or functional optimization achieved.",
+      "evidence_quality_assessment": "States a requirement ('a solution was required') but provides no evidence that such a solution was implemented or what improvements resulted.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Requirement statement only - no implementation or results described"
+    }
+  ],
+  "tier_verification": "These claims appear to be problem statements and requirements rather than capability improvements. They describe challenges that existed but do not demonstrate any AI-driven optimization or efficiency gains. This may be misclassified as a tier 1 case, or these may be preliminary context claims that should be followed by actual improvement claims."
+}

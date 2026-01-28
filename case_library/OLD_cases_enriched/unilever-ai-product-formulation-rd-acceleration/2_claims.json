@@ -1,0 +1,83 @@
+{
+  "case_id": "unilever-ai-product-formulation-rd-acceleration",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI improved brief quality by 14% and satisfaction by 26% while saving up to 58% time",
+      "quote": "By entering high-level objectives and enriching them with AI-generated content, users saw a 14% improvement in brief quality, a 26% boost in satisfaction and up to 58% time-savings."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Over 75% of office-based Personal Care employees became regular users of AI productivity tools",
+      "quote": "the programme has led to over 75% of office-based Personal Care employees becoming regular users of personal AI productivity tools, resulting in improved performance."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI contributed to 12% improvement in safety behavior identification",
+      "quote": "Since its introduction, AI has contributed to a 12% improvement in identif"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Dove campaign achieved 700 million impressions and 94% positive sentiment in under 30 days",
+      "quote": "Within less than 30 days, the campaign has achieved 700 million impressions, and an outstanding 94% positive sentiment."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Campaign went from insight to execution in just six months across 25 markets with 100+ content pieces",
+      "quote": "Going from insight to execution in just six months, including full production and delivery, it has been activated across 25 markets with more than 100 pieces of content."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AI-powered SuperShoots produced over 100 assets in just three days",
+      "quote": "The AI-powered system helped Closeup produce over 100 assets, created across ten distinct modular set-ups, in just three days."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Content tapping into trends delivered over 6 million organic views and boosted TikTok visibility by 22.5%",
+      "quote": "content that tapped into a lip-synching Ramadan trend went live within a matter of hours, delivering over 6 million organic views and boosting TikTok visibility for brands like Rinso and Sunlight by 22.5%."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Beauty AI Studio produces assets 30% faster and doubled key performance metrics",
+      "quote": "this AI system enables us to produce assets up to 30% faster than before. What is more, this innovation has more than doubled key performance metrics like Video Completion Rate (VCR) and Click-Through Rate (CTR)."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "DelphiAI was developed, built, and launched in just 18 months",
+      "quote": "This approach was crucial to developing, building, and launching Delphi in just 18 months."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Nine business teams set to start using DelphiAI in 2024 after initial success",
+      "quote": "In 2024, the goal is to scale Delphi through more business teams, with nine already set to start using it."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "AI reduced experimental requirements from 1,000 experiments to a fraction of the time",
+      "quote": "In the past we might have had to carry out 1,000 experiments to get the data we needed for a new ingredient, she said. Now, the firm can do it in a fraction of the time."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Unilever has registered more than 100 microbiome patents as of 2024",
+      "quote": "As of 2024, the company had registered more than 100 microbiome patents."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "Unilever boasts one of the highest concentrations of robots doing material chemistry in the world",
+      "quote": "Unilever boasts one of the highest concentrations of robots doing material chemistry in the world in a facility in Liverpool, UK."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "case_id": "axa-unified-200tb-data-personalization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - streamlining bureaucratic tasks for operational efficiency. Pattern is replicable across organizations with similar administrative processes.",
+      "evidence_quality_assessment": "Named organization (AXA) but claims are vague. 'Significantly streamlined' and 'increased operational efficiency' lack specific metrics or detailed process descriptions.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantification of efficiency gains or specific process examples"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing HR function through AI-powered skills platform. Clear workforce augmentation pattern replicable in other large organizations.",
+      "evidence_quality_assessment": "Named organization (AXA Switzerland), specific engagement metric (35,000 employees), and clear outcomes (job satisfaction, reduced attrition). Credible and traceable.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong case with specific metrics and clear business outcomes"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing actuarial/underwriting function. Predictive accuracy improvement directly optimizes policy pricing - core insurance capability.",
+      "evidence_quality_assessment": "Named organization (AXA Japan), specific quantified improvement (40% to 78% accuracy), clear business impact (optimized pricing). Authoritative and measurable.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent example of AI optimizing core insurance function with clear metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce augmentation and task optimization - clear Tier 1 pattern. Replicable across service organizations.",
+      "evidence_quality_assessment": "Named organization but vague claims. 'Freed up employees' and 'focus more on customer engagement' lack specific metrics or process details.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good concept but needs quantification - how many FTEs freed up, what specific tasks automated"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear IT infrastructure optimization. Dramatic efficiency improvement in existing server provisioning process - highly replicable pattern.",
+      "evidence_quality_assessment": "Specific, quantified improvement (months to 1 hour). While organization context is AXA, the metric is precise and the source appears credible.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dramatic efficiency gain with clear quantification - strong Tier 1 case"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing development operations by freeing developers from maintenance for innovation. Clear workforce augmentation pattern.",
+      "evidence_quality_assessment": "Named organization context, specific outcome (adoption of CI/CD), clear process improvement described. Credible operational improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good example of technology migration enabling workforce optimization"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear IT operations optimization - database migration efficiency with zero business disruption. Replicable pattern for similar migrations.",
+      "evidence_quality_assessment": "Specific timeframe (weekend), clear outcome (no business disruption), credible operational achievement within AXA context.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong operational efficiency case with clear risk mitigation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes project management optimization through data centralization. Replicable pattern but somewhat generic.",
+      "evidence_quality_assessment": "While within AXA context, claim is vague. 'Better coordination and oversight' lacks specific metrics or detailed process improvements.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good concept but needs more specific evidence of improvement"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear resource planning optimization - improved visibility enabling better allocation. Replicable pattern across organizations.",
+      "evidence_quality_assessment": "Generic claim within AXA context. 'More effective allocation' lacks quantification or specific examples of improvement.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Sound strategic fit but needs metrics on allocation effectiveness"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Reporting process optimization - generating transparent reports for better decision-making. Replicable pattern.",
+      "evidence_quality_assessment": "Generic claim. 'Enhanced decision-making processes' is vague without specific examples of decisions improved or time savings achieved.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good concept but lacks specific evidence of reporting improvements"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions rather than business model transformation or new revenue streams."
+}

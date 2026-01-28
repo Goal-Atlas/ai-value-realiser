@@ -1,0 +1,23 @@
+{
+  "case_id": "johnson-controls-automates-invoice-processing",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Johnson Controls unlocks its unstructured data with intelligent document processing - Indico Data",
+      "url": "https://indicodata.ai/blog/johnson-controls-unlocks-its-unstructured-data-with-intelligent-document-processing/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Johnson Controls Case Study: Streamlining Global Receivables for a Fortune 500 Industry Leader - Debt Register",
+      "url": "https://debtregister.com/johnson-controls-case-study-streamlining-global-receivables-for-a-fortune-500-industry-leader/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Johnson Controls simplifies their infrastructure, saving 3,610 hours on training enablement - Microsoft Power Platform Blog",
+      "url": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/johnson-controls-simplifies-their-infrastructure-saving-3610-hours-on-training-enablement/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

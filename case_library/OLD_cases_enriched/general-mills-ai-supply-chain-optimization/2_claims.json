@@ -1,0 +1,59 @@
+{
+  "case_id": "general-mills-ai-supply-chain-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "General Mills achieved over $20 million in savings from AI models assessing daily shipments",
+      "quote": "AI models also assess more than 5,000 daily shipments from plants to warehouses, leading to more than $20 million in savings since its 2024 fiscal year."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "General Mills predicts over $50 million in waste reduction from real-time manufacturing performance data",
+      "quote": "General Mills predicts real-time performance data in manufacturing will produce more than $50 million in waste reduction this year."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "General Mills reduced transportation costs and boosted customer service levels using AI in logistics planning",
+      "quote": "The food industry giant reduced transportation costs and boosted customer service levels by using AI in its logistics planning, CFO Kofi Bruce said."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "General Mills doubled its digital, data and technology investments since 2019",
+      "quote": "General Mills' digital, data and technology investments have doubled since 2019, CEO Jeff Harmening."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "General Mills achieved over $20 million in savings from AI models assessing daily shipments",
+      "quote": "AI models also assess more than 5,000 daily shipments from plants to warehouses, leading to more than $20 million in savings since its 2024 fiscal year."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "General Mills predicts over $50 million in waste reduction from real-time manufacturing performance data",
+      "quote": "General Mills predicts real-time performance data in manufacturing will produce more than $50 million in waste reduction this year."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "General Mills reduced transportation costs and boosted customer service levels using AI in logistics planning",
+      "quote": "The food industry giant reduced transportation costs and boosted customer service levels by using AI in its logistics planning, CFO Kofi Bruce said."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "A leading broadcast network achieved 300% increase in engagement using Palantir technology",
+      "quote": "Another slide claims that a 'leading broadcast network' with its own OTT platform used Palantir to organize its audiences by group and track customer journeys, leading to a '300% increase in engagement of a target group in one campaign.'"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Palantir's commercial business generated over $1 billion in revenue in 2023 with 20% year-over-year growth",
+      "quote": "Palantir's commercial business generated more than $1 billion in revenue in 2023 and grew 20% year over year."
+    }
+  ]
+}

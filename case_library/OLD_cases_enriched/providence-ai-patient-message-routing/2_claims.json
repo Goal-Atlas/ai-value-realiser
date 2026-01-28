@@ -1,0 +1,65 @@
+{
+  "case_id": "providence-ai-patient-message-routing",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered message routing enabled urgent mental health intervention within one hour instead of three days",
+      "quote": "In the past, a medical assistant or nurse would have read this message in the order it was received. If many patients had sent messages, it might have taken three days to reach this message. But thanks to new technology developed by Providence, the message was tagged as urgent and read less than an hour after it was sent."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI message categorization reduces physician 'pajama time' by enabling better workflow management",
+      "quote": "Working through a mountain of messages contributes to caregiver burnout, and what people in the health care industry refer to as 'pajama time.' A lot of times doctors see patients all day, and they go home, and instead of spending time with their family, they log back into Epic and they start working again, in their pajamas."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Grace chatbot reduced patient messages to physicians by 30%",
+      "quote": "Her [Grace's] effectiveness has improved by 30%, meaning that the number of messages our patients send to physicians has been reduced by 30% because now they can just get their questions answered by Grace."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI inbox management reduces physician inbox processing time from 3.5 days average",
+      "quote": "It takes three and a half days on average to get through their inbox, But now with generative AI, we can triage that inbox and put the most important messages in front of our physicians."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "MedPearl AI tool reduced ineffective specialty referrals",
+      "quote": "This has reduced the number of ineffective or wrong referrals to a specialty physician."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AI initiatives provide tangible savings through reduced burnout and turnover",
+      "quote": "But the tangible savings are what we're seeing \u2014 reducing burnout and reducing turnover \u2014 you can't put a price on that."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "MedPearl reduces cognitive load for clinicians by consolidating information",
+      "quote": "MedPearl enhances clinical decision-making by consolidating clinical knowledge, patient data, and suggested next best actions at the point of care into a single interface, thereby optimizing clinicians' workflow and reducing the cognitive load."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Providence app with Grace has over 101,000 active monthly users",
+      "quote": "The Providence app and Grace have already helped thousands of patients find answers to their questions, with more than 101,000 active monthly users on the app."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Grace enables patients to get answers faster than messaging providers directly",
+      "quote": "Patients who use Grace can get answers to many of their questions faster than sending a message directly to their provider."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Grace improves patient access to care and prevents care abandonment",
+      "quote": "If a patient doesn't get access to the care they need, they may give up and not receive any care at all. Easing that experience through the Providence app and Grace helps patients access care when they need it, get answers to ongoing care needs and support their overall health journey."
+    }
+  ]
+}

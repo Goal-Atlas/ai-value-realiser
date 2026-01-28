@@ -1,0 +1,139 @@
+{
+  "case_id": "blablacar-braze-action-paths",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing marketing function - abandoned cart campaigns are standard e-commerce practice being improved through AI-driven personalization and automation.",
+      "evidence_quality_assessment": "Named organization (BlaBlaCar), specific quantified metric (30% increase in bookings), appears to be from vendor case study but with concrete results.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizing conversion rates through automated marketing campaigns with clear ROI metrics."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of email marketing effectiveness - improving click-through rates is a standard marketing efficiency metric.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (48% uplift in click rate), measurable improvement in existing process.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization with strong quantified results."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of email marketing through personalization - fits Tier 1 pattern of improving existing processes.",
+      "evidence_quality_assessment": "Named organization and process described, but lacks specific quantified metrics - only qualitative claim about 'more engagement and conversions'.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality weakened by lack of specific metrics. Vendor case study context requires scrutiny."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims both customer reach optimization and team productivity improvement - fits Tier 1 pattern of process enhancement.",
+      "evidence_quality_assessment": "Named organization but vague metrics - 'reach more customers at scale' and 'increase team productivity' lack quantification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit is clear but evidence quality is weak due to lack of specific metrics. Typical vendor marketing language."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization - reducing engineering dependency and improving campaign iteration fits Tier 1 efficiency gains.",
+      "evidence_quality_assessment": "Generic claim without specific metrics or clear attribution to BlaBlaCar specifically - appears to be general product capability description.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Fits Tier 1 pattern but reads more like general product marketing than specific customer results."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of email marketing performance - open rates are standard efficiency metrics for marketing campaigns.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (24% increase in email open rates), concrete measurable improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear functional optimization and quantified results."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of email marketing through sender name personalization - clear process improvement with A/B testing methodology implied.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (20+% higher open rates), includes methodology comparison (personalized vs brand name).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - specific optimization technique with clear comparative results and replicable methodology."
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Combines team productivity improvement with customer reach optimization leading to booking increases - clear functional enhancement.",
+      "evidence_quality_assessment": "Named organization, specific quantified outcome (30% increase in bookings), links process improvement to business results.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case linking process optimization to concrete business outcomes. Appears to be summary claim reinforcing C1."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing and customer engagement functions rather than business model innovation. Focus is on improving efficiency, conversion rates, and team productivity within established e-commerce/rideshare operations."
+}

@@ -1,0 +1,77 @@
+{
+  "case_id": "texas-rangers-databricks-player-performance-analysis",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Databricks enables centralized data management eliminating redundancy and reducing costs",
+      "quote": "Currently, most teams employ a patchwork of software systems, leading to redundancy, data silos, sluggish processing times, and exorbitant costs. Databricks enables teams to centralize all their data, regardless of its structure, under one roof."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Real-time insights enable informed decision-making during practice and games",
+      "quote": "The ability to pull real-time insights is invaluable as it empowers coaches and players to make informed decisions during practice or games."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Databricks reduces data processing delays from hours/days to real-time",
+      "quote": "In many cases, MLB teams have waited for hours or even days to receive information that could have impacted a game or prevented injuries to key players. However, Databricks Structured Streaming alleviates this issue."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Databricks lakehouse platform powered analytics that informed roster construction decisions leading to World Series victory",
+      "quote": "Databricks' lakehouse platform powered Texas' use of analytics to inform general manager Chris Young and the decisions that led to the construction of the Rangers' roster."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Analytics fueled by Databricks informed strategic decisions throughout the championship season",
+      "quote": "And it fueled the analytics to inform the decisions made by the players, Bochy and the Rangers' coaching staff as the team played each opponent over the course of 162 regular season and 17 postseason games on their way to winning the franchise's first championship."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Previous data infrastructure could not accommodate required data volume by 2021",
+      "quote": "By 2021, the Rangers' existing data infrastructure was no longer able to accommodate all the data the team required to keep pace with the rest of the sport."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Texas Rangers achieved 375% ROI from Databricks deployment",
+      "quote": "The Texas Rangers achieved a 375 percent ROI by deploying the Databricks Data Intelligence Platform to drive efficient data storage and processing and better enable the organization's internal data teams."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "4x improved cost-effectiveness compared to prior cloud data warehouse",
+      "quote": "The franchise noted specific benefits, including 4x improved cost-effectiveness relative to its prior cloud-based data warehouse"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "10x improved cost-effectiveness for data ingestion use cases",
+      "quote": "10x improved cost-effectiveness for data ingestion use cases"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "61% productivity improvement across data teams",
+      "quote": "and a 61 percent productivity improvement across the sports franchise's data teams"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "2x more data available at lower latency enabling faster analysis",
+      "quote": "This efficiency has fostered improved collaboration among analysts, players, and coaches, driving 2x more data available at lower latency. This has promoted faster iteration on ad-hoc analysis"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Databricks propelled Rangers to forefront of Major League Baseball",
+      "quote": "and propelled the Rangers to the forefront of Major League Baseball"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "deloitte-ai-consulting-services",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI processing costs have significantly decreased",
+      "quote": "While AI processing costs have plummeted, some organizations are seeing massive monthly bills."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI-driven tech operations can deliver improved efficiency and performance",
+      "quote": "A tech operation driven by AI can be leaner, faster and more adaptive"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Mining company achieved supply chain improvements through AI approach",
+      "quote": "A global mining company sought to transform its inventory management practices. Using the IndustryAdvantage\u2122 approach, they were able to improve supply chain reliability, achieve strategic alignment, and move from stockpiles to smart supplies."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "AI solutions enable enhanced workforce planning and strategic alignment",
+      "quote": "Workforce Planner+ can help ensure accurate labor supply and demand analysis, enabling business leaders to enhance workforce planning and strategic alignment within their organizations."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "AI helps organizations improve productivity and manage costs",
+      "quote": "This solution examines the impact of AI on workforce dynamics, helping organizations improve productivity, manage costs and encourage innovation."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI enables exploration of opportunities for improved client relationships and revenue growth",
+      "quote": "helping organizations navigate AI integration challenges and explore opportunities for improved client relationships and revenue growth."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S5",
+      "claim": "Organizations report measurable ROI from scaled GenAI initiatives",
+      "quote": "return on investment for organizations' most advanced (scaled) GenAI initiatives has been generally positive. Almost all organizations report measurable ROI, and almost a quarter (20%) report 31% or more."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Cybersecurity GenAI implementations exceed ROI expectations",
+      "quote": "Cybersecurity implementations have also emerged as a standout, with 44% saying ROI has surpassed their expectations, more than any other function."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "Organizations expect to increase AI spending indicating positive value perception",
+      "quote": "a vast majority of respondents (78%) expect to increase their overall AI spending in the next fiscal year"
+    }
+  ]
+}

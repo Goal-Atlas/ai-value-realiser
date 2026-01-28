@@ -1,0 +1,71 @@
+{
+  "case_id": "walmart-supply-chain-ai-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI enables automatic detection, diagnosis, and correction of supply chain issues in real time without manual intervention",
+      "quote": "By layering multiple AI and automation technologies, Walmart's systems can \"automatically detect, diagnose, and correct issues in real time without requiring constant manual intervention,\" Uppuluri said."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI-powered forecasting enables more accurate inventory planning and reduces excess safety stock in warehouses",
+      "quote": "Strong forecasting can optimize inventory placement decisions by analyzing different factors that might impact demand, Uppuluri said. In turn, Walmart can ensure that excess inventory, or safety stock, isn't sitting around in warehouses."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Projects that previously took months can now be completed in weeks using AI systems",
+      "quote": "According to Walmart, projects that once took months can now be completed in weeks."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Continuous supply chain improvements save pennies per package that add up to billions at scale",
+      "quote": "At the company's re:Invent event in 2024, CEO Andy Jassy talked extensively about how continuous improvement in the supply chain can save a few pennies per package that add up to billions of dollars at scale."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Walmart's distribution centers achieve 98% automation through AI and robotics",
+      "quote": "James Bright, the general manager of the Wellford facility, told Business Insider that the distribution center is 98% automated."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI reduces costs by lowering buffer inventory requirements",
+      "quote": "This can help lower costs, because Walmart incurs more costs by housing excess inventory. \"You want to reduce the buffer inventory,\" said Uppuluri."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Walmart Fulfillment Services adoption has seen substantial growth compared to seller self-fulfillment",
+      "quote": "\"What we've seen is the adoption of Walmart Fulfillment Services has seen substantial growth compared to the sellers fulfilling themselves,\" said Venkatesan."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI enables seamless handling of major shopping events like Black Friday",
+      "quote": "\"The best output you will see is if nobody notices that Black Friday happened and just moves on.\""
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "AI chatbot negotiations achieved 1.5% savings and extended payment terms with 68% of suppliers approached",
+      "quote": "The chatbot, for instance, negotiated with 68% of suppliers approached, gaining 1.5% in savings and extending payment terms."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "Supply chain automation is estimated to improve unit cost averages by around 20%",
+      "quote": "Automation in supply chain is estimated to improve unit cost averages by around 20%."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Walmart plans to power 65% of its stores with automation technologies by 2026",
+      "quote": "With a strong focus on automation, Walmart has outlined ambitious plans to power 65% of its stores with automation technologies by 2026, a move that reflects the retailer's forward-thinking strategy."
+    }
+  ]
+}

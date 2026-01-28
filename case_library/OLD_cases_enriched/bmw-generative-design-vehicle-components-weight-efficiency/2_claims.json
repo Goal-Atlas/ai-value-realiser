@@ -1,0 +1,59 @@
+{
+  "case_id": "bmw-generative-design-vehicle-components-weight-efficiency",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Generative design achieves up to 50% weight reduction in vehicle components",
+      "quote": "Generative design: Efficient and resource-saving design processes with intelligent algorithms \u2013 up to 50 percent less weight, breakthrough in the NEUE KLASSE."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "CO2 emissions reduced by 25% compared to conventionally manufactured components using recycled materials",
+      "quote": "CO2 emissions are reduced by 25 percent compared to conventionally manufactured components."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Manufacturing costs for high-voltage battery reduced by up to 50%",
+      "quote": "manufacturing costs for the entire high-voltage battery will be up to 50 percent lower compared with the current, fifth generation."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "New battery technology increases range by 30% and charging speed by 20%",
+      "quote": "The innovative lithium-ion batteries for what will be the sixth generation of BMW eDrive technology will increase range by 30 percent and charging speed by around 20 percent."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "3D printing shortens component production times while meeting quality requirements",
+      "quote": "3D printing also shortens the production times of components while meeting rigorous quality requirements."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Generative design components are 50% lighter than conventional components",
+      "quote": "The components are around 50 percent lighter than comparable conventional components and make the best possible use of the space available, as is the case with the damper for the rear lid."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Additive manufacturing speeds up development cycles and reduces time to series maturity",
+      "quote": "Processes such as additive manufacturing help us to speed up development cycles and get our vehicles to series maturity faster."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "BMW produces one new vehicle every minute despite manufacturing complexity",
+      "quote": "Despite the manufacturing complexity, on average, the BMW Group produces one new vehicle every minute."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI integration optimizes production efficiency, quality control, and supply chain management",
+      "quote": "Since 2019, the BMW Group has seamlessly integrated AI into its manufacturing processes, optimizing production efficiency, elevating quality control, and enhancing supply chain management."
+    }
+  ]
+}

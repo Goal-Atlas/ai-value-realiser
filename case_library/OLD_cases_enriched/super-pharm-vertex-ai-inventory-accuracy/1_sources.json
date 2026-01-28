@@ -1,0 +1,11 @@
+{
+  "case_id": "super-pharm-vertex-ai-inventory-accuracy",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Super Pharm Case Study | Google Cloud",
+      "url": "https://cloud.google.com/customers/super-pharm",
+      "doc_type": "Case Study"
+    }
+  ]
+}

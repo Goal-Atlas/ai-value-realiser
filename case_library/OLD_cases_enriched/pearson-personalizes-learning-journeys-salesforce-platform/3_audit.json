@@ -1,0 +1,144 @@
+{
+  "case_id": "pearson-personalizes-learning-journeys-salesforce-platform",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI handling routine inquiries to free human agents for complex work. This is a replicable pattern for customer service operations across industries.",
+      "evidence_quality_assessment": "Named organization (Pearson), specific quantified metric (40%), appears to be from authoritative source describing actual implementation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing workforce augmentation with clear efficiency gains"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes automation of specific routine customer service tasks. Pattern is highly replicable across organizations with similar service functions.",
+      "evidence_quality_assessment": "Named organization with detailed list of specific automated functions. Source appears credible.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization with specific process improvements listed"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates efficiency optimization in workforce planning - reducing seasonal hiring needs through better service delivery. Replicable for organizations with seasonal demand patterns.",
+      "evidence_quality_assessment": "Named organization (Pearson), highly specific metric (70% reduction), appears from credible source.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong efficiency gain with clear cost implications and workforce optimization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost optimization through technology migration - fits Tier 1 pattern of improving existing functions.",
+      "evidence_quality_assessment": "Named organization but vague on specifics - 'cost savings' without quantification. Claim is general without detailed metrics.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Clear optimization intent but lacks specific evidence of impact magnitude"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process improvement in customer service efficiency - clear Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Named organization but metric is vague ('improvements to average handle time') without specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional improvement but lacks specific performance metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation pattern - chatbots handling routine work to free agents for complex cases. Highly replicable across customer service operations.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (50% deflection rate), credible source with implementation details.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear efficiency metrics and workforce optimization"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes productivity improvements and customer experience enhancement - fits Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Named organization but claims are very general without specific metrics or detailed process descriptions.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too general - lacks specific evidence of improvements claimed"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes clear process optimization through self-service capabilities and improved service metrics. Pattern is replicable across service organizations.",
+      "evidence_quality_assessment": "Named organization with specific process improvements mentioned (self-service, handle time, first call resolution) from credible source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong functional optimization with multiple specific metrics mentioned"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing customer service and operational functions rather than business model transformation or new revenue streams"
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "camping-world-modernized-contact-centers",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered virtual agents can handle up to 70% of calls automatically",
+      "quote": "By using AI-powered virtual agents, it is possible to handle up to 70% of calls automatically, potentially saving your business an estimated $5.50 per contained call and saving time for customers."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Cost savings of $5.50 per contained call through AI automation",
+      "quote": "By using AI-powered virtual agents, it is possible to handle up to 70% of calls automatically, potentially saving your business an estimated $5.50 per contained call and saving time for customers."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Camping World improved agent efficiency by 33% using IBM Watson AI",
+      "quote": "For example, Camping World, the top retailer of recreational vehicles, used IBM Watson AI-powered virtual assistant Arvee to handle an increase in customer demand during the COVID-19 pandemic. By implementing Arvee in their call center, Camping World was able to improve agent efficiency by 33% and increase customer engagement by 40%."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Camping World increased customer engagement by 40% using IBM Watson AI",
+      "quote": "For example, Camping World, the top retailer of recreational vehicles, used IBM Watson AI-powered virtual assistant Arvee to handle an increase in customer demand during the COVID-19 pandemic. By implementing Arvee in their call center, Camping World was able to improve agent efficiency by 33% and increase customer engagement by 40%."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Camping World achieved 40% increase in customer engagement with AI assistant Arvee",
+      "quote": "Results - 40% increase in customer engagement - 33-second drop in wait times - 33% increase in agent efficiency"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Camping World reduced wait times by 33 seconds with AI implementation",
+      "quote": "Results - 40% increase in customer engagement - 33-second drop in wait times - 33% increase in agent efficiency"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Camping World achieved 33% increase in agent efficiency with AI assistant",
+      "quote": "Results - 40% increase in customer engagement - 33-second drop in wait times - 33% increase in agent efficiency"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "AI assistant Arvee enabled 24/7 customer service and captured all call data for sales team",
+      "quote": "The company tapped IBM's cognitive AI tool to create an AI assistant and named it Arvee. Arvee took calls 24/7, helped answer questions for customers, so agents didn't have to get involved, and captured all the call data for the sales team, regardless of when the call came in."
+    }
+  ]
+}

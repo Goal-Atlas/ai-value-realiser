@@ -1,0 +1,65 @@
+{
+  "case_id": "axa-unified-200tb-data-personalization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "AI technologies significantly streamlined bureaucratic tasks leading to increased operational efficiency",
+      "quote": "AI technologies have significantly streamlined bureaucratic tasks within AXA, leading to increased operational efficiency."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Over 35,000 employees engaged with AI-powered Skills Platform leading to increased job satisfaction and reduced staff attrition",
+      "quote": "Over 35,000 employees at AXA Switzerland engaged with the AI-powered Skills Platform, leading to increased job satisfaction and reduced staff attrition."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Predictive accuracy of traffic accidents improved from 40% to 78%, significantly optimizing policy pricing",
+      "quote": "In Japan, the predictive accuracy of traffic accidents rose from 40% to 78%, significantly optimizing policy pricing."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI implementations freed up employees from mundane tasks to focus on customer engagement and growth activities",
+      "quote": "Across the board, these implementations have freed up employees from mundane tasks, allowing them to focus more on customer engagement and growth-oriented activities."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Server instance creation time reduced from many months to one hour",
+      "quote": "Now, instead of taking many months, creating a new server instance takes an hour."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Migration freed developers from maintenance duties allowing them to innovate and adopt CI/CD principles",
+      "quote": "The migration has also freed developers of maintenance duties, allowing them to innovate and adopt continuous integration and continuous deployment (CI/CD) principles."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Database migration completed over a weekend with no business disruption",
+      "quote": "So we were able to migrate a database from on premises to the cloud over a weekend with no disruption to business."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Centralization of project data facilitated better coordination and oversight",
+      "quote": "Unified project environment: Centralization of project data facilitated better coordination and oversight."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Improved visibility into resource capacity enabled more effective allocation",
+      "quote": "Enhanced resource planning: Improved visibility into resource capacity enabled more effective allocation."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Ability to generate transparent reports enhanced decision-making processes",
+      "quote": "Streamlined reporting: Ability to generate transparent reports enhanced decision-making processes."
+    }
+  ]
+}

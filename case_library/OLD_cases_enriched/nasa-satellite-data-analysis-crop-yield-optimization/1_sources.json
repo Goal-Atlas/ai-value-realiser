@@ -1,0 +1,29 @@
+{
+  "case_id": "nasa-satellite-data-analysis-crop-yield-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Satellites Help Improve Crop Yields in India | NASA Earthdata",
+      "url": "https://www.earthdata.nasa.gov/learn/articles/satellites-help-improve-crop-yields-india",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Improving Crop Yield Predictions with Satellite Assist - NASA Science",
+      "url": "https://science.nasa.gov/missions/landsat/improving-crop-yield-predictions-with-satellite-assist/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Satellites Track Status of Nation's Food Supply - NASA",
+      "url": "https://www.nasa.gov/missions/satellites-track-status-of-nations-food-supply/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "How NASA scientists use satellite data to help farmers | Fox Business",
+      "url": "https://www.foxbusiness.com/economy/how-nasa-scientists-use-satellite-data-to-help-farmers",
+      "doc_type": "News Article"
+    }
+  ]
+}

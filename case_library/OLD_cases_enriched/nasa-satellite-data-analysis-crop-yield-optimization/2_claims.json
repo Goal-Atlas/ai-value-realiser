@@ -1,0 +1,59 @@
+{
+  "case_id": "nasa-satellite-data-analysis-crop-yield-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Mechanical fertilizer spreaders improved wheat yields by 4.5% compared to hand-spreading",
+      "quote": "They found that switching from hand-spreading fertilizer to using a mechanical spreader improved yields by about 4.5%."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Targeted use of mechanical spreaders on low-yielding farms doubled yield gains compared to non-targeted use",
+      "quote": "They found that targeting the use of mechanical spreaders on low-yielding farms resulted in yield gains that were twice as large as using the mechanical spreaders without data on farm productivity."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Farmers were willing to pay more than the cost of mechanical spreaders, indicating economic viability",
+      "quote": "Jain and her colleagues also found that farmers of low-yielding farms were willing to pay more than the cost of the mechanical spreaders, indicating this technology could be a viable and cost-effective way to improve yields."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Incorporating satellite data significantly improved corn yield prediction accuracy",
+      "quote": "New Michigan State University research found that incorporating in-season water deficit information into remote sensing-based crop models significantly improves corn yield predictions."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Early predictions using satellite data substantially outperformed previous prediction methods",
+      "quote": "They concluded that by including the crop drought index and the green chlorophyll vegetation index in crop yield predictions, predictions could be improved substantially. In fact, their earliest predictions significantly outperformed previous ones."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Better yield predictions enable farmers to manage resources more effectively, benefiting environment, economy, and food supply",
+      "quote": "More precise and accurate yield predictions will allow farmers to better manage their resources which will positively affect areas such as the environment, the economy and the national food supply."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Soil erosion in the Corn Belt causes up to $3 billion in losses for farmers",
+      "quote": "the group estimated that around one-third of the region's farmland had completely lost its topsoil, leading to up to $3 billion in losses for farmers."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "The U.S. loses five tons of soil per acre annually, which is 10 times the rate at which soil forms",
+      "quote": "The U.S. loses five tons of soil per acre annually \u2013 10 times the rate at which it forms"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Cover crops usage increased by 50% from 2012 to 2017, showing adoption of conservation practices",
+      "quote": "in 2017 cover crops used to reduce erosion were grown on 3.4% of cropland marking a 50% increase since 2012."
+    }
+  ]
+}

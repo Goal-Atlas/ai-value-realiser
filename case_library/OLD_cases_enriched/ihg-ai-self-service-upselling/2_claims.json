@@ -1,0 +1,83 @@
+{
+  "case_id": "ihg-ai-self-service-upselling",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered travel planner will help guests discover destinations across IHG's extensive portfolio",
+      "quote": "Our customized travel planner will use GenAI to help people discover destinations among our more than 6,000 IHG hotels across 19 brands in over 100 countries"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Travel planner will enable guests to build full itineraries and book hotels efficiently",
+      "quote": "Soon, guests will use the IHG One Rewards mobile app as a true mobile travel companion to build a full itinerary and book hotels in a few taps"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI investments are critical for growing customer loyalty and engagement",
+      "quote": "Investments in the IHG One Rewards mobile app and technology to support IHG's loyalty program are critical parts of IHG's efforts to grow customer loyalty and engagement"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Technology innovation drives increased investment returns for hotel owners and better guest experiences",
+      "quote": "IHG continues to explore how secured technology innovation can drive increased investment returns for hotel owners, and better experiences for guests"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Genesys Cloud platform helps IHG create more memorable stays and differentiate through personalized service",
+      "quote": "the Genesys Cloud\u2122 platform is helping IHG Hotels & Resorts, one of the world's leading hotel companies, take its guest services to new heights and create more memorable stays"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Contact center transformation enables guests to get answers faster",
+      "quote": "an enormous network of people, platforms and phone lines came together to ensure guests get answers faster than they can say, 'Late checkout, please.'"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI capabilities optimize operations and enhance self-service options",
+      "quote": "Genesys is enabling IHG to optimize operations, enhance self-service options and create more seamless guest interactions"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "New app shows exceptional results with revenue, usage and downloads up more than 20%",
+      "quote": "Already, the app is seeing exceptional results\u2014a key contributor to IHG's growth and ongoing success. As of September 2022\u2014compared to pre-pandemic metrics\u2014revenue, usage and downloads are all up more than 20% and growing"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "App has near-perfect performance and top ratings",
+      "quote": "The app is also faster and has near-perfect, crash-free performance. And as a testament to usability, it has a 4.9-star rating in the iOS app store, making it a top-rated travel app"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Digital factory model provides scalable production capabilities and reduces risk",
+      "quote": "The agility of scalable production allows IHG to ramp the factory up or down depending on business cycles or other strategic priorities, to launch multiple upgrades at the same time and to tap key specialized talent when needed"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Mobile app has become IHG's fastest-growing booking channel",
+      "quote": "The company has invested heavily in its IHG One Rewards mobile app, which has become its fastest-growing booking channel"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Technology investments benefit both guests and hoteliers through increased revenue and satisfaction",
+      "quote": "These technological advancements are benefiting both guests and hoteliers. Guests enjoy a more personalized and seamless travel experience, while hotels see increased revenue from upselling and enhanced guest satisfaction"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "IHG has invested over $300 million in technology platforms",
+      "quote": "Beyond the mobile app, IHG has invested over $300 million in recent years in its technology platforms, including its guest reservation system, brand websites, and cloud-based data analytics capabilities"
+    }
+  ]
+}

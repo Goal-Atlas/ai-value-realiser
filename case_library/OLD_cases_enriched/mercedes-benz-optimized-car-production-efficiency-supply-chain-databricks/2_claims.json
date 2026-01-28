@@ -1,0 +1,77 @@
+{
+  "case_id": "mercedes-benz-optimized-car-production-efficiency-supply-chain-databricks",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Enables scalable and cost-efficient analytics for automotive measurement data",
+      "quote": "Leveraging the latest features (e.g. liquid clustering) introduced by the Databricks Intelligence Platform, it enables scalable and cost-efficient analytics - transforming raw automotive measurement data into actionable insights that drive vehicle development, performance tuning, and predictive maintenance."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Transforms raw automotive measurement data into actionable insights for multiple business areas",
+      "quote": "transforming raw automotive measurement data into actionable insights that drive vehicle development, performance tuning, and predictive maintenance"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Improves production efficiency and solves supply chain bottlenecks",
+      "quote": "tapping artificial intelligence (AI), digital twins and data analytics to provide real-time feedback that improves production efficiency, solves supply chain bottlenecks and dynamically allocates resources to prioritize EV and top-end luxury vehicles"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Makes transition to electromobility faster and more efficient",
+      "quote": "We're making the transition to electromobility even faster and more efficient. The data platform provides us with AI technologies that make our production more efficient, our supply chain more resilient and also pushes sustainability to the next level."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Accelerates operational efficiency and unlocks energy savings",
+      "quote": "The virtual simulation and optimization of processes, before running them on the shop floor, helps to accelerate operational efficiency and unlock energy savings. For example, managers can optimize operational patterns to reduce CO2 emissions in production."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Accelerates logistics processes and ensures transparency in vehicle delivery",
+      "quote": "A robust cross-sectional data strategy not only accelerates logistics processes but also ensures transparency and reliability in vehicle delivery"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Optimizes production workflows by identifying inefficiencies",
+      "quote": "It optimises production workflows by identifying inefficiencies and enabling data-driven decision-making. This approach allows the company to refine operations and allocate resources more effectively, creating a ripple effect of efficiency throughout the supply chain."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Vehicle production efficiency expected to improve by 20% by 2025",
+      "quote": "Vehicle production efficiency expected to improve by 20% by 2025"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Enables logistics teams to solve supply chain bottlenecks much faster",
+      "quote": "Logistic teams to solve supply chain bottlenecks much faster"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Enables dynamic allocation of resources to prioritize strategic vehicle types",
+      "quote": "Dynamic allocation of resources to prioritize low-emission and Top-End Luxury vehicles"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Provides self-service analytics access for production teams",
+      "quote": "Production teams can access self-service portal with analytics dashboards from any device"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Enables monitoring and forecasting of environmental impact metrics",
+      "quote": "Data analytics tool to monitor and forecast carbon emissions, energy and water usage, waste management"
+    }
+  ]
+}

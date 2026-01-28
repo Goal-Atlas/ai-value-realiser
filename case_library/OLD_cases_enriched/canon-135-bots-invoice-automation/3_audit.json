@@ -1,0 +1,105 @@
+{
+  "case_id": "canon-135-bots-invoice-automation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear baseline description of existing accounts payable process optimization opportunity. Processing 4,500 invoices monthly is a bounded, measurable function.",
+      "evidence_quality_assessment": "Named organization (Canon), specific volume metric (4,500 invoices/month), describes existing process inefficiencies.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Establishes baseline for process optimization case"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes performance of previous automation attempt, providing context for improvement. Shows measurable accuracy baseline (35-40%).",
+      "evidence_quality_assessment": "Specific quantified metric for accuracy rates, demonstrates previous solution limitations.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Provides important baseline for measuring improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes technical approach to improving existing process automation, but lacks specific performance metrics.",
+      "evidence_quality_assessment": "Claims 'much higher accuracy' but doesn't quantify the improvement. Technical approach is described but results are vague.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Needs quantified accuracy metrics to validate improvement claim"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear process optimization opportunity with specific volume (1,500 invoices/day) and delay metrics (45 days). However, organization is not named.",
+      "evidence_quality_assessment": "Specific metrics provided but client is anonymous ('cosmetics company'). Volume and timeline data is detailed.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong metrics but lacks client attribution for full verification"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes specific process improvement with measurable outcomes (30 seconds processing, 24-hour availability). Clear efficiency gain in bounded process.",
+      "evidence_quality_assessment": "Specific time metrics provided, describes automated matching process with clear performance indicators.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear process optimization with specific performance metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quantified improvement in payment processing cycle time (45 days to 2 days average). Significant efficiency gain in existing function.",
+      "evidence_quality_assessment": "Specific before/after metrics showing 95%+ improvement in processing time. Clear, measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent quantified improvement in core AP function"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes elimination of manual processes and error sources in existing AP function. Clear process optimization benefits.",
+      "evidence_quality_assessment": "Specific process improvements listed (no data entry, no human error, no paper accumulation). Observable operational changes.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear operational improvements in existing process"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing accounts payable processes through automation and AI, focusing on efficiency gains, error reduction, and cycle time improvement within established business functions."
+}

@@ -1,0 +1,116 @@
+{
+  "case_id": "pwc-embeds-ai-into-consulting-to-drive-efficiency-and-client-innovation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - eliminating manual/repetitive activities is a classic efficiency gain pattern applicable across professional services firms",
+      "evidence_quality_assessment": "Named organization (PwC), specific quantified metric ($100M savings), appears from credible source discussing internal operations",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - quantified efficiency gains from process automation with clear replicability"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "While profit increase could indicate operational efficiency, the claim doesn't specify AI's role in the 20% profit rise - could be due to various factors",
+      "evidence_quality_assessment": "Specific financial metrics from named organization, but lacks direct attribution to AI initiatives",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Financial outcome is clear but causal link to AI optimization unclear - needs verification of AI's specific contribution"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is market research data about future intentions, not a functional optimization case",
+      "evidence_quality_assessment": "While from PwC survey, this describes industry trends rather than specific operational improvements",
+      "apqc_functions": [],
+      "notes": "Market research finding, not an operational capability case - doesn't demonstrate actual efficiency gains"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic survey finding about 'productivity gains' without specific functional context or measurable outcomes",
+      "evidence_quality_assessment": "Vague claim ('measurable gains') without specific metrics, organizations, or process details",
+      "apqc_functions": [],
+      "notes": "Too generic - lacks specificity about what productivity gains or which functions were optimized"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost reduction in existing translation function - highly replicable pattern for organizations with multilingual content needs",
+      "evidence_quality_assessment": "Named organization (PwC), specific quantified metric (40% cost reduction), clear functional improvement",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - specific cost optimization with clear replicability across professional services"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Technical capability metric that could indicate efficiency, but lacks context of actual business impact or cost savings",
+      "evidence_quality_assessment": "Specific technical metric from vendor (Alexa Translations), but vendor-sourced claims need verification",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Technical performance metric from vendor source - needs independent verification and business impact context"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Fraud detection optimization is a clear Tier 1 pattern, but claim focuses on technical capability rather than business outcomes",
+      "evidence_quality_assessment": "Technical capability claim from vendor (GL.ai) without specific business metrics or independent verification",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.8",
+          "name": "Manage internal controls",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Relevant fraud detection function but vendor-sourced technical claim needs business impact validation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market research about investor preferences, not an operational efficiency or capability optimization case",
+      "evidence_quality_assessment": "Survey data but not related to functional optimization or AI implementation outcomes",
+      "apqc_functions": [],
+      "notes": "Market research finding unrelated to operational AI capabilities - not a Tier 1 case"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1 and C5 are strong capability optimization cases. Claims C2, C6, C7 need additional verification. Claims C3, C4, C8 are not operational capability cases and should be rejected."
+}

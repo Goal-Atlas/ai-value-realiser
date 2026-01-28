@@ -1,0 +1,53 @@
+{
+  "case_id": "astrazeneca-optimized-clinical-trial-design",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "AstraZeneca's AI chest X-ray tool achieved 54.1% positive predictive value, far exceeding success threshold",
+      "quote": "AstraZeneca's CREATE study, presented at the European Lung Cancer Congress in March 2025, demonstrated a 54.1% positive predictive value for its AI chest X-ray tool\u2014far exceeding the pre-defined success threshold of 20%."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "AI screening technology deployed at national scale with over 660,000 people screened",
+      "quote": "Behind those numbers: over 660,000 people screened in Thailand since 2022, with AI detecting suspected pulmonary lesions in 8% of cases."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Thailand scaling AI technology across 887 hospitals with 415 million baht budget",
+      "quote": "Thailand's National Health Security Office is now scaling this technology across 887 hospitals with a three-year budget exceeding 415 million baht."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI protocol tool reduced document authoring time by 85%",
+      "quote": "It's an 'intelligent protocol tool,' developed with medical writers, that has reduced document authoring time by 85% in some cases."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "AI-discovered drugs achieve 80-90% Phase I success rates versus 40-65% traditional benchmark",
+      "quote": "AI-discovered drugs achieve 80-90% Phase I success rates\u2014double the 40-65% traditional benchmark."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Sites using StudyTeam randomize more patients per site per month",
+      "quote": "Sites using StudyTeam with AstraZeneca randomize more patients per site per month and provide overwhelmingly positive feedback"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "100% of sites using StudyTeam choose to continue using it for subsequent studies",
+      "quote": "in fact, 100% of sites using StudyTeam in its trials choose to do so for subsequent studies."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AstraZeneca aims to deliver 20 new medicines by 2030 through AI acceleration",
+      "quote": "AstraZeneca, a global biopharmaceutical company, embarked on an ambitious initiative to leverage AI for accelerating drug development as part of their broader corporate goal to deliver 20 new medicines by 2030."
+    }
+  ]
+}

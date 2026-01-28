@@ -1,0 +1,35 @@
+{
+  "case_id": "lumen-technologies-sales-summarization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Lumen can achieve minimum 50% cost savings through modern network architecture",
+      "quote": "By changing the multicloud architecture away from the carrier-neutral facilities and away from these direct connects and express routes, you can save minimally 50%"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Cost savings can exceed 60% when eliminating cross connects",
+      "quote": "Then, if you take out cross connects, it's over 60% savings\u2014with a modern network architecture that makes data centers and hyperscal"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Current multicloud architecture costs are literally double what is necessary",
+      "quote": "The cost of the architecture in a current multicloud environment is literally double the number of links and ports that are necessary"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "More efficient connections create monetization opportunities through AI-driven network innovations",
+      "quote": "More efficient connections can create monetization opportunities, capitalizing on AI-driven network innovations to deliver differentiated services and assured experiences"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Lumen is positioned as the trusted network for AI with comprehensive capabilities",
+      "quote": "As the trusted network for AI, Lumen provides metro connectivity and long-haul data transport as well as edge cloud, security, managed service, and digital platform capabilities"
+    }
+  ]
+}

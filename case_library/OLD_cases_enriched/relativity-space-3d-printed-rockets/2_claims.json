@@ -1,0 +1,65 @@
+{
+  "case_id": "relativity-space-3d-printed-rockets",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Relativity has demonstrated strong ability to raise capital and attract high-profile contracts before making its first launch attempt",
+      "quote": "There are dozens of rocket startups, but Relativity has been a standout for its ability to raise capital and attract high-profile contracts before making its first launch attempt."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The company has secured $1.65 billion in launch contracts",
+      "quote": "About $1.65 billion in launch contracts are already on the startup's books."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "3D printing enables rockets to be built quickly, cheaply and efficiently",
+      "quote": "Since 2015, Relativity has worked toward developing its first launch vehicle to gauge the success of its founding thesis \u2014 that rockets can be quickly, cheaply and efficiently built using additive manufacturing, otherwise known as 3D printing."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "3D printing represents a completely new approach to manufacturing rockets",
+      "quote": "I realized that instead of printing just bits and parts of a rocket, that 3D printing was really a completely new approach to manufacture."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "3D printing significantly decreases cost and increases access to spaceflight",
+      "quote": "The idea is to significantly decrease cost and increase access to spaceflight. Think college students seeking an opportunity to send their own experiments into space."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "3D printing reduces parts count from thousands to under 1,000, leading to cost and lead time reduction",
+      "quote": "We target under 1,000 parts for our rockets. For example, the engine you saw has just three parts on it where traditionally that can have 3,000 parts, and all of that is due to the printing, and that all leads into that cost and lead time reduction."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "The company's goal is to build a rocket from scratch to space in 60 days",
+      "quote": "Their goal is to build a rocket from scratch to space in 60 days."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "3D printing makes rocket components more reliable by printing as single pieces",
+      "quote": "The rocket engine nozzle is printed as one piece and that makes it more reliable."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Relativity Space has attracted significant investor attention and venture capital funding",
+      "quote": "Founded in 2015 by a pair of young aerospace engineers, Relativity Space has attracted the attention of investors and venture capitalists."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "The Terran 1 test flight successfully demonstrated that 3D-printed materials could withstand intense atmospheric pressures during launch",
+      "quote": "Although the mission failed to reach orbit due to a second-stage engine issue, Relativity Space deemed the flight a success, demonstrating that the rocket's 3D-printed materials could withstand the intense atmospheric pressures during launch."
+    }
+  ]
+}

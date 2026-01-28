@@ -1,0 +1,65 @@
+{
+  "case_id": "wpp-wpp-open-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "WPP is the first ad-holding group to provide independent AI-powered marketing services",
+      "quote": "The ad-holding group claims to be the first in its category to provide this type of model."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Open Pro expands WPP's total addressable market by serving smaller businesses",
+      "quote": "This is about transforming how marketing is delivered, expanding our total addressable market, and giving more brands the tools they need to lead in the AI era."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Open Pro enables rapid content creation at scale",
+      "quote": "Following that, Open Pro offers AI-generated content creation, quickly spinning up brand-appropriate and channel-specific ads."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "InfoSum acquisition provides access to the industry's largest cross-platform data source",
+      "quote": "giving WPP and its clients immediate access to the industry's largest cross-platform source of privacy-safe, actionable data for marketing intelligence, audience targeting, and AI model training."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Clients can optimize campaigns and see measurable performance improvements within hours",
+      "quote": "generating insights and audiences instantly, optimizing campaigns across the entire marketing ecosystem, and delivering measurable improvements in campaign performance within hours rather than weeks."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "InfoSum enables clients to maximize first-party data value through privacy-enhancing connections",
+      "quote": "Allows WPP's clients to maximize the value of their first-party data with privacy-enhancing connections to data providers and media partners, powering campaigns across the entire marketing ecosystem"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "WPP has invested over $300 million in its AI-powered marketing platform",
+      "quote": "Over the past year, it has invested more than $300m in its AI-powered marketing platform, WPP Open, making it the foundation of its entire business model."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "WPP Open has achieved 27,000 active monthly users",
+      "quote": "The number of active monthly users has reached 27,000."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "WPP operates at tech company pace with 30 platform updates per day",
+      "quote": "The platform is updated 30 times a day \u2013 a pace that is more like a tech company than a traditional agency."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "AI enables real-time creative testing and instant campaign optimization",
+      "quote": "Creative teams can now use AI to test ideas in real-time, planners can upload massive amounts of research and have AI summarize key insights, while media teams can generate and optimize campaigns instantly"
+    }
+  ]
+}

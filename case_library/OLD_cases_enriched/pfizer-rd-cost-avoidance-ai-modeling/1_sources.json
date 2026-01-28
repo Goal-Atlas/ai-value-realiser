@@ -1,0 +1,29 @@
+{
+  "case_id": "pfizer-rd-cost-avoidance-ai-modeling",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Pioneering the Future of Healthcare: Pfizer's AI Advantage",
+      "url": "https://insights.pfizer.com/pfizer's-ai-advantage",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Pfizer's Digital Transformation Journey: From COVID Response to Full-Scale Generative AI",
+      "url": "https://dhitglobal.org/pfizers-digital-transformation-journey-from-covid-response-to-full-scale-generative-ai/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Pfizer Announces Another $1.7B in Cost Savings, Including R&D Revamp",
+      "url": "https://www.biospace.com/business/pfizer-announces-another-1-7b-in-cost-savings-including-r-d-revamp",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "How Pfizer Cut Drug Discovery Time From Years to 30 Days (And What Every CEO Can Learn)",
+      "url": "https://chiefaiofficer.com/blog/how-pfizer-cut-drug-discovery-time-from-years-to-30-days-and-what-every-ceo-can-learn/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

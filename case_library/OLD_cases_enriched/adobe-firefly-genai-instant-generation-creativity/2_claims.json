@@ -1,0 +1,77 @@
+{
+  "case_id": "adobe-firefly-genai-instant-generation-creativity",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Firefly has become the most popular AI image generation model for commercial use globally in record time",
+      "quote": "Users have generated over 3 billion images with Firefly's initial model since its beta launch in March, making it the most popular AI image generation model designed for safe commercial use, in record time, globally."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "90% of Firefly web app users are new to Adobe products, demonstrating significant market expansion",
+      "quote": "Firefly Image 2 is the next generation of generative AI for imaging, bringing significant advancements to creative control and quality, including new Text to Image capabilities now available in the popular Firefly web app where 90% of users are new to Adobe products"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Firefly helps users produce creative visions faster through improved control and quality",
+      "quote": "Firefly Image 2 generates higher-quality images and illustrations, enhances human rendering quality with improvements to skin, hair, eyes, hands and body structure, offers better colors and improved dynamic range and provides users greater ability to control output \u2013 ultimately helping produce creative visions faster."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Firefly puts hours back into creators' lives by removing barriers between creative vision and execution",
+      "quote": "We believe that Firefly can help people grow their creative confidence by removing barriers between creative vision and blank page. It puts hours back into the lives of creators at a moment when both the demand for content and the demands on their time have exploded."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Firefly enables creators to express ideas with greater efficiency and without constraints",
+      "quote": "Firefly will mix the power of our applications with the promise of generative AI in ways that empower you to express your creative ideas with greater efficiency and without constraints."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Generative Fill in Photoshop powered by Firefly has become the most used feature",
+      "quote": "The Generative Fill capability in Photoshop powered by Firefly is now the most used feature"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Adobe scaled up training by 20x in six months to meet demand",
+      "quote": "As demand spiked, Adobe scaled up training by 20x in six months, aided by Amazon EC2 Reserved Instances."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Adobe launched the Firefly family of models in just nine months",
+      "quote": "In just nine months, Adobe launched the Firefly family of generative AI models. These models were rapidly integrated into Adobe's flagship creative software products like Photoshop, Illustrator, Substance 3D, and Adobe Express."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Firefly empowers anyone at any design skill level to create with simple text prompts",
+      "quote": "Adobe Firefly empowers anyone \u2014 at any design skill level \u2014 to dream, have fun, and express themselves by creating anything they can imagine with simple text prompts."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Firefly outputs can now be used commercially for any business activity",
+      "quote": "Outputs from most Firefly modules and features can now be used commercially. This includes any type of usage that generates commercial activity for you, your brand, or your business."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Firefly eliminates the expense and hassle of managing multiple AI subscriptions and tools",
+      "quote": "Keeping track of all those resources, jumping from site to site to use them, and paying all those subscription fees is expensive \u2014 and a lot of work. You've told us you're sick of the hassle. That's why we've built the all-new Adobe Firefly, your all-in-one home for ideation, creation, and production with the industry's top AI models"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S5",
+      "claim": "Firefly enables complete project workflow from idea to finished product without switching platforms",
+      "quote": "You can go all the way from idea to finished project without ever leaving Adobe Firefly. No more switching between a dozen sites on a dozen tabs just to get your work done."
+    }
+  ]
+}

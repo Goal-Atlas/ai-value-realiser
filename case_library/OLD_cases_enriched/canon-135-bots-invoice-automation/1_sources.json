@@ -1,0 +1,23 @@
+{
+  "case_id": "canon-135-bots-invoice-automation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Invoice Processing Case Study | Canon USA",
+      "url": "https://www.greenlightconsulting.com/case-studies/canon-usa-invoice-processing-finance/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Accounts Payable Outsourcing Gets a Makeover | Case Study",
+      "url": "https://cbps.canon.com/case-studies/accounts-payable-gets-a-makeover",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: Digital transformation in document management - Canon Europe",
+      "url": "https://www.canon-europe.com/business/insights/case-studies/digital-transformation-in-document-management/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

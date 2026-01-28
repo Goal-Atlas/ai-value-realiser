@@ -1,0 +1,47 @@
+{
+  "case_id": "wayfair-vertex-ai-product-attributes-4x-faster",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S3",
+      "claim": "Improved time-to-market by automatically categorizing products across 30 million product portfolio",
+      "quote": "Gemini on Google Cloud improved Wayfair's time-to-market by automatically categorizing products across its 30 million product portfolio"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S3",
+      "claim": "Delivered cost savings by eliminating manual tagging of product attributes",
+      "quote": "delivered cost savings by eliminating the need to manually tag attributes like color and style"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Improved conversion rates through increased accuracy and coverage of product attributes",
+      "quote": "improved conversion rates by increasing the accuracy of product attributes and improving the coverage of attribute tags in the retailer's catalog"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "Reduced hyperparameter tuning time from two weeks to under one hour",
+      "quote": "Reducing hyperparameter tuning from two weeks to under one hour"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S5",
+      "claim": "Reduced new real-time model deployment time from one month to one hour",
+      "quote": "In the past, getting a new real-time model up and running took around a month of work. Now, thanks to automating our processes with Vertex AI and a streamlined deployment architecture, we have cut that down to just one hour."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Enabled data scientists to productionize models without depending on engineers",
+      "quote": "Our aim with Vertex AI is to empower data scientists to productionize models and easily monitor and evolve them without depending on engineers."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Supports 30 million active customers through ML-powered experiences",
+      "quote": "Machine Learning (ML) is part of everything we do at Wayfair to support each of the 30 million active customers on our website."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_id": "wendys-qscc-palantir-supply-chain-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Partnership drives new sales and operating efficiencies providing competitive advantage",
+      "quote": "Together with Palantir, we're leveraging the power of the supply chain ecosystem to drive new sales and operating efficiencies, giving Wendy's a distinct advantage in the industry."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI platform enables improved decision-making speed and scale",
+      "quote": "QSCC will transition to Palantir's Artificial Intelligence Platform (AIP), enabling improved decision-making speed and scale by connecting different data sources."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI implementation results in cost savings and efficiency improvements across supply chain",
+      "quote": "This will result in cost savings and efficiency improvements across the supply chain through the implementation of large language models and other AI systems."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI operating system provides technology-driven competitive advantage",
+      "quote": "Our AI operating system powers many of America's leading companies, providing them with a technology-driven competitive advantage."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "AI loyalty platform provides personalized customer rewards and incentives",
+      "quote": "the company introduced an AI-based loyalty platform that analyzes customer data to offer personalized rewards and incentives."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "AI drive-thru system automates ordering process and improves customer interaction",
+      "quote": "This system automates the ordering process, allowing customers to engage in natural conversations, receive quick answers to queries, and be understood, even if their order is not strictly phrased as it appears on menus."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "city-of-helsinki-virtual-assistants-citizen-support",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is an aspirational vision statement, not a description of functional optimization. No specific process or efficiency gain is described.",
+      "evidence_quality_assessment": "While the organization is named, this is a high-level strategic statement without measurable outcomes or specific operational improvements.",
+      "apqc_functions": [],
+      "notes": "Vision statement lacks substance for Tier 1 assessment - no operational optimization described"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes a shift from reactive to proactive service delivery, which could optimize citizen service functions. However, this appears more conceptual than implemented.",
+      "evidence_quality_assessment": "Named organization with specific service approach described, but lacks concrete implementation details or measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Conceptual approach to service optimization but needs evidence of actual implementation and results"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - using data analytics to identify high-risk patients and enable proactive interventions optimizes existing healthcare delivery processes.",
+      "evidence_quality_assessment": "Named organization with specific use case (medication compliance monitoring) and clear operational process described by city official.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes healthcare service delivery through predictive analytics for proactive patient outreach"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes governance principles and trust-building rather than functional optimization. No specific operational process improvement is identified.",
+      "evidence_quality_assessment": "While from a named source, this is a conceptual statement about data governance principles rather than operational outcomes.",
+      "apqc_functions": [],
+      "notes": "Governance philosophy statement - not operational optimization suitable for Tier 1"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "General statement about consent and mutual benefit principles. No functional optimization or operational improvement described.",
+      "evidence_quality_assessment": "Named source but purely conceptual statement without operational substance or measurable outcomes.",
+      "apqc_functions": [],
+      "notes": "High-level principle statement lacking operational content for Tier 1 assessment"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims focus on optimizing existing government service delivery functions, though many are aspirational rather than implemented. Only C3 provides concrete evidence of functional optimization."
+}

@@ -1,0 +1,135 @@
+{
+  "case_id": "publicis-groupe-coreai-platform",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes scaling existing services (personalized content production) rather than creating new business models. Publicis remains an advertising agency - AI helps them do their existing work better/faster.",
+      "evidence_quality_assessment": "Vague promotional language without specific metrics or concrete examples. 'Enable businesses to scale' is aspirational rather than demonstrated transformation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This is operational enhancement within existing business model, not transformation. Should be Tier 1."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes workflow improvements and cost efficiency - classic Tier 1 optimization. The business model (creative services) remains unchanged; AI makes production faster/cheaper.",
+      "evidence_quality_assessment": "Generic benefits claims without specific metrics. 'Speed and creative control' and 'improved workflows, cost efficiency' are process improvements, not business model changes.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear Tier 1 case - process optimization and cost reduction within existing creative services model."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue growth metrics don't indicate business model transformation. This is performance data, not evidence of strategic reinvention.",
+      "evidence_quality_assessment": "Specific metric (6.3% growth) from credible source, but doesn't demonstrate transformation - just good performance within existing model.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Financial performance data, not transformation evidence. Growth could come from market expansion, not AI-driven business model change."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Data/tech segment growth shows portfolio expansion but not fundamental business model change. Publicis still operates as integrated marketing services company.",
+      "evidence_quality_assessment": "Specific metrics (one-third of revenue, double-digit growth) but describes segment performance within existing business structure.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Portfolio mix shift, not business model transformation. Still selling marketing services, just with higher tech component."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes dramatic efficiency improvement (weeks to immediate response) but within existing strategic consulting model. Faster analysis delivery, not new value creation method.",
+      "evidence_quality_assessment": "Specific time comparison (weeks vs immediate) with clear operational impact, but this is process acceleration, not business transformation.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Significant operational improvement but classic Tier 1 - doing the same work much faster. Business model unchanged."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth attribution to 'digital and AI-driven initiatives' doesn't specify business model change. Could be efficiency gains driving competitive advantage within existing model.",
+      "evidence_quality_assessment": "Specific growth metric but vague attribution. 'Partly attributed to' suggests correlation, not demonstrated transformation.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Performance claim without evidence of structural business model change."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Lists operational improvements (streamlining, enhancing, delivering at scale) rather than business model innovation. All activities fit within traditional agency services.",
+      "evidence_quality_assessment": "Vague potential claims without specific metrics or concrete examples. 'Has demonstrated potential' is weak evidence language.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Generic operational enhancement claims. No evidence of fundamental value creation change."
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. All claims describe operational improvements, efficiency gains, and process optimization within Publicis's existing integrated marketing services business model. There's no evidence of new revenue streams, business model reinvention, or AI as core product. This should be evaluated as tier 1 - Publicis is using AI to do their existing work better/faster/cheaper, not to create fundamentally new ways of creating value. The 'remove the AI' test confirms this: without AI, Publicis would still be a marketing services company, just less efficient."
+}

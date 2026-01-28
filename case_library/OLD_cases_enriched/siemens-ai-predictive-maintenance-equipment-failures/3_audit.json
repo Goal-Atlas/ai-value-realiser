@@ -1,0 +1,93 @@
+{
+  "case_id": "siemens-ai-predictive-maintenance-equipment-failures",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Addresses workforce augmentation in maintenance - a clear Tier 1 pattern. However, lacks specificity about how AI addresses skill shortage.",
+      "evidence_quality_assessment": "Named organization (Siemens) but claim is vague. No specific metrics or detailed process description of how generative AI counteracts skill shortage.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Conceptually valid Tier 1 claim but needs more substance about specific AI capabilities and measurable impact"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic portfolio marketing statement. No specific AI optimization or functional improvement described.",
+      "evidence_quality_assessment": "Named organization but completely generic claims about 'greater productivity and flexibility' without any specifics, metrics, or process details.",
+      "apqc_functions": [],
+      "notes": "Pure marketing language without substantive content about AI capabilities or measurable improvements"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic corporate mission statement with no specific functional optimization described.",
+      "evidence_quality_assessment": "Named organization but completely vague claim about 'technology with purpose' and 'real value' without any specifics.",
+      "apqc_functions": [],
+      "notes": "Corporate messaging without any substantive AI capability claims"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "High-level transformation language that could indicate tier 1 (market transformation) but lacks any specific functional optimization details.",
+      "evidence_quality_assessment": "Named organization but extremely vague claims about 'combining real and digital worlds' without specific AI applications or measurable outcomes.",
+      "apqc_functions": [],
+      "notes": "Generic transformation messaging without substantive AI capability details"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI optimizing maintenance efficiency of specific equipment (drive systems). Replicable pattern for industrial maintenance.",
+      "evidence_quality_assessment": "Named organization, specific AI application (Predictive Service Assistance), and specific equipment type (drive systems). Traceable to Siemens MindSphere platform.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid Tier 1 case with specific AI application for predictive maintenance optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic transformation language without specific functional optimization details. References broad transformations rather than specific efficiency gains.",
+      "evidence_quality_assessment": "Named organization but vague claims about 'digital and sustainability transformations' without specific AI applications or metrics.",
+      "apqc_functions": [],
+      "notes": "High-level corporate messaging without substantive AI capability claims"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Platform marketing claim without specific AI optimization details. 'Easier, faster, scalable' are generic benefits without functional specificity.",
+      "evidence_quality_assessment": "Named platform (Siemens Xcelerator) but no specific AI capabilities, metrics, or process improvements described.",
+      "apqc_functions": [],
+      "notes": "Platform marketing without substantive AI capability details"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic enablement statement without specific functional optimization or AI capability details.",
+      "evidence_quality_assessment": "Named organization but completely vague claim about becoming 'sustainable Digital Enterprise' without specifics.",
+      "apqc_functions": [],
+      "notes": "Corporate positioning statement without substantive AI capability claims"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims are generic marketing content, but C5 represents a valid capability case with AI optimizing maintenance functions. C1 has potential but needs more specificity."
+}

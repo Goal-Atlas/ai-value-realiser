@@ -1,0 +1,35 @@
+{
+  "case_id": "millennium-bcp-boosted-digital-sales-conversion-rates-by-2",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "BigQuery-powered audiences achieved 2.6x higher conversion rates in owned media",
+      "quote": "BigQuery-powered audiences delivered a 2.6x higher conversion rate compared to other first-party audiences in owned media"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "BigQuery-powered audiences generated 2.4x greater conversion volume",
+      "quote": "Conversion volume for BigQuery-powered audiences was 2.4x greater than conversions from other first-party audiences"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Paid media campaigns doubled conversion volume with 1.9x higher conversion rates",
+      "quote": "Paid media campaigns' conversion volume doubled and conversion rates were 1.9x higher with BigQuery powered audiences"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Cost per acquisition dropped by 36% using BigQuery-powered audiences",
+      "quote": "Cost per acquisition (CPA) dropped by 36% when using BigQuery-powered audiences compared to regular first-party audiences"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Application deployment time improved from 8 days to 8 minutes",
+      "quote": "Our goal was to improve from days of work to just minutes when deploying an application across all environments"
+    }
+  ]
+}

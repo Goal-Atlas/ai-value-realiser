@@ -1,0 +1,23 @@
+{
+  "case_id": "banco-do-brasil-ai-governance-framework-credit-fraud-compliance",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Case study: Banco do Brasil reduces false positives by more than 90% | Napier AI",
+      "url": "https://www.napier.ai/post/case-study-banco-do-brasil-reduces-false-positives-by-more-than-90",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Banco do Brasil's Strategic Resilience in a Geopolitical Crossroads",
+      "url": "https://www.ainvest.com/news/banco-brasil-strategic-resilience-geopolitical-crossroads-2508/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Internet Banking Case Study: Banco do Brasil - BankInfoSecurity",
+      "url": "https://www.bankinfosecurity.com/internet-banking-case-study-banco-do-brasil-a-814",
+      "doc_type": "Case Study"
+    }
+  ]
+}

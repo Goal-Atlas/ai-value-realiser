@@ -1,0 +1,121 @@
+{
+  "case_id": "scuderia-ferrari-ai-driven-platform-engages-millions-of-fans-with-personalized-content",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Fan base growth is a business outcome but doesn't clearly describe functional optimization. Could be result of marketing/engagement improvements, but the specific AI-driven process optimization isn't evident.",
+      "evidence_quality_assessment": "Named organization (Ferrari) with specific metric (tripled in 3 years), but lacks detail on methodology or baseline numbers. Source appears credible but claim is high-level.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "12.5",
+          "name": "Manage public relations program",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Growth metric without clear connection to specific functional optimization. May be outcome of Tier 1 activities but not itself a capability case."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of fan engagement function - using AI to transform data into personalized content delivery. This is doing existing fan engagement better, not creating new business model. Pattern replicable across sports/entertainment organizations.",
+      "evidence_quality_assessment": "Named organization with specific scale metric (396 million fans). Describes clear process (generative AI transforming track data into personalized mobile experience). Source appears authoritative.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizing fan engagement through AI-driven personalization at scale."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - reducing time-to-delivery for post-race content from likely days to hours. This is efficiency improvement in content production/distribution function. Replicable pattern for sports content organizations.",
+      "evidence_quality_assessment": "Named organization with specific timeframe improvement (within hours vs. implied previous longer timeframe). Process improvement is clearly described and measurable.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency gain in content production workflow - classic Tier 1 optimization."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Infrastructure cost optimization is clearly a Tier 1 capability improvement. However, the metric seems unclear - 'total cost of ownership from 70% to 40%' lacks context (70% of what?).",
+      "evidence_quality_assessment": "Named organization but metric is confusing. What does '70% to 40%' represent? Percentage of revenue? Percentage reduction? Needs clarification for proper assessment.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear IT optimization intent but metric needs clarification. Likely valid Tier 1 case once metric is properly understood."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - 60% faster simulation runtime in product lifecycle management. This is efficiency improvement in existing R&D/engineering function. Pattern applicable to other manufacturing organizations using PLM systems.",
+      "evidence_quality_assessment": "Named organization with specific, quantified improvement (60% faster). Clear process described (PLM simulations). Metric is understandable and measurable.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - clear efficiency improvement in engineering processes with quantified benefit."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of sales configuration process - reducing time while increasing lead generation through personalization. This improves existing sales function efficiency and effectiveness. Replicable pattern for complex product sales organizations.",
+      "evidence_quality_assessment": "Named organization with specific quantified improvement (20% reduction in configuration time, increased leads). Clear process improvement described (car configurator with personalization).",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - dual benefit of efficiency (faster configuration) and effectiveness (more leads) in sales process."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions rather than business model transformation. No evidence of new revenue streams or market creation that would indicate tier 1."
+}

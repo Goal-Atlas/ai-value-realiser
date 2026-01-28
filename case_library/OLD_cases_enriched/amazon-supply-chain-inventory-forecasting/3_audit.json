@@ -1,0 +1,109 @@
+{
+  "case_id": "amazon-supply-chain-inventory-forecasting",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - logistics cost reduction, inventory improvement, and service level enhancement are classic Tier 1 efficiency gains. Pattern is replicable across industries.",
+      "evidence_quality_assessment": "Claims McKinsey as source but lacks specific study citation or date. Metrics are specific but aggregated across unnamed companies. Need to verify McKinsey study exists and methodology.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but evidence quality questionable without traceable McKinsey study"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a counterfactual claim about traditional methods, not describing AI optimization. Does not demonstrate specific functional improvement.",
+      "evidence_quality_assessment": "Claims McKinsey study but provides no citation. The 10% revenue loss figure is unverifiable and not specific to any organization or process.",
+      "apqc_functions": [],
+      "notes": "Not a capability case - describes problem without AI solution implementation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of demand forecasting process. Scale (400M products) demonstrates significant operational improvement. Pattern replicable for other large retailers.",
+      "evidence_quality_assessment": "Named organization (Amazon), specific and impressive scale metric, describes concrete AI application in established business function.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent example of Tier 1 capability - AI optimizing existing forecasting function at massive scale"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes fleet electrification, not AI optimization. While it may involve some AI for routing, the core claim is about vehicle technology transition, not AI capability enhancement.",
+      "evidence_quality_assessment": "Specific metrics (140 vehicles, 300M packages) and named organization, but not an AI capability case.",
+      "apqc_functions": [],
+      "notes": "Not a Tier 1 AI case - describes sustainability initiative, not AI-driven optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes rail network expansion for sustainability, not AI optimization of existing functions. This is infrastructure investment, not capability enhancement through AI.",
+      "evidence_quality_assessment": "Specific metrics (20M products) and timeline (2025), but not related to AI capabilities.",
+      "apqc_functions": [],
+      "notes": "Not a Tier 1 AI case - describes logistics infrastructure expansion, not AI-driven optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial metric providing context but not describing any AI optimization or capability enhancement.",
+      "evidence_quality_assessment": "Verifiable financial data from credible source (Statista) but irrelevant to AI capabilities assessment.",
+      "apqc_functions": [],
+      "notes": "Background information only - not a capability case"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Infrastructure scale information, not describing AI optimization of any business function.",
+      "evidence_quality_assessment": "Specific and verifiable operational data but not related to AI capabilities.",
+      "apqc_functions": [],
+      "notes": "Background information only - not a capability case"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims massive efficiency improvement (75%) through AI integration, which would be significant functional optimization if substantiated. Pattern potentially replicable.",
+      "evidence_quality_assessment": "Named organization but vague sourcing ('projected'). The 75% figure is extraordinary and needs verification. No specific processes or timeframe mentioned.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Potentially significant capability claim but lacks credible attribution and specificity - needs verification"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C3 and potentially C1/C8 describe functional optimization. Claims C4-C7 are not AI capability cases. No business model transformation detected."
+}

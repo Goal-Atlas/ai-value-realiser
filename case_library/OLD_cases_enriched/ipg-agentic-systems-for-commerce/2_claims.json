@@ -1,0 +1,53 @@
+{
+  "case_id": "ipg-agentic-systems-for-commerce",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "ASC pilot programs with over 20 brands showed double-digit sales improvement",
+      "quote": "ACS is being piloted by more than 20 brands, with results that have shown double-digit sales improvement, according to IPG."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "ASC represents a new revenue stream opportunity for IPG",
+      "quote": "We believe products like ASC can become a new revenue stream for us. And it's another way in which we can use AI to scale our expertise and expand our business beyond our core capability set of marketing communications and media into solutions sets that deliver quantifiable results"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "ASC pilot with almost two dozen brands demonstrated double-digit improvements in impressions and sales",
+      "quote": "ASC is already being piloted by almost two dozen brands with results to date that have shown double-digit improvements in impressions and sales."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "ASC can help brands flatten the cost curve associated with complex commerce landscape",
+      "quote": "Agentic Systems for Commerce can help brands compete and succeed in an evolving and demanding marketplace and flatten the cost curve associated with the complex commerce landscape"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Over 20 CPG brands have quickly adopted the agentic commerce system",
+      "quote": "Over 20 CPG brands have already deployed our agentic commerce system. This quick adoption demonstrates our clients' recognition that today's commerce environment demands more than tools, even AI-enabled ones."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Challenger brands are winning against legacy brands in 16 of 18 categories analyzed",
+      "quote": "In fact, the report finds the challenger brands are winning in 16 of the 18 categories analyzed and are already dominant in 15 of them (with category win rates greater than 15%)."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Legacy brands show significant performance gaps with up to 86 percentage point deltas in sales win rates",
+      "quote": "showing shocking deltas -- as much as 86 percentage points in the health care category -- in terms of the sales win rates between legacy and emerging challenger brands."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Up to 90% of legacy brand product pages remain untouched for months or years",
+      "quote": "The result? Up to 90% of legacy brand product pages go untouched for many months, or even years."
+    }
+  ]
+}

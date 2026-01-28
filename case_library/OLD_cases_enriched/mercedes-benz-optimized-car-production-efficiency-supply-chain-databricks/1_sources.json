@@ -1,0 +1,29 @@
+{
+  "case_id": "mercedes-benz-optimized-car-production-efficiency-supply-chain-databricks",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Revolutionizing Car Measurement Data Storage and Analysis: Mercedes-Benz's Petabyte-Scale Solution on the Databricks Intelligence Platform",
+      "url": "https://www.databricks.com/blog/revolutionizing-car-measurement-data-storage-and-analysis-mercedes-benzs-petabyte-scale",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Microsoft and Mercedes-Benz tap AI for auto production efficiency",
+      "url": "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Red Sofa interview | John Torres on how Mercedes-Benz uses data",
+      "url": "https://www.automotivelogistics.media/automotive-logistics-and-supply-chain-digital-strategies-europe-insights/red-sofa-how-mercedes-benz-uses-data-quality-to-drive-ai-powered-efficiency/46522.article",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Data Is Making Manufacturing More Resilient, Efficient, and Sustainable at Mercedes-Benz",
+      "url": "https://www.qlik.com/blog/data-is-making-manufacturing-more-resilient-efficient-and-sustainable-at-mercedes-benz",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

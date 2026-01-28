@@ -1,0 +1,5 @@
+{
+  "case_id": "mckinsey-ai-transformation-consulting",
+  "claims": [],
+  "note": "No claims could be extracted as all sources failed to load due to connection timeout errors. All five sources (S1-S5) returned HTTP timeout errors when attempting to fetch content from mckinsey.com."
+}

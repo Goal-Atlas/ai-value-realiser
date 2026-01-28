@@ -1,0 +1,29 @@
+{
+  "case_id": "experian-automated-code-transformation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Experian Slashes Model Development Time with Revolutionary AI Toolset",
+      "url": "https://www.experian.com/blogs/news/2024/10/28/experian-slashes-model-development-time-with-revolutionary-ai-toolset/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Experian reduces programming requirements with EngageOne document composition technology and more products from Precisely",
+      "url": "https://www.precisely.com/resource-center/customerstories/experian-reduces-programming-requirements-with-document-composition-technology-from-precisely",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Experian Research Reveals How Machine Learning Drives Smarter, Faster Financial Decisions",
+      "url": "https://www.experianplc.com/newsroom/press-releases/2025/experian-research-reveals-how-machine-learning-drives-smarter--f",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S4",
+      "title": "Introducing The New AI-Powered Experian Assistant For Model Risk Management: Streamlining Governance Processes",
+      "url": "https://www.experian.com/blogs/news/2025/07/31/introducing-the-new-ai-powered-experian-assistant/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "case_id": "spotify-ai-dj-engagement",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "DJ listener engagement has nearly doubled over the past year",
+      "quote": "In fact, DJ listener engagement has nearly doubled over the past year\u2014it's like having a personal musical friend who just gets you."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "DJ serves as a means to push free users to upgrade to Premium",
+      "quote": "With the app's revamp, the DJ will appear at the top of the screen under the Music subfeed for subscribers, serving both as a lean-back way to stream favorite music and as a means to push free users to upgrade."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Discover Weekly drives 30% of total listening time",
+      "quote": "Discover Weekly (2015): The Foundation What it is: Weekly personalized playlist using collaborative filtering, natural language processing, and audio analysis Impact: Drives 30% of total listening time"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Day lists achieve 80% engagement among personalization-preferring users",
+      "quote": "Day lists: Contextual Awareness What it is: Updates 3x daily with quirky, context-aware titles (e.g., \"Witchy Ethereal Tuesday\"). Impact: Achieves 80% engagement among personalization-preferring users."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI DJ boosts user retention by 15%",
+      "quote": "AI DJ (2023): Voice-Enabled Curation Technology: Combines generative AI with voice cloning (Sonantic). Experience: Creates real-time playlists with human-like commentary. Impact: Boosts user retention by 15%."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI Playlist has 60% weekly reuse among beta users",
+      "quote": "AI Playlist (2024): User Control What it is: Text-to-music generation allowing natural language prompts. Example: \"Songs for rainy days\" creates a themed playlist. Engagement: 60% weekly reuse among beta users."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "AI-targeted advertising increased 17% year-over-year",
+      "quote": "Revenue Growth AI-targeted advertising: +17% YoY, reaching \u20b912,806 Cr"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Premium subscriptions grew 12% year-over-year to 252M users with AI cited as core driver",
+      "quote": "Premium subscriptions: +12% YoY to 252M users (with AI cited as core driver)"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Overall revenue reached \u20b91,40,400 crore in 2024 with 17.9% year-over-year growth",
+      "quote": "Overall revenue: \u20b91,40,400 crore in 2024 (+17.9% YoY)"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "AI users spend 140 minutes per day versus 99 minutes for non-AI users",
+      "quote": "AI users spend 140 mins/day vs. 99 mins for non-AI users"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "AI-recommended users have 40% higher retention",
+      "quote": "AI-recommended users have 40% higher retention"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Personalized playlists contribute to 46% of premium conversions",
+      "quote": "Personalized playlists contribute to 46% of premium conversions"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S3",
+      "claim": "AI-supported podcast listeners are 2x more likely to go premium",
+      "quote": "AI-supported podcast listeners are 2x more likely to go premium"
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S3",
+      "claim": "Echo Nest acquisition resulted in 10% churn reduction",
+      "quote": "Echo Nest (Acquired 2014): Improved algorithmic recommendations, resulting in 10% churn reduction"
+    },
+    {
+      "claim_id": "C15",
+      "source_id": "S3",
+      "claim": "Spotify Wrapped generated 80M shares in 2024, driving organic growth",
+      "quote": "Spotify Wrapped: AI-powered listening summary turned viral marketing tool Impact: 80M shares in 2024, driving organic growth"
+    },
+    {
+      "claim_id": "C16",
+      "source_id": "S3",
+      "claim": "Spotify achieves 44% daily active users versus 35% industry average",
+      "quote": "Retention Personalization: Creates habit-forming daily engagement Result: 44% daily active users vs. 35% industry average"
+    }
+  ]
+}

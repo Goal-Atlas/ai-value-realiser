@@ -1,0 +1,187 @@
+{
+  "case_id": "relativity-space-3d-printed-rockets",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Demonstrates market validation for new approach but doesn't specify the transformation itself",
+      "evidence_quality_assessment": "Vague metrics - 'high-profile contracts' and 'standout' are qualitative without specifics",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Market validation signal but lacks specificity on transformation mechanics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Strong revenue validation for new manufacturing approach - $1.65B represents significant market acceptance",
+      "evidence_quality_assessment": "Specific financial metric from credible source",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Concrete evidence of commercial viability for transformed manufacturing model"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Core transformation thesis - additive manufacturing as fundamental shift from traditional rocket manufacturing",
+      "evidence_quality_assessment": "Clear founding thesis from named company with specific timeline (since 2015)",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Establishes the fundamental business model transformation around 3D printing"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Explicitly describes paradigm shift - 'completely new approach' indicates transformation, not optimization",
+      "evidence_quality_assessment": "Direct quote from company leadership describing strategic vision",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear articulation of manufacturing transformation philosophy"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Market expansion goal - enabling new customer segments (college students) represents new market creation",
+      "evidence_quality_assessment": "Specific example of new market segment with clear value proposition",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates intent to create new markets through cost transformation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic structural change - reducing parts from 3,000 to 3 in engines represents fundamental manufacturing transformation",
+      "evidence_quality_assessment": "Highly specific metrics with concrete example (engine parts reduction)",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Quantified evidence of manufacturing process transformation with dramatic impact"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Time compression goal (60 days) represents fundamental change in industry cycle times and economics",
+      "evidence_quality_assessment": "Specific, measurable target that can be verified",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Ambitious cycle time target that would transform industry economics if achieved"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quality improvement through design transformation - single-piece printing vs assembly represents new engineering approach",
+      "evidence_quality_assessment": "Specific technical claim with engineering rationale",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Technical validation of how transformation improves product characteristics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "General investor interest doesn't specify transformation impact",
+      "evidence_quality_assessment": "Vague claim without specific funding amounts or investor names",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Too general - lacks specifics on funding amounts or strategic significance"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Technical validation that 3D-printed materials can perform in space applications - proves viability of transformation",
+      "evidence_quality_assessment": "Specific test results from actual flight with clear technical outcome",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Critical proof point that the transformed manufacturing approach works in real conditions"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This represents genuine transformation of rocket manufacturing from traditional assembly-based production to additive manufacturing, enabling new economics, faster cycles, and market expansion. The 'remove the AI/technology test' applies - without 3D printing, Relativity's business model and value proposition disappear entirely."
+}

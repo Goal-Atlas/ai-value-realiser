@@ -1,0 +1,23 @@
+{
+  "case_id": "carvana-ai-conversation-analysis-visibility",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Carvana builds efficient, seamless customer experience with agent on Azure | Microsoft Customer Stories",
+      "url": "https://www.microsoft.com/en/customers/story/23952-carvana-azure-kubernetes-service",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Route to Ready: Carvana customer experience - Think with Google",
+      "url": "https://www.thinkwithgoogle.com/future-of-marketing/digital-transformation/carvana-case-study-customer-experiences/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Carvana Thanks Customers with One-of-a-Kind Videos Detailing the Day They Met Their Car",
+      "url": "https://www.businesswire.com/news/home/20230509005451/en/Carvana-Thanks-Customers-with-One-of-a-Kind-Videos-Detailing-the-Day-They-Met-Their-Car",
+      "doc_type": "Press Release"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "estee-lauder-voice-enabled-makeup-assistant-accessibility",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "The app addresses a significant market need with over 2 million people in the UK living with sight loss",
+      "quote": "In the UK alone, the National Health Service estimates that more than 2 million people are living with sight loss, of whom 340,000 are registered as blind or partially sighted."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "ELC achieved first-to-market advantage with this pioneering accessibility technology",
+      "quote": "Technology is a powerful tool to drive inclusion and we are delighted to be first to market with this pioneering app."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The app enables business expansion across multiple brands and markets",
+      "quote": "It is targeted to launch on the Google Play store within the year and across other ELC brands and markets in the near future."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "The app won industry recognition, being named a winner in Fast Company's 2023 Innovation by Design Awards",
+      "quote": "VMA was selected a winner for the Beauty and Fashion Category, and as a finalist for the Artificial Intelligence category."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "The technology can scale to serve millions of potential users globally",
+      "quote": "future versions of our VMA app will offer expanded services that leverage AI to bring the experience of independently using beauty products to millions of people that are low vision and blind."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "The app successfully expanded from UK launch to US market within months",
+      "quote": "VMA was first launched in the UK and Ireland in January 2023, and then in the United States in April 2023."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "The technology addresses a global market of one billion people with disabilities",
+      "quote": "Brands are presenting products that harness the powers of AI to make life a little easier for the one billion people worldwide who live with a disability."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "The app removes barriers to product engagement, potentially increasing customer accessibility",
+      "quote": "The launch of our Voice-Enabled Makeup Assistant is an important step in our journey towards makeup accessibility for all by removing barriers to engaging with beauty products and services."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "ELC positions itself as committed to inclusive technology solutions that differentiate the brand",
+      "quote": "We are committed to building innovative technology solutions that make beauty truly inclusive to everyone."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "siemens-ai-predictive-maintenance-equipment-failures",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Generative AI helps address skill shortage in maintenance sector",
+      "quote": "The new generative AI functionality helps to counteract the skill shortage in the maintenance sector."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Digital Enterprise portfolio supports customers to achieve greater productivity and flexibility",
+      "quote": "With its Digital Enterprise portfolio, DI provides companies of all sizes with an end-to-end set of products, solutions and services to integrate and digitalize the entire value chain. Optimized for the specific needs of each industry, DI's unique portfolio supports customers to achieve greater productivity and flexibility."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Siemens creates technology with purpose adding real value for customers",
+      "quote": "the company creates technology with purpose adding real value for customers"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Combining real and digital worlds empowers customers to transform their industries and markets",
+      "quote": "By combining the real and the digital worlds, Siemens empowers its customers to transform their industries and markets, helping them to transform the everyday for billions of people."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "AI optimizes maintenance efficiency of drive systems",
+      "quote": "Mindsphere application \"Predictive Service Assistance\" uses artificial intelligence to optimize the maintenance efficiency of drive systems"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Siemens empowers customers to accelerate digital and sustainability transformations",
+      "quote": "By combining the real and the digital worlds, Siemens empowers customers to accelerate their digital and sustainability transformations, making factories more efficient, cities more livable, and transportation more sustainable."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Digital transformation process made easier, faster, and scalable through Siemens Xcelerator",
+      "quote": "And with Siemens Xcelerator \u2013 the open digital business platform \u2013 this process is made even easier, faster, and scalable."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Siemens enables customers to become sustainable Digital Enterprise",
+      "quote": "Together with our partners and ecosystem, Siemens Digital Industries enables customers to become a sustainable Digital Enterprise."
+    }
+  ]
+}

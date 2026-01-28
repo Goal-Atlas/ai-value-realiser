@@ -1,0 +1,140 @@
+{
+  "case_id": "experian-automated-code-transformation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - reducing model development time from months to days/hours represents significant efficiency gain in analytics processes. Pattern is replicable across organizations doing model development.",
+      "evidence_quality_assessment": "Experian is named organization and source appears to be first-party, but the claim lacks specific quantification (how many months to how many days/hours exactly?) and methodology details.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 optimization but needs more specific metrics for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - 75% reduction in data-building time is a measurable efficiency gain in existing analytics processes. Highly replicable pattern for similar organizations.",
+      "evidence_quality_assessment": "Named customer (Continental Finance Company), specific quantified metric (75% reduction), and traceable to Experian as authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Meets both criteria - clear optimization with strong evidence quality"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost optimization of analytics processes, which fits Tier 1 functional improvement. Pattern appears replicable across organizations with analytics functions.",
+      "evidence_quality_assessment": "While Experian is the named source, the claim is vague ('proven cost savings' without quantification) and lacks specific customer attribution or methodology.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit is clear but evidence quality is weak due to lack of specificity"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Enhanced data visibility represents quality improvement in existing analytics functions. Replicable pattern for organizations seeking better data insights.",
+      "evidence_quality_assessment": "Experian is named source but 'enhanced data visibility' is qualitative without specific metrics or customer examples demonstrating the improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional improvement but lacks quantifiable evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Faster product deployment through analytics optimization represents clear efficiency gains in existing development processes. Pattern is replicable across product development organizations.",
+      "evidence_quality_assessment": "Experian is named source but lacks specific metrics (how much faster?) or customer examples demonstrating the deployment speed improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantification for full approval"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Productivity boost through NLP capabilities represents workforce augmentation and efficiency improvement in existing processes. Replicable pattern for analytics teams.",
+      "evidence_quality_assessment": "Experian is named source but 'productivity boost' is not quantified and lacks specific examples or customer attribution.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional improvement but evidence lacks specificity"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Improved collaboration and accessibility represents quality enhancement in existing team processes. Pattern is replicable across organizations seeking better team coordination.",
+      "evidence_quality_assessment": "Experian is named source but claims are qualitative without specific metrics, examples, or customer attribution demonstrating the collaboration improvements.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic fit is appropriate but lacks quantifiable evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing analytics and development functions rather than business model transformation or new revenue streams"
+}

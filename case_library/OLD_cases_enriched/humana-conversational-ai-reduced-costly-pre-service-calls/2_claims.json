@@ -1,0 +1,47 @@
+{
+  "case_id": "humana-conversational-ai-reduced-costly-pre-service-calls",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Humana received over one million calls per month from providers, mostly routine inquiries that could have been resolved through Interactive voice response (IVR) without human intervention",
+      "quote": "The company received over one million calls per month from providers, mostly routine inquiries that could have been resolved through Interactive voice response (IVR) without human intervention."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "The Watson-based system handles calls at approximately one-third the cost of the previous system",
+      "quote": "The Watson-based system handles calls at approximately one-third the cost of the previous system, leading to significant savings on operational expenses."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "The Voice Agent responds to queries at one-third the cost of the old system while providing overall faster responses and improved accuracy",
+      "quote": "The Voice Agent responds to queries at one-third the cost of the old system while providing overall faster responses and improved accuracy."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "The system achieved over 90% accuracy in handling specific sub-intents like claims and authorization",
+      "quote": "Watson AI was trained to understand healthcare terminology, handling specific sub-intents like claims and authorization with over 90% accuracy, thanks to speech customization."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "The system achieved a sentence error rate of only 5% to 10% when addressing complex health-related queries",
+      "quote": "With speech customization, the system has achieved a sentence error rate of only 5% to 10% when addressing complex health-related queries."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "The system is capable of managing over 7,000 voice calls from 120 providers each day",
+      "quote": "The system is capable of managing over 7,000 voice calls from 120 providers each day, creating large-scale opportunities for customer service operations."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "The AI-powered voice agent efficiently provided eligibility, verification, and authentication information for administrative staff at healthcare providers, eliminating the need for live agents",
+      "quote": "This voice agent, powered by AI, efficiently and consistently provided eligibility, verification, and authentication information for administrative staff at healthcare providers, eliminating the need for live agents."
+    }
+  ]
+}

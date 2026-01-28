@@ -1,0 +1,158 @@
+{
+  "case_id": "buzzfeed-ai-content-pivot",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Stock price reaction is market speculation, not evidence of actual transformation. Price movements reflect investor expectations, not demonstrated business model change.",
+      "evidence_quality_assessment": "Specific metric (100% stock rise) with traceable source, but this is a market reaction metric, not a business performance metric.",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market reaction is not evidence of transformation - it's speculation about potential transformation."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Same as C1 - stock price movements are market speculation about AI potential, not demonstrated transformation of BuzzFeed's business model.",
+      "evidence_quality_assessment": "Specific metric (150% rise to $2/share) with source, but measures market sentiment rather than business transformation.",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate of C1 with different percentage - still market speculation, not transformation evidence."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could indicate transformation if AI content represents a fundamentally different value proposition, but 'above-average engagement' suggests optimization rather than reinvention.",
+      "evidence_quality_assessment": "Vague metrics ('above-average') from company source. Lacks specific numbers and independent verification.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Engagement improvements could be Tier 1 optimization unless AI content represents entirely new product category."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Interactive chatbot games could represent new product category (transformation) or enhanced engagement tools (optimization). The 2-3x engagement suggests potential transformation.",
+      "evidence_quality_assessment": "Specific engagement multiple (2-3x) from CEO quote, but lacks independent verification and sample sizes.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Interactive AI games could be genuinely new product category, but need validation of scale and revenue impact."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Doubling content output is operational scaling, not business model transformation. This describes doing more of the same thing, not doing new things.",
+      "evidence_quality_assessment": "Specific metric (doubled output) from CEO source, but measures operational efficiency rather than strategic transformation.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This is clearly Tier 1 - operational scaling of content production, not transformation."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Three-fold increase in views/time could indicate transformation if AI content represents fundamentally different value proposition, but could also be optimization of existing model.",
+      "evidence_quality_assessment": "Specific metric (3x increase) from CEO, but driven partly by higher output (C5), making it unclear if this represents per-unit improvement or just volume scaling.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Growth metrics are promising but unclear if this represents new value creation or optimization of existing content model."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Comparing top 20 articles quarter-over-quarter is performance optimization measurement, not evidence of business model transformation.",
+      "evidence_quality_assessment": "Specific comparison (2x time spent) from company source, but this measures content performance improvement, not strategic change.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This is content performance optimization (Tier 1), not transformation."
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "AI-generated visual content going viral could indicate new content category, but one million views for a media company may not represent transformation-scale impact.",
+      "evidence_quality_assessment": "Specific metric (1M+ views) and viral claim from CEO, but single example may not represent systematic transformation.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Single viral success could indicate potential, but insufficient evidence of systematic business model change."
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "AI-powered client services (infinity quizzes) could represent new service offerings and revenue model, potentially transformational if it becomes core business.",
+      "evidence_quality_assessment": "Qualitative success metrics ('exceeded expectations') from company source, lacks specific numbers but describes client work which could indicate B2B pivot.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Client services using AI tools could indicate transformation toward B2B model, but needs more evidence of scale and strategic commitment."
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. Most claims describe content optimization and engagement improvements (tier 1) rather than business model transformation. The stock price reactions (C1, C2) are market speculation, not transformation evidence. Only C4 and C9 show potential for genuine transformation (interactive AI products, B2B services), but lack sufficient evidence of scale or strategic centrality. This case should likely be reclassified as tier 1 with a few elements flagged for potential tier 1 development."
+}

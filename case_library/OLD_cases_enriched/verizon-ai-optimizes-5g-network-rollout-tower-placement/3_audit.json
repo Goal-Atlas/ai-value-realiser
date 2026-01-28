@@ -1,0 +1,149 @@
+{
+  "case_id": "verizon-ai-optimizes-5g-network-rollout-tower-placement",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - reducing operational costs through AI platform. Pattern is replicable for other telecom network operations.",
+      "evidence_quality_assessment": "Named organization (Verizon) and credible award (2023 US CIO 100), but claim lacks specific metrics. 'Reduces operational costs for all customers' is vague without quantification.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantified evidence of cost reduction"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization - 4x timeline reduction in network migration processes. Highly replicable pattern for telecom operations.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (fourfold reduction). Source attribution clear ('according to Verizon').",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear efficiency gains and specific metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of network operations - coordinated migration reducing ownership costs. Replicable for other network operators.",
+      "evidence_quality_assessment": "Named organization and authoritative source, but 'reduce network ownership costs' lacks specific quantification. Benefits described qualitatively.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantified cost reduction metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency optimization - reducing physical site visits through automation. Pattern applicable to other field service operations.",
+      "evidence_quality_assessment": "Named organization with specific operational improvement described. While not quantified, the efficiency gain is observable and measurable.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid Tier 1 case showing workforce efficiency through automation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This appears to be a market performance metric rather than an internal operational optimization. Awards reflect competitive positioning, not functional efficiency gains.",
+      "evidence_quality_assessment": "Specific metrics provided (874 awards, 70% more than competitor) but this measures market performance rather than operational improvement from AI implementation.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Not a Tier 1 capability case - this is market performance data, not operational optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Network coverage statistic, not an operational optimization. This describes infrastructure scale rather than efficiency improvements from AI.",
+      "evidence_quality_assessment": "Specific metric (280 million people) but measures network reach, not operational efficiency or cost reduction from AI implementation.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Infrastructure scale metric, not operational optimization - doesn't qualify as Tier 1"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Classic predictive maintenance optimization - proactive issue detection reducing downtime. Highly replicable pattern across industries.",
+      "evidence_quality_assessment": "Named organization and clear operational improvement described, but lacks specific quantification of downtime reduction or reliability improvement metrics.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 pattern but needs quantified reliability/downtime metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear cost optimization through predictive maintenance reducing emergency repairs. Pattern widely applicable to asset-intensive operations.",
+      "evidence_quality_assessment": "Named organization with logical cost reduction mechanism described, but 'substantial cost savings' and 'significantly reduced' lack specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs specific cost savings metrics to be fully approved"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe operational optimizations (cost reduction, efficiency gains, predictive maintenance) rather than business model changes. Claims C5 and C6 are market/infrastructure metrics that don't fit tier 1 criteria."
+}

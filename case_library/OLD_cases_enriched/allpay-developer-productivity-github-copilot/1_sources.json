@@ -1,0 +1,23 @@
+{
+  "case_id": "allpay-developer-productivity-github-copilot",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "allpay boosts productivity by 10% with GitHub Copilot: A case study with Microsoft | allpay",
+      "url": "https://www.allpay.net/news/allpay-boosts-productivity-by-10-with-github-copilot-a-case-study-with-microsoft/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Allpay Says AI Transformation Boosts Productivity, Software Releases | PYMNTS.com",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2025/allpay-says-ai-transformation-boosts-productivity-software-releases/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer ...",
+      "url": "https://blogs.microsoft.com/blog/2025/04/22/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "adobe-firefly-genai-instant-generation-creativity",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Adobe Releases Next Generation of Firefly Models",
+      "url": "https://news.adobe.com/news/news-details/2023/adobe-releases-next-generation-of-firefly-models",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Bringing Generative AI into Creative Cloud with Adobe Firefly | Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2023/03/21/bringing-gen-ai-to-creative-cloud-adobe-firefly",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Adobe's Journey to Generative AI Leadership with AWS | Adobe Case Study | AWS",
+      "url": "https://aws.amazon.com/solutions/case-studies/adobe-case-study/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "The future is Firefly: Unlock new levels of creativity with the latest generative AI innovations | Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2023/10/10/future-is-firefly-adobe-max",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "Explore the new Adobe Firefly, your all-in-one creative AI studio | Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2025/10/28/explore-new-adobe-firefly-your-all-in-one-home-ai-powered-creativity",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

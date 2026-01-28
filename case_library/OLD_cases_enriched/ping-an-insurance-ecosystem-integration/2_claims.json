@@ -1,0 +1,89 @@
+{
+  "case_id": "ping-an-insurance-ecosystem-integration",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Ping An achieved remarkable revenue growth through digital transformation",
+      "quote": "It has achieved remarkable results: increasing revenue by almost 250% and nearly tripling revenue between 2013 and 2017."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Ping An significantly expanded its customer base through digital initiatives",
+      "quote": "Ping An now boasts more than 510 million internet customers and 180 million retail finance customers."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Ping An's claim settlement efficiency improved dramatically with 95% of claims reached within 5-10 minutes",
+      "quote": "Ping An Property & Casualty debuted its 510 Ultra-Speed On-Site City Inspection and One-Click Arrangement services, which enable insurance agents to reach an accident scene in 5 to 10 minutes for 95% of claims."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Ping An's Good Doctor platform achieved massive scale with high daily consultation volume",
+      "quote": "Ping An's Good Doctor provides healthcare services from online consultations (500,000 per day) to medicine order and delivery, linking 228 million users and 3,100 hospitals."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "OneConnect became the world's largest cloud platform for financial services",
+      "quote": "OneConnect, Ping An's fintech software-as-a-service, is now the world's largest cloud platform for banking, insurance, and investment solutions, serving hundreds of banks."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Ping An became the most valuable insurance group worldwide",
+      "quote": "Ping An is now the most valuable insurance group worldwide and ranks seventh in the Forbes Global 2000."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Ping An's share price surged by more than 400% between 2013 and 2019",
+      "quote": "The case study notes that its share price has surged by more than 400% between 2013 and 2019."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "OneConnect added more than 50 new customers during COVID-19 pandemic",
+      "quote": "For example, OneConnect added more than 50 new customers including banks and insurance companies that needed smart customer services"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "Ping An Good Doctor was accessed over 1.11 billion times during peak epidemic",
+      "quote": "during the peak of the epidemic, Ping An Good Doctor, the largest health care platform in China, was accessed over 1.11 billion times."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S2",
+      "claim": "Autohome generates significant daily credit card distribution volume",
+      "quote": "For example, Autohome, an online car buying platform, offers relevant financial services, distributing 3,000 credit cards a day."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S2",
+      "claim": "74 million customers had contracts with multiple Ping An companies in 2019",
+      "quote": "in 2019, 74 million customers had contracts with more than one Ping An company."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Alipay Insurance gained over 5 million new users in its launch month",
+      "quote": "One startup benefiting from this opportunity is Alipay Insurance. The Insurtech service usage gained over 5 million new users the month it launched the Alipay super app."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "Curacel increased revenue by 20% through embedded insurance services",
+      "quote": "For example, Curacel, an AI-powered system for claims processing was able to seamlessly introduce its embedded insurance service to consumers within its ecosystem. Through this, it has been able to raise its revenue by 20%."
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S4",
+      "claim": "Discovery's health and wellness program users have 28% fewer hospital stays",
+      "quote": "For example, its health and wellness program users have 28% fewer hospital stays."
+    }
+  ]
+}

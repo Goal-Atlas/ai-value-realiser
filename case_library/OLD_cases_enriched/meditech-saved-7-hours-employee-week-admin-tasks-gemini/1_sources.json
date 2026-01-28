@@ -1,0 +1,23 @@
+{
+  "case_id": "meditech-saved-7-hours-employee-week-admin-tasks-gemini",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "MEDITECH uses Gemini to improve regulated healthcare workflows | Google Workspace Blog",
+      "url": "https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "128 ways our customers are using AI for business | Google Workspace Blog",
+      "url": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Google Cloud on X: \"Using @GoogleWorkspace with Gemini, MEDITECH reduces manual tasks, such as note-taking, drafting documents, and revising emails\u2014saving 7 hours per employee per week, which employees can then allocate to innovating on products and supporting customers \u2193 https://t.co/9QKL3iENNQ\" / X",
+      "url": "https://x.com/googlecloud/status/1992692379460018309",
+      "doc_type": "Press Release"
+    }
+  ]
+}

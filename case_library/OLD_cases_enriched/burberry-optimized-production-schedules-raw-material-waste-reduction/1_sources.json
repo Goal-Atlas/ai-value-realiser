@@ -1,0 +1,29 @@
+{
+  "case_id": "burberry-optimized-production-schedules-raw-material-waste-reduction",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Sustainability | Burberry\u00ae Official",
+      "url": "https://us.burberry.com/c/values/sustainability/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Burberry's sustainability strategy: Why Scope 3 and sourcing are key - Capital Monitor",
+      "url": "https://www.capitalmonitor.ai/analysis/burberrys-sustainability-strategy-why-scope-3-and-sourcing-are-key/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Burberry Comes Under Fire for Supply Chain Practices - The Strategic Sourceror",
+      "url": "https://www.strategicsourceror.com/2018/07/burberry-comes-under-fire-for-supply_31.html",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Case study for Burberry | LSEG",
+      "url": "https://www2.lseg.com/sustainablefinance/case-studies/burberry",
+      "doc_type": "Case Study"
+    }
+  ]
+}

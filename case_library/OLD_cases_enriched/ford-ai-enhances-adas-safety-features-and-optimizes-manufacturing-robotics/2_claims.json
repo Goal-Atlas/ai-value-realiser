@@ -1,0 +1,59 @@
+{
+  "case_id": "ford-ai-enhances-adas-safety-features-and-optimizes-manufacturing-robotics",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "BlueCruise system achieved over 50 million miles of hands-free driving",
+      "quote": "The company's BlueCruise system has marked success with over 50 million miles of hands-free driving, demonstrating the potential of their technology."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Ford successfully recruited over 550 AI experts to strengthen autonomous driving capabilities",
+      "quote": "This initiative has been strengthened by the recruitment of more than 550 professionals from Argo AI, bringing extensive experience and knowledge in automated driving."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "AI-driven robots significantly increased production speed and throughput",
+      "quote": "Robots driven by AI have the endurance to function tirelessly, greatly enhancing the pace of production. Their ability to execute tasks with superior speed and precision compared to human workers shortens cycle times and boosts overall throughput."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "AI automation improved product quality by minimizing defects and reworks",
+      "quote": "With high precision and consistency, AI robots minimize the occurrence of defects and reworks in the manufacturing process. Such enhancements in the manufacturing process elevate the quality of products, ultimately leading to greater customer satisfaction."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI-driven processes reduced material wastage contributing to cost savings",
+      "quote": "By minimizing errors and defects, AI-driven processes reduce material wastage, contributing to cost savings and more sustainable manufacturing practices."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI automation improved workplace safety by delegating dangerous tasks to robots",
+      "quote": "By delegating dangerous tasks to robots, Ford enhances workplace safety. cobots are engineered to ensure a safe working environment alongside human colleagues, minimizing the potential for workplace accidents and injuries."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Long-term cost reduction achieved through reduced labor costs and lower waste",
+      "quote": "Over the long term, the initial investment in robotics and AI technology pays off through reduced labor costs, lower waste"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI Assistant designed to make driving safer and more intuitive",
+      "quote": "Ford has unveiled its much-anticipated AI Assistant at CES 2026, ushering in a new era of smart vehicle technology aimed at making driving safer and more intuitive."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "AI Assistant allows vehicles to interpret complex driving scenarios and respond to hazards",
+      "quote": "The AI Assistant, unveiled on the Great Minds Stage at the Consumer Electronics Show (CES) 2026, allows vehicles to interpret complex driving scenarios, respond to hazards, and personalise the driver experience."
+    }
+  ]
+}

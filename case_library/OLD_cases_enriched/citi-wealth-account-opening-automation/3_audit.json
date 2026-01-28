@@ -1,0 +1,96 @@
+{
+  "case_id": "citi-wealth-account-opening-automation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a problem statement, not an optimization claim. Describes current poor performance but no AI improvement.",
+      "evidence_quality_assessment": "Good evidence quality - specific metric (9 days), named organization (Citi), credible source (Business Insider reporting on Ernst & Young audit). However, this is baseline measurement, not improvement claim.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Baseline problem identification, not a capability improvement case"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a performance metric comparison, not an AI optimization claim. Shows competitive disadvantage but no improvement through AI.",
+      "evidence_quality_assessment": "Good evidence - specific metrics (13% vs 64%), credible audit source. But this describes current state problems, not AI-driven improvements.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Market performance comparison, not capability enhancement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a cost estimate for technology overhaul, not a claim about AI optimization results. Describes investment needed, not benefits achieved.",
+      "evidence_quality_assessment": "Strong evidence - specific cost ($500M), credible source (Ernst & Young audit), detailed context (30 platforms, 70+ processors). However, this is investment requirement, not optimization outcome.",
+      "apqc_functions": [
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Investment requirement, not optimization achievement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes current problems with technology impact on clients, not AI-driven improvements. Problem diagnosis, not solution results.",
+      "evidence_quality_assessment": "Good source credibility (Ernst & Young report via Business Insider) but this is problem identification, not improvement measurement.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Problem statement about current technology impact, not improvement claim"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes current client experience problems and their business impact, but no AI optimization or improvement claimed.",
+      "evidence_quality_assessment": "Credible source but this is problem description, not solution outcome. No metrics of improvement provided.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Current state problem description, not capability improvement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This clearly describes functional optimization - account opening process improvement from 9 days to seconds. Fits Tier 1 pattern of efficiency gains in existing processes. Highly replicable pattern for financial services.",
+      "evidence_quality_assessment": "Weak evidence quality - no organization named, no source attribution provided, extremely vague on implementation details. The dramatic improvement claim (9 days to seconds) needs verification and context.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong optimization claim but lacks attribution and detail. Needs verification of source and implementation specifics."
+    }
+  ],
+  "tier_verification": "Claims C1-C5 are problem statements about current state, not AI optimization achievements. Only C6 represents a tier 1 capability case but lacks proper attribution. This case appears to mix baseline problem identification with an unsubstantiated improvement claim."
+}

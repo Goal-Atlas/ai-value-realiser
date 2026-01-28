@@ -1,0 +1,211 @@
+{
+  "case_id": "ramp-scaled-finance-automation-platform-to-unicorn-status-using-serverless-ai-architecture",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "High valuation suggests market recognition of transformation, but valuation alone doesn't prove business model change",
+      "evidence_quality_assessment": "Specific metrics ($22.5B valuation, $1B revenue) but need to verify if this represents genuine transformation vs. scaling existing model",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong financial metrics but need context on what business model change enabled this growth"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Rapid valuation increase could indicate market recognition of transformational potential",
+      "evidence_quality_assessment": "Specific metrics with timeline, but lacks detail on what drove the transformation",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "73% valuation increase in months suggests something significant, but need evidence of underlying business model change"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Achieving positive cash flow indicates successful business model execution and potential platform economics",
+      "evidence_quality_assessment": "Clear milestone with timeline from named company",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Cash flow positive suggests sustainable transformation of finance operations model"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "3x productivity improvement suggests fundamental change in how financial work gets done, not just incremental efficiency",
+      "evidence_quality_assessment": "Specific metric (3x) with timeline (2 years) from company leadership",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "3x productivity gain indicates transformation of customer value delivery, AI-enabled new capabilities"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "50% customer growth in <1 year suggests strong market adoption of transformed offering",
+      "evidence_quality_assessment": "Specific numbers (30K to 45K+) with clear timeline",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Rapid customer acquisition supports transformation thesis - new model attracting market"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Massive funding specifically for AI automation indicates strategic bet on transforming corporate finance",
+      "evidence_quality_assessment": "Specific amount ($700M) and timeline (<2 months) with clear AI focus",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Large AI-focused funding round signals investor confidence in transformation strategy"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quantifies the inefficiency that AI transformation addresses - establishes baseline for disruption",
+      "evidence_quality_assessment": "Specific metrics ($20, 14 minutes) that establish transformation opportunity",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Establishes the cost structure that AI transformation eliminates - key to business model change"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Weeks-to-minutes transformation represents fundamental change in procurement model - new speed enables new business approaches",
+      "evidence_quality_assessment": "Dramatic time compression claim from company executive with specific comparison",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Order-of-magnitude time reduction suggests genuine transformation of procurement economics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "3.5% annual expense reduction across customer base indicates platform delivering systematic value transformation",
+      "evidence_quality_assessment": "Specific percentage with clear scope (average company, annual)",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Consistent value delivery across customer base suggests scalable transformation model"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "8-day acceleration of month-end close represents fundamental change in financial operations cycle",
+      "evidence_quality_assessment": "Specific time savings (8 days) with clear frequency (monthly)",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Dramatic cycle time reduction enables new financial operations model for customers"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Global scale (100+ countries, billions in volume) indicates platform model successfully transforming corporate finance internationally",
+      "evidence_quality_assessment": "Specific scale metrics with global scope from company source",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Global platform scale demonstrates successful transformation of traditional corporate finance model"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Ramp represents genuine transformation of corporate finance from manual, slow processes to AI-automated platform model. The combination of 3x productivity gains, weeks-to-minutes procurement cycles, and systematic expense reduction across thousands of customers indicates fundamental business model change, not just efficiency improvements. AI is central to the value proposition - without it, the dramatic time and cost improvements disappear."
+}

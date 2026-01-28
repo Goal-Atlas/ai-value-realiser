@@ -1,0 +1,35 @@
+{
+  "case_id": "autonomyworks-error-reduction-cost-savings",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AutonomyWorks ensured accuracy in report production and quality assurance",
+      "quote": "AutonomyWorks took over the production and quality assurance of Rise's reports, ensuring accuracy, efficiency, and scalability."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AutonomyWorks delivered efficiency improvements in report production",
+      "quote": "AutonomyWorks took over the production and quality assurance of Rise's reports, ensuring accuracy, efficiency, and scalability."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AutonomyWorks enabled scalability in reporting operations",
+      "quote": "AutonomyWorks took over the production and quality assurance of Rise's reports, ensuring accuracy, efficiency, and scalability."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AutonomyWorks maintained rapid turnaround times for report delivery",
+      "quote": "Maintained rapid turnaround times, with many reports completed within a two- to three-hour window from data availability to final delivery"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "AutonomyWorks enabled timely decision-making through report delivery",
+      "quote": "Developed and delivered weekly and daily analytics reports, optimization tools, and pacing analyses, ensuring timely decision-making"
+    }
+  ]
+}

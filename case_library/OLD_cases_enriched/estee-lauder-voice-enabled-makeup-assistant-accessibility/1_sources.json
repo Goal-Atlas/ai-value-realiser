@@ -1,0 +1,35 @@
+{
+  "case_id": "estee-lauder-voice-enabled-makeup-assistant-accessibility",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "The Est\u00e9e Lauder Companies launches AI-powered beauty app for visually impaired users",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/11-01-2023",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "ELC's Voice-Enabled Makeup Assistant Has Been Named a Winner in Fast Company's 2023 Innovation by Design Awards",
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/8-22-23",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Est\u00e9e Lauder Launches Voice-Enabled App for the Visually Impaired",
+      "url": "https://beautymatter.com/articles/estee-lauder-launches-voice-enabled-app-for-the-visually-impaired",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Est\u00e9e Lauder Opens AI Innovation Lab to Expedite R&D and Social Listening",
+      "url": "https://consumergoods.com/estee-lauder-opens-ai-innovation-lab-expedite-rd-and-social-listening",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "The Est\u00e9e Lauder Companies' AI-powered Beauty App Caters to Visually Impaired Users",
+      "url": "https://www.gcimagazine.com/brands-products/news/news/22644450/the-este-lauder-companies-aipowered-beauty-app-caters-to-visually-impaired-users",
+      "doc_type": "News Article"
+    }
+  ]
+}

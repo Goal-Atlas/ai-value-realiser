@@ -1,0 +1,47 @@
+{
+  "case_id": "air-france-klm-content-velocity-localization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Contentstack enables Air France-KLM to deliver superior digital experiences while benefiting from rapid, agile, and reliable internal workflows",
+      "quote": "By harvesting the power of composable, headless technology, Air France-KLM is now better equipped to adapt to change without having to compromise on quality. In partnership with Contentstack, they're able to continue delivering superior digital experiences while benefiting from rapid, agile, and reliable internal workflows."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Contentstack enables Air France-KLM to deliver more consistent content across all touchpoints and markets",
+      "quote": "Migrating to Contentstack contributes to delivering more consistent content across all our touchpoints and all markets. At the same time, it enables us to integrate our existing tech stack and adapt quickly to the changing landscape."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Air France-KLM saves $600,000 annually by migrating to Atlassian Cloud Premium",
+      "quote": "Since migrating from Atlassian Data Center to Atlassian Cloud Premium, the airline is saving over $600,000 every year, freeing up thousands of hours every day, and providing even better support for employees and customers."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Air France-KLM eliminated downtime, maintenance, and server costs with Atlassian Cloud Premium",
+      "quote": "By migrating to Atlassian Cloud Premium, Air France-KLM eliminated downtime, maintenance, and server costs, while supporting compliance and providing a better user experience."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Air France-KLM freed up thousands of hours every day through the migration",
+      "quote": "Since migrating from Atlassian Data Center to Atlassian Cloud Premium, the airline is saving over $600,000 every year, freeing up thousands of hours every day, and providing even better support for employees and customers."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "OpenText Documentum had a massive impact on efficiency for Air France-KLM aircraft engineers",
+      "quote": "For our aircraft engineers particularly, the solution had a massive impact on efficiency. Gone are the days of leafing through filing cabinets to find vital maintenance information\u2014today, all the information they need is right at their fingertips."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Air France-KLM expects to achieve easier management, lower infrastructure costs, and tighter information security by moving Documentum to the cloud",
+      "quote": "By bringing the solution to Azure, we'll unlock all the familiar benefits of cloud: easier management and maintenance, lower infrastructure costs, and tighter information security."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "case_id": "waymo-commercial-robotaxis",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates genuine transformation - creating commercial robotaxi market that didn't exist before. 10 million paid rides shows actual revenue generation from AI-as-the-product.",
+      "evidence_quality_assessment": "Named organization (Waymo), specific metrics (100M miles, 10M rides), traceable to company disclosure.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong tier 1 case - AI autonomy IS the product, creating new market category"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Safety performance validates the viability of the transformation - proving AI can replace human drivers commercially, not just assist them.",
+      "evidence_quality_assessment": "Specific metrics (88% fewer serious injury crashes over 71M miles), first-party safety report, measurable comparison.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Critical validation metric for transformation - proves AI can fully replace human capability"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Multi-city commercial expansion demonstrates scalable transformation - creating new transportation market across major metros.",
+      "evidence_quality_assessment": "Named cities (Phoenix, SF, LA, Atlanta, Austin), specific vehicle model (Jaguar I-Pace), verifiable public service.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Geographic scaling validates transformation is not limited to single market"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Manufacturing scale-up shows commitment to transformation - building industrial capacity for new market, not just R&D.",
+      "evidence_quality_assessment": "Specific facility details (239K sq ft Phoenix factory), concrete fleet expansion (2K vehicles added to 1.5K existing).",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "10.1",
+          "name": "Plan and acquire assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Industrial scaling demonstrates serious commercial commitment beyond pilot programs"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Airport integration represents premium market penetration - transforming high-value transportation segment with AI-first service.",
+      "evidence_quality_assessment": "Named airport (Phoenix Sky Harbor), specific achievement (first major airport), quantified usage (hundreds of thousands of trips).",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Premium market penetration validates transformation can capture high-value segments"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Emergency handling capability demonstrates AI system maturity - proving transformation can handle edge cases that would break traditional automation.",
+      "evidence_quality_assessment": "Specific incident (power outage), quantified performance (7,000 dark signals navigated), company disclosure.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Edge case handling proves AI system robustness required for true transformation"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Extensive testing validates transformation readiness - AI system has accumulated experience equivalent to human lifetime driving across multiple markets.",
+      "evidence_quality_assessment": "Specific metrics (10M real miles, 10B simulation miles, 25 cities), verifiable scope of testing program.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Testing scale demonstrates systematic approach to validating transformation technology"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Commercial infrastructure development shows complete business model transformation - building all systems needed for AI-first transportation company.",
+      "evidence_quality_assessment": "Comprehensive scope (legislation, fleet management, dispatch system), demonstrates full commercial operation capability.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Complete infrastructure build-out proves systematic transformation, not just technology demonstration"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This represents genuine transformation - Waymo has created a new market (commercial robotaxis) where AI autonomy IS the product, not a supporting tool. The 'remove the AI' test is decisive: without AI, there is no product. All claims support business model transformation from traditional transportation to AI-first mobility service."
+}

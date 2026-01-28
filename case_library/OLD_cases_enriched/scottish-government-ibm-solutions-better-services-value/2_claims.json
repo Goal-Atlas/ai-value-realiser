@@ -1,0 +1,47 @@
+{
+  "case_id": "scottish-government-ibm-solutions-better-services-value",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Achieved 3-year cost optimization goals in just 18 months",
+      "quote": "In just 18 months, Social Security Scotland achieved the cost optimization goals originally set for a three-year period."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "30.4% reduction in cloud costs within first year",
+      "quote": "Within the first year alone, the organization had a 30.4% reduction in cloud costs."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "78% of savings driven by usage optimization",
+      "quote": "As a result, the agency was able to save a huge amount, with 78% of those savings driven by usage optimization."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Enhanced digital service delivery and operational resilience",
+      "quote": "The result was a smarter, more transparent cloud strategy that not only optimized spend but also enhanced digital service delivery and operational resilience."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Became a model for delivering taxpayer value in UK public sector",
+      "quote": "Social Security Scotland is now at the forefront of FinOps capability in the UK public sector and a model for other organizations to deliver the best possible value for taxpayers."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Successfully processed \u00a33 million in payments over 42 consecutive weeks",
+      "quote": "Since MVS launch in June 2022, the payments service has processed 1,641 payments over 42 consecutive weeks (batches) to the value of \u00a33 million and deployed 11 releases."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Digital transformation drives efficiencies across public sector",
+      "quote": "The use of common platforms, Payments and Identity platforms, and investment in Cloud technology will drive efficiencies across the public sector."
+    }
+  ]
+}

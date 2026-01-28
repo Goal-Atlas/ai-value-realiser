@@ -1,0 +1,119 @@
+{
+  "case_id": "kraft-heinz-ai-ketchup-campaign",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes deployment scale but not functional optimization. 'Democratized access' suggests capability distribution rather than specific process improvement.",
+      "evidence_quality_assessment": "Named organization (Kraft Heinz) and specific metrics (13,000 users, 180 days) with attributed source (Nestor). However, lacks detail on what functions are being optimized.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong deployment metrics but unclear what business functions are being improved. Needs more detail on actual optimization outcomes."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - streamlining SAP rollouts and automating routine financials are specific process improvements that reduce manual effort and increase efficiency.",
+      "evidence_quality_assessment": "Named organization with specific process improvements described. Source is traceable and authoritative.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear capability enhancement in IT deployment and financial processes. Replicable pattern for other large organizations."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague - 'integral part of workflows' doesn't specify what functions are being optimized or how.",
+      "evidence_quality_assessment": "While from named organization, the claim lacks specificity about what improvements are being achieved.",
+      "apqc_functions": [],
+      "notes": "Generic statement without measurable or observable improvement claims. Insufficient substance for Tier 1 assessment."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes specific functional optimizations: document analysis/summarization and factory procedure optimization. These are clear efficiency improvements in existing processes.",
+      "evidence_quality_assessment": "Named organization with specific use cases described. Traceable source with concrete examples of process improvements.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization in manufacturing processes and knowledge management. Pattern replicable across manufacturing organizations."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes development speed (3 months) but doesn't specify what business function is being optimized by The Cookbook tool.",
+      "evidence_quality_assessment": "Named organization with specific timeline metric. Source is authoritative but lacks detail on functional improvements.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good development timeline metric but needs more detail on what business processes are being improved by the tool."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes specific functional optimizations: demand forecasting improvement and factory floor process optimization. These are clear efficiency gains in existing business functions.",
+      "evidence_quality_assessment": "Named organization with specific examples of process improvements. Source is traceable and authoritative.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear capability enhancements in demand planning and manufacturing operations. Replicable pattern for other CPG manufacturers."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes knowledge access optimization - providing workers with institutional expertise improves decision-making and process efficiency in production.",
+      "evidence_quality_assessment": "Named organization with specific scope (150 years of expertise, ketchup production). Source is traceable.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear optimization of knowledge access for production workers. Enhances existing manufacturing capabilities through better information access."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All approved claims describe optimization of existing business functions (manufacturing, financial processes, knowledge management) rather than new business models or revenue streams."
+}

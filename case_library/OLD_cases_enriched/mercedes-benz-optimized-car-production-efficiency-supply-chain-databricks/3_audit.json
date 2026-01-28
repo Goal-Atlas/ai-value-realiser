@@ -1,0 +1,230 @@
+{
+  "case_id": "mercedes-benz-optimized-car-production-efficiency-supply-chain-databricks",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - making analytics more scalable and cost-efficient for existing measurement data processes. Replicable pattern for other automotive manufacturers.",
+      "evidence_quality_assessment": "Named organization (Mercedes-Benz) but lacks specific quantified metrics. Claims are somewhat generic ('scalable and cost-efficient') without concrete numbers.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality weakened by lack of specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing data analysis functions across vehicle development, performance tuning, and predictive maintenance. Clear functional improvement with broad applicability.",
+      "evidence_quality_assessment": "Named organization with specific functional areas identified. While not quantified, the scope is well-defined and credible.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit with adequate evidence specificity"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing production and supply chain functions. Real-time feedback and dynamic resource allocation represent efficiency improvements in established processes.",
+      "evidence_quality_assessment": "Named organization with specific functional improvements described. Mentions concrete technologies (AI, digital twins) and specific outcomes.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong case with clear functional optimization and good evidence quality"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of production efficiency and supply chain resilience, which fits Tier 1. However, 'transition to electromobility' could imply business model changes.",
+      "evidence_quality_assessment": "Named organization but claims are high-level without specific metrics. Quote appears to be from executive statement.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit unclear - could be Tier 1 optimization or tier 1 transformation. Evidence quality moderate."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization through virtual simulation before physical implementation. Operational efficiency and energy savings represent measurable improvements to existing processes.",
+      "evidence_quality_assessment": "Named organization with specific example (CO2 emissions reduction) and clear methodology (virtual simulation before shop floor implementation).",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit with good evidence including specific example"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing logistics processes and improves transparency in established vehicle delivery operations. Clear functional improvement.",
+      "evidence_quality_assessment": "Named organization with specific functional area (logistics) and clear outcomes (acceleration, transparency, reliability).",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization with adequate evidence quality"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of production workflows through inefficiency identification and data-driven decision-making. Resource allocation improvements represent functional enhancement.",
+      "evidence_quality_assessment": "Named organization with specific methodology (identifying inefficiencies, data-driven decisions) and described outcomes (refined operations, effective resource allocation).",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit with good evidence describing methodology and outcomes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization with specific, quantified improvement target. Production efficiency improvement is classic Tier 1 capability enhancement.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (20% improvement) and timeline (by 2025). Strong evidence quality.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent case with quantified target and clear functional optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of supply chain problem-solving processes. Replicable pattern for logistics operations.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics. 'Much faster' is qualitative without quantification.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality weakened by lack of specific metrics"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing resource allocation processes with strategic prioritization capability. Clear functional improvement in established operations.",
+      "evidence_quality_assessment": "Named organization with specific functionality (dynamic allocation) and clear business logic (prioritizing strategic vehicle types).",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization with adequate evidence specificity"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing analytics access for production teams through self-service capabilities. Clear efficiency improvement in established function.",
+      "evidence_quality_assessment": "Named organization with specific functionality (self-service portal, analytics dashboards) and accessibility details (any device).",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization with good evidence describing specific capabilities"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing environmental monitoring and forecasting functions. Clear capability enhancement for established sustainability processes.",
+      "evidence_quality_assessment": "Named organization with specific metrics identified (carbon emissions, energy, water usage, waste management) and clear functionality (monitor and forecast).",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong functional optimization with specific environmental metrics identified"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing functions (production, supply chain, analytics, monitoring) rather than business model transformation. C4 has some ambiguity around 'transition to electromobility' but appears to focus on operational efficiency rather than fundamental business model change."
+}

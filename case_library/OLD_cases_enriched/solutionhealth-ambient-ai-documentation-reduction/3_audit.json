@@ -1,0 +1,64 @@
+{
+  "case_id": "solutionhealth-ambient-ai-documentation-reduction",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a market growth statistic, not a description of functional optimization within any specific organization.",
+      "evidence_quality_assessment": "While the statistic appears specific ($32.3B to $208B), it's a market projection rather than evidence of capability improvement at an organizational level.",
+      "apqc_functions": [],
+      "notes": "Market statistics don't qualify as Tier 1 capability cases. This describes industry trends, not specific organizational process optimization."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is an adoption statistic across the industry, not a specific capability improvement case.",
+      "evidence_quality_assessment": "While the percentages are specific (80%, 75%), these are aggregate statistics rather than evidence of specific organizational improvements.",
+      "apqc_functions": [],
+      "notes": "Industry adoption rates don't constitute capability cases. No specific organization or process optimization described."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a potential impact assessment from Accenture research, not an actual capability implementation.",
+      "evidence_quality_assessment": "While attributed to Accenture, this is a projection of what 'could be' transformed, not evidence of actual transformation.",
+      "apqc_functions": [],
+      "notes": "Theoretical potential impact rather than demonstrated capability improvement. No specific organization or implemented process described."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes clear functional optimization (30-50% cycle time reduction, 5-10x throughput improvement) but lacks organizational specificity.",
+      "evidence_quality_assessment": "Specific quantified metrics provided, but no named organization or traceable implementation. Generic 'teams' reference makes verification impossible.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong metrics suggest real capability improvements, but anonymized presentation prevents verification. Could be legitimate if source context provides organizational attribution."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce augmentation and efficiency gains (faster responses, time savings) which fits Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Named organization (Malteser) and specific tool (Microsoft 365 Copilot), but metrics are qualitative ('meaningful time savings') rather than quantified.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Named organization and clear efficiency improvements, but lacks specific quantified outcomes. Qualitative benefits described suggest real capability enhancement."
+    }
+  ],
+  "tier_verification": "Most claims are industry statistics rather than organizational capability cases. Only C4 and C5 describe actual process optimization, though both lack ideal specificity for tier 1 evidence standards."
+}

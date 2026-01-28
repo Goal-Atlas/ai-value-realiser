@@ -1,0 +1,120 @@
+{
+  "case_id": "humana-conversational-ai-reduced-costly-pre-service-calls",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - identifies inefficiency in existing customer service operations where routine inquiries required human intervention unnecessarily. Pattern is replicable across healthcare payers and other industries with high-volume routine inquiries.",
+      "evidence_quality_assessment": "Named organization (Humana), specific volume metric (1M+ calls/month), clear problem definition. Source appears credible though would benefit from verification of publication authority.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Establishes baseline problem that subsequent claims address through AI optimization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Direct cost optimization of existing customer service function. One-third cost reduction represents significant efficiency gain in bounded process. Highly replicable pattern for call center automation.",
+      "evidence_quality_assessment": "Named organization, specific quantified benefit (67% cost reduction), clear comparison to previous system. Metric is concrete and measurable.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear cost optimization metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Reinforces functional optimization with multiple improvement dimensions - cost, speed, and accuracy. Represents comprehensive enhancement of existing customer service capability.",
+      "evidence_quality_assessment": "Consistent with C2 on cost metrics, adds quality dimensions (speed, accuracy). While 'faster' and 'improved accuracy' are less specific, they support the quantified cost claim.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Reinforces C2 with additional quality metrics, though less quantified"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates quality improvement in specific functional areas (claims processing, authorization). Shows AI optimizing accuracy in bounded healthcare administrative processes.",
+      "evidence_quality_assessment": "Specific accuracy metric (90%+) for defined sub-processes. Technical detail about speech customization adds credibility. Measurable performance standard.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong technical performance metric for healthcare-specific processes"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quality metric for complex query handling shows AI improving accuracy in challenging scenarios. Represents optimization of existing customer service capability for difficult cases.",
+      "evidence_quality_assessment": "Specific error rate range (5-10%) for complex queries. Technical metric that can be measured and verified. Shows system performance under challenging conditions.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical performance metric demonstrating quality improvement in complex scenarios"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of operational efficiency - handling high volume of provider calls without proportional human resources. Shows capacity optimization in existing function.",
+      "evidence_quality_assessment": "Specific volume metrics (7,000 calls/day, 120 providers). Quantified operational capacity that can be verified. Shows scale of automation achievement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear operational scale metrics showing automation capacity"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes complete automation of specific administrative functions (eligibility, verification, authentication). Clear efficiency gain through elimination of human intervention in routine processes.",
+      "evidence_quality_assessment": "Specific functional areas identified, clear outcome (eliminating live agents). While 'efficiently and consistently' is qualitative, the functional scope is well-defined.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Complete automation of defined administrative functions with clear efficiency outcome"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing customer service operations through AI automation, resulting in cost reduction, quality improvement, and efficiency gains. No business model changes or new revenue streams indicated - purely functional enhancement."
+}

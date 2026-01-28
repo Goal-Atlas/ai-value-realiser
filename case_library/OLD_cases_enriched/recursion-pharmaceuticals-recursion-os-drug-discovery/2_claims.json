@@ -1,0 +1,59 @@
+{
+  "case_id": "recursion-pharmaceuticals-recursion-os-drug-discovery",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Accelerated cellular microscopy image processing using TPUs",
+      "quote": "Accelerates cellular microscopy image processing with TPUs"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Reduced deep learning model training time from hours to minutes",
+      "quote": "Reduces deep learning model training from hours to minutes with TensorFlow"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Potential to cut drug discovery and development time by factor of 10",
+      "quote": "potentially cutting the time to discover and develop a new medicine by a factor of 10"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Created hundreds of rare disease models in under two years",
+      "quote": "In just under two years, Recursion has created hundreds of rare disease models and generated a shortlist of drug candidates across several diseases"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "First machine learning-discovered drug to reach clinical trials",
+      "quote": "The candidate is among the first to make it to human testing that was found using machine learning"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Goal to discover 100 clinical candidates in 10 years - orders of magnitude more than largest pharma companies",
+      "quote": "Our goal is to discover 100 clinical candidates in the first 10 years of the company, which would be orders of magnitude more than even the largest pharmaceutical companies can achieve right now"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Platform supports computational bursts of trillions of calculations per second",
+      "quote": "Its engineers have built a platform that supports bursts of computational power that weigh in at trillions of calculations per second"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Lead experimental drug demonstrated safety in mid-stage trial",
+      "quote": "Recursion Pharmaceuticals on Tuesday said results from a mid-stage trial showed its lead experimental drug to be safe"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "Combined pipeline expected to deliver around 10 clinical trial readouts over 18 months",
+      "quote": "The companies touted the potential of their combined drug pipeline, which they expect to deliver around 10 clinical trial readouts over 18 months"
+    }
+  ]
+}

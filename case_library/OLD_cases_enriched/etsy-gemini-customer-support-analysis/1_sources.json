@@ -1,0 +1,11 @@
+{
+  "case_id": "etsy-gemini-customer-support-analysis",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Mark Cuban shares the magic of Gemini with small businesses and influencers | Google Workspace | Google Workspace Blog",
+      "url": "https://workspace.google.com/blog/ai-and-machine-learning/event-recap-mark-cuban-shares-magic-gemini-small-businesses-and-influencers",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

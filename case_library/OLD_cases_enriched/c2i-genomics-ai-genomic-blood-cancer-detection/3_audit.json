@@ -1,0 +1,107 @@
+{
+  "case_id": "c2i-genomics-ai-genomic-blood-cancer-detection",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "100x sensitivity improvement suggests potential transformation of cancer detection paradigm, but this appears to be a performance enhancement rather than business model change. The claim focuses on technical superiority within existing diagnostic framework.",
+      "evidence_quality_assessment": "Specific quantitative claim (100x) but lacks independent validation or comparative study citation. Source appears to be company materials rather than third-party verification.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong technical claim but insufficient evidence of business model transformation vs. product improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Eliminating patient-specific assays could represent process transformation in diagnostics workflow, but this describes operational efficiency rather than fundamental business model change. Still operating within traditional diagnostic service model.",
+      "evidence_quality_assessment": "Descriptive claim about process improvement but lacks specific metrics on logistics reduction or turnaround time improvements. No quantitative validation provided.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process innovation but appears to be Tier 1 optimization rather than tier 1 transformation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Earlier detection at lower levels could enable new treatment paradigms and shift from reactive to proactive cancer care, potentially transforming oncology workflow. However, still operates within existing diagnostic service business model.",
+      "evidence_quality_assessment": "Qualitative claims about 'much earlier' and 'far lower levels' lack specific metrics. No clinical validation data or comparative studies referenced to support superiority claims.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Potentially transformative clinical impact but insufficient evidence and unclear if this represents business model innovation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Earlier stage detection using AI-driven pattern recognition suggests technical advancement but appears to be product enhancement within existing diagnostic business model rather than fundamental transformation of how value is created.",
+      "evidence_quality_assessment": "General claim about earlier detection without specific metrics, timeframes, or comparative data. No clinical trial results or peer-reviewed validation cited.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Technical innovation but lacks evidence of strategic transformation beyond improved diagnostic performance"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Nationwide healthcare system integration serving 10 million people represents significant scale transformation and new market penetration. This suggests platform-level deployment that could fundamentally change cancer screening accessibility and population health management.",
+      "evidence_quality_assessment": "Specific partnership details (Ichilov Hospital Labs), defined population size (10 million), and clear geographic scope (Israel). Traceable business development with named healthcare system integration.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "5.1",
+          "name": "Establish service delivery governance and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear evidence of strategic market transformation through population-scale healthcare system integration"
+    }
+  ],
+  "tier_verification": "This case appears to be primarily tier 1 (optimization) rather than tier 1 (transformation). Most claims describe improved diagnostic performance within existing business models. Only C5 shows genuine transformation through population-scale platform deployment. Consider reclassifying as tier 1 with C5 as a transformational element."
+}

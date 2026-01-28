@@ -1,0 +1,140 @@
+{
+  "case_id": "acentra-health-medscribe-azure-openai-documentation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - reducing administrative burden in healthcare operations, allowing staff reallocation to core patient care. This is a replicable pattern across healthcare organizations.",
+      "evidence_quality_assessment": "Named organization (Acentra Health), specific quantified metric (60% reduction), appears to be from official case study documentation.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear efficiency gain with specific metric and workforce optimization focus"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of existing patient service processes through automation. Response time improvement is a classic efficiency gain that other healthcare providers could replicate.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement (30%), traceable to official documentation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear operational efficiency improvement with measurable outcome"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization (streamlined scheduling and communication) which fits Tier 1, and pattern is replicable across healthcare organizations.",
+      "evidence_quality_assessment": "Named organization and mentions surveys as evidence, but lacks specific quantification of satisfaction improvement ('notable increase' is vague).",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality weakened by lack of specific metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization through automation and efficiency improvements. Pattern is highly replicable across organizations.",
+      "evidence_quality_assessment": "Named organization but completely lacks quantification - 'significant cost savings' provides no measurable evidence of impact.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit undermined by vague financial claims without supporting data"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Resource reallocation from administrative to patient care represents clear operational optimization. This workforce optimization pattern is replicable across healthcare organizations.",
+      "evidence_quality_assessment": "Named organization with specific description of resource reallocation mechanism and outcome focus.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Well-described operational improvement with clear resource optimization focus"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Employee satisfaction improvement through task automation fits Tier 1 optimization pattern and is replicable across similar organizations.",
+      "evidence_quality_assessment": "Named organization and mentions employee reports, but lacks quantification of satisfaction improvement or survey methodology details.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Relevant operational outcome but needs more specific evidence of satisfaction measurement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Transformation from reactive to proactive care through predictive analytics represents clear operational optimization of existing care delivery processes. Pattern is replicable across healthcare providers.",
+      "evidence_quality_assessment": "Named organization with specific description of predictive capability implementation and clear operational transformation described.",
+      "apqc_functions": [
+        {
+          "id": "5.1",
+          "name": "Establish service delivery governance and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong example of process optimization through predictive analytics enabling proactive service delivery"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing healthcare operations and administrative functions rather than business model transformation or new revenue streams."
+}

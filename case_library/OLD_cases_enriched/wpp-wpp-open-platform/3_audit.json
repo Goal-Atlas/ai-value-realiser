@@ -1,0 +1,187 @@
+{
+  "case_id": "wpp-wpp-open-platform",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims to be first in category with independent AI-powered marketing services, suggesting new business model, but lacks specificity about what makes it truly independent or different from traditional agency work.",
+      "evidence_quality_assessment": "Vague claim without clear definition of 'independent AI-powered marketing services' or evidence of how this differs from existing offerings. Source appears credible but claim needs more substance.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Potentially transformational but needs clearer evidence of business model differentiation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Explicitly states transformation of marketing delivery and TAM expansion to serve smaller businesses - classic market expansion transformation. AI enables serving previously uneconomical segments.",
+      "evidence_quality_assessment": "Clear strategic statement from company leadership about market expansion and transformation. Specific about targeting smaller businesses previously outside their addressable market.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear transformation case - using AI to serve new market segments economically"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes process improvement in content creation speed, not business model transformation. Faster content creation is efficiency gain within existing agency model.",
+      "evidence_quality_assessment": "Clear claim about capability but this is operational improvement, not strategic transformation.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "This is Tier 1 - operational efficiency in content creation, not transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Access to largest cross-platform data source could enable new capabilities and business models, but unclear if this creates fundamentally new value propositions or just enhances existing services.",
+      "evidence_quality_assessment": "Specific claim about 'industry's largest' but lacks quantification. InfoSum acquisition is verifiable but impact on business model unclear.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Data acquisition could be transformational but needs evidence of new business model enabled"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Campaign optimization speed improvement (hours vs weeks) is operational efficiency, not business model change. Still the same service delivered faster.",
+      "evidence_quality_assessment": "Specific timeframe claim but this describes process improvement within existing agency model.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "This is Tier 1 - faster campaign optimization is efficiency gain, not transformation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Privacy-enhancing data connections could enable new business models around data monetization and ecosystem orchestration, but unclear if this creates new revenue streams or just enhances existing services.",
+      "evidence_quality_assessment": "Describes capability but lacks specifics about business model impact or revenue implications.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Could be transformational if it enables platform/ecosystem business model, but needs more evidence"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Explicitly states WPP Open is 'the foundation of its entire business model' - clear indication of business model transformation. $300M investment scale suggests strategic commitment.",
+      "evidence_quality_assessment": "Specific investment amount ($300M) and clear statement about business model foundation. Credible source and quantified commitment.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of business model transformation with significant investment backing"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "27,000 active monthly users suggests platform adoption at scale, indicating shift from traditional agency model to platform-based business model.",
+      "evidence_quality_assessment": "Specific user metric provides concrete evidence of platform adoption and scale.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "User metrics support platform transformation narrative"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Operating at 'tech company pace' (30 updates/day) vs 'traditional agency' explicitly contrasts old vs new business model. Suggests platform-based, software-driven approach.",
+      "evidence_quality_assessment": "Specific metric (30 updates/day) and explicit comparison to tech companies vs traditional agencies provides clear evidence of operational transformation.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of transformation from agency to tech platform operating model"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Real-time testing and instant optimization describe improved capabilities within existing agency functions, not business model transformation.",
+      "evidence_quality_assessment": "Clear description of enhanced capabilities but these are efficiency improvements in existing workflows.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "This is Tier 1 - enhanced capabilities within existing agency model, not transformation"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. WPP appears to be transforming from traditional agency model to AI-powered platform business, evidenced by $300M investment, 27K users, tech company operating pace, and explicit statements about business model foundation changes. However, several claims (C3, C5, C10) are actually tier 1 operational improvements mixed within the transformation narrative."
+}

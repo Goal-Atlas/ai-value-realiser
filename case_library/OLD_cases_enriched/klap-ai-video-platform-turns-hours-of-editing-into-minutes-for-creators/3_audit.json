@@ -1,0 +1,202 @@
+{
+  "case_id": "klap-ai-video-platform-turns-hours-of-editing-into-minutes-for-creators",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational efficiency - one engineer managing infrastructure for 2M users demonstrates significant workforce productivity optimization in IT operations.",
+      "evidence_quality_assessment": "Specific metric with named organization (Klap), traceable to Google Cloud case study. Credible first-party account.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing dramatic workforce efficiency in infrastructure management"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates operational excellence - maintaining high uptime while achieving growth and cost reduction is classic capability optimization.",
+      "evidence_quality_assessment": "Specific metrics (7% MoM growth, 99.9% uptime) from named organization with authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational efficiency metrics demonstrating improved capability performance"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Direct cost optimization through infrastructure consolidation - classic Tier 1 efficiency gain in existing operations.",
+      "evidence_quality_assessment": "Specific quantified benefit (one-third cost reduction) from named organization with clear attribution.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong cost reduction claim with clear operational context"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Operational optimization during traffic spikes - demonstrates improved scalability and cost efficiency in existing infrastructure function.",
+      "evidence_quality_assessment": "Dramatic but specific metric (10x cost reduction) with clear technical explanation and named organization.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Impressive operational efficiency gain with technical detail supporting the claim"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quality improvement in existing service delivery - moving from 99.9% to 99.99% uptime represents operational excellence enhancement.",
+      "evidence_quality_assessment": "Specific, measurable improvement with named organization and authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear service quality improvement with precise metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Core value proposition showing dramatic time efficiency in content creation process - clear functional optimization.",
+      "evidence_quality_assessment": "Named organization with specific time reduction claim, though 'hours to minutes' is somewhat general.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Primary capability optimization claim, though could be more specific on time ranges"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific process efficiency - 10-minute turnaround time represents clear operational capability in service delivery.",
+      "evidence_quality_assessment": "Specific timeframe with detailed process description from named organization.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational efficiency with specific performance metric"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Shows potential for efficiency improvement in video editing function, but lacks specificity on actual reduction achieved.",
+      "evidence_quality_assessment": "References a study for baseline (9.8 hours) but doesn't quantify the AI improvement - just states 'significantly'.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Good baseline data but vague on actual improvement achieved - needs more specific metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale and throughput of service delivery capability - shows operational capacity and efficiency.",
+      "evidence_quality_assessment": "Specific metrics (1.7M creators, 3.3M clips) from named organization with first-party attribution.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong operational metrics demonstrating service delivery capability at scale"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market trend projection, not operational capability improvement - this is industry context, not functional optimization.",
+      "evidence_quality_assessment": "While specific, this is market research data not related to any organization's operational capabilities.",
+      "apqc_functions": [],
+      "notes": "Market trend data - not a capability case claim about operational improvement"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market size projection, not operational capability - provides industry context but doesn't describe functional optimization.",
+      "evidence_quality_assessment": "Specific market data but not related to any organization's operational performance or efficiency gains.",
+      "apqc_functions": [],
+      "notes": "Market research data - not relevant to capability optimization assessment"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry benchmark data, not operational capability improvement - describes market performance, not functional optimization.",
+      "evidence_quality_assessment": "Specific engagement rate data but not tied to any organization's operational improvements.",
+      "apqc_functions": [],
+      "notes": "Industry performance data - not a capability case about operational efficiency"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case focuses on operational efficiency improvements (infrastructure management, cost reduction, service delivery optimization) rather than business model innovation. Claims C1-C9 represent classic capability optimization patterns."
+}

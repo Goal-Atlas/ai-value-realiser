@@ -1,0 +1,59 @@
+{
+  "case_id": "pfizer-rd-cost-avoidance-ai-modeling",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "AI enabled rapid scaling of clinical trials from hundreds to tens of thousands of participants during COVID-19",
+      "quote": "we expanded trials from hundreds to tens of thousands of participants and partnered with a digital health company to streamline data queries, something that would have otherwise required thousands of additional personnel"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "AI optimized vaccine design to minimize side effects through extensive simulations",
+      "quote": "AI also played a crucial role in optimizing vaccine design to minimize side effects through extensive simulations"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Pfizer announced $1.7 billion in additional cost savings through digital enablement including AI and automation",
+      "quote": "Pfizer said the savings would come through 'digital enablement,' which includes automation and using AI in unspecified ways, as well as process simplification"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Total cost alignment program reaches $7.7 billion in savings",
+      "quote": "The newly announced cuts will bring the total cost alignment program to $7.7 billion, CEO Albert Bourla said in his prepared earnings remarks"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "$500 million saved through R&D reorganization to be reinvested in pipeline",
+      "quote": "An additional $500 million would be saved through a reorganization of R&D to be completed by the end of 2026. Pfizer will reinvest those savings back into the pipeline"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI reduced drug discovery timelines from years to 30 days",
+      "quote": "Pfizer's AI-powered predictive machine learning research hub can now do it in 30 days or less"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "AI saved 16,000 hours annually in research through improved search capabilities",
+      "quote": "Using generative AI tools like Anthropic's Claude, Pfizer enables natural language searches across vast datasets, cutting search time by 80% and saving scientists 16,000 hours annually"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI boosted manufacturing yields by 10% and reduced cycle times by 25%",
+      "quote": "Their generative AI platform detects anomalies and suggests real-time actions for operators, boosting product yield by 10% and reducing cycle time by 25%"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "AI-powered manufacturing increased throughput by 20%",
+      "quote": "AI-powered manufacturing increased throughput by 20%"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "apex-fintech-solutions-reduced-security-threat-detection-turnaround-time-by-75-percent",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Reduced false positive alerts from 80% to a lower rate",
+      "quote": "With Apex's existing system, 80% of the alerts analysts received were false positives, or cases where a legitimate transaction is flagged as suspicious, shutting down the transaction or locking an account down completely."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Eliminated manual swivel-chair processes for analysts",
+      "quote": "The existing system also placed a heavy burden on Apex analysts, forcing them to live in a world of swivel-chair processes while manually performing much of the heavy lifting associated with their investigations."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Enabled faster response to new business opportunities through flexible system configuration",
+      "quote": "At Apex, we pride ourselves on being able to move quickly, So, we need a system or platform that can keep up with us. The financial crime system we had was like a huge cruise ship, and we needed a speedboat."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Provided drag-and-drop functionality without requiring technical resources for changes",
+      "quote": "Apex's analysts could easily drag and drop different components to meet their needs without having to rely on internal or third-party tech resources to overhaul the computer code."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Reduced false positive alerts from 80% to a lower rate",
+      "quote": "With Apex's existing system, 80% of the alerts analysts received were false positives, or cases where a legitimate transaction is flagged as suspicious, shutting down the transaction or locking an account down completely."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Eliminated manual processes and heavy lifting for analysts",
+      "quote": "The existing system also placed a heavy burden on Apex analysts, forcing them to live in a world of swivel-chair processes while manually performing much of the heavy lifting associated with their investigations."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Achieved 50% faster margin calculations processing time",
+      "quote": "AlloyDB fuels 50% faster margin calculations for Apex FinTech"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Enabled real-time margin calculations instead of batch processing",
+      "quote": "we needed real-time data from APIs to calculate the margin on demand and help our customers to determine their risk in seconds"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Reduced CPU load and costs through columnar engine optimization",
+      "quote": "The columnar engine reduced the total CPU load on the database, saving costs by minimizing the required number of read replicas."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "case_id": "ford-ai-enhances-adas-safety-features-and-optimizes-manufacturing-robotics",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - enhances existing ADAS capabilities with measurable deployment metric. Replicable pattern for other automakers developing hands-free driving systems.",
+      "evidence_quality_assessment": "Named organization (Ford), specific quantified metric (50 million miles), traceable to BlueCruise system performance.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing optimization of vehicle safety systems with concrete deployment evidence."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Talent acquisition to strengthen existing capabilities rather than direct functional optimization. Supports capability building but indirect impact on operations.",
+      "evidence_quality_assessment": "Named organization and specific number (550 professionals), but recruitment numbers don't directly demonstrate operational improvement.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Input metric rather than outcome metric - shows capability investment but not operational optimization results."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear manufacturing optimization claim - AI robots improving production speed and throughput. Highly replicable pattern across manufacturing.",
+      "evidence_quality_assessment": "Named organization but lacks specific quantified metrics. Claims are general ('significantly increased', 'greatly enhancing') without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but weak evidence quality due to lack of specific metrics. Generic language suggests potential marketing content."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear quality optimization in manufacturing processes. Pattern highly replicable across manufacturing operations seeking defect reduction.",
+      "evidence_quality_assessment": "Named organization but no quantified improvement metrics. Claims are qualitative ('minimize defects', 'elevate quality') without specific measurements.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit for Tier 1 but lacks the specific metrics needed for full approval."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Cost optimization through waste reduction - clear functional improvement. Replicable pattern for manufacturing operations.",
+      "evidence_quality_assessment": "Named organization but no quantified savings or waste reduction percentages. Generic claim without specific measurement.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Appropriate Tier 1 claim but needs quantified cost savings or waste reduction metrics for full approval."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workplace safety optimization through task delegation to robots. Replicable pattern across manufacturing with dangerous operations.",
+      "evidence_quality_assessment": "Named organization with specific implementation approach (cobots for dangerous tasks). While not quantified, the safety improvement mechanism is clearly described.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - safety optimization with clear implementation method, even without injury reduction statistics."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Cost optimization claim covering labor and waste reduction. Appropriate Tier 1 functional improvement.",
+      "evidence_quality_assessment": "Named organization but extremely vague on metrics. No specific cost reduction percentages or timeframes provided.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Appropriate Tier 1 claim but needs quantified cost savings for approval. Very generic language suggests marketing content."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Product announcement rather than operational optimization. Describes future capability rather than current functional improvement.",
+      "evidence_quality_assessment": "References CES 2026 (future event) and product unveiling rather than deployed operational results.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Product announcement, not operational optimization evidence. Future-focused rather than current capability demonstration."
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Product capability description rather than operational optimization results. Describes intended functionality rather than deployed improvements.",
+      "evidence_quality_assessment": "References CES 2026 product unveiling - future capability rather than current operational evidence.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Product specification rather than operational optimization. No evidence of deployed capability or measured improvement."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing functions (manufacturing, safety, product development) rather than business model transformation. No evidence of new revenue streams or market creation."
+}

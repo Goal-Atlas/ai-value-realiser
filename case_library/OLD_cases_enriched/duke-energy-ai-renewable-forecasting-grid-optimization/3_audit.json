@@ -1,0 +1,177 @@
+{
+  "case_id": "duke-energy-ai-renewable-forecasting-grid-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of grid operations to improve reliability and reduce costs - fits Tier 1 pattern",
+      "evidence_quality_assessment": "Named organization (Duke Energy) but claims are high-level without specific metrics or quantified improvements",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claim but lacks specific performance metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes specific process optimization - automatic problem identification and power rerouting represents clear functional improvement",
+      "evidence_quality_assessment": "Named organization with specific technical details about automated solutions and hourly forecasting capabilities",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong technical specificity demonstrates clear capability enhancement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims grid management efficiency improvement which fits Tier 1, but very general statement",
+      "evidence_quality_assessment": "Named organization but claim is aspirational quote without specific metrics or process details",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Too vague to assess actual capability improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing grid operations to handle renewable integration while maintaining reliability and cost control",
+      "evidence_quality_assessment": "Named organization with specific context about renewable integration challenges and grid flexibility solutions",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Addresses specific operational challenge with clear capability enhancement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes demand management optimization that reduces infrastructure burden and costs - clear functional improvement",
+      "evidence_quality_assessment": "Named organization with specific mechanism (peak demand shifting) and dual benefits (infrastructure + customer savings)",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Specific process optimization with clear efficiency gains"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims cost optimization by utilizing existing assets, but statement is very broad and forward-looking",
+      "evidence_quality_assessment": "Named organization but claim is aspirational without specific metrics or current implementation details",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Promising efficiency concept but lacks concrete evidence of current capability"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "General statement about human-machine collaboration benefits - fits Tier 1 pattern but very broad",
+      "evidence_quality_assessment": "Generic claim without specific organization attribution or concrete examples of implementation",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Too generic to assess specific capability improvements"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims grid reliability and resilience enhancement through battery storage - fits optimization pattern",
+      "evidence_quality_assessment": "Named organization but high-level commitment statement without specific performance metrics",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid capability area but lacks specific implementation details"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific grid stability optimization using battery storage technology with clear technical specifications",
+      "evidence_quality_assessment": "Named organization with specific technical details (5-MW system, 8-hour storage, sodium-sulfur batteries) and clear function",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong technical specificity demonstrates concrete capability implementation"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes customer empowerment and grid stability contribution through residential storage - clear functional enhancement",
+      "evidence_quality_assessment": "Named organization with specific program reference (PowerPair) and dual benefits (customer control + grid stability)",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Specific program with clear capability benefits for both customers and operations"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing utility operations (grid management, demand response, storage integration) rather than business model transformation"
+}

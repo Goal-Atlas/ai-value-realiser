@@ -1,0 +1,53 @@
+{
+  "case_id": "moderna-ai-platform-accelerated-mrna-therapeutic-design-and-vaccine-development",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "AI and automation dramatically increased mRNA production capacity from 30 to 1,000 units per month",
+      "quote": "what we did is we put in place a ton of robotic automation, put in place a lot of digital systems and process automation and AI algorithms as well. And [we] went from maybe about 30 mRNAs manually produced in a given month to a capacity of about a thousand in a month period"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "AI helped accelerate COVID-19 vaccine development speed",
+      "quote": "our hosts learn how Moderna used artificial intelligence to speed up development of the vaccine and how the technology has helped to automate other key systems and processes to build efficiencies across the organization"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Employees have created over 750 custom AI tools (GPTs) for various business functions",
+      "quote": "Already, the biotech says its employees have created and deployed more than 750 'GPTs,' including tools that help its drug researchers select vaccine doses for testing and its lawyers quickly scan contracts"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "AI tools help optimize vaccine dose selection from thousands of pages of data",
+      "quote": "Dose ID GPT really allows us to take these large data sets ... and input that into the GPT, which makes an optimal dose recommendation from thousands of pages of data"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI tools boost employee productivity to support ambitious product pipeline goals",
+      "quote": "Moderna hopes these tailored versions of the AI tool that made OpenAI famous will help boost its employees' productivity as it attempts to bring 15 new vaccine and drug products over the next five years"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "mRNA platform enables rapid medicine creation compared to traditional approaches",
+      "quote": "mRNA products can be created rapidly, which is one of the reasons why mRNA vaccines for the prevention of COVID-19 were created so quickly"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Digital platform enables delivery of mRNA constructs in weeks rather than months",
+      "quote": "Once the order is placed, Moderna's high-throughput mRNA pre-clinical production facility manages the manufacturing of mRNA constructs and delivers them in just weeks"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Platform provides flexible computational capacity for parallel mRNA design",
+      "quote": "The utility of cloud-based capacity allows us to provide flexible computational capacity on demand. This allows the Research Engine to power parallel intake and design of multiple mRNA sequences"
+    }
+  ]
+}

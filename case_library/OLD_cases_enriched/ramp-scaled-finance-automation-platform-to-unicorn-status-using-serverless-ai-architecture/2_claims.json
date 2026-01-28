@@ -1,0 +1,71 @@
+{
+  "case_id": "ramp-scaled-finance-automation-platform-to-unicorn-status-using-serverless-ai-architecture",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Ramp achieved $22.5 billion valuation and $1 billion annualized revenue in 2025",
+      "quote": "New York-based fintech Ramp is definitely among that rapidly growing bunch, having achieved a valuation of $22.5 billion, as well as annualized revenue of $1 billion, in 2025."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Ramp's valuation increased from $13 billion to $22.5 billion in just a few months",
+      "quote": "That's up from a valuation of $13 billion just a few months earlier in March, as well as an increase from annualized revenue of $700 million as of January."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Ramp began generating positive cash flow in 2025",
+      "quote": "The company says it began 'generating cash flow' earlier this year."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI enables Ramp customers to be 3x more productive than two years ago",
+      "quote": "He claims that thanks in part to AI, Ramp customers can get 3x more done in Ramp today than they could just two years ago."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Ramp grew from 30,000 to over 45,000 customers in less than a year",
+      "quote": "Today, Ramp has more than 45,000 customers, up from over 30,000 in early March."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Ramp raised $700 million in less than two months to fund AI investments",
+      "quote": "AI robots are coming for expense accounts \u2013 and fintech startup Ramp has raised $700 million in less than two months to help speed the adoption of automation tools in corporate finances."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Manual expense approval processes cost $20 and 14 minutes per transaction",
+      "quote": "The manual process requires 14 minutes and $20 of human intervention cost for questions, approvals, audits and coding of the coffee expense."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "AI agents can reduce procurement schedules from weeks to minutes",
+      "quote": "AI agents will start handling these workflows in a parallel process, with procurement schedules reduced from a week or more to minutes, according to Glyman."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "Ramp helps average company cut expenses by 3.5% per year",
+      "quote": "Our service helps the average company cut their expenses by 3.5% per year and speed up month-end close processes by 8 days each month."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "Ramp speeds up month-end financial closing by 8 days per month",
+      "quote": "Our service helps the average company cut their expenses by 3.5% per year and speed up month-end close processes by 8 days each month."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Ramp processes billions of dollars in purchases annually across 100+ countries",
+      "quote": "With Stripe's platform, we're able to ship custom-printed, high-quality metal cards with short delivery timelines to over 100 countries and power billions of dollars of purchases each year."
+    }
+  ]
+}

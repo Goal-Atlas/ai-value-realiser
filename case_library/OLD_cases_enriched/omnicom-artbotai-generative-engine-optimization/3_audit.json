@@ -1,0 +1,169 @@
+{
+  "case_id": "omnicom-artbotai-generative-engine-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of creative content production at scale - fits Tier 1 functional optimization pattern. Replicable across marketing agencies.",
+      "evidence_quality_assessment": "Named organization (Omnicom) but claim lacks specific metrics or quantified improvements. Vague language about 'efficiently optimizing' without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but needs quantified evidence of improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes handling workloads that existing tools struggle with - suggests process optimization. Pattern could be replicable in similar content production contexts.",
+      "evidence_quality_assessment": "Named organization but no specific metrics on workload capacity or performance improvements. Comparative claim without quantification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Functional optimization implied but lacks specific performance metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Vague marketing language about replacing 'messy ecosystem' - no specific process or function identified for optimization.",
+      "evidence_quality_assessment": "No measurable claims or specific improvements described. Pure marketing rhetoric without substantive detail.",
+      "apqc_functions": [],
+      "notes": "Marketing language without specific functional improvements or metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric but no connection to AI optimization or functional improvement. General business performance, not AI-driven capability enhancement.",
+      "evidence_quality_assessment": "Specific metric (5.4% revenue boost to $3.63B) and named organization, but not related to AI capability optimization.",
+      "apqc_functions": [],
+      "notes": "Financial performance unrelated to AI functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "General business health metric with no connection to AI-driven functional optimization.",
+      "evidence_quality_assessment": "Specific metric (4% organic growth) but not attributed to AI capabilities or process improvements.",
+      "apqc_functions": [],
+      "notes": "Business metric unrelated to AI capability enhancement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - streamlining content creation and reducing costs while maintaining quality. Replicable pattern for content production.",
+      "evidence_quality_assessment": "Named organization and specific functional improvements claimed, but lacks quantified metrics (how much cost reduction? what efficiency gains?).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong functional optimization claim but needs quantified evidence"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of ad targeting function with improved ROI outcomes. Clear functional improvement that's replicable across marketing operations.",
+      "evidence_quality_assessment": "Named organization and specific functional improvements (targeting optimization, ROI improvement) but lacks quantified metrics on engagement/conversion rate improvements.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization but needs specific ROI metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of research and strategy development processes with time reduction benefits. Replicable pattern for strategic planning functions.",
+      "evidence_quality_assessment": "Named tool (Omni Assist) and specific process improvement (faster decision-making, reduced research time) but lacks quantified time savings.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Process optimization claim but needs quantified time savings"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes capability enhancement through acquisition enabling better consumer insights and data-driven approaches. Could be functional optimization if specific processes are improved.",
+      "evidence_quality_assessment": "Named organizations (IPG, Acxiom, Flywheel Digital) and specific capability areas (consumer insights, data-driven approach) but lacks metrics on improvement outcomes.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Capability enhancement claim but needs specific functional improvement metrics"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market research finding about consumer expectations, not a functional optimization or capability improvement within Omnicom's operations.",
+      "evidence_quality_assessment": "Specific metric (65% of consumers) from named source (Omnicom Media Group report) but describes market conditions, not internal process improvements.",
+      "apqc_functions": [],
+      "notes": "Market research finding, not internal functional optimization"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial projections and growth targets, not AI-driven functional optimization or capability improvements.",
+      "evidence_quality_assessment": "Specific financial projections ($17.3B revenue, $1.7B earnings by 2028) but unrelated to AI capability optimization.",
+      "apqc_functions": [],
+      "notes": "Financial projections unrelated to AI functional improvements"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial valuation analysis, not operational capability improvement or functional optimization.",
+      "evidence_quality_assessment": "Specific valuation ($99.67 fair value, 25% upside) but unrelated to AI-driven process improvements.",
+      "apqc_functions": [],
+      "notes": "Financial analysis unrelated to AI capability optimization"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1, C2, C6, C7, C8, C9 describe functional optimization of marketing and content creation processes. Claims C3-C5 and C10-C12 are not relevant to AI capability improvements and should be rejected."
+}

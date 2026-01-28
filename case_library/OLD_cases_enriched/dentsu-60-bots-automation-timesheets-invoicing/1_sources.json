@@ -1,0 +1,17 @@
+{
+  "case_id": "dentsu-60-bots-automation-timesheets-invoicing",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Dentsu Embracing Bottom-Up Automation - RPA Case Study | UiPath",
+      "url": "https://www.uipath.com/resources/automation-case-studies/dentsu-embracing-bottom-up-automation",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI use case study: Dentsu x Microsoft | IAB UK",
+      "url": "https://www.iabuk.com/news-article/ai-use-case-study-dentsu-x-microsoft",
+      "doc_type": "Case Study"
+    }
+  ]
+}

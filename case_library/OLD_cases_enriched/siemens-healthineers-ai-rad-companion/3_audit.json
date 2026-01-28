@@ -1,0 +1,166 @@
+{
+  "case_id": "siemens-healthineers-ai-rad-companion",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of diagnostic radiology workflow - improving both productivity and quality of existing diagnostic processes. Highly replicable pattern across radiology departments.",
+      "evidence_quality_assessment": "Generic claim without specific metrics or quantified improvements. Source appears to be vendor marketing material without independent validation.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 but lacks specific evidence. Need quantified productivity/quality metrics."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Excellent Tier 1 fit - optimizes existing radiology workflow by improving speed, accuracy, and reducing documentation burden. Pattern applicable to any radiology practice.",
+      "evidence_quality_assessment": "Descriptive but not quantified. No specific time savings or accuracy improvements provided. Appears to be vendor description rather than validated outcome.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization but needs specific metrics on 'faster' and 'more accurately'."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Strong Tier 1 case - enhancing existing diagnostic capabilities across speed, accuracy, and comprehensiveness. Replicable across healthcare diagnostic services.",
+      "evidence_quality_assessment": "Qualitative claims without quantification. No specific improvement metrics or validation data provided.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but lacks measurable evidence of improvements claimed."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Addresses capacity optimization - using AI to handle increased patient volume with constrained staff resources. Replicable pattern across healthcare systems facing similar challenges.",
+      "evidence_quality_assessment": "High-level strategic statement without specific metrics on patient throughput improvements or staff efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization goal but needs evidence of actual capacity improvements achieved."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Classic Tier 1 optimization - automating routine tasks to improve efficiency and quality of diagnostic processes. Highly replicable pattern in medical imaging.",
+      "evidence_quality_assessment": "Conceptual description without specific metrics on efficiency gains or quality improvements from task automation.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but lacks quantified evidence of efficiency/quality improvements."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - improving diagnostic accuracy for lung lesion detection. Specific, measurable improvement that's replicable across radiology practices.",
+      "evidence_quality_assessment": "Specific quantified metrics (sensitivity 0.83 vs 0.52) from what appears to be a clinical study. Measurable 59% improvement in detection sensitivity.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 case with specific performance metrics demonstrating diagnostic improvement."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Functional optimization of consolidation detection in diagnostic imaging. Measurable improvement in existing diagnostic capability with clear replicability.",
+      "evidence_quality_assessment": "Specific quantified metrics (sensitivity 0.88 vs 0.78) showing 13% improvement in detection accuracy. Clinical study data.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case with quantified diagnostic accuracy improvement."
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of atelectasis detection capability. Measurable improvement in diagnostic accuracy for existing radiology function with broad applicability.",
+      "evidence_quality_assessment": "Specific quantified metrics (sensitivity 0.54 vs 0.43) showing 26% improvement. Clinical validation data.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good Tier 1 case with measurable diagnostic performance improvement."
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of diagnostic confidence and workflow efficiency through high negative predictive values. Improves existing radiologist decision-making process with broad applicability.",
+      "evidence_quality_assessment": "References specific clinical metric (NPV) with clear functional benefit described. Clinical study context provides credibility.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - uses clinical metrics to improve radiologist confidence and workflow efficiency."
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear Tier 1 optimization - time savings and diagnostic precision improvement. Replicable pattern across clinical radiology practices.",
+      "evidence_quality_assessment": "Generic claims without quantified time savings or precision metrics. Appears to be testimonial without specific validation.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but needs specific metrics on time savings and precision improvements."
+    },
+    {
+      "claim_id": "C11",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Workflow optimization through increased radiologist confidence and decision support. Replicable benefit across radiology practices.",
+      "evidence_quality_assessment": "Qualitative testimonial without measurable metrics. Personal opinion rather than validated outcome data.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Relevant workflow benefit but lacks objective measurement of security/trust improvements."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on optimizing existing diagnostic radiology functions - improving speed, accuracy, efficiency, and confidence in established medical imaging workflows. No business model changes or new revenue streams described."
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "airbus-ai-aircraft-structure-design-supply-chain",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Digital Twins: Accelerating aerospace innovation from design to operations",
+      "url": "https://www.airbus.com/en/newsroom/stories/2025-04-digital-twins-accelerating-aerospace-innovation-from-design-to-operations",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Airbus uses 3D printed aircraft parts to beat the supply chain crisis",
+      "url": "https://aerospaceglobalnews.com/news/airbus-supply-chain-3d-printed-aircraft-parts/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Computer Vision Manufacturing | Airbus Case Study | Accenture",
+      "url": "https://www.accenture.com/us-en/case-studies/technology/airbus",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Release: Atlas AI Partners with Airbus SE, Utilizing AI to Inform Supply Chain Readiness for Rapidly Growing Markets",
+      "url": "https://www.atlasai.co/blog/atlas-ai-partners-with-airbus-se-utilizing-ai-to-inform-supply-chain-readiness-for-rapidly-growing-markets",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S5",
+      "title": "The Airbus AI Story. Upskilling thousands of engineers to\u2026 | by Chris Armbruster | Fluent in Data | Medium",
+      "url": "https://medium.com/fluent-in-data/the-airbus-ai-story-337d1fd2ea23",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

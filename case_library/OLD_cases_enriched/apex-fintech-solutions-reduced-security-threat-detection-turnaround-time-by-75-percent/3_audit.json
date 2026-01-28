@@ -1,0 +1,178 @@
+{
+  "case_id": "apex-fintech-solutions-reduced-security-threat-detection-turnaround-time-by-75-percent",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of fraud detection/compliance processes. Reducing false positives is a classic efficiency improvement that's replicable across financial services.",
+      "evidence_quality_assessment": "Named organization (Apex FinTech) with specific baseline metric (80% false positives), but lacks the final rate achieved. Source appears to be a vendor case study which requires additional scrutiny.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but incomplete quantification - need the 'after' metric to fully validate the improvement claim."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization eliminating manual workflows in fraud investigation. This is a textbook capability enhancement that's replicable across similar analyst-driven processes.",
+      "evidence_quality_assessment": "Named organization with specific process description. While qualitative, the 'swivel-chair processes' and 'manual heavy lifting' provide concrete operational context.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid capability case - process automation with clear operational impact description."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This appears to describe system agility rather than a specific functional optimization. The 'cruise ship to speedboat' metaphor suggests broader capability but lacks specific process improvement details.",
+      "evidence_quality_assessment": "Named organization but very qualitative claim. No specific metrics or measurable outcomes provided. The business opportunity response claim is vague.",
+      "apqc_functions": [
+        {
+          "id": "13.4",
+          "name": "Manage change",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Borderline case - may be describing general system flexibility rather than specific functional optimization. Needs more concrete operational details."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational efficiency improvement - reducing dependency on technical resources for system configuration. This drag-and-drop functionality represents process optimization that's replicable.",
+      "evidence_quality_assessment": "Named organization with specific functional capability described. While not quantified, the operational impact is concrete and verifiable.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good capability case - self-service functionality reducing operational friction and resource dependencies."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C1 - same functional optimization of fraud detection processes.",
+      "evidence_quality_assessment": "Identical to C1 - same incomplete quantification issue with missing final false positive rate.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim of C1 with same assessment - needs completion of the improvement metric."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C2 - same process automation and manual work elimination.",
+      "evidence_quality_assessment": "Identical to C2 - same solid operational description of process improvements.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate of C2 with same positive assessment - clear process optimization case."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - 50% improvement in margin calculation processing time. This is a bounded financial process improvement that's replicable across similar trading/financial operations.",
+      "evidence_quality_assessment": "Named organization with specific quantified improvement (50% faster). Source appears to be from Google Cloud case study, which is traceable and authoritative.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability case with clear quantified performance improvement in financial processing."
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization - moving from batch to real-time processing for margin calculations. This represents a significant operational capability enhancement that's replicable.",
+      "evidence_quality_assessment": "Named organization with specific operational improvement described. The shift from batch to real-time with 'seconds' response time provides concrete performance context.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent capability case - clear operational transformation with measurable customer impact (risk determination in seconds)."
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear infrastructure optimization - reducing CPU load and associated costs through database engine improvements. This is a replicable technical efficiency gain.",
+      "evidence_quality_assessment": "Named organization with specific technical improvement described. While not quantified in percentages, the cost reduction through reduced read replicas is a concrete operational outcome.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Solid infrastructure optimization case - technical improvement with clear cost reduction impact."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimizations within existing business operations - fraud detection improvements, process automation, system performance enhancements, and cost reductions. No business model changes or new revenue streams indicated."
+}

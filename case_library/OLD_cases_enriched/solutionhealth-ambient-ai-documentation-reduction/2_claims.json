@@ -1,0 +1,35 @@
+{
+  "case_id": "solutionhealth-ambient-ai-documentation-reduction",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI healthcare market experiencing explosive growth with 524% projected increase",
+      "quote": "The AI in healthcare market isn't just growing, it's exploding. Valued at $32.3 billion in 2024, it's projected to surge more than 524% to $208 billion by 2030."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Mainstream adoption with 80% of hospitals using AI for patient care and workflow efficiency",
+      "quote": "Eighty percent of hospitals report using AI to improve patient care and workflow efficiency, while 75% of leading healthcare companies are actively scaling generative AI use cases."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "28% of healthcare work hours could be transformed by large language models",
+      "quote": "In healthcare, 28% of all work hours could be transformed by large language models (LLMs), according to Accenture."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI systems cut cycle times by 30-50% and boost case throughput 5-10x on narrow tasks",
+      "quote": "When the data pipelines and guardrails are in place, teams cut cycle times by 30\u201350%, boost case throughput (often 5\u201310\u00d7 on narrow tasks), and lift quality with auditable, reproducible outputs."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Malteser achieved meaningful time savings and faster responses using Microsoft 365 Copilot",
+      "quote": "Result: meaningful time back to frontline and back-office teams, faster responses to clients and colleagues, and more focus on mission-critical work."
+    }
+  ]
+}

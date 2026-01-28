@@ -1,0 +1,53 @@
+{
+  "case_id": "verizon-ai-optimizes-5g-network-rollout-tower-placement",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Network Alpha Factory reduces operational costs for all customers",
+      "quote": "Overall, Network Alpha Factory, which earned Verizon a 2023 US CIO 100 Award for IT innovation and leadership, promises to bring operational costs down for all customers, Singh says."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The platform reduces timeline fourfold compared to manual processes",
+      "quote": "an end-to-end dashboard that provides a view of all circuits, network data, inventory, devices to be decommissioned, and the expected timeline, which the platform helps reduce fourfold when compared to performing tasks manually, according to Verizon."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Network Alpha Factory enables reduced network ownership costs for Verizon",
+      "quote": "According to Verizon, the platform enables network operations and sales organizations to migrate traffic from legacy networks to the new iEN in a coordinated, less disruptive manner, giving customers access to higher speeds and lower latency while enabling Verizon to reduce network ownership costs."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "The platform reduces the need for physical trips to customer sites",
+      "quote": "It includes bots for performing network element testing and reduces the need for physical trips to customers sites."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Verizon achieved 874 Metro Area RootScore Awards, 70% more than closest competitor",
+      "quote": "In addition to the eighth consecutive national 5G reliability award, Verizon achieved 874 Metro Area RootScore Awards, 70% more awards than the closest competitor."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "More than 280 million people have access to Verizon's 5G Ultra Wideband network",
+      "quote": "Now more than 280 million people have access to Verizon's 5G Ultra Wideband network."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "AI-powered predictive maintenance reduces downtime and prevents service disruptions",
+      "quote": "AI-powered predictive maintenance has greatly enhanced Verizon's network reliability. Verizon proactively detects and resolves issues, reducing downtime and preventing service disruptions."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Predictive maintenance results in substantial cost savings by reducing emergency repairs",
+      "quote": "Beyond enhancing service quality, predictive maintenance has also resulted in substantial cost savings. Emergency repairs, which often require urgent resource allocation, have been significantly reduced."
+    }
+  ]
+}

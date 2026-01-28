@@ -1,0 +1,159 @@
+{
+  "case_id": "nfl-players-association-ai-video-review-safety-violations",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - enhances existing player performance analysis and prediction capabilities within sports operations",
+      "evidence_quality_assessment": "Generic description without specific metrics or named teams. 'Digital Athlete' appears to be a product name but lacks quantified outcomes",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Valid optimization pattern but needs more specific evidence of outcomes"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability enhancement - improves existing injury prevention and player monitoring functions with specific technical capability described",
+      "evidence_quality_assessment": "Specific technical capability described (movement change detection for fatigue/injury risk). Replicable pattern across sports organizations",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong technical specificity makes this a solid capability case"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing player management functions - injury prevention, recovery management, and performance timing are core operational capabilities",
+      "evidence_quality_assessment": "Clear operational applications described. Pattern is replicable across sports organizations managing athlete performance",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-defined operational improvements in established functions"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes improvement over existing methods - clear capability enhancement in injury prediction processes",
+      "evidence_quality_assessment": "Provides comparative context showing advancement over previous methods. Acknowledges limitations while claiming significant improvement",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good evidence of process improvement with realistic assessment of capabilities"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Too broad and generic - describes industry adoption rather than specific functional optimization",
+      "evidence_quality_assessment": "Vague industry-wide claim without specific organizations, metrics, or measurable outcomes",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too generic for Tier 1 assessment - lacks specificity needed for capability case validation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization in player recovery and performance enhancement",
+      "evidence_quality_assessment": "Repeats product description without specific outcomes, metrics, or named implementations. Similar to C1 in lacking concrete evidence",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Valid capability pattern but needs more substantive evidence of implementation and results"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability enhancement - improves existing player safety monitoring with specific technical implementation described",
+      "evidence_quality_assessment": "Named organization (NFL), specific technical capability (head impact measurement), clear operational application with detailed data provision",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with named organization and specific technical capability"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates measurable safety improvement through data-driven rule optimization - clear functional enhancement",
+      "evidence_quality_assessment": "Specific quantified outcome (60% concussion reduction), clear causal relationship to rule changes based on data analysis",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent evidence with specific quantified safety improvement outcome"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing sports operations functions (player performance management, injury prevention, safety monitoring) rather than business model innovation or new revenue streams."
+}

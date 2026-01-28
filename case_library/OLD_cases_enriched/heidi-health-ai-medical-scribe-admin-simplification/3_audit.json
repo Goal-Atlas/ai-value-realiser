@@ -1,0 +1,181 @@
+{
+  "case_id": "heidi-health-ai-medical-scribe-admin-simplification",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - reduces time spent on documentation during patient appointments, a core administrative process in healthcare delivery",
+      "evidence_quality_assessment": "Specific metric (51% reduction) from controlled trial with named sample size (47 GPs, 2,800+ consultations over 25 days)",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence from controlled trial with specific metrics and methodology"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes administrative workflow by reducing after-hours documentation work, improving operational efficiency",
+      "evidence_quality_assessment": "Specific quantified improvement (61% reduction) from same controlled trial context",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency gain in administrative processes with strong quantitative evidence"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes quality improvement in patient service delivery through better rapport building enabled by reduced documentation burden",
+      "evidence_quality_assessment": "Specific percentage (78%) from trial participants with clear methodology",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Quality improvement metric from controlled trial showing enhanced service delivery"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation benefit - reduced cognitive load improves clinician performance in existing role",
+      "evidence_quality_assessment": "Specific metric (78%) from trial with clear participant feedback methodology",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear workforce performance improvement with quantified evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Risk reduction and workforce wellbeing improvement - reduces stress related to documentation processes",
+      "evidence_quality_assessment": "Specific quantified improvement (58% reduction) from controlled trial",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Quantified stress reduction showing operational risk mitigation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce satisfaction improvement contributing to retention and performance in existing roles",
+      "evidence_quality_assessment": "Specific percentage (18%) from trial participants with clear methodology",
+      "apqc_functions": [
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Employee satisfaction metric supporting retention and performance goals"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Scale metric showing adoption across healthcare system - indicates successful optimization deployment",
+      "evidence_quality_assessment": "Specific adoption metrics but lacks independent verification - appears to be company-reported figures",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "High adoption claims need independent verification; could be marketing-driven metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial/investment metric not related to functional optimization or operational improvement",
+      "evidence_quality_assessment": "While specific, this is a funding announcement rather than operational performance metric",
+      "apqc_functions": [],
+      "notes": "Investment valuation is not a capability improvement metric - irrelevant to Tier 1 assessment"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry context statistic, not a specific organizational improvement or optimization claim",
+      "evidence_quality_assessment": "General industry statistic without attribution to specific study or methodology",
+      "apqc_functions": [],
+      "notes": "Background context, not a capability case claim about specific organizational improvement"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry context statistic, not a specific organizational improvement claim",
+      "evidence_quality_assessment": "General industry claim without specific source attribution or methodology",
+      "apqc_functions": [],
+      "notes": "Background context rather than specific capability improvement evidence"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry context statistic about opportunity cost, not specific organizational improvement",
+      "evidence_quality_assessment": "General industry claim without source attribution or clear methodology",
+      "apqc_functions": [],
+      "notes": "Background context about industry inefficiency, not evidence of specific capability improvement"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Potential capability improvement claim but lacks specificity about what tasks or processes",
+      "evidence_quality_assessment": "Vague claim without specific metrics, methodology, or organizational context",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague to assess properly - needs specific context about which tasks and how measured"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1-C6 represent clear functional optimization of healthcare documentation and service delivery processes. No business model transformation or new revenue streams indicated."
+}

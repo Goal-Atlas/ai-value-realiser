@@ -1,0 +1,227 @@
+{
+  "case_id": "lemonade-ai-first-insurer",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic statement about tech companies vs insurers - not specific to Lemonade's transformation",
+      "evidence_quality_assessment": "No specific organization named, no metrics, speculative language",
+      "apqc_functions": [],
+      "notes": "Too generic and speculative for tier 1 evidence"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future-tense speculation ('AI will enable') rather than demonstrated transformation",
+      "evidence_quality_assessment": "Aspirational vision statement, not evidence of actual transformation",
+      "apqc_functions": [],
+      "notes": "Speculative future claim, not demonstrated transformation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates fundamental acceleration in customer acquisition model - 5x faster than incumbents suggests new market penetration approach",
+      "evidence_quality_assessment": "Named organization, specific timeframe comparison, quantified metrics",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear evidence of transformed customer acquisition model"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Market position claims suggest new market penetration, but lacks specificity on how this represents transformation",
+      "evidence_quality_assessment": "Company self-reported claims without independent verification or specific metrics",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market position claims need independent validation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Record-setting customer acquisition for insurtech category demonstrates new market creation capability",
+      "evidence_quality_assessment": "Specific metrics, timeframe, and industry context provided",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of transformed acquisition model in insurtech space"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "70% cost reduction through lifecycle targeting represents fundamental change in customer acquisition economics",
+      "evidence_quality_assessment": "Specific metric (70% reduction), clear methodology (lifecycle targeting), measurable outcome",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates transformed customer acquisition economics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "500x increase in automation index enabling same headcount to handle vastly more customers represents fundamental operational transformation",
+      "evidence_quality_assessment": "Specific metric (5 to 2,500), clear outcome (same headcount, more customers), timeframe provided",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of transformed operational model through automation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "60% conversion improvement through telematics integration represents fundamental change in auto insurance pricing and customer onboarding",
+      "evidence_quality_assessment": "Specific metric (60% improvement), clear technology integration, measurable business outcome",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates product transformation through telematics integration"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "$1B+ in-force premiums with 29% growth demonstrates scale achievement in transformed insurance model",
+      "evidence_quality_assessment": "Specific financial metrics, growth rate, timeframe provided",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong financial validation of transformed business model at scale"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Doubling gross profit with 39% margins and 35% revenue growth demonstrates successful transformation economics",
+      "evidence_quality_assessment": "Multiple specific financial metrics showing profitability transformation",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of transformed financial performance"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Achieving positive free cash flow of $25M represents successful transition to sustainable transformed business model",
+      "evidence_quality_assessment": "Specific financial metric demonstrating business model viability",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Financial validation of sustainable transformed model"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "3.4x revenue growth from $128M to $430M in 2 years demonstrates rapid scaling of transformed model",
+      "evidence_quality_assessment": "Specific revenue figures with timeframe showing dramatic growth trajectory",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of successful business model transformation scaling"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Crossing $1B in-force premiums milestone demonstrates successful scaling from startup to major insurance player",
+      "evidence_quality_assessment": "Specific milestone metric with company context (IPO 2020, founded 2015)",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Milestone achievement validating transformed insurance model at scale"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Lemonade represents genuine business model transformation in insurance through AI-first approach, creating new market segments (young renters), achieving unprecedented acquisition speeds, and fundamentally changing insurance economics through automation and data-driven pricing. The 500x automation increase and 70% cost reduction through lifecycle targeting are particularly strong indicators of transformation rather than optimization."
+}

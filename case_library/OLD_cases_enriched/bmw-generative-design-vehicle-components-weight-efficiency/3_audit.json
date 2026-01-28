@@ -1,0 +1,153 @@
+{
+  "case_id": "bmw-generative-design-vehicle-components-weight-efficiency",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing product design function. Generative design improves component efficiency within established automotive manufacturing. Pattern replicable across automotive and other manufacturing industries.",
+      "evidence_quality_assessment": "Named organization (BMW), specific quantified metric (50% weight reduction), from official BMW source. Claim is specific and measurable.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes existing design processes with clear efficiency gains"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of manufacturing processes to reduce environmental impact. Improves existing production function through material and process efficiency. Replicable pattern for sustainable manufacturing.",
+      "evidence_quality_assessment": "Named organization, specific metric (25% CO2 reduction), from official source. Clear comparison baseline provided.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Environmental optimization of existing manufacturing processes"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Cost optimization of existing battery manufacturing process. Clear efficiency improvement in established production function. Pattern applicable to other component manufacturers.",
+      "evidence_quality_assessment": "Named organization, specific metric (50% cost reduction), official source with clear generational comparison baseline.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear cost optimization of manufacturing processes"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Product performance optimization through improved battery technology. Enhances existing product capabilities within established automotive business model. Replicable across EV manufacturers.",
+      "evidence_quality_assessment": "Named organization, specific metrics (30% range, 20% charging speed), official source with clear generational progression context.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Product capability enhancement through technology optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Process optimization through additive manufacturing. Improves existing production function with time efficiency gains. Pattern replicable across manufacturing.",
+      "evidence_quality_assessment": "Named organization and official source, but lacks specific quantification of 'shortened production times'. Quality requirements mentioned but not quantified.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization but metrics are vague - needs specific time reduction data"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Component design optimization achieving weight reduction. Improves existing design and manufacturing functions. Pattern replicable across automotive and aerospace industries.",
+      "evidence_quality_assessment": "Named organization, specific metric (50% lighter), official source with concrete example (damper component). Clear comparison baseline.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong optimization case with specific component example and quantified improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Development process optimization through additive manufacturing. Improves existing product development function. Pattern replicable across manufacturing industries.",
+      "evidence_quality_assessment": "Named organization and official source, but lacks specific quantification of 'speed up development cycles' and 'faster to series maturity'. No baseline comparison provided.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization intent but needs specific time reduction metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Manufacturing throughput optimization demonstrating production efficiency. Shows optimization of existing manufacturing function. Pattern applicable to other high-volume manufacturers.",
+      "evidence_quality_assessment": "Named organization, specific metric (one vehicle per minute), official source. Clear production rate benchmark despite complexity.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear production efficiency metric demonstrating manufacturing optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "AI optimization across multiple manufacturing functions since 2019. Improves existing production, quality, and supply chain processes. Pattern replicable across manufacturing.",
+      "evidence_quality_assessment": "Named organization and official source with timeline context, but lacks specific quantified improvements for 'optimizing efficiency', 'elevating quality control', and 'enhancing supply chain management'.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Broad AI integration claim but needs specific metrics for each optimization area"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing functions (design, manufacturing, quality control, supply chain) rather than business model transformation or new revenue streams."
+}

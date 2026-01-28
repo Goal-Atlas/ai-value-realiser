@@ -1,0 +1,94 @@
+{
+  "case_id": "philips-scaled-ai-literacy-70k-employees-health-tech-innovation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is an aspirational goal statement, not a description of functional optimization. No specific process improvement or efficiency gain is described.",
+      "evidence_quality_assessment": "Vague metric without methodology or baseline. 'Improve lives' is not measurable in operational terms.",
+      "apqc_functions": [],
+      "notes": "Marketing statement rather than operational capability case. Lacks specificity about how AI optimizes existing functions."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of diagnostic and treatment planning processes - clear functional improvements in healthcare delivery.",
+      "evidence_quality_assessment": "Claims are general without specific metrics. 'Significantly reduce human error' is unquantified. Source appears to be AWS case study which may have marketing bias.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear process optimization but lacks quantified evidence. Single-vendor case study requires additional verification."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear description of workflow optimization and productivity improvement - classic Tier 1 functional enhancement. Pattern is replicable across healthcare organizations.",
+      "evidence_quality_assessment": "Specific processes identified (data consolidation, workflow streamlining, productivity increase). Named organization with traceable source.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case describing operational efficiency gains through data integration and workflow optimization."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes capacity optimization through automation - fits Tier 1 pattern of doing existing work more efficiently.",
+      "evidence_quality_assessment": "Specific metric (double capacity) but presented as potential/projection rather than achieved result. 'Could potentially' indicates speculation rather than demonstrated capability.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Compelling efficiency claim but speculative nature weakens evidence quality. Needs verification of actual vs. projected results."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Identifies specific inefficiency in data access processes - establishes baseline for optimization. Quantifies time waste that AI could address.",
+      "evidence_quality_assessment": "Highly specific metrics (45 minutes per shift, 23 days per year). References FHI report providing authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence establishing the efficiency problem that AI solutions address. Provides quantified baseline for measuring improvement."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes patient outcomes from system delays but doesn't describe AI optimization or functional improvement.",
+      "evidence_quality_assessment": "While specific and well-sourced, this claim establishes a problem rather than describing an AI capability solution.",
+      "apqc_functions": [],
+      "notes": "Problem statement rather than capability case. Doesn't describe how AI optimizes existing functions - just identifies the issue to be solved."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing healthcare delivery functions rather than creating new business models. No evidence of tier 1 business model transformation."
+}

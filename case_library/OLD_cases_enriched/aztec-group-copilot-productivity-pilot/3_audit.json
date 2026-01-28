@@ -1,0 +1,152 @@
+{
+  "case_id": "aztec-group-copilot-productivity-pilot",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - improving work quality through AI assistance. Replicable pattern for knowledge work augmentation.",
+      "evidence_quality_assessment": "Specific metric (52%) but 'work quality' is subjective and methodology unclear. Source appears to be Microsoft case study which may have marketing bias.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Quality improvement claim lacks objective measurement criteria"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of employee wellbeing/productivity. Replicable pattern for cognitive workload reduction.",
+      "evidence_quality_assessment": "Specific percentage but 'cognitive fatigue' is subjective self-reporting. Methodology not described.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Wellbeing metric is valuable but subjective; needs validation methodology"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of software development function. Replicable for development teams.",
+      "evidence_quality_assessment": "Specific metric but 'enjoyed coding more' is subjective satisfaction measure, not productivity measure.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Satisfaction metric rather than productivity metric; useful but not efficiency-focused"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - 75% time reduction in code writing. Highly replicable pattern for software development.",
+      "evidence_quality_assessment": "Specific, measurable claim with dramatic improvement. Concrete time metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong productivity claim with clear before/after metrics"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of chatbot development process - 90% time reduction. Replicable for similar development workflows.",
+      "evidence_quality_assessment": "Specific, dramatic time improvement with concrete metrics (3 months to 10 days).",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Exceptional time reduction in development cycle"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of presentation preparation process - 87% time reduction. Broadly replicable pattern.",
+      "evidence_quality_assessment": "Specific time metrics showing dramatic efficiency gain (6 hours to 45 minutes).",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong productivity improvement in common business task"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of meeting effectiveness. Replicable pattern for meeting management.",
+      "evidence_quality_assessment": "Specific metric (25%) but 'staff engagement' measurement methodology unclear. Subjective metric.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Engagement metric valuable but needs clearer measurement definition"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of permit processing workflow - 60-67% time reduction. Replicable for regulatory/approval processes.",
+      "evidence_quality_assessment": "Specific time metrics with clear before/after comparison (15 weeks to 5-7 weeks).",
+      "apqc_functions": [
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Significant process improvement in regulatory workflow"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of marketing campaign development - 67%+ time reduction. Replicable for marketing operations.",
+      "evidence_quality_assessment": "Specific time improvement with concrete metrics (3 months to <1 month).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong acceleration of marketing campaign delivery"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of marketing analysis functions. Replicable pattern for analytical workflows.",
+      "evidence_quality_assessment": "Specific range (20-50%) with concrete task examples (funnel analysis, supply management, budget management).",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-documented time savings across multiple analytical tasks"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization and efficiency improvements within existing business processes, not business model transformation."
+}

@@ -1,0 +1,29 @@
+{
+  "case_id": "clearwater-analytics-ai-platform-business-growth",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Clearwater Analytics Announces Clearwater-GPT",
+      "url": "https://cwan.com/press-releases/clearwater-analytics-announces-clearwater-gpt/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Clearwater Analytics works smart & speedy on Atlassian cloud",
+      "url": "https://www.atlassian.com/customers/clearwater-analytics",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "How Clearwater Analytics Can Manage 200% More Resources Using AWS Cloud Governance Services | Clearwater Analytics Case Study | AWS",
+      "url": "https://aws.amazon.com/solutions/case-studies/clearwater-analytics-case-study/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Clearwater Analytics Announces Second Quarter 2024 Financial Results",
+      "url": "https://www.prnewswire.com/news-releases/clearwater-analytics-announces-second-quarter-2024-financial-results-302211441.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

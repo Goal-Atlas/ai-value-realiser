@@ -1,0 +1,29 @@
+{
+  "case_id": "mayo-clinic-ai-scheduling-surgical-throughput",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Transforming Cardiac Surgery Scheduling at Mayo Clinic With Opmed.ai",
+      "url": "https://www.opmed.ai/blog-posts/transforming-cardiac-surgery-scheduling-at-mayo-clinic-with-opmed-ai",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Mayo Clinic's Healthy Model for AI Success",
+      "url": "https://sloanreview.mit.edu/article/mayo-clinics-healthy-model-for-ai-success/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Data and AI Improve Patient Outcomes at the Mayo Clinic",
+      "url": "https://www.cxotalk.com/episode/data-and-ai-improve-patient-outcomes-at-the-mayo-clinic",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "3 Ways AI Is Improving the Patient Experience at Mayo Clinic",
+      "url": "https://mayomagazine.mayoclinic.org/2025/04/ai-improves-patient-experience/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

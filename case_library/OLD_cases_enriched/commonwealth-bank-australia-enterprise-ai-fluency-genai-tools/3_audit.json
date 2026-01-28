@@ -1,0 +1,133 @@
+{
+  "case_id": "commonwealth-bank-australia-enterprise-ai-fluency-genai-tools",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cloud migration is infrastructure modernization, not AI-driven functional optimization. This is a technology platform change, not an AI capability case.",
+      "evidence_quality_assessment": "Named organization and specific claim (first Australian bank), but not relevant to AI optimization.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Infrastructure migration claim, not AI optimization. Should be excluded from Tier 1 analysis."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - automating repetitive tasks is classic Tier 1. Pattern is replicable across organizations.",
+      "evidence_quality_assessment": "Named organization but vague metrics. 'Alleviate many tedious tasks' lacks quantification. Source appears to be vendor case study.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claim but needs specific metrics for full approval. Vendor source requires scrutiny."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Implies ROI from AI implementation, suggesting functional optimization, but lacks specificity about which functions are optimized.",
+      "evidence_quality_assessment": "Named organization but completely vague metrics. 'Strong returns that outpace investment' provides no quantification or timeframe.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "ROI claim without substance. Needs specific metrics and function identification for approval."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - reducing call center volume through improved self-service capabilities. Replicable pattern for customer service operations.",
+      "evidence_quality_assessment": "Named organization with specific functional improvement described. Credible source (appears to be news/industry publication).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid Tier 1 case - optimizing customer service function with measurable outcome (reduced call center need)."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - improving dispute resolution by reducing information gathering steps. Replicable in similar customer service contexts.",
+      "evidence_quality_assessment": "Named organization with specific process improvement described. Details the mechanism (context understanding) and outcome (fewer information requests).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - specific process improvement with clear efficiency gain described."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a competitive positioning claim, not a functional optimization claim. Being 'first' doesn't describe efficiency, cost, or quality improvements.",
+      "evidence_quality_assessment": "Named organization and specific claim, but the claim is about market position rather than operational improvement.",
+      "apqc_functions": [],
+      "notes": "Market positioning claim, not functional optimization. Not relevant for Tier 1 assessment."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce capability building and innovation, which could lead to functional optimization, but lacks specific process improvements.",
+      "evidence_quality_assessment": "Named organization but very vague outcomes. 'Innovation that is coming out of that is pretty incredible' provides no measurable results.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Training program with potential for optimization but lacks concrete functional improvements or metrics."
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes potential process optimization in product development cycles, but claim is hypothetical ('if proved', 'could use').",
+      "evidence_quality_assessment": "Named organization but speculative claim. No concrete implementation or results described.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Hypothetical optimization claim. Needs concrete implementation evidence for approval."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on functional optimization rather than business model transformation. C1 and C6 should be excluded as non-optimization claims."
+}

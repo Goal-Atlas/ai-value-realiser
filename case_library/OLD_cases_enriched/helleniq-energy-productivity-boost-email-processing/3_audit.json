@@ -1,0 +1,97 @@
+{
+  "case_id": "helleniq-energy-productivity-boost-email-processing",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - productivity enhancement across employee workflows is a classic Tier 1 pattern. Replicable across organizations implementing similar AI tools.",
+      "evidence_quality_assessment": "Named organization (HELLENiQ ENERGY) but metric is subjective (self-reported productivity). Lacks objective measurement methodology. Source appears to be Microsoft case study which may have promotional bias.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Self-reported productivity gains need verification with objective metrics. Single-vendor case study raises credibility concerns."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific process optimization - meeting catch-up efficiency is a bounded, measurable function. Pattern clearly replicable in other organizations with similar meeting-heavy workflows.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (4x improvement). Measurable outcome that can be objectively verified through time tracking.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear, specific metric for a well-defined process improvement. Strong Tier 1 case despite vendor source."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague to assess strategic fit. 'Step change in employee engagement' and 'huge advances in enhancing operations' lack specificity about which functions are optimized.",
+      "evidence_quality_assessment": "Named organization but claims are entirely qualitative without specific metrics or measurable outcomes. Marketing language without substantive detail.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Insufficient substance - generic marketing claims without specific process improvements or measurable outcomes."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates systematic functional optimization across multiple business areas. The development of 71 use cases shows comprehensive process enhancement approach that is replicable.",
+      "evidence_quality_assessment": "Named organization with specific metric (71 use cases) and detailed scope (Finance, Operations, Marketing, HR, Customer Service). Credible implementation detail.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of systematic process optimization across multiple functions. Specific scope and methodology described."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear productivity optimization claim that fits Tier 1 pattern. Replicable across similar organizations implementing AI productivity tools.",
+      "evidence_quality_assessment": "Named organization with specific metric (70% boost) but lacks methodology detail. Appears to be headline/summary claim that may aggregate multiple metrics including subjective ones from C1.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Specific metric but unclear if this represents objective measurement or aggregated self-reported data. May be marketing headline rather than verified outcome."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions rather than business model transformation or new revenue streams."
+}

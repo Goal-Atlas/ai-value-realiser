@@ -1,0 +1,77 @@
+{
+  "case_id": "omnicom-artbotai-generative-engine-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "ArtBotAI solves the common CMO dilemma of efficiently optimizing creative content at scale without losing quality",
+      "quote": "ArtBotAI, its next-generation intelligent content platform that is designed to solve what is billed as a common CMO dilemma around how to efficiently optimize creative content at scale without losing out on quality"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "ArtBotAI handles workloads that content studios and one-off tools struggle with",
+      "quote": "ArtBotAI has the power to assemble clients' digital assets to create personalized experiences and is intended to handle the workload that content studios and one-off tools often struggle with"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "ArtBotAI replaces a messy ecosystem with something simple, beautiful and powerful",
+      "quote": "ArtBotAI replaces a messy ecosystem with something simple, beautiful and powerful to serve our client's content needs"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Omnicom reported strong financial performance with 5.4% year-over-year revenue boost to $3.63 billion",
+      "quote": "The latest move from Omnicom follows a strong first quarter, with the company reporting a 5.4% year-over-year revenue boost to $3.63 billion"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Organic growth increased 4% year-over-year, indicating agency health",
+      "quote": "Organic growth, a key measure of agency health, also grew 4% year-over-year"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "ArtBotAI increased content efficiency by streamlining content creation and reducing production costs while maintaining high quality",
+      "quote": "ArtBotAI has increased content efficiency by streamlining content creation, reducing production costs while maintaining high quality"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "AI-driven audience analysis optimized ad targeting and improved media ROI by increasing engagement and conversion rates",
+      "quote": "AI-driven audience analysis has optimized ad targeting, improving media ROI by increasing engagement and conversion rates"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Omni Assist achieved faster decision-making by cutting down research and strategy development time, enhancing campaign agility",
+      "quote": "Faster decision-making has been achieved through Omni Assist, cutting down research and strategy development time, which has enhanced campaign agility"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "The IPG acquisition bolstered Omnicom's AI capabilities, enabling deeper consumer insights and a more comprehensive data-driven approach",
+      "quote": "The acquisition of IPG's Acxiom and Flywheel Digital has bolstered Omnicom's AI capabilities, enabling deeper consumer insights and a more comprehensive data-driven approach"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "65% of consumers now expect to receive their ideal answers from AI-generated overviews, signaling a shift in marketing approach",
+      "quote": "Omnicom Media Group published a report showing that 65% of consumers now expect to receive their ideal answers from AI-generated overviews, signaling a shift in how brands must approach marketing for better visibility and engagement"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Omnicom's narrative projects $17.3 billion revenue and $1.7 billion earnings by 2028, requiring 2.8% yearly revenue growth",
+      "quote": "Omnicom Group's narrative projects $17.3 billion revenue and $1.7 billion earnings by 2028. This requires 2.8% yearly revenue growth and a $0.3 billion earnings increase from $1.4 billion today"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Fair value analysis suggests $99.67 fair value, representing 25% upside to current price",
+      "quote": "Uncover how Omnicom Group's forecasts yield a $99.67 fair value, a 25% upside to its current price"
+    }
+  ]
+}

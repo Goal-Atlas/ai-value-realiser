@@ -1,0 +1,158 @@
+{
+  "case_id": "sift-lab-unifies-data-drive-revenue-growth-ai",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of marketing campaign function, replicable pattern for marketing performance improvement",
+      "evidence_quality_assessment": "Specific quantified metric but lacks organization attribution and methodology details. 'Up to 200%' suggests best-case scenario without baseline context",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong efficiency claim but needs customer attribution for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear workforce augmentation optimizing marketing analytics and campaign setup processes, highly replicable",
+      "evidence_quality_assessment": "Specific 10x improvement metric but anonymous source. No methodology provided for how speed improvement was measured",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Substantial productivity claim requiring customer validation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Revenue optimization across existing client base, replicable for similar enterprise contexts",
+      "evidence_quality_assessment": "Specific range provided (5-7%) but 'enterprise clients' remains anonymous. Revenue uplift is measurable but attribution methodology unclear",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Material revenue impact claim needs named client validation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of customer relationship management and marketing targeting, replicable pattern for customer value enhancement",
+      "evidence_quality_assessment": "Specific range (15-30%) with clear scope (consent customers) but lacks customer attribution. CLV methodology not specified",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Significant CLV improvement requires customer case validation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of advertising spend efficiency, highly replicable marketing function improvement",
+      "evidence_quality_assessment": "Specific range (40-50%) for well-defined metric (ROAS) but anonymous source. ROAS is measurable but baseline not provided",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong ROAS improvement claim needs customer attribution"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of advertising targeting through predictive analytics, replicable for similar marketing operations",
+      "evidence_quality_assessment": "Specific metric (up to 50% ROAS improvement) with process description but 'clients reporting' lacks individual attribution",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Detailed process with strong metric but needs named client validation"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of analytics workflow efficiency, replicable for retail analytics operations",
+      "evidence_quality_assessment": "Specific 10x improvement metric with industry context (retailers) but lacks individual organization names",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Substantial productivity improvement needs specific retailer attribution"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of customer segmentation process, replicable time-saving pattern for marketing operations",
+      "evidence_quality_assessment": "Specific time savings ('hundreds of hours per year') with client attribution ('According to one client') but client remains anonymous",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Quantified time savings with client reference but needs named attribution"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Development time optimization for analytics capability, replicable for similar build-vs-buy decisions",
+      "evidence_quality_assessment": "Specific development time savings (5 months) with direct customer quote but customer remains anonymous",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear development efficiency gain with customer quote but needs named attribution"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing, analytics, and development functions rather than business model transformation. Focus is on efficiency gains, cost reduction, and performance improvement within established processes."
+}

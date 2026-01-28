@@ -1,0 +1,35 @@
+{
+  "case_id": "eversana-ai-agency-platform-revolutionizes-pharma-marketing-efficiency",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Dramatic reduction in campaign development time from weeks/months to 30 minutes",
+      "quote": "30 minutes to develop complete marketing campaigns from concept to broadcast-ready, compliant content"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Achieved 80% automation with minimal human oversight required",
+      "quote": "80% AI-powered platform with 20% strategic human oversight for quality assurance"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Transformed sequential workflow to simultaneous parallel processing",
+      "quote": "Previously, pharma marketing campaigns took weeks or months to develop, with traditional agencies executing tasks sequentially. Now, EVERSANA's specialized AI agents work simultaneously across business strategy, omnichannel planning, and content creation"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Rapid iteration from concept to approval-ready marketing materials across multiple formats",
+      "quote": "In just 30 minutes, pharma marketing teams can use EVERSANA's AI Agency platform to iterate from concept to approval-ready video ads, social media content, and compliant marketing materials"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Built industry's first AI-powered marketing agency platform for pharmaceutical sector",
+      "quote": "EVERSANA transforms this process with its end-to-end, AI-powered marketing agency platform built on Google Cloud"
+    }
+  ]
+}

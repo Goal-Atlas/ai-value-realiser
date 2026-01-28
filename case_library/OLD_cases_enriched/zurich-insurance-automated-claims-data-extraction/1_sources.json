@@ -1,0 +1,35 @@
+{
+  "case_id": "zurich-insurance-automated-claims-data-extraction",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Zurich Insurance is becoming an AI-led insurer using Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/industries/how-zurich-insurance-is-becoming-an-ai-led-insurer-using-amazon-sagemaker-ai/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: How Zurich Insurance Group is Leveraging AI for Industry Leadership",
+      "url": "https://aiexpert.network/case-study-how-zurich-insurance-group-is-leveraging-ai-for-industry-leadership/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Zurich Boost Customer Experience (CX) | Automation Case Study",
+      "url": "https://www.blueprism.com/resources/case-studies/zurich-uk-invests-in-customers-and-employees-with-a-successful-intelligent-automation-program/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Artificial Intelligence at Zurich Insurance",
+      "url": "https://emerj.com/artificial-intelligence-at-zurich-insurance/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Zurich Case Study",
+      "url": "https://www.spixii.com/success-stories/zurich-case-study",
+      "doc_type": "Case Study"
+    }
+  ]
+}

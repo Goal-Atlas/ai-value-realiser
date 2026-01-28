@@ -1,0 +1,131 @@
+{
+  "case_id": "servicenow-ai-headcount-savings-100m-2025",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI reducing staffing costs through productivity gains in existing operations. Replicable pattern for other enterprise software companies.",
+      "evidence_quality_assessment": "Named organization (ServiceNow), specific quantified metric ($100M savings), from earnings call/financial reporting context.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - internal AI implementation driving measurable cost reduction through workforce optimization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "While specific and traceable, this is a general revenue figure not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "Standard financial reporting - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "While specific and traceable, this is a general profitability figure not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "Standard financial reporting - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI delivering productivity gains through reduced staffing costs. Replicable pattern across organizations.",
+      "evidence_quality_assessment": "Named organization, specific executive quote (CFO), authoritative source from earnings context.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Reinforces C1 with executive confirmation of AI-driven workforce optimization strategy"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "While specific and traceable, this is general revenue reporting not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "Standard financial reporting - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "While specific and traceable, this is subscription revenue reporting not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "Standard financial reporting - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "While specific and traceable, this is general profitability reporting not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "Standard financial reporting - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes AI product sales performance, which is business model/revenue generation rather than internal functional optimization.",
+      "evidence_quality_assessment": "Specific metric and traceable, but represents external product sales rather than internal capability improvement.",
+      "apqc_functions": [],
+      "notes": "This appears to be tier 1 content (AI as product/revenue driver) rather than Tier 1 internal optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes AI product sales performance, not internal functional optimization.",
+      "evidence_quality_assessment": "Specific metrics but represents external product sales rather than internal capability improvement.",
+      "apqc_functions": [],
+      "notes": "tier 1 content - AI product sales performance rather than internal process optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes AI product usage/consumption metrics, not internal functional optimization.",
+      "evidence_quality_assessment": "Specific growth metric but represents external product adoption rather than internal capability improvement.",
+      "apqc_functions": [],
+      "notes": "tier 1 content - AI product adoption metrics rather than internal process optimization"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes AI product sales volume, not internal functional optimization.",
+      "evidence_quality_assessment": "Specific growth metric but represents external product sales rather than internal capability improvement.",
+      "apqc_functions": [],
+      "notes": "tier 1 content - AI product sales performance rather than internal process optimization"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes potential efficiency gains for customers using ServiceNow's AI platform - could be Tier 1 if viewed as customer capability optimization.",
+      "evidence_quality_assessment": "Specific percentage (30%) but vague on methodology and represents estimated potential rather than realized results.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Borderline case - could be customer Tier 1 optimization or vendor tier 1 marketing claim. Lacks specificity on realized vs. potential savings."
+    }
+  ],
+  "tier_verification": "Mixed content - C1 and C4 are legitimate tier 1 internal optimization cases. C8-C11 appear to be tier 1 content (AI as product/revenue driver). C2,C3,C5,C6,C7 are standard financial metrics not relevant to AI capability assessment."
+}

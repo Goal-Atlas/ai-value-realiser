@@ -1,0 +1,47 @@
+{
+  "case_id": "world-food-programme-ai-logistics-aid-delivery",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "SKAI significantly speeds up humanitarian assistance delivery to affected households after disasters",
+      "quote": "It can help to significantly speed up humanitarian assistance to affected households after disasters."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "SKAI enables rapid and accurate building damage assessment with unprecedented precision and speed",
+      "quote": "By fusing cutting-edge machine learning algorithms and vast satellite data, SKAI empowers organizations to make data-driven decisions with unprecedented precision and speed."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "SKAI achieved over 81% accuracy in assessing approximately 600,000 buildings with just 5 team members",
+      "quote": "During a month-long deployment, SKAI's team of just five individuals demonstrated remarkable capabilities. They assessed approximately 600,000 buildings with an accuracy rate exceeding 81 percent."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "SKAI rapidly covered 530 km2 of urban zones affecting 1.3 million people in less than a week",
+      "quote": "In less than a week, SKAI's agile technology covered an extensive area of 530 km2 comprising urban zones with an estimated population of 1.3 million people."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "SKAI identified over 28,000 heavily damaged or destroyed structures during Turkey earthquake response",
+      "quote": "This assessment helped identify over 28,000 heavily damaged or destroyed structures."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "SKAI enables efficient resource allocation and targeted interventions through real-time monitoring",
+      "quote": "Organizations, governments and local authorities, can then combine it with population density, infrastructure mapping, socio-economic vulnerability, and food security, enabling efficient resource allocation and targeted interventions."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "SKAI helped effectively prioritize aid delivery during Hurricane Ian response",
+      "quote": "In the aftermath of Hurricane Ian, SKAI helped to effectively prioritize aid delivery and assess the impact on affected populations."
+    }
+  ]
+}

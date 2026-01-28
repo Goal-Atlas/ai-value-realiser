@@ -1,0 +1,134 @@
+{
+  "case_id": "marriott-bonvoy-ai-personalization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is industry-wide adoption data, not functional optimization by a specific organization. No process improvement described.",
+      "evidence_quality_assessment": "While specific metrics are provided (50% vs 26%), this is market research data, not organizational capability improvement.",
+      "apqc_functions": [],
+      "notes": "Market trend data rather than organizational capability case. Not suitable for Tier 1."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Consumer sentiment data about AI platforms generally, not optimization of specific business functions.",
+      "evidence_quality_assessment": "Specific percentages provided but represents market research rather than organizational performance improvement.",
+      "apqc_functions": [],
+      "notes": "Consumer sentiment research, not organizational capability improvement."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Travel trend data ('lux-scaping') unrelated to AI or organizational capability improvement.",
+      "evidence_quality_assessment": "Specific metrics but describes consumer behavior trends, not organizational AI implementation.",
+      "apqc_functions": [],
+      "notes": "Travel trend data, not AI capability case."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Travel trend data ('passion pursuit travel') unrelated to AI or organizational capability improvement.",
+      "evidence_quality_assessment": "Specific metrics but describes consumer behavior trends, not organizational AI implementation.",
+      "apqc_functions": [],
+      "notes": "Travel trend data, not AI capability case."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of search/recommendation function within existing rental business. AI personalizes property matching from large inventory.",
+      "evidence_quality_assessment": "Named organization (Marriott) and specific inventory size (140,000 properties), but described as 'testing' phase with no performance metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but lacks performance metrics. Testing phase suggests early implementation."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes user interface optimization through natural language processing, improving customer search experience.",
+      "evidence_quality_assessment": "Named organization and specific capability (natural language queries) but no quantified improvement metrics.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear UX optimization but lacks measurable impact data."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer matching across large portfolio, enabling personalization at scale.",
+      "evidence_quality_assessment": "Named organization with specific scale metrics (30+ brands, 8,800 properties) but no performance improvement quantified.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scale is impressive but lacks specific improvement metrics."
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer loyalty and booking functions through personalization, supporting direct revenue goals.",
+      "evidence_quality_assessment": "Named organization with clear business outcomes described but no quantified metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear strategic benefits described but lacks quantified results."
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer experience delivery across multiple touchpoints, including mobile app.",
+      "evidence_quality_assessment": "Named organization and specific platform (Marriott Bonvoy App) but no performance metrics or improvement quantification.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Describes comprehensive personalization capability but lacks measurable outcomes."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C5-C9 describe functional optimization of existing hospitality services (search, personalization, customer experience) rather than business model transformation. Claims C1-C4 are market research data not suitable for capability assessment."
+}

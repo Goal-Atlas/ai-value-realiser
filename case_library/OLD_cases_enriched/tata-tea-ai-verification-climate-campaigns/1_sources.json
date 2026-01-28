@@ -1,0 +1,29 @@
+{
+  "case_id": "tata-tea-ai-verification-climate-campaigns",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Tata Tea Jaago Re case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/tataconsumerproducts-jaagore",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Tata Tea JaagoRe's AI campaign champions the power of collective actions for a positive climate impact",
+      "url": "https://www.prnewswire.com/in/news-releases/tata-tea-jaagores-ai-campaign-champions-the-power-of-collective-actions-for-a-positive-climate-impact-302442179.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Tata Tea Jaago Re's AI campaign uses Google Cloud's AI suite to measure positive impact from daily 'green' actions",
+      "url": "https://www.medianews4u.com/tata-tea-jaago-res-ai-campaign-uses-google-clouds-ai-suite-to-measure-positive-impact-from-daily-green-actions/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Tata Tea Jaago Re leverages AI to show how small actions fight climate change",
+      "url": "https://www.adgully.com/post/921/tata-tea-jaago-re-leverages-ai-to-show-how-small-actions-fight-climate-change",
+      "doc_type": "News Article"
+    }
+  ]
+}

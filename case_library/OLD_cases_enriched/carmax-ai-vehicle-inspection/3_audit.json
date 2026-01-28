@@ -1,0 +1,178 @@
+{
+  "case_id": "carmax-ai-vehicle-inspection",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing vehicle inspection process - faster, more detailed condition reporting with automated detection. Highly replicable pattern for automotive dealers and inspection services.",
+      "evidence_quality_assessment": "Named organization (CarMax/UVeye), specific process description with measurable outcome (seconds vs traditional inspection time), traceable to press release.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear process optimization with specific technology and measurable improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of inspection quality and consistency - addresses key operational challenges in vehicle assessment. Pattern applicable across automotive inspection contexts.",
+      "evidence_quality_assessment": "Named technology (UVeye), specific benefits (real-time, consistent, accurate), sourced from official press release.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Complements C1 with quality/consistency improvements to same process"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of customer communication and service delivery - improves trust and transparency in repair recommendations. Replicable across service industries requiring customer confidence.",
+      "evidence_quality_assessment": "Specific use cases described, traceable to PYMNTS reporting, clear functional benefits identified.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear service delivery optimization with customer trust/transparency benefits"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational efficiency gains and workforce augmentation through virtual assistant - fits Tier 1 pattern of human+AI optimization.",
+      "evidence_quality_assessment": "Named organization and system (CarMax/Skye), but metrics are qualitative ('strong adoption', 'efficiencies', 'widened bandwidth') without quantification.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency pattern but lacks specific metrics - needs quantified impact for full approval"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Enhancement of existing wholesale auction platform with AI-powered condition reports - clear functional improvement to established process.",
+      "evidence_quality_assessment": "Named organization (CarMax), specific platform enhancement described, part of broader system improvements with clear functionality.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear platform optimization with AI-enhanced reporting capabilities"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of vehicle appraisal process for accuracy and speed - clear Tier 1 functional improvement pattern.",
+      "evidence_quality_assessment": "Named organization (CarMax), specific process (appraisals), but improvement claims are qualitative without quantified metrics for accuracy or speed gains.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization but needs quantified improvement metrics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of digital appraisal capability - shows successful deployment of automated process at significant volume.",
+      "evidence_quality_assessment": "Named organization (CarMax), specific quantified metric (14 million appraisals), traceable to fiscal 2024 reporting.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of scale achievement in digital service delivery"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of marketing spend and inventory alignment through data science - clear efficiency improvement pattern.",
+      "evidence_quality_assessment": "Named organization (CarMax), specific functions (marketing, inventory), but no quantified improvements or specific methodologies described.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear optimization intent but lacks specific metrics or outcomes"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational benefits of centralized platforms - automation and cost reduction fit Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Named organization (CarMax), specific benefits claimed (automation, lower costs, consistency), but no quantified cost savings or automation metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear operational optimization claims but needs quantified impact measures"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (inspection, appraisal, customer service, marketing, operations) rather than business model transformation or new revenue streams."
+}

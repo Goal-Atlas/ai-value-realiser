@@ -1,0 +1,53 @@
+{
+  "case_id": "uchicago-medicine-unified-patient-data-scaling",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "The ADAMS Center will accelerate research and improve care delivery through faster data access",
+      "quote": "The ADAMS Center will enable the UChicago Medicine health system to accelerate research, evaluate and improve care delivery, and seek new innovative partnerships by making data available faster with self-service tools"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The partnership will empower clinical teams to lead meaningful change and streamline operations",
+      "quote": "This partnership will reimagine the way data is used by UChicago Medicine. It will empower clinical teams to lead meaningful change to care delivery and to streamline research and quality improvement activity"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Data democratization eliminates time delays from data request to fulfillment",
+      "quote": "the biggest one is fairly obvious: data accessibility. There are a lot of time delays from data request to fulfillment, and then it's never a one and done"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Self-service approach enables continuous quality improvement through rapid iteration",
+      "quote": "Does this allow for them to think in terms of a continuous quality improvement approach, by requesting the data and getting it back rapidly, and then making some kind of iterative change in their processes and tracking the results? Spiegel: We're starting to see that happen. And that's exactly the intent."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Physician identified 586 patients for improved blood pressure management through self-service data access",
+      "quote": "There were 586 patients he identified to say that we could be doing a better job, and we should be taking an active role in that. Now he's got teams of folks reaching out to these patients and modifying their blood pressure medications over time, and hopefully improve their health outcomes."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI-powered agents will alleviate pressure on staff by handling high-volume, non-urgent tasks",
+      "quote": "The addition of agentic, AI-powered tools is intended to alleviate pressure on staff by assisting with high-volume, non-urgent tasks and providing patients with timely responses to frequently asked questions"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Automation of routine inquiries allows staff to focus on more complex needs requiring personalized attention",
+      "quote": "These tools are expected to help automate routine inquiries so that staff can focus on more complex needs that benefit from personalized attention"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "The platform boosts operational efficiency while empowering staff for meaningful patient interactions",
+      "quote": "By leveraging Agentforce for Health on the deeply unified Salesforce Platform, UChicago Medicine is not just boosting operational efficiency, it is empowering its staff to dedicate more time to meaningful patient interactions and elevate health outcomes"
+    }
+  ]
+}

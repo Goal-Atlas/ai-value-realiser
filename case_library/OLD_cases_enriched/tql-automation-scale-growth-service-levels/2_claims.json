@@ -1,0 +1,53 @@
+{
+  "case_id": "tql-automation-scale-growth-service-levels",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "TQL uses automation and AI tools daily to streamline high volume processes, enabling team members to focus on higher-value activities",
+      "quote": "TQL uses automation and AI tools every day to help streamline high volume processes so our team members can focus on service, problem-solving and relationship building."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI innovations developed through hackathons have practical applications across multiple TQL processes",
+      "quote": "Team Rocket's winning concept can also be applied to other TQL processes."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "TQL has achieved remarkable growth and scale to become the largest privately owned company in Greater Cincinnati",
+      "quote": "Headquartered in Clermont County's Union Township, TQL is now the largest privately owned company in Greater Cincinnati."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "TQL has experienced significant revenue growth, contributing to the transportation logistics industry's quadrupling from $57 billion to over $213.5 billion",
+      "quote": "Transportation logistics is one of the fastest growing U.S. industries, quadrupling in revenues from $57 billion in 2000 to more than $213.5 billion in 2018"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "TQL's business model enables brokers to handle high-volume operations with 75-100 sales calls per day",
+      "quote": "brokers at TQL typically make 75 to 100 sales calls a day trying to drum up new customers"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "TQL demonstrates superior employee satisfaction with 83% saying it's a great place to work versus 57% at typical companies",
+      "quote": "83% of employees at Total Quality Logistics say it is a great place to work compared to 57% of employees at a typical U.S.-based company."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "TQL achieves 51% higher employee retention than typical U.S. workplaces",
+      "quote": "Higher retention: 51% higher than a typical U.S. workplace"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "TQL operates at significant scale with 8,723 U.S.-based employees",
+      "quote": "8,723 U.S.-based Employees (Large)"
+    }
+  ]
+}

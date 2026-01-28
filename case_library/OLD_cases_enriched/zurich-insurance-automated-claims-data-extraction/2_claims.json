@@ -1,0 +1,65 @@
+{
+  "case_id": "zurich-insurance-automated-claims-data-extraction",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Zurich detected substantial increase in fraudulent claims, averting millions in fraud annually",
+      "quote": "Zurich detected a substantial increase in fraudulent claims, averting millions in fraud annually."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Efficiency improvements in claims processing freed up resources for legitimate claims and customer support",
+      "quote": "The efficiency in processing claims and detecting fraud has also freed up resources, allowing more focus on legitimate claims and customer support."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Digital workforce processed three million transactions, freeing up human workers for customer service",
+      "quote": "In total, the digital workforce has processed three million transactions, freeing up Zurich UK's frontline human workers to focus on providing outstanding customer service."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "55 digital workers manage over 120 processes for enhanced customer experience",
+      "quote": "Today, 55 Blue Prism digital workers manage over 120 processes for the insurer... In each case digital workers have contributed to an enhanced digital customer experience with automation."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "Achieved 85% hit rate for automated cash application",
+      "quote": "Automated Cash Application: Achieved an 85% hit rate for cash application through HighRadius software."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Freed up six full-time employees (33% of the team) from cash application tasks",
+      "quote": "Resource Optimization: Freed up six full-time employees (33% of the team) from cash application tasks, allowing reallocation to critical tasks."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Saved 100% on bank lockbox fees through AI-powered OCR",
+      "quote": "Cost Savings: Saved 100% on bank lockbox fees by utilizing AI-powered Optical Character Recognition for check remittance data capture."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Reduced claim processing time from 24 hours to 3 working hours",
+      "quote": "Ultimately, with Zara's support Zurich can now process the claim within three working hours, compared to the previous targeted 24 hours."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "Chatbot handled 765 customer interactions representing 20% of reported claims volume in first 6 weeks",
+      "quote": "In the first 6 weeks, Zara received 765 customer interactions (20% of the reported claims volume) and received a great feedback from both customers and Claims Handler."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "60% of claims were made outside office hours via chatbot, providing 24/7 service",
+      "quote": "Zara helped customers make claims at any time of the day. So far, around 60% of claims were made outside of office hours via Zara."
+    }
+  ]
+}

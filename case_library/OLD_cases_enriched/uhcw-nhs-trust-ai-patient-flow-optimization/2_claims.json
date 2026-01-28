@@ -1,0 +1,65 @@
+{
+  "case_id": "uhcw-nhs-trust-ai-patient-flow-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Virtual assistant reduces operational workload by handling frequently asked questions and appointment queries before escalating to live agents",
+      "quote": "By using self-service and intelligent routing, the VA aims to reduce the total number of calls that the Patient Access Team needs to handle, reducing operational time and costs."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Digital solutions free up staff time by automating patient interactions",
+      "quote": "IBM Consulting and AWS provided investment and technology for UHCW NHS Trust to pilot new solutions focused on digitizing patient interactions to improve their experience and free-up staff time."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Automated systems improve patient satisfaction and clinical outcomes through easier appointment management",
+      "quote": "An automated outpatient appointment reminder and change request system, built using a serverless architecture on AWS. This makes it easier for a specific subset of patients to receive reminders and reschedule appointments \u2013 further improving patient satisfaction and clinical outcomes."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Digital self-service platforms enable staff to focus on more complex queries",
+      "quote": "Most industries have moved to digital self-service platforms that make life easier for users and improve their satisfaction with services, whilst enabling staff to focus on more complex queries."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Automated email responder resolves patient queries more quickly by requesting missing information",
+      "quote": "An automated email responder using Amazon Simple Email Service (Amazon SES) to ask patients to provide missing information so their queries can be resolved more quickly."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Digital preparation reduces pre-operative anxiety in children, with 50-75% of children affected by such anxiety",
+      "quote": "Pre-operative anxiety affects 50-75% of children and is associated with worse physical and mental outcomes for the patient."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Digital psychological preparation prevents negative post-hospital behavioral changes that affect 50% of children",
+      "quote": "Fifty percent of children develop negative post-hospital behavioural changes, such as separation anxiety and bed-wetting; 8% of these changes are on-going at one year post-procedure."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Digital preparation reduces financial implications from cancelled operations and ongoing medical costs",
+      "quote": "Additionally, there are financial implications for the hospital and wider society, for example due to cancelled operations or ongoing medical costs due to treatment non-adherence."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "Digital app provides cost-effective psychological preparation compared to traditional face-to-face meetings",
+      "quote": "Currently, this is predominantly provided via paper leaflets and a single face to face meeting pre-admission; it is thus limited by cost and time."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S2",
+      "claim": "Digital solution provides easily adoptable enhancement to patient experience",
+      "quote": "The Little Journey App has provided an easily adoptable solution to enhance the patient experience for children and their parents when they are visiting hospital for a planned procedure."
+    }
+  ]
+}

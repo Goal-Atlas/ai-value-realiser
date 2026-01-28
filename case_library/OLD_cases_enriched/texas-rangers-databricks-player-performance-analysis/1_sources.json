@@ -1,0 +1,35 @@
+{
+  "case_id": "texas-rangers-databricks-player-performance-analysis",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Databricks in Major League Baseball | Databricks Blog",
+      "url": "https://www.databricks.com/blog/cracking-code-how-databricks-reshaping-major-league-baseball-biomechanics-data",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Databricks lakehouse a key tool for champion Texas Rangers | TechTarget",
+      "url": "https://www.techtarget.com/searchdatamanagement/feature/Databricks-lakehouse-a-key-tool-for-champion-Texas-Rangers",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Databricks ROI case study: Texas Rangers",
+      "url": "https://nucleusresearch.com/research/single/databricks-roi-case-study-texas-rangers/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Modernizing Baseball Data and Analytics with the Lakehouse | by Alexander Booth | Medium",
+      "url": "https://medium.com/@aboothinthewild/modernizing-baseball-data-and-analytics-with-the-lakehouse-5c11d68fd50",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "Rangers Redux: Can Texas Repeat with Data, Analytics, and AI?",
+      "url": "https://www.bigdatawire.com/2024/03/29/rangers-redux-can-texas-repeat-with-data-analytics-and-ai/",
+      "doc_type": "News Article"
+    }
+  ]
+}

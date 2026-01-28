@@ -1,0 +1,17 @@
+{
+  "case_id": "citi-wealth-account-opening-automation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Citi Wealth's horrible tech is infuriating clients and employees and endangering its turnaround",
+      "url": "https://www.businessinsider.com/citi-wealth-tech-problems-andy-sieg-2024-6",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Newsletter #41: From '9 Days to Seconds' - Citi's Blueprint for Operationalizing Enterprise AI.",
+      "url": "https://alecs-newsletter-e6d356.beehiiv.com/p/newsletter-41-from-9-days-to-seconds-citi-s-blueprint-for-operationalizing-enterprise-ai",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "case_id": "natura-revolutionized-testing-substances-google-cloud-ai",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of existing R&D testing processes. Reducing testing time from days to hours represents significant efficiency gains in product development workflow. Pattern is replicable across other companies with similar testing requirements.",
+      "evidence_quality_assessment": "Named organization (Natura), specific and measurable improvement (days to hours), from what appears to be an official case study source. Claim is concrete and verifiable.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear process optimization with quantified time savings in product development testing"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of product development cycle, reducing time-to-market from 12 months to 8 months. This represents efficiency gains in existing product development processes rather than business model change. Replicable pattern for other product companies.",
+      "evidence_quality_assessment": "Named organization with specific, quantified metrics (1 year to 8 months). Clear measurement of process improvement with concrete timeframes.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid capability enhancement case showing measurable acceleration of existing product development processes"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost optimization of existing testing infrastructure. 90% cost reduction represents significant efficiency gains in R&D operations. Pattern applicable to other companies moving testing to cloud environments.",
+      "evidence_quality_assessment": "Named organization with specific quantified savings (90% cost reduction, spending only 10% of projected investments). Concrete financial metric from credible source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong cost optimization case with clear quantified benefits in testing operations"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Represents optimization of testing capacity - lower cost per test enabling higher volume. This is functional improvement in R&D operations and replicable pattern.",
+      "evidence_quality_assessment": "While from named organization, the claim lacks specific quantification. 'Much larger volume than expected' is vague and doesn't provide measurable metrics for verification.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic fit is clear but evidence quality is weak due to lack of specific metrics. Needs more quantified data to be fully credible."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of IT infrastructure migration - improving existing IT operations through cloud migration. Represents efficiency gains in IT management processes. Pattern replicable for other large-scale migrations.",
+      "evidence_quality_assessment": "Named organization with highly specific metrics (900 TB data, 20,000+ accounts, six months timeframe). Concrete, measurable achievement from credible source.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear IT infrastructure optimization with excellent quantified metrics showing successful large-scale migration"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of employee collaboration and productivity through new tools. Represents improvement in existing workforce management and collaboration processes. Pattern applicable to other organizations implementing collaboration suites.",
+      "evidence_quality_assessment": "Named organization with specific metric (80%+ satisfaction rate). Includes methodology context (change management programs). Measurable outcome from credible source.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good capability case showing measurable improvement in employee satisfaction with new collaboration tools"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of finance operations through automation. Eliminating 17+ hours of manual work per week represents significant efficiency gains in existing financial processes. Replicable pattern for finance automation.",
+      "evidence_quality_assessment": "Named organization with specific quantified time savings (17+ hours per week). Concrete metric with clear business context (finance team focusing on higher-value work).",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong automation case with clear quantified time savings and workforce augmentation benefits"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of information retrieval processes. 83% reduction in search time (30 minutes to 5 minutes) represents significant efficiency gains in knowledge management. Pattern replicable across organizations with similar information access challenges.",
+      "evidence_quality_assessment": "Named organization with specific, quantified improvement (83% reduction, 30 minutes to 5 minutes). Clear before/after metrics from credible source.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent knowledge management optimization case with clear quantified time savings in information retrieval"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (R&D testing, product development, IT infrastructure, finance operations, knowledge management) rather than business model transformation or new revenue streams."
+}

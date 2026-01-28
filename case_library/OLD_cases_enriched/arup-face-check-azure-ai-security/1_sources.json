@@ -1,0 +1,11 @@
+{
+  "case_id": "arup-face-check-azure-ai-security",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "scania-accelerating-work-across-global-workforce-using-openai-tools",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Scania is one of the first sustainable transport companies to partner directly with OpenAI, providing competitive advantage",
+      "quote": "We are one of the first sustainable transport companies to partner directly with OpenAI, putting us ahead in using AI in our industry."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The partnership will significantly improve employee experience and deliver more customer value",
+      "quote": "This partnership will greatly improve our employees' experience and bring more value to our customers."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI adoption can boost both productivity and innovation benefiting employees and customers",
+      "quote": "Scania's AI ambitions can boost productivity and innovation, which benefits both their employees and customers."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI tools enable employees to work smarter and more efficiently, advancing sustainability goals",
+      "quote": "By making AI tools available to everyone in our company, we're helping our employees work smarter and more efficiently. This brings us closer to our goal of leading the shift to sustainable transport solutions."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI-powered development approach enabled rapid skill acquisition from junior to fullstack engineers",
+      "quote": "When we switched tracks to fullstack development and LLM-based applications, we were both juniors within the domain, but it did not take long before we contributed to and deployed AI-driven projects that impact how hundreds of engineers work."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI agent for developer interviews enables scalable feedback collection and structured insights",
+      "quote": "One of the most exciting projects we've launched is an AI agent that interviews developers across the organisation about their developer experience... It then summarises those insights, whether you are interviewing five or five thousand people in the organisation, and gives us a structured view of pain points in our developer ecosystem."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "AI-driven developer experience improvements save developers hours every week through automation",
+      "quote": "We've used this to: Identify redundant manual tasks in build and deploy flows. Prioritise internal tool improvements that actually matter. Launch automations that save developers hours every week."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Mob AI approach fundamentally transforms learning, shipping, and collaboration processes",
+      "quote": "With Mob AI, we're not waiting for reviews to get feedback. We're coding, learning, and reviewing together. It has fundamentally changed how we learn, ship, and collaborate."
+    }
+  ]
+}

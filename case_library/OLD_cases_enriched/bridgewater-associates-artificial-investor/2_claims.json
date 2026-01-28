@@ -1,0 +1,47 @@
+{
+  "case_id": "bridgewater-associates-artificial-investor",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI investor is making solid predictions about economic indicators",
+      "quote": "Bridgewater's so-called \"artificial investor\" is exceeding expectations by making solid predictions about what's next for the euro, or what's next for inflation, Jensen said."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI system will generate unique alpha with high returns uncorrelated to markets",
+      "quote": "I do expect we will be able to generate a unique source of alpha that is designed to have both high returns and is uncorrelated to markets and other sources of alpha."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI performance is good enough to be considered a viable return stream",
+      "quote": "it's good enough that I would stamp it as a good return stream"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI system will become more powerful through continuous learning",
+      "quote": "And once the fund launches, Jensen is hoping the AI investor will get \"much more powerful\" as a \"loop of learning\" mints more data."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "AI investment will boost productivity across industries in staggering ways",
+      "quote": "while its ultimate impact on the economy remains highly uncertain, it may boost productivity across many industries in truly staggering ways."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Investors who effectively harness machine learning will build sizable economic moats",
+      "quote": "Over the next decade, investors who most effectively harness the strengths of machine learning and navigate its weaknesses will likely build sizable economic moats."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Legal team recognized for innovation in supporting AI Labs launch",
+      "quote": "The Financial Times recognized Bridgewater's legal team as one of the Most Innovative In-House Legal Teams in North America for their close support in launching AIA Labs, advancing the firm's use of AI and machine learning to drive innovation in the investment process."
+    }
+  ]
+}

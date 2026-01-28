@@ -1,0 +1,47 @@
+{
+  "case_id": "reveel-120-faster-analytics-dwh-modernization-aws-databricks",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "120x faster analytics processing",
+      "quote": "120x faster analytics processing"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "25x workload capability increase",
+      "quote": "25x workload capability"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Analytics processing time reduced from 5-10 minutes to under 5 seconds",
+      "quote": "Where pulling analytics used to take 5-10 minutes with the old system, they can be pulled in under 5 seconds."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "System capacity increased from 1-2 users to up to 50 concurrent users",
+      "quote": "The system went from being able to handle 1-2 users at a time to up to 50"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Sub-5 second response time for large-scale analytical interactive dashboards",
+      "quote": "This allows Reveel customers to run large-scale analytical interactive dashboards to identify savings with a sub-5 second response."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Unlimited scalability achieved",
+      "quote": "Unlimited scalability"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Enabled onboarding of larger customer groups",
+      "quote": "they are now able to onboard a larger group of customers to their shipping intelligence application"
+    }
+  ]
+}

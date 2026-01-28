@@ -1,0 +1,189 @@
+{
+  "case_id": "nubank-digital-banking-efficiency",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Scale metric only - doesn't demonstrate business model transformation or AI centrality",
+      "evidence_quality_assessment": "Good - named organization, specific numbers, traceable source",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Large customer base indicates success but not transformation - this is a scale metric"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth rate metric - doesn't show how value creation fundamentally changed",
+      "evidence_quality_assessment": "Good - specific metric with timeframe from credible source",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "High acquisition rate shows market success but not business model innovation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Demographic expansion metric - market penetration, not transformation",
+      "evidence_quality_assessment": "Good - specific percentage and timeframe",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market segment growth indicates effective targeting but not fundamental business model change"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Scale and acquisition efficiency metrics - impressive but not transformational",
+      "evidence_quality_assessment": "Good - specific numbers, though user count conflicts with C1 (115M vs 54M)",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Word-of-mouth growth shows strong product-market fit but doesn't demonstrate new value creation model"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer satisfaction metric - operational excellence, not transformation",
+      "evidence_quality_assessment": "Good - specific NPS score with competitive comparison",
+      "apqc_functions": [
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "high"
+        }
+      ],
+      "notes": "High NPS indicates superior execution but not business model innovation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Efficiency metric - cost optimization within existing digital banking model",
+      "evidence_quality_assessment": "Good - specific CAC figures across multiple years",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Low CAC shows operational efficiency but represents optimization, not transformation"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Service efficiency metric - operational improvement, not strategic transformation",
+      "evidence_quality_assessment": "Good - specific performance metric",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Fast response time shows operational excellence but not new value creation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Process automation benefit - efficiency improvement, not business model change",
+      "evidence_quality_assessment": "Good - specific time savings metric",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Time savings for customers shows process optimization but not transformation of banking model"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer protection feature - value-add service within traditional banking",
+      "evidence_quality_assessment": "Good - specific monetary impact in defined timeframe",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Overdraft alerts provide customer value but represent feature enhancement, not model transformation"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth metric - scale achievement, not transformation demonstration",
+      "evidence_quality_assessment": "Good - specific growth numbers and percentage",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong growth indicates market success but doesn't show how value creation changed"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cost efficiency improvement - operational optimization, not strategic change",
+      "evidence_quality_assessment": "Good - specific cost reduction metric",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lower cost to serve shows operational efficiency gains but not business model innovation"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Service quality metric - operational excellence, not transformation",
+      "evidence_quality_assessment": "Good - specific complaint ratio with competitive benchmarks",
+      "apqc_functions": [
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Low complaint rate shows superior service delivery but not new value creation model"
+    },
+    {
+      "claim_id": "C13",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Engagement metric - user behavior measurement, not transformation evidence",
+      "evidence_quality_assessment": "Good - specific active user count and engagement rate",
+      "apqc_functions": [
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "High activity rate shows strong user engagement but doesn't demonstrate business model change"
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. All claims describe operational excellence, efficiency improvements, and scale achievements within a traditional digital banking model. While Nubank executes exceptionally well, there's no evidence of business model transformation, new market creation, or AI as a core value driver. This should be classified as tier 1 (optimization) rather than tier 1 (transformation). The 'remove the AI' test: if you removed AI/ML from Nubank, you'd still have a digital bank - just less efficient. The core banking model remains unchanged."
+}

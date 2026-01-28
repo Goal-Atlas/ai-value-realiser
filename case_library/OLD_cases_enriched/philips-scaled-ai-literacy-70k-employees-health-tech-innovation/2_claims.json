@@ -1,0 +1,41 @@
+{
+  "case_id": "philips-scaled-ai-literacy-70k-employees-health-tech-innovation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Philips aims to improve 2.5 billion lives per year by 2030 through AI solutions",
+      "quote": "In part by developing solutions on Philips HealthSuite, powered by AWS, Philips aims to improve 2.5 billion lives per year by 2030."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI solutions help deliver accurate diagnoses, create treatment plans, deliver care quickly, and significantly reduce human error",
+      "quote": "More specifically, by working toward facilitating diagnostic recommendations using AI and ML, medical professionals will have the tools they need to deliver accurate diagnoses and create treatment plans. Using Philips solutions can also help them deliver care quickly and aims to significantly reduce human error."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI solutions break down data silos, consolidate medical records, streamline workflows and increase staff productivity",
+      "quote": "By building Philips HealthSuite on AWS, Philips has the ability to break down data siloes, consolidate medical records, and gain insights from analytics that will streamline workflows and can increase staff productivity."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "AI could potentially double patient capacity by 2030 through automation and AI agents assisting clinicians",
+      "quote": "By 2030, AI could transform healthcare by automating administrative tasks, potentially doubling patient capacity as AI agents assist, learn, and adapt alongside clinicians."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "Healthcare professionals lose significant clinical time due to data inefficiencies - over 45 minutes per shift for one-third of professionals, totaling 23 full days per year",
+      "quote": "More than 75% of healthcare professionals report losing clinical time due to incomplete or inaccessible patient data, with one-third losing over 45 minutes per shift, adding up to 23 full days a year lost by each professional."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "33% of patients have experienced worsening health due to delays in seeing a doctor, with more than 1 in 4 ending up hospitalized due to long wait times",
+      "quote": "The FHI 2025 report reveals 33% of patients have experienced worsening health due to delays in seeing a doctor, and more than 1 in 4 end up in the hospital due to long wait times."
+    }
+  ]
+}

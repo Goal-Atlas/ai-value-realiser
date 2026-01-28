@@ -1,0 +1,59 @@
+{
+  "case_id": "globo-hyper-personalized-recommendations-doubled-click-through-play-rate",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Complex projects tried and deployed at lower costs than with traditional processes",
+      "quote": "Complex projects tried and deployed at lower costs than with traditional processes"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "50+ events hosted in 2021 using Live Production",
+      "quote": "50+ events hosted in 2021 using Live Production."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Cloud migration changed production processes ensuring time savings for operators",
+      "quote": "Cloud migration changed the way productions are made, ensuring time savings for operators and reliable, innovative processes, focusing on modernizing systems as a whole."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Enhanced flexibility allowing dynamic scaling of post-production workflows",
+      "quote": "Enhanced Flexibility: The cloud-based solution allowed Globo to scale their post-production workflows dynamically, accommodating the rapid pace of content creation, including the production of multiple telenovelas."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Reduced carbon footprint contributing to ESG goals through lightweight endpoint devices",
+      "quote": "Sustainability Achievements: By using lightweight endpoint devices connected to powerful virtual workstations, Globo reduced their dependence on heavy on-premises hardware, contributing to their ESG goals."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Enabled remote work maintaining high productivity and performance levels",
+      "quote": "High Performance: Despite remote work conditions, the technology stack ensured high-performance levels akin to on-premises setups."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Globo Ads and Globo SIM increased conversion rates and contributed significantly to revenue",
+      "quote": "Globo Ads and Globo SIM have garnered praise from advertisers, providing them with comprehensive campaign tracking and increasing conversion rates. Eduardo emphasizes Globo's commitment to customer-centricity and the fantastic results achieved through these platforms, contributing significantly to their revenue."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Automation of advertising platforms led to significant cost reductions",
+      "quote": "The automation of these platforms has also led to significant cost reductions."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Globo SIM eliminated need for agencies and reduced costs for small advertisers",
+      "quote": "This new model simplified the sale of commercial spaces to small advertisers, eliminating the need for agencies or prior advertising experience. Advertisers could choose values and simulate ads via the Globo SIM website, reducing costs and granting greater autonomy."
+    }
+  ]
+}

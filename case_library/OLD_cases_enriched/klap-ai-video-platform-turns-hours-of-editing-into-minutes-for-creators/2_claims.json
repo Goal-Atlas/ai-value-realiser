@@ -1,0 +1,77 @@
+{
+  "case_id": "klap-ai-video-platform-turns-hours-of-editing-into-minutes-for-creators",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Single engineer manages infrastructure for 2 million users",
+      "quote": "A single engineer manages infrastructure for 2 million users"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Maintains 7% month-over-month growth with 99.9% uptime",
+      "quote": "Maintains 7% MoM growth with 99.9% uptime and lower costs"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Reduced infrastructure costs to one-third of previous levels",
+      "quote": "Since consolidating on Google Cloud, our storage and processing costs are a third of what they would have been elsewhere."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Achieved 10x cost reduction during viral traffic spike",
+      "quote": "By moving everything to one large Compute Engine instance, we reduced our costs tenfold instantly."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Improved uptime from 99.9% to 99.99%",
+      "quote": "The result is a more consistent, reliable user experience, with smoother video processing and 99.99% 'four nine' uptime as opposed to 99.9 beforehand."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Turns hours of video editing into minutes",
+      "quote": "The AI video platform Klap, powered by Google Cloud, turns hours of editing into minutes for two million creators worldwide."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Processes videos and delivers results within 10 minutes",
+      "quote": "Within 10 minutes, they receive a gallery of short, vertical videos ready to download, publish, or fine-tune in the platform's built-in editor."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Reduces video editing time from 9.8 hours per week",
+      "quote": "A study found that video specialists spend an average of 9.8 hours per week on video editing\u2014AI can cut this down significantly."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Helped over 1.7 million creators generate 3.3 million clips",
+      "quote": "At Klap, we've helped over 1.7 million creators generate 3.3 million clips from their long-form content."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S2",
+      "claim": "Short-form video will represent 90% of global internet traffic by 2025",
+      "quote": "Projections show that short-form video is on track to make up 90% of all global internet traffic by 2025, with ad spending in the space expected to blow past $100 billion."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "AI video generator market growing at 20% annually to reach $2.56 billion by 2032",
+      "quote": "The global AI video-generator market was valued at around USD 0.7 billion in 2024 and is projected to reach USD 2.56 billion by 2032. That's a compound annual growth rate of nearly 20.0%."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Videos under one minute achieve 6.86% average engagement rate",
+      "quote": "A 2023 analysis found that videos under one minute have an average engagement rate of 6.86%, making a strong initial hook absolutely essential."
+    }
+  ]
+}

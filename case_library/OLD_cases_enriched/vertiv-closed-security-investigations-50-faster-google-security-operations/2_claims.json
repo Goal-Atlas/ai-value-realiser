@@ -1,0 +1,29 @@
+{
+  "case_id": "vertiv-closed-security-investigations-50-faster-google-security-operations",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "CISO Connect provides unique collaborative value for security leaders",
+      "quote": "\"We are all solving for the same security challenges; CISO Connect offers a safe environment to collaborate and share, unlike any other conference,\" said Mike Orosz, CISO, Vertiv."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Google Security Operations alert triage agent will perform dynamic investigations to analyze alerts and provide verdicts",
+      "quote": "The alert triage agent in Google Security Operations will perform dynamic investigations on behalf of users. Expected to preview for select customers in Q2 2025, it analyzes the context of each alert, gathers relevant information, and renders a verdict on the alert, along with a history of the agent's evidence and decision making."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "New data pipeline management capabilities help customers manage scale, reduce costs, and satisfy compliance mandates",
+      "quote": "New data pipeline management capabilities, now generally available, can help customers better manage scale, reduce costs, and satisfy compliance mandates."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Mandiant Threat Defense service extends customer security teams through AI-assisted threat hunting and response capabilities",
+      "quote": "The new Mandiant Threat Defense service, now generally available, provides comprehensive active threat detection, hunting, and response. Mandiant experts work alongside customer security teams, using AI-assisted threat hunting techniques to identify and respond to threats, conduct investigations, and scale response through security operations SOAR playbooks, effectively extending customer security teams."
+    }
+  ]
+}

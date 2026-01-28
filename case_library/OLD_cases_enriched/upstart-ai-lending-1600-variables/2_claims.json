@@ -1,0 +1,95 @@
+{
+  "case_id": "upstart-ai-lending-1600-variables",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI models approve 27% more borrowers than traditional credit models",
+      "quote": "More than 620,000 of them were approved by Upstart's models to get a total $7.8 billion in personal loans so far, about 27 percent more than would've been approved by traditional credit models"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI models offer interest rates 16% below average",
+      "quote": "at interest rates 16 percent below average, according to a study from the U.S. Consumer Financial Protection Bureau"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Approval rates nearly doubled overnight with first AI model experiment",
+      "quote": "Overnight our approval rates nearly doubled \u2026 and over time it became clear we were actually moving the needle in improving access to credit"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "GPU implementation reduced model testing time by factor of five",
+      "quote": "At one point, these comparisons took more than a day to run on a CPU, but our research found we could cut that down by a factor of five by porting the work to GPUs"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Model training and evaluation time reduced from days to hours",
+      "quote": "These days, Upstart trains and evaluates new machine-learning models in a few hours instead of days"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Revenue increased 264% year-over-year in 2021",
+      "quote": "In 2021, the company's revenue was up 264% year-over-year, with a net income of $135.44 million"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Q2 2024 revenue beat analyst estimates",
+      "quote": "the company's revenue amounted to $127.63 million in the quarter that ended June 2024, beating analysts' estimates of $124.53 million"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "First half 2024 revenue increased 7% year-over-year",
+      "quote": "For the first half of 2024, its revenue increased 7% year-over-year to $255.42 million"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "31% increase in loan transactions in Q2 2024",
+      "quote": "UPST saw a 31% increase in loan transactions, reaching about 144,000 loans and welcoming over 89,000 new borrowers"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "91% of core unsecured loans fully automated in Q2 2024",
+      "quote": "91% of their core unsecured loans in Q2 were fully automated, which means no documents, phone calls, or human involvement is required"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Upstart has facilitated nearly $40B in loans over ten years",
+      "quote": "Over ten years, Upstart has facilitated nearly $40B in loans for its lending partners to over 3 million American consumers"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "AI models separate risk 3-6x better than traditional methods",
+      "quote": "By using vast datasets, Upstart's models separate risk 3-6x better than traditional methods"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "90% of Upstart-powered loans processed without human intervention",
+      "quote": "In fact, 90 percent of Upstart-powered loans are processed without human intervention, showcasing the potential of AI to streamline operations"
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S4",
+      "claim": "Upstart approves 101% more applicants than traditional methods",
+      "quote": "Upstart approves 101 percent more applicants than traditional methods, also extending 38 percent lower APRs to qualified individuals"
+    },
+    {
+      "claim_id": "C15",
+      "source_id": "S4",
+      "claim": "Upstart extends 38% lower APRs to qualified individuals",
+      "quote": "Upstart approves 101 percent more applicants than traditional methods, also extending 38 percent lower APRs to qualified individuals"
+    }
+  ]
+}

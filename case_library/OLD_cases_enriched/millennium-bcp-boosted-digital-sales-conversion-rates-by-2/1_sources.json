@@ -1,0 +1,23 @@
+{
+  "case_id": "millennium-bcp-boosted-digital-sales-conversion-rates-by-2",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Millennium bcp case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/millennium-bcp",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: How Millennium bcp leverages Radius | Radius Blog",
+      "url": "https://blog.radapp.io/posts/2023/12/06/case-study-how-millennium-bcp-leverages-radius/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case study: Information Builders and Millennium BCP",
+      "url": "https://www.fintechfutures.com/fintech/case-study-information-builders-and-millennium-bcp",
+      "doc_type": "Case Study"
+    }
+  ]
+}

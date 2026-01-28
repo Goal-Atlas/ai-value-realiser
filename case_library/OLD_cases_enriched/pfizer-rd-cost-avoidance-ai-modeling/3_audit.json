@@ -1,0 +1,141 @@
+{
+  "case_id": "pfizer-rd-cost-avoidance-ai-modeling",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of clinical trial operations - scaling participant management and data processing. This is functional improvement within existing R&D processes, highly replicable across pharma industry.",
+      "evidence_quality_assessment": "Named organization (Pfizer), specific metrics (hundreds to tens of thousands), concrete process description with quantifiable workforce impact ('thousands of additional personnel' avoided).",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing operational scaling efficiency in clinical trials with clear workforce productivity gains."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of vaccine design process through simulation - improving quality and reducing risk within existing R&D function. Pattern replicable across pharmaceutical development.",
+      "evidence_quality_assessment": "Named organization, specific process (extensive simulations for side effect minimization), authoritative context (COVID vaccine development).",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization in product development with risk reduction focus."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost optimization through digital enablement including AI - fits Tier 1 pattern of efficiency gains across operations.",
+      "evidence_quality_assessment": "Named organization with specific dollar amount ($1.7B), but AI applications are 'unspecified' which weakens evidence quality. Source appears to be earnings announcement (authoritative).",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Large claimed savings but vague on AI-specific contributions. Needs more detail on actual AI applications."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a general cost alignment program total, not specifically AI-driven optimization. Too broad and not AI-specific.",
+      "evidence_quality_assessment": "While the source is authoritative (CEO earnings remarks) and amount is specific ($7.7B), this claim doesn't isolate AI impact from broader cost reduction efforts.",
+      "apqc_functions": [],
+      "notes": "Not AI-specific enough for inclusion. This is general corporate cost reduction, not AI capability optimization."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "R&D reorganization savings - this is organizational restructuring, not AI-driven functional optimization.",
+      "evidence_quality_assessment": "Specific amount ($500M) and timeline, but no AI component mentioned. This is organizational change, not AI capability.",
+      "apqc_functions": [],
+      "notes": "No AI component identified. This is organizational restructuring rather than AI-driven optimization."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Dramatic timeline reduction in drug discovery (years to 30 days) suggests functional optimization, but the magnitude seems potentially overstated or context-specific.",
+      "evidence_quality_assessment": "Named organization and specific timeline claim, but the dramatic improvement (years to 30 days) needs verification. May be referring to specific sub-processes rather than full drug discovery.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Extraordinary claim requires verification. May be referring to specific research tasks rather than complete drug discovery process."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of research search processes - 80% time reduction with quantified annual savings. Highly replicable pattern across knowledge-intensive organizations.",
+      "evidence_quality_assessment": "Named organization, specific technology (Anthropic's Claude), quantified metrics (80% time reduction, 16,000 hours saved annually), concrete process improvement.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case with specific metrics and clear functional optimization in research operations."
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Manufacturing optimization with anomaly detection and real-time operational guidance - classic Tier 1 efficiency gains. Pattern highly replicable across manufacturing operations.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvements (10% yield increase, 25% cycle time reduction), concrete process description (anomaly detection, real-time actions).",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong manufacturing optimization case with clear metrics and replicable AI application pattern."
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Manufacturing throughput improvement fits Tier 1 optimization pattern, but this appears to be a summary claim that may overlap with C8.",
+      "evidence_quality_assessment": "Specific metric (20% throughput increase) but very brief description. May be redundant with C8 or referring to different manufacturing processes.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Potentially redundant with C8. Needs clarification on whether this is additional to or part of the same manufacturing optimization program."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All AI applications focus on optimizing existing functions (R&D, manufacturing, research operations) rather than creating new business models or revenue streams."
+}

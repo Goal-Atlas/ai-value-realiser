@@ -1,0 +1,7 @@
+{
+  "case_id": "mckinsey-ai-transformation-consulting",
+  "tier": "capability",
+  "audited_claims": [],
+  "tier_verification": "No claims to audit - all sources failed to load due to connection timeout errors",
+  "audit_notes": "Case cannot be audited as no extractable claims were provided. All five McKinsey sources (S1-S5) returned HTTP timeout errors during content extraction. This case should be flagged for re-extraction or alternative sourcing before audit can proceed."
+}

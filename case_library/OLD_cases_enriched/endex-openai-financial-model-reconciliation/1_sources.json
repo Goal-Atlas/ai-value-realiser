@@ -1,0 +1,23 @@
+{
+  "case_id": "endex-openai-financial-model-reconciliation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "19 must-read agentic AI case studies",
+      "url": "https://enterpriseaiexecutive.ai/p/19-must-read-agentic-ai-case-studies",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Endex Utilizes OpenAI Models to Reshape Financial Analysis Workflows - YouTube",
+      "url": "https://www.youtube.com/watch?v=8QtENKjoCK4",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Endex: AI Financial Intelligence Layer | Thehomebase",
+      "url": "https://www.thehomebase.ai/companies/endex",
+      "doc_type": "Case Study"
+    }
+  ]
+}

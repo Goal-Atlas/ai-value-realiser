@@ -1,0 +1,170 @@
+{
+  "case_id": "salesforce-ai-crm-platform-einstein",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Investment amount alone doesn't describe functional optimization or process improvement",
+      "evidence_quality_assessment": "While specific ($600M) and from named source (Salesforce), this is a financial input metric, not an outcome or capability improvement",
+      "apqc_functions": [],
+      "notes": "Investment figure without corresponding capability or efficiency claims is not a Tier 1 case"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of data preparation processes - eliminates manual ETL work, replicable pattern for CRM implementations",
+      "evidence_quality_assessment": "Specific claim from named organization (Salesforce), describes concrete process improvement",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Eliminates data preparation overhead - clear functional optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes sales process through predictive lead scoring, enabling focus on high-value prospects - replicable sales efficiency pattern",
+      "evidence_quality_assessment": "Specific functionality described by named organization, clear process improvement claim",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Classic sales productivity optimization through AI-driven prioritization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes customer service operations through automated case classification and routing - clear efficiency improvement in established process",
+      "evidence_quality_assessment": "Specific functionality from named source, describes concrete process automation with speed improvement claim",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Automated case routing and classification - clear service efficiency optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Improves agent productivity through predictive case resolution timing - optimization of existing service delivery process",
+      "evidence_quality_assessment": "Specific claim from named organization describing productivity improvement mechanism",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Predictive case resolution timing improves resource planning and agent productivity"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Transaction volume is a scale metric, not a functional optimization or efficiency improvement",
+      "evidence_quality_assessment": "While specific (1 trillion/week) and from named CEO, this describes system capacity rather than process improvement",
+      "apqc_functions": [],
+      "notes": "Scale metric without corresponding efficiency or optimization claims is not a Tier 1 case"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Reduces AI hallucination risk through better data integration - quality improvement in AI-driven processes",
+      "evidence_quality_assessment": "Specific technical improvement claim from named source, describes risk reduction mechanism",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Data integration reducing AI errors represents quality improvement in automated processes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes limitations rather than optimizations, but provides insight into implementation challenges for capability assessment",
+      "evidence_quality_assessment": "Specific technical issues mentioned but source appears to be user review rather than official documentation",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Negative capability assessment - useful for understanding implementation challenges but not a positive optimization claim"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes failure cases where AI doesn't deliver expected insights, forcing manual fallback - negative capability indicator",
+      "evidence_quality_assessment": "User experience feedback but acknowledges potential user error, source appears to be review/feedback rather than authoritative",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "low"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Negative capability feedback - shows limitations rather than optimizations"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes implementation challenges rather than functional optimizations - useful for understanding deployment complexity",
+      "evidence_quality_assessment": "Specific implementation metrics (2-3 months, high costs) but appears to be user feedback rather than official source",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Implementation challenge assessment - provides deployment complexity insights but not positive optimization claims"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing CRM functions (sales, service, data management) rather than creating new business models. However, several claims (C1, C6) are input/scale metrics rather than optimization outcomes, and claims C8-C10 describe limitations rather than improvements."
+}

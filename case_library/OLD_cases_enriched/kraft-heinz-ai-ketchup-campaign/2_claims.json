@@ -1,0 +1,47 @@
+{
+  "case_id": "kraft-heinz-ai-ketchup-campaign",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "KHAI AI engine democratized access to 13,000 team members globally in 180 days",
+      "quote": "KHAI took about 180 days from idea to launch, and is now in the hands of about 13,000 team members globally, according to Nestor."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "AI engine streamlined SAP rollouts in China and automated routine financials",
+      "quote": "The engine also helped streamline SAP rollouts in China and automate routine financials."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "AI is becoming integral to various workflows with daily usage",
+      "quote": "It's really becoming an integral part of a variety of workflows"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Teams analyze documents, optimize factory procedures, and access standard operating procedures using the platform",
+      "quote": "Team members use the platform to analyze and summarize documents or dense industry reports, as well as to optimize and access standard operating procedures on a factory floor."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "The Cookbook AI agent went from idea to prototype in under three months",
+      "quote": "The tool, called The Cookbook, went from idea to prototype in fewer than three months, the company told CIO Dive."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI investments have transformed ways of working and driven end-to-end improvements",
+      "quote": "Our investments in technology, particularly in AI, have transformed our ways of working. From improving demand forecasting to optimizing factory floor processes, we are driving end-to-end improvement."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "The Cookbook provides access to 150 years of ketchup production expertise",
+      "quote": "Workers have access to 150 years of Kraft Heinz expertise in ketchup production."
+    }
+  ]
+}

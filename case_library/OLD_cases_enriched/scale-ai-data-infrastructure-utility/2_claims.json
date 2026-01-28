@@ -1,0 +1,47 @@
+{
+  "case_id": "scale-ai-data-infrastructure-utility",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Scale AI enables rapid data labeling with feedback in hours and production scaling in days",
+      "quote": "Scale Rapid is self-serve, on-demand labeling to train AI with high-quality ground-truth data and enables machine-learning engineers and researchers to receive labels and instruction feedback in a matter of hours and scale to production volumes in days."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Scale AI accelerates ML experimentation cycles by providing necessary training data",
+      "quote": "Scale is getting people the data that they need to train the models. It is also accelerating and shortening the experimentation loops that they need to get to the perfect model."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Scale AI provides universal access to high-quality data for ML engineers globally",
+      "quote": "any ML engineer in the world can access it and get high-quality data back quickly"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Scale AI expanded from autonomous vehicles to serve multiple industries including satellite, e-commerce, insurance, and government",
+      "quote": "And then as we grew, it became more applicable to other industries of AI, whether that's for satellite data, or e-commerce data, or large internet companies, or insurance companies, or U.S. government organizations."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Scale AI provides foundational infrastructure that enables companies to build effective ML models through correctly labeled data",
+      "quote": "Scale AI's core value proposition is built around ensuring companies have correctly labeled data to allow them to build effective ML models. By building comprehensive datasets, Scale AI provides the foundation for building AI/ML applications."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Data scarcity creates significant barriers to AI development by extending timelines and reducing accuracy",
+      "quote": "Data scarcity extends the timelines required to build AI models and reduces their accuracy. Without a strong dataset to train AI models, applications can exhibit decreased capabilities and increased vulnerabilities."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Well-organized data creates a self-reinforcing cycle that continuously improves AI model quality and user experience",
+      "quote": "This is a self-reinforcing cycle where initial data collection leads to improved AI models, enhancing user experience. Better user experiences attract more users, leading to further data collection. Over time, this cycle continually upgrades the quality of the AI model and the user experience."
+    }
+  ]
+}

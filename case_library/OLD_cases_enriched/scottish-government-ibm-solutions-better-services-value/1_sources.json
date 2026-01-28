@@ -1,0 +1,23 @@
+{
+  "case_id": "scottish-government-ibm-solutions-better-services-value",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Social Security Scotland | IBM",
+      "url": "https://www.ibm.com/case-studies/social-security-scotland",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Driving inclusive economic growth - Infrastructure Investment Plan 2021-22 to 2025-26: progress report 2022 to 2023 - gov.scot",
+      "url": "https://www.gov.scot/publications/infrastructure-investment-plan-2021-22-2025-26-progress-report-2022-2023/pages/5/",
+      "doc_type": "Report"
+    },
+    {
+      "source_id": "S3",
+      "title": "Digital The Social Security Programme \u2013 approach to integrated assurance - Digital",
+      "url": "https://blogs.gov.scot/digital/2025/02/05/the-social-security-programme-approach-to-integrated-assurance/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

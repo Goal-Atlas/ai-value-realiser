@@ -1,0 +1,53 @@
+{
+  "case_id": "virgin-australia-databricks-baggage-ml-deployment",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Virgin Australia achieved a 75% increase in real-time data availability",
+      "quote": "Databricks adoption facilitated a 75% increase in real-time data availability, a 44% decrease in mishandled baggage, and a 25% revenue boost attributed to insights drawn from analytics."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Virgin Australia reduced mishandled baggage by 44%",
+      "quote": "Databricks adoption facilitated a 75% increase in real-time data availability, a 44% decrease in mishandled baggage, and a 25% revenue boost attributed to insights drawn from analytics."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Virgin Australia achieved a 25% revenue boost from analytics insights",
+      "quote": "Databricks adoption facilitated a 75% increase in real-time data availability, a 44% decrease in mishandled baggage, and a 25% revenue boost attributed to insights drawn from analytics."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Virgin Australia achieved 90% faster deployment of machine learning models",
+      "quote": "The transformative journey, underscored by a 90% faster deployment of machine learning models and significant improvements in analytical speed-to-insight, has propelled Virgin Australia Airlines forward in the market while pursuing a culture of data-driven operational excellence."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Virgin Australia implemented a near-real-time Baggage Reconciliation System that enhanced operational efficiencies and customer experiences",
+      "quote": "Virgin Australia Airlines implemented new features, like the near-real-time Baggage Reconciliation System, enhancing operational efficiencies and customer experiences."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Virgin Australia achieved significant improvements in analytical speed-to-insight",
+      "quote": "The transformative journey, underscored by a 90% faster deployment of machine learning models and significant improvements in analytical speed-to-insight, has propelled Virgin Australia Airlines forward in the market while pursuing a culture of data-driven operational excellence."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Virgin Australia enabled improved collaboration, real-time reporting, data-driven decision-making, and self-serve data capability",
+      "quote": "The goal was to build a trusted, governed central data repository for organizational data and enable improved collaboration, real-time reporting, data-driven decision-making, and self-serve data capability for analysts and operational reporting across the organization."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Virgin Australia successfully migrated more than 200 APIs onto Amazon EKS Auto Mode",
+      "quote": "The migration delivered results at enterprise scale. More than 200 APIs were successfully migrated onto Amazon EKS Auto Mode, confirming that it could support critical production workloads."
+    }
+  ]
+}

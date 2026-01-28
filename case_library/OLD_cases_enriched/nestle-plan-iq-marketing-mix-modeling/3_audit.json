@@ -1,0 +1,113 @@
+{
+  "case_id": "nestle-plan-iq-marketing-mix-modeling",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of demand forecasting and inventory management. 30% error reduction is a measurable efficiency gain in an established process. Pattern is replicable across other FMCG companies.",
+      "evidence_quality_assessment": "Specific quantified metric (30% reduction) but lacks source attribution or verification. No indication of measurement methodology or timeframe. Reads like a generic case study claim.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but evidence quality is weak due to lack of source verification and methodology details."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes cost optimization which fits Tier 1, but claim is too vague to assess replicability or specific process improvement.",
+      "evidence_quality_assessment": "No quantification, no specific metrics, no source attribution. Generic statement without substantive detail.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "low"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Insufficient detail to constitute a meaningful capability case. Reads like marketing copy."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Supply chain resilience improvement could be Tier 1, but no specific process or measurable outcome described.",
+      "evidence_quality_assessment": "Completely generic claim with no metrics, no source, no specific implementation details. Buzzword-heavy without substance.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague to assess. No measurable improvement or specific process optimization described."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Sustainability optimization could be Tier 1, but no specific processes or measurable outcomes provided.",
+      "evidence_quality_assessment": "Generic sustainability claim without quantification, source attribution, or implementation details. No evidence of actual improvement.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "low"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Aspirational statement rather than documented capability improvement. Lacks substance for audit."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Marketing optimization generating $200M in business value fits Tier 1 if this represents efficiency gains in existing marketing functions rather than new revenue streams.",
+      "evidence_quality_assessment": "Specific quantified value ($200M) with named organization (Nestlé) and traceable quote. However, unclear if this represents efficiency gains or revenue generation, which affects tier classification.",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence quality but needs clarification on whether this is efficiency optimization (Tier 1) or revenue generation (potentially tier 1)."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Historical public health claim unrelated to AI capability optimization. Not relevant to Tier 1 assessment.",
+      "evidence_quality_assessment": "While specific (300% increase, Kenya, 1970s), this claim is about historical business practices, not AI-driven capability improvement.",
+      "apqc_functions": [],
+      "notes": "Not an AI capability case. Historical business practice claim irrelevant to tier assessment."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Company size/scope information, not a capability optimization claim.",
+      "evidence_quality_assessment": "Factual company information but not related to AI-driven process improvement or efficiency gains.",
+      "apqc_functions": [],
+      "notes": "Background information, not a capability case claim. No AI optimization described."
+    }
+  ],
+  "tier_verification": "Case appears correctly classified as tier 1, though C5 needs review to confirm it represents marketing efficiency rather than new revenue generation. Most claims lack sufficient evidence quality for approval."
+}

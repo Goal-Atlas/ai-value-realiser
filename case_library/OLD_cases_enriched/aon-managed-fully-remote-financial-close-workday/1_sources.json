@@ -1,0 +1,17 @@
+{
+  "case_id": "aon-managed-fully-remote-financial-close-workday",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Workday on LinkedIn: Aon Uses Workday to Deliver a Fully Remote Financial Close",
+      "url": "https://ie.linkedin.com/posts/workday_aon-uses-workday-to-deliver-a-fully-remote-activity-6978835363477774336-459E",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Workday for the Office of Finance on LinkedIn: Aon Uses Workday to Deliver a Fully Remote Financial Close",
+      "url": "https://www.linkedin.com/posts/workday-for-the-office-of-finance_aon-uses-workday-to-deliver-a-fully-remote-activity-6983168899802365953-qbWE?trk=public_profile_like_view",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "case_id": "korn-ferry-ai-hr-impact-workforce-agility",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "58% of U.S. employees feel their organization is mostly successful in implementing AI",
+      "quote": "58% of U.S. employees feel that their organization is mostly successful in implementing AI, with those in senior roles feeling most confident"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "61% of U.S. employees feel optimistic about AI's potential impact on their work",
+      "quote": "In the U.S., 61% of employees feel optimistic about AI's potential impact on their work"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "66% of financial services professionals believe AI will bolster their value in the next three years",
+      "quote": "66% think using AI will bolster their value in the next three years"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "62% of financial services professionals feel adequately trained to use AI tools in their daily work",
+      "quote": "62% of these financial services professionals feel adequately trained to use AI tools in their daily work"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "75% cost reduction achieved in high-volume hiring",
+      "quote": "75% cost reduction and smarter sourcing for high-volume hiring"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Organizations using AI in hiring see 30% faster time-to-shortlist",
+      "quote": "Organizations using AI in hiring see 30% faster time-to-shortlist and 2\u20133 times higher win rates on complex searches"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Organizations using AI in hiring achieve 2-3 times higher win rates on complex searches",
+      "quote": "Organizations using AI in hiring see 30% faster time-to-shortlist and 2\u20133 times higher win rates on complex searches"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Korn Ferry Intelligence Cloud draws on 4 billion data points from 70 million assessments",
+      "quote": "The AI-augmented analytics platform draws on external market intelligence and 4 billion Korn Ferry data points on work structures, roles, and employee skills and motivations \u2013 based on 70 million assessments and rewards data for 26 million people at 25,000 companies in more than 150 countries"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Only 24% of organizations provide meaningful detail on their reward programs",
+      "quote": "Only 24% of surveyed organizations provide meaningful detail on the intent, design and execution of their reward programs"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "86% of organizations said their reward strategy is not well known externally",
+      "quote": "86% of organizations said their reward strategy is not well known externally and just 8% of people managers believe the reward strategy is effectively communicated"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "51% of organizations plan to grant salary increases to 95% or more of their employees in 2026",
+      "quote": "51% plan to grant increases to 95% or more of their employees in 2026"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "78% of organizations will grant salary increases to at least 80% of employees",
+      "quote": "78% will grant increases to at least 80% of employees"
+    }
+  ]
+}

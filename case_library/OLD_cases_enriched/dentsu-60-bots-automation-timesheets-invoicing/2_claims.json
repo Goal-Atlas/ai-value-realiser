@@ -1,0 +1,41 @@
+{
+  "case_id": "dentsu-60-bots-automation-timesheets-invoicing",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "60 robots deployed in 30 days saved over 125,000 hours",
+      "quote": "the CoE built and deployed an army of 60 robots in just 30 days to complete a large-scale data extraction and migration project, saving more than 125,000 hours."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Timesheet reporting automation reduced process time from 1 business day to 10 minutes",
+      "quote": "Team members used StudioX to build an automation for a process that required them to download and combine information from different systems into a formatted Microsoft Excel report. This process took each team member one business day to complete; the attended robot they built completes it in just 10 minutes."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Media Operations team automations expected to save 850+ hours annually",
+      "quote": "In one hackathon for the Media Operations team, employees built automations that are expected to save the team 850+ hours of manual effort each year"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Popular automations included timesheet reporting and invoice processing",
+      "quote": "Popular citizen-led automations included preparing and manipulating Microsoft Excel reports, exporting and filing invoices, timesheet reporting and email reminders, as well as downloading, transforming and uploading data across systems."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "AI copilot reduced time-to-insight by 90%",
+      "quote": "Dentsu achieved a 90% reduction in time-to-insight, turning weeks of manual analysis into minutes of conversational intelligence."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Campaign activation became faster and operational costs dropped",
+      "quote": "Campaign activation became faster, operational costs dropped, and planners were freed to focus on strategic work."
+    }
+  ]
+}

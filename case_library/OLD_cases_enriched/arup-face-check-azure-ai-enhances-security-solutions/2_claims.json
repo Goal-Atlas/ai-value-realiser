@@ -1,0 +1,53 @@
+{
+  "case_id": "arup-face-check-azure-ai-enhances-security-solutions",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Deepfake fraud resulted in over $25 million loss for Arup",
+      "quote": "The British engineering company Arup was the victim of a deepfake fraud at the beginning of 2024, which resulted in a total loss of over USD $25M."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Employee was tricked into making 15 transactions totaling $26M through deepfake video conference",
+      "quote": "During a video conference call attended by deepfakes impersonating the company's Chief Financial Officer and other employees, a member of staff was duped into making 15 transactions totaling HK $200M (almost USD $26M) to five Hong Kong bank accounts."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Arup experiences regular sophisticated attacks that are increasing in frequency",
+      "quote": "Like many other businesses around the globe, our operations are subject to regular attacks, including invoice fraud, phishing scams, WhatsApp voice spoofing and deepfakes. What we have seen is that the number and sophistication of these attacks has been rising sharply in recent months."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Deepfake fraud losses reached nearly $900 million globally since 2019",
+      "quote": "According to Surfshark, losses linked to deepfake-enabled scams have reached almost $900 million since 2019."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Financial institutions lost $410 million in first half of 2025 alone",
+      "quote": "In the first half of 2025 alone, financial institutions lost $410 million \u2014 already more than the total for 2024."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Deepfake incidents are now four times more common than in 2024",
+      "quote": "Incidents are now four times more common than in 2024."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "780% increase in deepfake incidents in European financial sector",
+      "quote": "780% increase in deepfake incidents in the European financial sector, with the UK accounting for 13.5% of cases."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "40% of identity-related fraud in banking now involves AI, primarily deepfakes",
+      "quote": "40% of identity-related fraud in banking now involves AI, primarily deepfakes."
+    }
+  ]
+}

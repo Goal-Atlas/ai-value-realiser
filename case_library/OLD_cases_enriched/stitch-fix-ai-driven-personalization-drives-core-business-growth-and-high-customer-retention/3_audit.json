@@ -1,0 +1,191 @@
+{
+  "case_id": "stitch-fix-ai-driven-personalization-drives-core-business-growth-and-high-customer-retention",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is process optimization (faster ad creation), not business model transformation. Stitch Fix's core value proposition remains unchanged.",
+      "evidence_quality_assessment": "Specific metrics (77% pass rate, 2 weeks to 1 minute) but this is operational efficiency, not strategic transformation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear Tier 1 case - operational improvement in marketing processes, not transformation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Automating ad generation is process improvement, not business model change. The advertising function remains the same - only execution is optimized.",
+      "evidence_quality_assessment": "Specific claim about full automation but lacks metrics on business impact.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Tier 1 operational efficiency - AI automates existing marketing processes"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Improving personalization to increase order value is optimization of existing business model, not transformation. Stitch Fix was already a personalized styling service.",
+      "evidence_quality_assessment": "Specific metric (40% increase) but source quality unclear - appears to be marketing content rather than verified financial disclosure.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Better personalization within existing model - Tier 1 optimization, not transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Increasing repeat purchases through better personalization is customer retention optimization, not business model transformation.",
+      "evidence_quality_assessment": "Specific metric but same source quality concerns as C3.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Customer retention improvement - Tier 1 optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue growth through better personalization is scaling existing model, not transforming it. Stitch Fix's business model (subscription styling boxes) remains unchanged.",
+      "evidence_quality_assessment": "Specific revenue figures but attribution to AI personalization alone is questionable - many factors drive revenue growth over 4 years.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Revenue growth within existing business model - not transformation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "AI driving 75% of selections is operational automation of existing styling process, not business model change. The core service (curated boxes) remains the same.",
+      "evidence_quality_assessment": "Specific percentage but unclear source authority and methodology.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Automation of existing curation process - Tier 1 efficiency improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer retention improvement through better personalization is optimization, not transformation of business model.",
+      "evidence_quality_assessment": "Specific metric (15% boost) but source quality concerns persist.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Customer retention optimization - Tier 1 improvement"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Shop Your Looks appears to be a feature extension, not business model transformation. Still within existing e-commerce/styling framework.",
+      "evidence_quality_assessment": "Vague metric ('more than one-third') and beta-stage results have limited validation.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Product feature addition, not business model transformation"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cross-selling success (60% buying multiple items) is sales optimization, not business model change.",
+      "evidence_quality_assessment": "Specific metric but limited to beta feature performance.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Sales optimization metric - Tier 1 improvement"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "0.7% revenue growth is a financial performance metric, not evidence of business model transformation.",
+      "evidence_quality_assessment": "Specific financial metric, likely from earnings report, but minimal growth doesn't support transformation claims.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Financial performance data - not transformation evidence"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Return to growth after declines suggests recovery/turnaround, not business model transformation.",
+      "evidence_quality_assessment": "Appears to be from earnings report but doesn't demonstrate transformation, just operational recovery.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Business recovery, not transformation"
+    }
+  ],
+  "tier_verification": "This case is MISCLASSIFIED. All claims describe operational improvements, process automation, and performance optimization within Stitch Fix's existing business model (personalized styling subscription boxes). This is clearly a tier 1 case - AI is being used to do the same things better (better personalization, faster ad creation, improved retention) rather than enabling new business models or markets. The 'remove the AI' test confirms this: without AI, Stitch Fix would still be a styling service, just less efficient. This should be reclassified as tier 1."
+}

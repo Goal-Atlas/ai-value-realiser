@@ -1,0 +1,35 @@
+{
+  "case_id": "amazon-supply-chain-inventory-forecasting",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Amazon's AI Supply Chain: Predictive Planning for Efficiency",
+      "url": "https://supplychain360.io/amazons-ai-powered-supply-chain-shifting-from-reactive-to-predictive-planning/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "[Tracking Success] Amazon's Supply Chain Management Strategy: Revolutionizing E-commerce Logistics",
+      "url": "https://blogs.tradlinx.com/tracking-success-amazons-supply-chain-management-strategy-revolutionizing-e-commerce-logistics/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: Amazon's AI-Driven Supply Chain: A Blueprint for the Future of Global Logistics",
+      "url": "https://cdotimes.com/2024/08/23/case-study-amazons-ai-driven-supply-chain-a-blueprint-for-the-future-of-global-logistics/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Case Study: The Supply Chain Success Story of Amazon",
+      "url": "https://icttm.org/case-study-the-supply-chain-success-story-of-amazon/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "Analyzing the Amazon Supply Chain Strategy and Process",
+      "url": "https://www.sellermate.ai/post/amazon-supply-chain-strategy-process",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "allpay-developer-productivity-github-copilot",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Overall developer productivity increased by 10%",
+      "quote": "allpay estimates that, overall, the team's use of GitHub Copilot has increased developer productivity by 10%."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Some use cases deliver up to 80% time savings",
+      "quote": "However, there are some use cases where the productivity boost is even higher\u2014delivering as much as an 80% time saving."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Stored procedures creation time reduced from 1 hour to 5 minutes",
+      "quote": "I could have a set of stored procedures created now in five minutes, whereas it might have taken someone an hour to write stored procedures previously"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Service setup time reduced from 1 week to 1 day",
+      "quote": "And we can have a depth of service set up in a day, rather than the week it took before."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Production delivery volume increased by 25%",
+      "quote": "In combination with some organisational changes, the adoption of GitHub Copilot has driven up delivery volume into production by 25%."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Nine-month releases exceeded previous full year total",
+      "quote": "In terms of releases out the door, in the nine months of this year to date, we have already delivered more than the 900 delivered in the whole of last year."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "10% boost in coding productivity confirmed",
+      "quote": "After adopting an AI coding assistant and migrating its systems to the cloud through Microsoft Azure, the FinTech provider saw a 10% boost in coding productivity"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "25% increase in production releases in nine months",
+      "quote": "a 25% increase in production releases in just nine months \u2014 surpassing its total output from the previous year"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "Reduced time spent on rework and defect fixing",
+      "quote": "The amount of time we are spending on rework and defect fixing has dropped"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S2",
+      "claim": "Fewer incidents occurring",
+      "quote": "We're getting fewer incidents."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S2",
+      "claim": "Improved code quality through standardization",
+      "quote": "GitHub Copilot frees up time for frequent code reviews, ensuring standardization and significantly improving code quality"
+    }
+  ]
+}

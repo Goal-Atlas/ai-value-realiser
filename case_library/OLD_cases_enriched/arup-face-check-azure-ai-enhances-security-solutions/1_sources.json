@@ -1,0 +1,23 @@
+{
+  "case_id": "arup-face-check-azure-ai-enhances-security-solutions",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Top 5 Cases of AI Deepfake Fraud From 2024 Exposed | Blog | Incode",
+      "url": "https://incode.com/blog/top-5-cases-of-ai-deepfake-fraud-from-2024-exposed/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Deepfake Fraud in Financial Services | ThreatScene Blog",
+      "url": "https://threatscene.com/blog-update/the-new-face-of-fraud-deepfakes-in-financial-services/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

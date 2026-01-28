@@ -1,0 +1,158 @@
+{
+  "case_id": "klarna-ai-customer-service-automation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of customer service operations - automating existing chat support function with measurable volume metrics",
+      "evidence_quality_assessment": "Named organization (Klarna), specific quantified metrics (2.3M conversations, 2/3 of volume), traceable to official company announcement",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear automation of existing customer service function with specific volume metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation/replacement in customer service - classic efficiency optimization with clear FTE equivalence methodology implied by volume handled",
+      "evidence_quality_assessment": "Specific metric (700 FTE equivalent) from named organization, methodology implied by conversation volume handled",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "FTE equivalence claim is credible given the 2.3M conversation volume context"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quality maintenance during automation - demonstrates that efficiency gains don't compromise service quality",
+      "evidence_quality_assessment": "Named organization with specific quality metric comparison, though exact satisfaction scores not disclosed",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Quality parity claim supports the efficiency optimization narrative"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process improvement through better accuracy - reduces downstream work and improves customer experience efficiency",
+      "evidence_quality_assessment": "Named organization with specific quantified improvement (25% reduction), clear causal relationship stated",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong efficiency metric showing process improvement beyond just automation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear time efficiency optimization - dramatic improvement in resolution speed for existing customer service function",
+      "evidence_quality_assessment": "Named organization with specific before/after metrics (11 min to <2 min), substantial and measurable improvement",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent efficiency metric showing 80%+ time reduction in service delivery"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Financial impact of operational efficiency gains - quantifies the business value of customer service optimization",
+      "evidence_quality_assessment": "Named organization with specific financial projection ($40M), though marked as estimate rather than realized savings",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong financial quantification of efficiency gains, though prospective rather than realized"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Operational capability enhancement - extends service coverage without proportional resource increase",
+      "evidence_quality_assessment": "Named organization with specific operational metrics (23 markets, 35+ languages, 24/7), demonstrates scale efficiency",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates how AI enables operational scale that would be cost-prohibitive with human agents"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation across multiple functions - high adoption rate indicates successful integration for efficiency gains",
+      "evidence_quality_assessment": "Named organization with specific adoption metric (90%), credible source, demonstrates broad organizational efficiency impact",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Broad organizational efficiency impact beyond just customer service"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Department-specific efficiency adoption - shows replicable pattern of AI augmentation across different business functions",
+      "evidence_quality_assessment": "Named organization with specific departmental metrics (93%, 88%, 86%), demonstrates targeted functional improvements",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "12.5",
+          "name": "Manage public relations program",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of cross-functional efficiency gains with specific adoption metrics by department"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing business functions (customer service, marketing, legal, communications) rather than business model innovation or new revenue streams"
+}

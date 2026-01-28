@@ -1,0 +1,47 @@
+{
+  "case_id": "bayer-ai-expert-systems-scale-agronomic-expertise-farmers-frontline",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "GenAI enables faster and more complete answers to agronomy questions",
+      "quote": "We are confident we can train GenAI models on our agronomic and product knowledge and empower our people to answer a vast majority of agronomy and product questions faster and more completely than ever before."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "GenAI makes specialized agronomic knowledge more accessible and convenient to synthesize",
+      "quote": "GenAI has helped organize the agronomic knowledge in a way that makes retrieval easy and accessible."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI can revolutionize customer service by making technical information readily available",
+      "quote": "This can revolutionize the way we serve our customers, allowing us to both build our institutional knowledge and make highly technical information readily available to our employees, partners and customers."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI implementation resulted in cost savings of up to $25 per acre each season",
+      "quote": "This precision farming, backed by AI, has led to savings of up to $25 per acre each season."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "AI-powered solutions substantially reduced pesticide use and minimized crop loss",
+      "quote": "The introduction of AI-powered solutions like Croptimus\u2122 has substantially reduced the need for pesticides, minimized crop loss, and enhanced scouting efficiency."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AI enables early pest detection allowing use of less toxic solutions for cleaner produce",
+      "quote": "Furthermore, the early pest detection has allowed farmers to employ less toxic solutions, thus ensuring cleaner produce."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI promotes efficiency and enables sustainable farming practices",
+      "quote": "The use of AI not only promotes efficiency but also paves the way for sustainable practices that can benefit farmers, communities, and the planet."
+    }
+  ]
+}

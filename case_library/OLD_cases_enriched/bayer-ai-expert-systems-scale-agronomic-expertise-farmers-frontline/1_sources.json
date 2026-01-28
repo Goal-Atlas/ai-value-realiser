@@ -1,0 +1,17 @@
+{
+  "case_id": "bayer-ai-expert-systems-scale-agronomic-expertise-farmers-frontline",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Bayer is unearthing agronomy's future with GenAI",
+      "url": "https://www.ey.com/en_us/insights/consulting/how-bayer-is-unearthing-agronomy-future-with-generative-ai",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: How Bayer is Revolutionizing Farming with Artificial Intelligence",
+      "url": "https://aiexpert.network/case-study-how-bayer-is-revolutionizing-farming-with-artificial-intelligence/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "case_id": "walmart-supply-chain-ai-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of supply chain operations - automated detection and correction improves efficiency of existing processes. Pattern is replicable across other large retailers.",
+      "evidence_quality_assessment": "Named organization (Walmart), specific process description, attributed to named executive (Uppuluri). Source appears credible.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear process automation with real-time issue resolution capability"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing inventory planning function through better forecasting. Reduces waste and improves efficiency - classic Tier 1 optimization.",
+      "evidence_quality_assessment": "Named organization, specific process improvement described, attributed source. Clear business benefit (reduced safety stock).",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid inventory optimization case with clear efficiency gains"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes efficiency improvement (time reduction) but lacks specificity about which processes or projects are affected.",
+      "evidence_quality_assessment": "Named organization but very vague claim. No specific project types, metrics, or process details provided.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague - needs more specific detail about what types of projects and processes are being accelerated"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes supply chain optimization concept but attribution appears incorrect - quote mentions Andy Jassy (Amazon CEO) not Walmart.",
+      "evidence_quality_assessment": "Source attribution error - Andy Jassy is Amazon's CEO, not Walmart's. This appears to be misattributed content.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Source attribution error - Andy Jassy quote appears to be about Amazon, not Walmart. Needs verification."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational efficiency improvement through automation. 98% automation represents significant process optimization in existing distribution function.",
+      "evidence_quality_assessment": "Named organization, specific facility (Wellford), quantified metric (98%), attributed to named facility manager.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong automation case with specific metrics and facility attribution"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Cost reduction through inventory optimization - classic Tier 1 efficiency improvement in existing supply chain function.",
+      "evidence_quality_assessment": "Named organization, clear cost reduction mechanism described, attributed source (Uppuluri).",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear cost optimization through inventory management improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This appears to describe business model expansion (fulfillment services) rather than internal process optimization. May be tier 1.",
+      "evidence_quality_assessment": "Named organization and attributed source but vague metrics ('substantial growth'). Lacks specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "May be misclassified - fulfillment services growth suggests new revenue stream (tier 1) rather than internal optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational resilience during peak events but lacks specific process details or measurable improvements.",
+      "evidence_quality_assessment": "Vague claim with no specific metrics or process descriptions. Quote is more aspirational than evidential.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "low"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Too vague - needs specific metrics or process improvements for Black Friday handling"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear procurement process optimization through AI automation. Improves efficiency and reduces costs in existing supplier negotiation function.",
+      "evidence_quality_assessment": "Specific quantified results (1.5% savings, 68% success rate), clear process description, measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case with specific metrics for AI-powered procurement optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost improvement through automation but appears to be a general industry estimate rather than Walmart-specific result.",
+      "evidence_quality_assessment": "Lacks attribution to Walmart specifically - appears to be general industry statistic rather than company-specific achievement.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Appears to be industry statistic rather than Walmart-specific result. Needs verification of attribution."
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational efficiency initiative - automating store operations represents optimization of existing retail functions.",
+      "evidence_quality_assessment": "Named organization, specific target (65% of stores by 2026), clear timeline and scope.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong automation rollout plan with specific targets and timeline"
+    }
+  ],
+  "tier_verification": "Mostly correctly classified as tier 1. Claims C7 may be tier 1 (fulfillment services growth suggests new revenue stream). Claims C4 and C10 have attribution issues that need verification."
+}

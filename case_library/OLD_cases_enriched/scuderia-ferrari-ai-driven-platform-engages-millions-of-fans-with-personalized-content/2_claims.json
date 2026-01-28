@@ -1,0 +1,41 @@
+{
+  "case_id": "scuderia-ferrari-ai-driven-platform-engages-millions-of-fans-with-personalized-content",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Ferrari's fan base has tripled in the last 3 years",
+      "quote": "This fan base has been growing at a rapid clip, it has tripled in the last 3 years alone and its composition has also evolved."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The platform serves 396 million fans worldwide",
+      "quote": "Using generative AI, the platform transforms the torrent of track data and data from various other sources into a personalized and interactive mobile app experience for Scuderia Ferrari HP's 396 million fans around the world around the clock, 365 days a year."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Post-race recaps are now available within hours of race finish",
+      "quote": "These post-race recaps of the Scuderia Ferrari HP team's performance are now available for fans within hours of a race finish."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Infrastructure total cost of ownership reduced from 70% to 40%",
+      "quote": "We've reduced the total cost of ownership for our infrastructure from 70 percent to 40 percent"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Product lifecycle management simulations run 60% faster",
+      "quote": "For example, the company can run simulations in its product lifecycle management software 60 percent faster than before."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Car configurator increased sales leads and reduced configuration times by 20%",
+      "quote": "Since rolling out the car configurator, Ferrari has increased its sales leads and reduced configuration times by 20 percent by offering a more personalized experience"
+    }
+  ]
+}

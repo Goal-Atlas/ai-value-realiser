@@ -1,0 +1,163 @@
+{
+  "case_id": "komatsu-autonomous-haulage-system",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - autonomous haulage improves safety in mining operations, which is a replicable pattern across mining industry",
+      "evidence_quality_assessment": "Named organization (Komatsu) but vague benefits claim without specific metrics or quantified safety improvements",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Safety improvement is valid Tier 1 optimization but lacks specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear cost optimization of existing mining operations - replicable pattern for autonomous haulage systems",
+      "evidence_quality_assessment": "Named organization but no quantified cost reduction metrics provided",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid cost optimization claim but needs quantification for full approval"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear productivity and efficiency optimization of mining operations - highly replicable pattern",
+      "evidence_quality_assessment": "Named organization but lacks specific productivity metrics or efficiency percentages",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid efficiency claim but requires quantified metrics for approval"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of autonomous haulage optimization across mining operations - pattern clearly replicable",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (2 billion tons) and industry context (copper, iron ore, oil sands)",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of operational scale and capability optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates widespread adoption of autonomous haulage optimization - clear replicability evidence",
+      "evidence_quality_assessment": "Named organization with specific metrics (700 trucks) and timeframe (February 2024) from traceable source",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear deployment scale evidence supporting capability optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quantifies cumulative impact of autonomous haulage optimization - demonstrates replicable operational improvement",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (7.5 billion metric tons) and clear timeframe",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong quantified evidence of operational capability and scale"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Comprehensive claim covering safety, reliability, cost, and production optimization - clearly replicable mining operations improvement",
+      "evidence_quality_assessment": "Named organization but multiple benefit claims without specific quantification",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid comprehensive optimization claims but lacks specific metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear productivity and cost optimization claims for mining operations - replicable pattern across industry",
+      "evidence_quality_assessment": "Named organization and system but vague 'substantial benefits' without quantified metrics",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claims but needs specific quantification for approval"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates long-term operational optimization with historical deployment evidence - clearly replicable",
+      "evidence_quality_assessment": "Named organization with specific metric (4 billion tonnes), timeframe (since 2008), and named customer deployment (CODELCO Gabriela Mistral)",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong historical evidence with named customer and specific metrics"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing mining operations (autonomous haulage) rather than business model transformation or new revenue streams"
+}

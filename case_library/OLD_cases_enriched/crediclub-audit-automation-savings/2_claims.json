@@ -1,0 +1,41 @@
+{
+  "case_id": "crediclub-audit-automation-savings",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S3",
+      "claim": "Crediclub raised over $80 million in funding to accelerate digital transformation",
+      "quote": "Mexican financial institution Crediclub has raised over US$80 million to accelerate its digital transformation."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S3",
+      "claim": "The investment boosted capitalization to 515%, significantly above regulatory requirements",
+      "quote": "The investment boosted Crediclub's capitalization level to an impressive 515%, well above the regulatory minimum of 131%"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Crediclub achieved 40% annual growth rate",
+      "quote": "Crediclub, which has achieved a 40% annual growth rate"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Successfully transitioned from branch-based to fully digital platform by closing all 182 branches",
+      "quote": "recently transitioned from a branch-based model to a fully digital platform, closing all 182 branches as part of this transformation"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Reached 1.6 million customers and became fifth-largest institution in sector",
+      "quote": "As of September 2024, Crediclub reported 1.6 million customers, ranking as the fifth-largest institution in its sector"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Achieved total assets of MX$5.1 million",
+      "quote": "with total assets of MX$5.1 million"
+    }
+  ]
+}

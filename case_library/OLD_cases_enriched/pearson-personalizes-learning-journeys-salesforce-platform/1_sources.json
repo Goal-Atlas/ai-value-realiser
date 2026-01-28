@@ -1,0 +1,23 @@
+{
+  "case_id": "pearson-personalizes-learning-journeys-salesforce-platform",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Pearson personalizes learning journeys with the Salesforce Platform.",
+      "url": "https://www.salesforce.com/customer-stories/pearson/?bc=OTH",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Salesforce ROI case study: Pearson Education",
+      "url": "https://nucleusresearch.com/research/single/salesforce-roi-case-study-pearson-education/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "A Leader in Online Learning Predicts the Future of Education",
+      "url": "https://www.salesforce.com/blog/a-leader-in-online-learning-predicts-the-future-of-education/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

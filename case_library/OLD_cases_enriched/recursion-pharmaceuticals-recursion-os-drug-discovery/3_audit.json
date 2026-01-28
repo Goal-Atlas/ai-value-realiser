@@ -1,0 +1,158 @@
+{
+  "case_id": "recursion-pharmaceuticals-recursion-os-drug-discovery",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a technical infrastructure improvement, not strategic transformation. Accelerating image processing is optimization of existing workflows.",
+      "evidence_quality_assessment": "Vague claim without specific metrics or performance comparisons. No quantified improvement stated.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical optimization claim, not transformation. Belongs in Tier 1."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Training time reduction is process optimization, not business model change. This improves efficiency of existing R&D workflows.",
+      "evidence_quality_assessment": "Specific improvement ratio (hours to minutes) but lacks context on baseline or validation metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency gain but not strategic transformation. Tier 1 claim."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "10x reduction in drug discovery time would fundamentally alter pharmaceutical industry economics and business models if achieved.",
+      "evidence_quality_assessment": "Aspirational claim ('potentially') without demonstrated results. No evidence this has been achieved yet.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Transformational if proven, but currently speculative. Needs validation of actual achievement."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Creating hundreds of disease models in under 2 years represents a fundamental shift in R&D capacity and approach, enabling new market penetration in rare diseases.",
+      "evidence_quality_assessment": "Specific metrics (hundreds of models, under 2 years timeline) with concrete deliverable (shortlist of candidates). Traceable to company source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates scale transformation in drug discovery capability, enabling new market access."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Being first ML-discovered drug in clinical trials represents market creation and validates AI-first drug discovery as viable business model.",
+      "evidence_quality_assessment": "Specific milestone achievement with clear precedent-setting nature. Verifiable through clinical trial databases.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Market-creating milestone that validates transformation of drug discovery paradigm."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Goal of 100 clinical candidates in 10 years (orders of magnitude more than largest pharma) represents fundamental business model transformation from traditional pharma approach.",
+      "evidence_quality_assessment": "Specific quantified goal with explicit comparison to industry leaders. Company-stated strategic objective.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear articulation of transformed business model with quantified differentiation from traditional pharma."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Computational capacity is infrastructure capability, not strategic transformation. High-performance computing supports but doesn't constitute business model change.",
+      "evidence_quality_assessment": "Specific technical metric (trillions of calculations per second) but lacks business context or competitive comparison.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical infrastructure claim, not strategic transformation. Tier 1 supporting capability."
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Mid-stage trial safety validation of ML-discovered drug provides concrete evidence that AI-first discovery model can produce viable clinical candidates.",
+      "evidence_quality_assessment": "Specific clinical milestone with regulatory validation. Traceable to official trial results and company disclosure.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clinical validation of transformed drug discovery approach, proving business model viability."
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Pipeline of 10 clinical readouts over 18 months demonstrates scaled transformation of drug development throughput and business model execution.",
+      "evidence_quality_assessment": "Specific pipeline metrics with defined timeline. Represents measurable business model execution at scale.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates scaled execution of transformed drug discovery business model."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C4, C5, C6, C8, C9 demonstrate genuine business model transformation in drug discovery. Claims C1, C2, C7 are tier 1 technical optimizations. Claim C3 is aspirational but transformational if achieved."
+}

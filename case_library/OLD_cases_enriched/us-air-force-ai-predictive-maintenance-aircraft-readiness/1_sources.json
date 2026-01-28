@@ -1,0 +1,17 @@
+{
+  "case_id": "us-air-force-ai-predictive-maintenance-aircraft-readiness",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "The U.S. Air Force improves aircraft readiness with AI and predictive maintenance solutions | AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/the-us-air-force-improves-aircraft-readiness-with-ai-and-predictive-maintenance-solutions/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "US Air Force fleet's mission-capable rates are stagnating. Here's the plan to change that.",
+      "url": "https://www.airforcetimes.com/news/your-air-force/2022/02/14/us-air-force-fleets-mission-capable-rates-are-stagnating-heres-the-plan-to-change-that/",
+      "doc_type": "News Article"
+    }
+  ]
+}

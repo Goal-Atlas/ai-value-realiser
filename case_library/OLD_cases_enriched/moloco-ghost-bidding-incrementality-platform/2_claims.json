@@ -1,0 +1,59 @@
+{
+  "case_id": "moloco-ghost-bidding-incrementality-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Moloco's platform delivers 400% return on ad spend (ROAS)",
+      "quote": "Enter retail media networks (RMNs)\u2014uniquely positioned to sell not just ad space, but outcomes like a 400% return on ad spend (ROAS) or even a cost-per-order (CPO). At Moloco, our machine learning platform has powered advertisers to hit these targets with precision"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Moloco's predictive engine delivers 3x higher ROAS vs. legacy RMNs",
+      "quote": "Moloco's predictive engine adjusts campaigns on the fly\u2014boosting bids for high-intent users, dialing back on tire-kickers\u2014delivering 3x higher ROAS vs. legacy RMNs with static ad models"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "A $10,000 sponsored product campaign can drive $40,000 in sales with 5:1 ROAS",
+      "quote": "A TV spot may drive reach, but a $10,000 sponsored product campaign on an RMN can drive $40,000 in sales\u2014and prove it with closed-loop attribution... An RMN can serve a Samsung ad, track the $800 sale, and show a 5:1 ROAS"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Return on Ad Spend improved by up to 214% for advertisers who diversified beyond Google and Meta",
+      "quote": "Return on Ad Spend (ROAS) improved by as much as 214% (Day 30) for consumer mobile app marketers who diversified their media mix to include channels outside Google and Meta"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Turo saw increased platform bookings validated through incrementality modeling",
+      "quote": "Since expanding our channels beyond social partners, we've seen an increase in platform bookings that we have been able to validate through incrementality modeling"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "CTV ads achieve 93-96% completion rates",
+      "quote": "Most of the strong results come from in-stream video ads within AVOD, FAST, and live TV content. These formats are non-skippable, with completion rates as high as 93\u201396%"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Krafton achieved significant growth using Moloco CTV for Cookie Run India launch",
+      "quote": "For instance, Krafton leveraged Moloco CTV to support the launch of 'Cookie Run India' in the Indian market. They used CTV for upper- and mid-funnel reach, while mobile DSPs captured lower-funnel conversions, driving significant growth"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Sports betting app achieved strong conversion efficiency during major sports season",
+      "quote": "A leading sports betting app achieved strong results with geo-targeted campaigns and CTV's clean ad environment. During a major sports season, they achieved strong conversion efficiency, demonstrating how scalable and performance-driven CTV has become"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Chinese game publisher reached high-value users at highly efficient costs for PC/console titles",
+      "quote": "A leading Chinese game publisher also ran UA campaigns for PC/console titles with Moloco CTV, reaching high-value users at highly efficient costs"
+    }
+  ]
+}

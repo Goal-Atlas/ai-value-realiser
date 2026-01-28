@@ -1,0 +1,29 @@
+{
+  "case_id": "panasonic-energy-palantir-battery-production-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Partnership expected to generate cost savings",
+      "quote": "PENA expects the partnership to quickly generate cost savings and reduce manufacturing waste."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Partnership expected to reduce manufacturing waste",
+      "quote": "PENA expects the partnership to quickly generate cost savings and reduce manufacturing waste."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI and machine learning will improve facilities data management by replacing manual processes",
+      "quote": "Palantir says its Foundry system will enable PENA to use artificial intelligence and machine learning to better understand and manage its facilities data, replacing most of its previous manual processes previously."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Partnership addresses challenges of disparate data systems and manual work-arounds that lead to inaccurate data analysis",
+      "quote": "We engaged Palantir to assist on our journey towards a connected factory by addressing the challenges of disparate data systems and manual [work-arounds] leading to inaccurate data analysis"
+    }
+  ]
+}

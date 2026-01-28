@@ -1,0 +1,71 @@
+{
+  "case_id": "best-buy-genai-support",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Gen AI enables agents to solve customer queries and issues faster than ever before",
+      "quote": "The virtual assistant connects them to one of Best Buy's thousands of care agents who are also equipped with gen AI tools to solve customer queries and issues faster than ever before."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Gen AI tools boost agent productivity and satisfaction by allowing focus on more meaningful work",
+      "quote": "Meanwhile, customer agents get to focus on more meaningful work, boosting their productivity and satisfaction."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Gen AI tools automate routine tasks, reducing time spent searching for information",
+      "quote": "Other tools automate routine tasks such as navigating knowledge bases, so agents can spend less time searching for info and more time understanding and empathizing with the customer."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Accelerated production cycles through process automation",
+      "quote": "Accelerated production cycles by automating processes with Vertex AI"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Developed product Q&As at significantly reduced cost",
+      "quote": "Developed product Q&As at a fraction of the previous cost"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AI solutions enhance customer trust, satisfaction, and revenue",
+      "quote": "that enhance the online shopping experience and boost customer trust, satisfaction, and revenue."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Faster delivery of better solutions at reduced cost through accelerated experimentation-to-production cycles",
+      "quote": "Best Buy has accelerated experimentation-to-production cycles, enabling teams to deliver better solutions, faster, and at a fraction of the cost."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Innovations have increased customer satisfaction, improved trust, and optimized revenue generation",
+      "quote": "Together, these innovations have increased customer satisfaction, improved trust, and optimized revenue generation."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI tools help agents provide real-time, relevant recommendations during customer conversations",
+      "quote": "The AI tools will help care agents assess conversations with customers in real time and offer 'in-the-moment, relevant and human-focused recommendations,'"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "AI tools reduce likelihood of recurring issues by using call data",
+      "quote": "The tools will also summarize conversations, detect sentiment, and use data from the call to lower the likelihood of similar issues recurring."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Gen AI-powered assistant will allow store employees to help customers more efficiently",
+      "quote": "This will allow them to help customers more efficiently than ever."
+    }
+  ]
+}

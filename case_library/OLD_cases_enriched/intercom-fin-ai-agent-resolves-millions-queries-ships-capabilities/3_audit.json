@@ -1,0 +1,176 @@
+{
+  "case_id": "intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI handling customer queries is a direct efficiency improvement to existing customer service operations. Pattern is highly replicable across customer service organizations.",
+      "evidence_quality_assessment": "Named organization (Intercom), specific quantified metric (8 million queries), from authoritative first-party source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear volume metric demonstrating operational efficiency in customer service function"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization metric - 80% instant resolution directly improves customer service efficiency and reduces human agent workload. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific percentage metric, authoritative source. The 'up to' qualifier is reasonable for performance ranges.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Core Tier 1 efficiency metric - instant resolution rate is a key customer service optimization KPI"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation case - AI Copilot improving human agent efficiency is classic Tier 1 optimization. Pattern applicable to any customer service operation.",
+      "evidence_quality_assessment": "Named customer (Lightspeed), specific quantified improvement (31%), from credible first-party source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong human+AI efficiency case with specific customer attribution and quantified results"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - response speed improvement is a key customer service efficiency metric. Pattern is replicable.",
+      "evidence_quality_assessment": "Named customer (Deliverect) and authoritative source, but 'huge increases' is vague without specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but lacks specific metrics - 'huge increases' needs quantification for full approval"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency optimization - automating 25% of customer questions with existing content demonstrates process improvement. Highly replicable across organizations with help centers.",
+      "evidence_quality_assessment": "Named organization (Intercom), specific percentage (25%), authoritative source. Methodology is clear (existing help center content).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good baseline efficiency metric showing automation potential with minimal setup"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Strong functional optimization metrics - 51% resolution rate with 99.9% accuracy demonstrates both efficiency and quality improvements. Pattern replicable across customer service operations.",
+      "evidence_quality_assessment": "Named product (Fin 2), specific quantified metrics (51% resolution, 99.9% accuracy), authoritative first-party source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case combining efficiency (resolution rate) and quality (accuracy) metrics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency improvement trajectory - 66% resolution rate across large customer base demonstrates scalable functional optimization. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific metrics (66% resolution, 6,000+ customers), authoritative source. Scale adds credibility.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of sustained efficiency improvement across significant customer base"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates high-end efficiency optimization - 20% of customers achieving 80%+ resolution shows potential for significant functional improvement. Pattern indicates replicability.",
+      "evidence_quality_assessment": "Specific percentages (20% of customers, 80%+ resolution), authoritative source, though could benefit from absolute numbers.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good performance distribution metric showing optimization potential for high-performing implementations"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear volume metric demonstrating operational scale of customer service automation. Pattern highly replicable across customer service organizations.",
+      "evidence_quality_assessment": "Named product (Fin), specific volume metric (14 million requests), authoritative source with timeline context (March 2023).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong volume metric demonstrating significant operational impact in customer service function"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent efficiency metric - 1.2 million hours saved directly quantifies workforce productivity improvement. Pattern highly replicable for customer service automation.",
+      "evidence_quality_assessment": "Named organization, specific quantified savings (1.2 million hours), authoritative source. Time savings is a credible efficiency metric.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Outstanding Tier 1 metric - time savings directly translates to operational efficiency and cost reduction"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Core efficiency metric - 50% resolution rate demonstrates significant automation of customer service function. Pattern widely replicable.",
+      "evidence_quality_assessment": "Named product (Fin), specific percentage (50%), authoritative source. Consistent with other resolution rate claims.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Solid baseline efficiency metric consistent with other performance claims in the case"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization of customer service operations through AI automation and human augmentation. No business model transformation or new revenue streams indicated - this is classic 'doing things better' rather than 'doing new things'."
+}

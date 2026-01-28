@@ -1,0 +1,116 @@
+{
+  "case_id": "mayo-clinic-ai-scheduling-surgical-throughput",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of surgical scheduling process. Improving prediction accuracy from 60 to 34 minutes MAE is a measurable efficiency gain in existing operations. Pattern is replicable across other surgical facilities.",
+      "evidence_quality_assessment": "Named organization (Mayo Clinic), specific quantified metrics (MAE reduction from 60 to 34 minutes), appears to be from authoritative source describing controlled tests.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear process optimization and specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Direct efficiency optimization - saving 200 OR hours annually per room represents clear capacity improvement in existing surgical operations. Highly replicable pattern for other hospitals.",
+      "evidence_quality_assessment": "Named organization, specific quantified benefit (200 hours per OR annually), traceable claim from what appears to be Mayo Clinic source.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - clear capacity optimization with specific metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of existing surgical capacity through better scheduling alignment. Minimizing wasted OR time is classic operational efficiency improvement. Pattern applicable to any surgical facility.",
+      "evidence_quality_assessment": "Named organization, specific mechanism described (aligning predictions with actual times), supported by quantified claim (200 hours saved).",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing process optimization with clear operational benefits"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Lists multiple optimization benefits (operational efficiency, cost efficiency) which align with Tier 1, but claims are very high-level without specific mechanisms described.",
+      "evidence_quality_assessment": "Named organization but claims are generic bullet points without quantification or specific detail. Lacks the specificity expected for strong evidence.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Generic benefit claims without supporting detail - needs more specific evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes commercialization of AI technology through a spinoff company, which represents business model innovation and new revenue streams rather than operational optimization of existing functions.",
+      "evidence_quality_assessment": "Well-documented with specific details (FDA clearance, spinoff company Anumana, Apple Watch integration), but the claim itself is not Tier 1.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This appears to be a tier 1 case (business model innovation) rather than Tier 1 operational optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing capacity management processes for ICU beds. Forecasting bed availability improves resource allocation efficiency. Pattern is replicable across healthcare systems and was demonstrated by adaptation to RSV management.",
+      "evidence_quality_assessment": "Named organization, specific application contexts (COVID ICU beds, RSV capacity), demonstrates replicability through adaptation to different use cases.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing capacity management optimization with demonstrated adaptability"
+    }
+  ],
+  "tier_verification": "Most claims are correctly classified as tier 1 operational optimization cases. However, C5 appears to be misclassified and represents tier 1 business model innovation (commercializing AI technology through spinoff). The core case around surgical scheduling optimization is clearly tier 1."
+}

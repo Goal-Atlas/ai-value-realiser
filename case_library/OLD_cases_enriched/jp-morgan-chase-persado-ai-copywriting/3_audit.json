@@ -1,0 +1,102 @@
+{
+  "case_id": "jp-morgan-chase-persado-ai-copywriting",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of marketing copywriting process. AI improves existing marketing function performance with measurable efficiency gains. Pattern is replicable across organizations with similar marketing operations.",
+      "evidence_quality_assessment": "Named organization (JP Morgan Chase), specific quantified metric (450% CTR increase), traceable to credible sources. Trial period specified (2016), providing temporal context.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear optimization metrics and named organization. Represents efficiency improvement in existing marketing function."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Same functional optimization as C1, with additional context showing comparative performance against manual processes. Demonstrates clear efficiency improvement in marketing copy generation.",
+      "evidence_quality_assessment": "Specific metrics provided (450% vs 50-200% uplift), named technology provider (Persado), consistent with other claims. Provides comparative baseline for assessment.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Reinforces C1 with comparative data. Strong evidence of functional optimization with quantified improvement."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific example of marketing optimization with concrete business outcome (application volume). Shows AI improving existing lead generation process through better copy performance.",
+      "evidence_quality_assessment": "Very specific metrics (25 to 47 applications weekly), exact copy examples provided, attributed to Wall Street Journal reporting. High specificity and traceability.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent specific example with concrete business metrics. Clear functional improvement with detailed evidence."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes functional optimization (better marketing performance) but lacks specificity about what 'better' means quantitatively. Customer resonance is qualitative benefit.",
+      "evidence_quality_assessment": "Vague metrics - 'better performance' and 'resonates more' are not quantified. While from named organization, lacks the specificity of other claims.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Qualitative claim without specific metrics. While consistent with other claims, lacks quantified evidence for full approval."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of advertising copy creation process. Demonstrates efficiency improvement in existing marketing function with measurable performance gains.",
+      "evidence_quality_assessment": "Specific quantified metric (450% higher CTR), named technology (Persado), described as pilot tests providing methodological context. Consistent with other verified claims.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong supporting claim with specific metrics. Reinforces the pattern of marketing optimization through AI-generated copy."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing functions (copywriting, ad creation) rather than business model innovation. Focus is on improving efficiency and performance of established marketing processes."
+}

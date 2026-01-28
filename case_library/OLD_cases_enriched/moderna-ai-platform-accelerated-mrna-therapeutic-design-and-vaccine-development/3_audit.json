@@ -1,0 +1,154 @@
+{
+  "case_id": "moderna-ai-platform-accelerated-mrna-therapeutic-design-and-vaccine-development",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - dramatically increased production capacity (30 to 1,000 units/month) through AI and automation. This is optimizing existing manufacturing processes, highly replicable pattern for biotech/pharma production.",
+      "evidence_quality_assessment": "Named organization (Moderna), specific quantified metrics (30 to 1,000 units), direct quote from company source. Very credible evidence.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - clear production optimization with dramatic quantified improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes acceleration of development processes, which is functional optimization. Pattern is replicable across pharmaceutical R&D.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics. Claims 'speed up development' without quantifying the improvement. Source appears credible but vague on details.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic fit is clear but evidence lacks specificity - no timeline comparisons or quantified acceleration metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation through custom AI tools across business functions. Clear efficiency optimization pattern, highly replicable across knowledge work organizations.",
+      "evidence_quality_assessment": "Named organization, specific metric (750 GPTs), concrete examples (dose selection, contract scanning), credible source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing systematic workforce augmentation with specific tools and applications"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing dose selection process by processing large datasets more efficiently. Clear functional improvement, replicable pattern for data-intensive decision making in pharma.",
+      "evidence_quality_assessment": "Named organization, specific process described (Dose ID GPT), clear value proposition (optimal recommendations from thousands of pages), credible source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization with specific tool and measurable output improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes productivity improvement to support pipeline goals, which is functional optimization. Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization and specific goal (15 products in 5 years) but productivity claims are not quantified. 'Boost productivity' is vague without metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic intent is clear but lacks specific productivity metrics or measurable improvements"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes platform capability for rapid medicine creation, which could be process optimization. However, this is more about platform characteristics than specific AI-driven improvements.",
+      "evidence_quality_assessment": "Named organization but claim is general about mRNA platform capabilities rather than specific AI optimization. COVID vaccine example provides some context but lacks specific metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "More about inherent platform capabilities than specific AI optimization - borderline relevance for Tier 1"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - reducing delivery time from months to weeks through digital platform. Highly replicable pattern for manufacturing and delivery optimization.",
+      "evidence_quality_assessment": "Named organization, specific timeframe improvement (months to weeks), describes concrete process (high-throughput production facility), credible source.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear timeline improvement and process optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes computational resource allocation for parallel processing, enabling more efficient R&D operations. Clear functional improvement, replicable pattern for computational-intensive processes.",
+      "evidence_quality_assessment": "Named organization, specific capability described (flexible computational capacity, parallel design), clear operational benefit, credible source.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear IT infrastructure optimization enabling improved R&D throughput"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing functions (manufacturing, R&D, knowledge work) rather than business model innovation. Focus is on efficiency, speed, and capacity improvements within established processes."
+}

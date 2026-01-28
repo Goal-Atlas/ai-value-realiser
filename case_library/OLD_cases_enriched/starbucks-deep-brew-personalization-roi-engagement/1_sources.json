@@ -1,0 +1,35 @@
+{
+  "case_id": "starbucks-deep-brew-personalization-roi-engagement",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Starbucks Used Predictive AI to Personalise Offers and Lift Repeat Purchases by ~37% | 2025 Case Study",
+      "url": "https://www.futuresmith.pro/post/how-starbucks-used-predictive-ai-to-personalise-offers-and-lift-repeat-purchases-by-~37-2025-cas",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: Starbucks' Deep Brew AI Engine",
+      "url": "https://orants.ai/posts/case-study-starbucks-deep-brew-ai-engine",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: Starbucks Revolutionizes the Coffee Experience with AI - AIX | AI Expert Network",
+      "url": "https://aiexpert.network/case-study-starbucks-revolutionizes-the-coffee-experience-with-ai/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "How Starbucks Is Using AI and More to Better Serve Its Customers",
+      "url": "https://futurestores.wbresearch.com/blog/starbucks-ai-serve-customers-strategy",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "Starbucks Deep Brew AI: How Tech Makes Coffee More Human | Canopy Remote Device Management Software",
+      "url": "https://www.gocanopy.com/news-insights/starbucks-deep-brew-ai",
+      "doc_type": "News Article"
+    }
+  ]
+}

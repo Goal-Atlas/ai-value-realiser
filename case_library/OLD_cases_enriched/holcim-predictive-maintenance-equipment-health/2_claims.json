@@ -1,0 +1,41 @@
+{
+  "case_id": "holcim-predictive-maintenance-equipment-health",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Holcim delivers concrete 7 minutes faster using AWS and HERE technologies",
+      "quote": "Holcim Safely Delivers Time-Sensitive Materials 7 Minutes Faster with AWS and HERE"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Holcim saved over 800,000 hours across 200,000 job sites",
+      "quote": "Using HERE solutions on Amazon Web Services (AWS), Holcim has benefited from global availability and resilience, saving over 800,000 hours across 200,000 job sites and delivering 6.4 million loads of concrete on time."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Holcim delivered 6.4 million loads of concrete on time",
+      "quote": "Using HERE solutions on Amazon Web Services (AWS), Holcim has benefited from global availability and resilience, saving over 800,000 hours across 200,000 job sites and delivering 6.4 million loads of concrete on time."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Holcim targets 24% reduction in downstream transportation emissions by 2030",
+      "quote": "Holcim's 2050 net-zero target includes reducing downstream transportation emissions by 24 percent by 2030 by optimizing routes and loads."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Holcim spends billions of dollars annually on logistics for transporting hundreds of millions of tons of product",
+      "quote": "At Holcim, we spend billions of dollars on logistics every year, transporting hundreds of million tons of product to construction sites."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "The app replaced seven copies of paper tickets with electronic ones",
+      "quote": "The app has streamlined last-mile delivery and advanced sustainability by replacing seven copies of paper tickets with electronic ones."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "klarna-ai-customer-service-automation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI assistant handled 2.3 million conversations representing two-thirds of customer service volume in first month",
+      "quote": "The AI assistant has had 2.3 million conversations, two-thirds of Klarna's customer service chats"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI assistant performs equivalent work of 700 full-time agents",
+      "quote": "It is doing the equivalent work of 700 full-time agents"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI assistant matches human agent customer satisfaction scores",
+      "quote": "It is on par with human agents in regard to customer satisfaction score"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI assistant achieved 25% reduction in repeat customer inquiries through improved accuracy",
+      "quote": "It is more accurate in errand resolution, leading to a 25% drop in repeat inquiries"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Customer issue resolution time reduced from 11 minutes to under 2 minutes",
+      "quote": "Customers now resolve their errands in less than 2 mins compared to 11 mins previously"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "AI assistant estimated to drive $40 million profit improvement in 2024",
+      "quote": "It's estimated to drive a $40 million USD in profit improvement to Klarna in 2024"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "AI assistant operates 24/7 across 23 markets in over 35 languages",
+      "quote": "It's available in 23 markets, 24/7 and communicates in more than 35 languages"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "90% of Klarna employees use generative AI tools powered by OpenAI daily",
+      "quote": "90% of Klarna's employees are using generative AI tools powered by OpenAI daily"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "High adoption rates across departments: Communications (93%), Marketing (88%), Legal (86%)",
+      "quote": "Their success spans across the org, with Communications, Marketing, and Legal teams seeing adoption rates of 93%, 88%, and 86% respectively"
+    }
+  ]
+}

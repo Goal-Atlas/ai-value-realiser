@@ -1,0 +1,35 @@
+{
+  "case_id": "wayfair-vertex-ai-product-attributes-4x-faster",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Real-world gen AI use cases from the world's leading organizations",
+      "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Wayfair uses Vertex AI as the infrastructure and tooling to train, validate, and deploy ML models and pipelines.",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-wayfair-is-reaching-mlops-excellence-with-vertex-ai",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Wayfair Deploys Google AI to Scale and Enrich Product Catalogs",
+      "url": "https://www.pymnts.com/news/retail/2025/wayfair-deploys-google-ai-to-scale-and-enrich-product-catalogs/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "With Vertex AI, Wayfair empowers its 80 data science teams to focus on improving the customer experience.",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/wayfair-accelerating-mlops-to-power-great-experiences-at-scale",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "How Vertex AI helps Wayfair achieve real-time model serving",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-vertex-ai-helps-wayfair-achieve-real-time-model-serving/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

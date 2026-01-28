@@ -1,0 +1,23 @@
+{
+  "case_id": "crediclub-audit-automation-savings",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Crediclub saves 96% per month in audit processes and analyzes 150 meetings per hour with Azure | Microsoft Customer Stories",
+      "url": "https://www.microsoft.com/en/customers/story/20355-crediclub-azure-cosmos-db",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Crediclub migrates 95% of its infrastructure to Microsoft Azure, reduces latency by 90% | Microsoft Customer Stories",
+      "url": "https://www.microsoft.com/en/customers/story/24648-crediclub-azure-databricks",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Crediclub Raises US$80 Million to Boost Mexico's Operations",
+      "url": "https://mexicobusiness.news/finance/news/crediclub-raises-us80-million-boost-mexicos-operations",
+      "doc_type": "News Article"
+    }
+  ]
+}

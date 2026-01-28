@@ -1,0 +1,206 @@
+{
+  "case_id": "best-buy-genai-support",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of customer service operations - AI tools augmenting agent capabilities to resolve queries faster. Pattern is replicable across customer service organizations.",
+      "evidence_quality_assessment": "Named organization (Best Buy) but lacks specific metrics. Claims are qualitative ('faster than ever before') without quantified improvement. Source appears credible but needs verification.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 but needs quantified metrics to be fully approved"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce augmentation and productivity improvement in customer service - classic Tier 1 optimization. Replicable pattern of AI enabling human agents to focus on higher-value work.",
+      "evidence_quality_assessment": "Named organization but claims are qualitative without specific productivity metrics or satisfaction measurements. Needs quantification of 'boosting productivity'.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but lacks specific evidence of productivity gains"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - automating routine knowledge base navigation to reduce search time. Specific, bounded improvement that's highly replicable across organizations with similar knowledge management needs.",
+      "evidence_quality_assessment": "Named organization with specific process description. While not quantified, the improvement is observable and credible - reducing time spent on information retrieval is a measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Specific process improvement with clear efficiency gain, though quantified metrics would strengthen the case"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process automation leading to accelerated production cycles - fits Tier 1 optimization pattern. However, 'production cycles' is vague - unclear what specific processes are being optimized.",
+      "evidence_quality_assessment": "Named organization and specific AI platform (Vertex AI) but lacks detail on what processes were automated or quantified acceleration metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Needs more specificity about which production processes were automated and measurable acceleration"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost optimization in content development - automating Q&A creation process. Specific, bounded improvement that's replicable for other retailers with similar content needs.",
+      "evidence_quality_assessment": "Named organization with specific cost claim ('fraction of previous cost'). While not precisely quantified, 'fraction' implies significant measurable reduction. Process is specific and credible.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong cost optimization claim with specific process improvement, though exact cost reduction percentage would strengthen evidence"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims multiple outcomes (trust, satisfaction, revenue) but lacks specificity about which processes are optimized. 'Boost revenue' could indicate tier 1 elements rather than pure process optimization.",
+      "evidence_quality_assessment": "Named organization but very high-level claims without specific metrics or process details. Lacks evidence of how AI solutions specifically achieve these outcomes.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "low"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too high-level and potentially mixing Tier 1 and tier 1 elements - needs more specific process focus"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - accelerating experimentation-to-production cycles through improved development processes. Specific efficiency gain that's replicable across technology organizations.",
+      "evidence_quality_assessment": "Named organization with specific process improvement and cost claim ('fraction of the cost'). Describes a measurable cycle time reduction with cost benefits.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong process optimization with clear efficiency and cost benefits, though specific cycle time metrics would be ideal"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "High-level summary claim that aggregates multiple outcomes. 'Optimized revenue generation' suggests potential tier 1 elements rather than pure process optimization.",
+      "evidence_quality_assessment": "Named organization but very general claims without specific metrics or process details. Appears to be a summary statement rather than specific evidence.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        },
+        {
+          "id": "1.3",
+          "name": "Develop and measure strategic initiatives",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too general and potentially mixing Tier 1/3 elements - needs specific process focus and metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation - AI providing real-time recommendations to improve agent effectiveness. Specific process improvement that's highly replicable across customer service operations.",
+      "evidence_quality_assessment": "Named organization with specific capability description. While not quantified, the real-time recommendation functionality is a clear, observable improvement to agent workflow.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Specific agent augmentation capability with clear process improvement, though usage metrics would strengthen the case"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - using AI to analyze call data for conversation summarization, sentiment detection, and issue prevention. Specific, bounded improvements that are replicable across customer service organizations.",
+      "evidence_quality_assessment": "Named organization with specific AI capabilities described. While not quantified, the functions (summarization, sentiment detection, issue recurrence reduction) are measurable and credible.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Multiple specific process improvements with clear operational benefits, though metrics on issue recurrence reduction would be valuable"
+    },
+    {
+      "claim_id": "C11",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes efficiency improvement for store employees helping customers, which fits Tier 1 optimization. However, lacks specificity about what processes are being optimized.",
+      "evidence_quality_assessment": "Named organization but vague claim ('more efficiently than ever'). Lacks specific details about what the AI assistant does or measurable efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Fits Tier 1 pattern but needs more specificity about processes and measurable efficiency improvements"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on optimizing existing customer service, product development, and operational processes rather than creating new business models or revenue streams. Some claims (C6, C8) mention revenue impacts but in the context of process optimization rather than business model innovation."
+}

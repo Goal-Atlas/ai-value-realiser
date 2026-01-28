@@ -1,0 +1,17 @@
+{
+  "case_id": "tii-trains-open-source-llms-google-cloud-efficiency",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "TII case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/tii",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Serving Open Source LLMs on GKE using vLLM framework | by Rick(Rugui) Chen | Google Cloud - Community | Medium",
+      "url": "https://medium.com/google-cloud/serving-open-source-llms-on-gke-using-vllm-framework-5e522b3679ee",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "case_id": "banco-do-brasil-ai-governance-framework-credit-fraud-compliance",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of compliance/fraud detection processes. 90% false positive reduction represents significant efficiency improvement in existing risk management function. Pattern is replicable across financial institutions.",
+      "evidence_quality_assessment": "Named organization (Banco do Brasil), specific quantified metric (90% reduction), appears to be from vendor case study but with concrete performance data.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes existing compliance function with measurable improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific optimization of transaction screening function. 2% FPR represents clear efficiency improvement in existing compliance operations. Replicable pattern for financial institutions.",
+      "evidence_quality_assessment": "Named organization, specific metric (2% FPR), vendor attribution (Napier AI) provides context for implementation approach.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Complements C1 with more specific metric - strong evidence of functional optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - reducing manual reviews in compliance processes. Describes efficiency improvement in existing operations. Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization but lacks specific quantification. 'Significantly increased' is vague. Claims are logical follow-on from C1/C2 but not independently measurable.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Logical claim but lacks specific metrics - needs quantification for full approval"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes capacity optimization of transaction screening function. 300K transactions annually represents scale efficiency in existing compliance operations. Replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific capacity metric (300K transactions), demonstrates operational scale of the optimized system.",
+      "apqc_functions": [
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good capacity metric demonstrating scale of functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational efficiency improvement in rule management processes. Self-service capability reduces dependency and improves agility. Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization but 'significant time and cost savings' lacks quantification. Describes process improvement but without measurable metrics.",
+      "apqc_functions": [
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process improvement claim but needs quantified savings for full approval"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of transaction screening. 40% false positive reduction represents measurable efficiency improvement. Replicable across financial institutions.",
+      "evidence_quality_assessment": "Named organization, specific metric (40% reduction), technology platform specified (Azure), vendor attribution provides implementation context.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case with specific performance improvement metric"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Capital adequacy ratio is a financial health metric, not a functional optimization outcome. No clear connection to AI-driven process improvement.",
+      "evidence_quality_assessment": "Specific metric (15.2% CAR) and regulatory context, but not related to AI capability implementation or functional optimization.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Financial health metric, not evidence of AI-driven functional optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "NPL ratio is a portfolio quality metric, not a direct functional optimization outcome. No clear connection to AI-driven process improvement described.",
+      "evidence_quality_assessment": "Specific metric (2.8% NPL) with regional comparison, but not attributed to AI capability or process optimization.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Portfolio quality metric, not evidence of AI-driven functional optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Asset growth and portfolio expansion are business performance metrics, not functional optimization outcomes. No connection to AI-driven process improvement.",
+      "evidence_quality_assessment": "Specific metrics ($414B assets, 15.3% growth) but not related to AI capability implementation or functional optimization.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Business growth metrics, not evidence of AI-driven functional optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Electronic transaction percentage is a channel adoption metric, not a functional optimization outcome from AI implementation. No clear connection to AI-driven process improvement.",
+      "evidence_quality_assessment": "Specific metrics (6M customers, 90.7% electronic transactions) but not attributed to AI capability or recent optimization efforts.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Channel adoption metric, not evidence of AI-driven functional optimization"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1, C2, C4, C6 represent clear functional optimization of compliance and risk management processes. Claims C7-C10 are general business metrics not related to AI-driven capability improvements and should be rejected. No evidence of business model transformation (tier 1)."
+}

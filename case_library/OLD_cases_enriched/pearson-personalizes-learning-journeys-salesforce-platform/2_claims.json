@@ -1,0 +1,53 @@
+{
+  "case_id": "pearson-personalizes-learning-journeys-salesforce-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Agentforce handles 40% of routine customer inquiries, allowing service team to focus on complex learner needs",
+      "quote": "Agentforce handles an estimated 40% of routine customer inquiries, so the service team can prioritize complex learner needs."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Agentforce provides instant automated support for routine tasks including answering FAQs, processing returns, tracking orders, generating invoices, and confirming prices",
+      "quote": "Agentforce keeps learners learning by instantly answering FAQs, processing returns, tracking orders, generating invoices, confirming prices, and more."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Reduced peak hire volume during busy back-to-school season by 70%",
+      "quote": "Using Service Cloud, Pearson was able to reduce peak hire volume during the busy back-to-school season by 70 percent"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Achieved cost savings by switching to integrated cloud-based telephony provider",
+      "quote": "it also realized cost savings by switching to an integrated cloud-based telephony provider"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Improved average handle time for customer service interactions",
+      "quote": "It noted improvements to average handle time for customer service interactions, which was further accelerated with Einstein Bots in 2020"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Deflected 50% of inbound requests using chatbots, freeing agents for complex cases",
+      "quote": "Pearson was able to deflect 50 percent of inbound requests using chatbots, freeing up agents to give more personalized service to the more complex customer cases"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Improved productivity for employees and agents while enhancing customer experience",
+      "quote": "These products help Pearson increase productivity for its own employees and agents while improving customer experience"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Enabled faster issue resolution through self-service and improved key metrics",
+      "quote": "deployment of an integrated support community and interactive chat bots have enabled students to resolve questions and issues faster through self-service while improving key metrics like average handle time and first call (contact) resolution"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "case_id": "ocado-osp-platform-licensing",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Dramatic reduction in deployment time from over a month to under a week",
+      "quote": "I've seen features go from development to production inside of a week now. In the old world, a new application deployment could easily take over a month."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Massive increase in deployment frequency from 2 per week to dozens per week",
+      "quote": "because there are no longer restrictive deployment windows in the warehouses, the rate of deployments has gone from as few as two per week to dozens per week"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "15-25% reduction in hardware resource usage",
+      "quote": "I'd estimate that we use about 15-25% less hardware resources to host the same applications in Kubernetes in our test environments."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Infrastructure consolidation from 10 clusters to 1 cluster",
+      "quote": "We have more confidence in the resource allocation/separation features of Kubernetes, so we have been able to migrate from around 10 fleet clusters to one Kubernetes cluster."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Platform manages tens of thousands of orders weekly with world's largest online grocery facility capacity",
+      "quote": "the platform is live in Ocado's warehouses, managing tens of thousands of orders a week. At full capacity, Ocado's latest warehouse in Erith, southeast London, will deliver more than 200,000 orders per week, making it the world's largest facility for online grocery."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "700 weekly active users generate self-service insights",
+      "quote": "700 weekly active users generate their own insights with Looker's extensive self-serve functionality"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Built external reporting capability in 3 months",
+      "quote": "Builds external reporting capability in just three months thanks to Looker's reusable metric definitions"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Over 2,000 employees regularly access the platform with 9 analyst teams",
+      "quote": "Ocado Technology now has over 2,000 employees regularly accessing Looker, with nine analyst teams and 700 active weekly users taking advantage of its self-serve functionality"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Efficiency gains from building metrics once and reusing them",
+      "quote": "It's a double whammy \u2014 we get consistency, and we're more efficient as we only have to build and define metrics once before we can use them again and again."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Bon Preu became leading online grocery service in Catalonia and highest-rated in Spain",
+      "quote": "The business has since grown well ahead of the wider online channel in Spain and has become the leading online grocery proposition in Catalonia, recognised by the OCU in 2024 as the highest-rated online grocery service in Spain."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Automated CFC provides pathway to fully-costed online grocery profitability",
+      "quote": "It will also bring the significant cost efficiencies of Ocado's robotic automation and a pathway to fully-costed online grocery profitability."
+    }
+  ]
+}

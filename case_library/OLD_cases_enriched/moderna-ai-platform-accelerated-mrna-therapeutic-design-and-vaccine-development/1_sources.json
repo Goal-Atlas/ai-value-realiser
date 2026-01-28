@@ -1,0 +1,29 @@
+{
+  "case_id": "moderna-ai-platform-accelerated-mrna-therapeutic-design-and-vaccine-development",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Accelerating the development of life-saving treatments",
+      "url": "https://openai.com/index/moderna/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI and the COVID-19 Vaccine: Moderna's Dave Johnson",
+      "url": "https://sloanreview.mit.edu/audio/ai-and-the-covid-19-vaccine-modernas-dave-johnson/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Moderna turns to AI to change how its employees work",
+      "url": "https://www.biopharmadive.com/news/moderna-openai-gpt-generative-ai-biotech-dose-id/714140/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Moderna's mRNA Platform",
+      "url": "https://www.modernatx.com/en-US/power-of-mrna/modernas-mrna-platform",
+      "doc_type": "Case Study"
+    }
+  ]
+}

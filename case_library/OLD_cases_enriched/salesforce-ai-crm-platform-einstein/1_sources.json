@@ -1,0 +1,29 @@
+{
+  "case_id": "salesforce-ai-crm-platform-einstein",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI Use Cases with Salesforce Einstein | Salesforce US",
+      "url": "https://www.salesforce.com/artificial-intelligence/use-cases/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Welcome Salesforce Einstein: AI for the World's Smartest CRM - Salesforce",
+      "url": "https://www.salesforce.com/eu/blog/welcome-salesforce-einstein-ai-for-the-worlds-smartest-crm/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Salesforce infuses rebranded CRM with AI, launches Einstein Copilot | CIO Dive",
+      "url": "https://www.ciodive.com/news/Salesforce-Einstein-Copilot-CRM-generative-AI/693340/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Salesforce Einstein Features: What Works, What Doesn't, Real Pricing vs Marketing Claims & User Review Analysis",
+      "url": "https://www.oliv.ai/blog/salesforce-einstein-features",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

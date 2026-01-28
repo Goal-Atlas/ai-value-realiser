@@ -1,0 +1,71 @@
+{
+  "case_id": "intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Fin AI Agent has helped customers with more than 8 million queries",
+      "quote": "it has already helped customers with more than 8 million queries and resolves up to 80% of conversations instantly"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Fin AI Agent resolves up to 80% of conversations instantly",
+      "quote": "it has already helped customers with more than 8 million queries and resolves up to 80% of conversations instantly"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI Copilot increases agent efficiency by 31%",
+      "quote": "One of our early testers, Lightspeed, has already seen a 31% increase in agent efficiency with AI Copilot"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Deliverect has seen huge response speed increases among agents using AI Copilot",
+      "quote": "for instance, Deliverect has already seen huge response speed increases among agents using the feature"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Fin could answer over 25% of customer questions using just existing help center content",
+      "quote": "just using a company's existing help center content with little optimization, it could answer over 25% of customer questions"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Fin 2 achieves an average resolution rate of 51% with 99.9% accuracy",
+      "quote": "customers using Fin 2 see an average resolution rate of 51%, with an accuracy rate of 99.9%"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Fin 2's average resolution rate has climbed to 66% across 6,000+ customers",
+      "quote": "Since we launched Fin 2, its average resolution rate has continued to climb to 66% across our 6,000+ customers"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Over 20% of customers are getting above 80% resolution rate",
+      "quote": "Over 20% of our customers are getting above 80%"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "Fin has handled 14 million customer support requests",
+      "quote": "The first iteration of Fin, released in March 2023, has already handled 14 million customer support requests"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "Fin has saved 1.2 million hours for support teams",
+      "quote": "saved 1.2 million hours for support teams"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Fin resolved 50 percent of customer requests on average",
+      "quote": "resolved 50 percent of customer requests on average"
+    }
+  ]
+}

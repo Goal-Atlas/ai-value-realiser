@@ -1,0 +1,23 @@
+{
+  "case_id": "deutsche-bank-ai-research-tool-report-creation-time-reduction",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Deutsche Bank delivers AI-powered financial research with DB Lumina | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/financial-services/deutsche-bank-delivers-ai-powered-financial-research-with-db-lumina",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "The future is agentic: AI's role in the end-to-end corporate credit process",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-future-is-agentic-ais-role-in-the-end-to-end-corporate-credit-process",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "How AI Is Reshaping Investment Banking's Workforce | Finalis Blog",
+      "url": "https://www.finalis.com/blog/how-ai-is-reshaping-investment-banking-workforce",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

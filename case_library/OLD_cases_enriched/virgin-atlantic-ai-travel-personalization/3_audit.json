@@ -1,0 +1,105 @@
+{
+  "case_id": "virgin-atlantic-ai-travel-personalization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of digital marketing/web presence to improve customer engagement. Replicable pattern for other airlines/travel companies.",
+      "evidence_quality_assessment": "Named organization with specific metric (10% increase), but lacks detail on methodology or timeframe. Source appears to be first-party but needs verification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality could be stronger with more implementation details"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer experience across the travel journey. However, 'acquisition target' is ambiguous - could refer to internal targets rather than actual performance improvement.",
+      "evidence_quality_assessment": "Named organization with specific metric (50% boost), but 'acquisition target' is vague. Unclear if this represents actual customer acquisition improvement or internal goal adjustment.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit unclear due to ambiguous metric definition. Needs clarification on what 'acquisition target' means."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of marketing function with measurable brand awareness improvement. Campaign development is a standard replicable marketing process.",
+      "evidence_quality_assessment": "Named organization with specific metrics (14% uplift in consideration, 10,000 applications for 800 roles). Demonstrates both brand and recruitment impact.",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of marketing optimization with clear, measurable outcomes affecting both brand perception and recruitment"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of knowledge work through AI-powered meeting summarization. Highly replicable pattern across organizations using similar collaboration tools.",
+      "evidence_quality_assessment": "Named organization with specific deployment scale (300 licenses) and quantified time savings (1-2 hours per week per user). Credible productivity improvement claim.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent example of Tier 1 capability enhancement with clear metrics and replicable implementation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This appears to be a general HR program outcome rather than AI-driven optimization. No clear connection to AI or technology enhancement described.",
+      "evidence_quality_assessment": "While specific (41% metric), this claim lacks any connection to AI or digital capabilities that would make it relevant to this case study context.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Rejected - no apparent connection to AI or digital optimization. Appears to be standard apprenticeship program results."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a general industry observation, not a specific functional optimization claim about Virgin Atlantic's operations.",
+      "evidence_quality_assessment": "Generic industry statement without specific attribution, methodology, or connection to Virgin Atlantic's actual performance. No actionable organizational detail.",
+      "apqc_functions": [],
+      "notes": "Rejected - generic industry claim without specific organizational application or evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing functions (marketing, IT productivity, customer experience) rather than creating new business models. No evidence of tier 1 business model transformation."
+}

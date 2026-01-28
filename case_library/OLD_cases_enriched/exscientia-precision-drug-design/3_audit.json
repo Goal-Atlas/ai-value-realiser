@@ -1,0 +1,173 @@
+{
+  "case_id": "exscientia-precision-drug-design",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates fundamental shift in drug discovery economics - 10x reduction in compounds needed indicates AI-driven precision vs. traditional trial-and-error approach",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (10x), from AWS case study which is traceable and authoritative",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of transformed R&D model where AI enables precision targeting vs. traditional high-volume screening"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "70% acceleration + 80% cost reduction represents fundamental transformation of drug development economics, not just optimization",
+      "evidence_quality_assessment": "Specific metrics from named company, compared against industry benchmarks, from credible source",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Combined time and cost improvements of this magnitude indicate business model transformation, not incremental improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Six AI-designed molecules in clinical trials demonstrates successful transformation from concept to validated pipeline - AI is creating the core product",
+      "evidence_quality_assessment": "Specific, verifiable metric from named organization. Clinical trials are publicly tracked and verifiable",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Concrete validation that AI-first approach produces viable drug candidates - AI is the product development engine, not a tool"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "24/7 automated operation represents shift from human-intensive to AI-orchestrated discovery model - fundamental change in how value is created",
+      "evidence_quality_assessment": "Named organization with specific operational description from AWS case study",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Automation at this scale transforms the fundamental operating model from labor-intensive to capital/AI-intensive"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Record-breaking IPO valuation indicates market recognition of transformed business model - investors betting on AI-first approach vs. traditional pharma",
+      "evidence_quality_assessment": "Specific, verifiable financial metric ($510M) with superlative claim (largest European biotech IPO) that can be fact-checked",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market validation of transformation - premium valuation reflects recognition of fundamentally different value creation model"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "90x employee growth (5 to 450) across 20+ countries indicates scaling of transformed model, not traditional pharma expansion pattern",
+      "evidence_quality_assessment": "Specific metrics from named organization, growth trajectory is verifiable and consistent with transformation narrative",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Rapid global scaling pattern typical of platform/AI-first companies rather than traditional biotech development"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Timeline compression from 4.5 years to 12-15 months (70%+ reduction) represents fundamental transformation of industry time economics",
+      "evidence_quality_assessment": "Specific timeline metrics from named platform (Centaur AI), compared against industry averages",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Time compression of this magnitude transforms competitive dynamics and capital requirements - classic transformation indicator"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "First-ever AI-designed drug in clinical trials represents creation of new category - AI as primary discovery engine, not support tool",
+      "evidence_quality_assessment": "Historically significant milestone that is verifiable and traceable. 12-month timeline is specific and credible",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Industry-first achievement demonstrates genuine transformation - AI creating entirely new pathway to drug discovery"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "75% prediction success rate in automated drug design indicates AI has become the primary value creation mechanism, not human intuition/trial-and-error",
+      "evidence_quality_assessment": "Specific performance metric from named methodology, technically credible and measurable",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "High prediction accuracy demonstrates AI has achieved reliable value creation in drug design - fundamental shift from hypothesis-driven to data-driven discovery"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case demonstrates genuine business model transformation where AI is the core value creation engine, not an optimization tool. The 'remove the AI' test is decisive - without AI, Exscientia's entire value proposition disappears. Multiple indicators confirm transformation: record IPO valuation, industry-first achievements, dramatic timeline compression, and creation of new drug discovery category."
+}

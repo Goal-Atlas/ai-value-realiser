@@ -1,0 +1,35 @@
+{
+  "case_id": "city-of-helsinki-virtual-assistants-citizen-support",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Helsinki aims to become the most functional digital city through proactive digital services",
+      "quote": "The City of Helsinki has adopted MyData principles as it attempts to become the most functional digital city on the planet through proactive digital services."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Proactive services can automatically contact citizens when required, going beyond reactive services",
+      "quote": "Although reactive digital services are widely available, enabling citizens to use services when they need them, Helsinki's digital team wants to go beyond this with services that automatically contact citizens when required."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Data analytics can identify high-risk patients and enable proactive healthcare interventions",
+      "quote": "We have a lot of healthcare data from people who have visited our healthcare services and, through new technologies, we can analyse this data and find patients at the highest risk of getting sick. We can see from the data if someone doesn't have the right medication, for example, and we can proactively contact them."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "MyData principles increase citizen trust and enable better support through transparency and control",
+      "quote": "If we can crack this challenge, we are able to create transparency and give control to the people. That increases trust and allows us to support them better."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Personalized services benefit both citizens and the city when implemented with proper consent",
+      "quote": "The citizens need to trust that the city is using data on their behalf and with their consent, so that it benefits both the citizens and the city."
+    }
+  ]
+}

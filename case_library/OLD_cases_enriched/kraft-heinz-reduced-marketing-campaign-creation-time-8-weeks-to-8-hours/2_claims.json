@@ -1,0 +1,65 @@
+{
+  "case_id": "kraft-heinz-reduced-marketing-campaign-creation-time-8-weeks-to-8-hours",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Reduced new product content development time from 8 weeks to 8 hours",
+      "quote": "8 hours instead of 8 weeks for new product content development"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Achieved 75% faster time to value for AI-supported processes",
+      "quote": "75% faster time to value for AI-supported processes"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Saved thousands of hours across R&D, Innovation, and Marketing teams",
+      "quote": "Thousands of hours saved by R&D, Innovation, and Marketing"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Achieved 70% adoption rate among users, enabling team productivity and efficiency",
+      "quote": "70% adoption rate, enables team productivity and efficiency"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Cut concept production time from eight weeks to eight hours",
+      "quote": "Initial results were stunning, with concept production cut from eight weeks to eight hours"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Saved tens of thousands of hours to deliver high-volume, personalized, on-brand content",
+      "quote": "saving tens of thousands of hours to deliver high-volume, personalized, on-brand content"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Slashed design timelines for product content from weeks to hours, reducing time by 8x",
+      "quote": "Speed-to-market: Kraft Heinz slashed design timelines for its product content from weeks to hours, reducing time by 8x"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Enabled personalization at scale for creating new assets and versioning creative content",
+      "quote": "Personalization at scale: Whether creating new assets or versioning image, motion, and video creative, TasteMaker enables the generation of content on demand"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Enabled rapid campaign development, with sports event campaigns taking just weeks to build",
+      "quote": "Another win was one of Kraft Heinz's recent sports event campaigns, which graced everything from digital signage to mobile apps. The experience took just weeks to build"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Empowered teams to update content on the fly with anyone able to make changes",
+      "quote": "With Contentful, we've been able to hand people the tools needed to update content on the fly. Anyone can come in and say, I want to change 'x' today \u2014 and they can. It's empowering"
+    }
+  ]
+}

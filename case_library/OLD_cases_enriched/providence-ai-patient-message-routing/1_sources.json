@@ -1,0 +1,29 @@
+{
+  "case_id": "providence-ai-patient-message-routing",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Provaria: Transforming care with AI patient message management | Providence",
+      "url": "https://blog.providence.org/blog/provaria-transforming-care-with-ai-patient-message-management",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Providence measures AI ROI - Becker's Hospital Review | Healthcare News & Analysis",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/how-providence-measures-ai-roi/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Providence developing AI tools designed to reduce clinician burnout | Healthcare IT News",
+      "url": "https://www.healthcareitnews.com/news/providence-developing-ai-tools-designed-reduce-clinician-burnout",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Digital in action: Improving patient navigation with Grace",
+      "url": "https://blog.providence.org/blog/digital-in-action-improving-patient-navigation-with-grace",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

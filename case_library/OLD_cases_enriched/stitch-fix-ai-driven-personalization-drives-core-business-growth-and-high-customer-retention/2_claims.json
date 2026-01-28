@@ -1,0 +1,71 @@
+{
+  "case_id": "stitch-fix-ai-driven-personalization-drives-core-business-growth-and-high-customer-retention",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-generated advertising copy achieves 77% pass rate and reduces campaign creation time from 2 weeks to less than 1 minute per asset",
+      "quote": "Prior to GPT-3, it would take roughly two weeks to plan and strategize each advertising campaign and draft the asset copy. Now, on average, it takes less than a minute for copywriters to review each asset and they receive a 77% pass rate."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "All Facebook and Instagram advertisements are now AI-generated and quality-checked by experts",
+      "quote": "Today, each advertisement we display on Facebook and Instagram is algo-generated and quality-checked by an expert."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "AI personalization increased average order value by 40%",
+      "quote": "Stitch Fix used AI customer personalization to deliver hyper-personalized clothing recommendations that boosted average order value by 40%"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI personalization increased repeat purchases by 40%",
+      "quote": "Stitch Fix used AI customer personalization to deliver hyper-personalized clothing recommendations that boosted average order value by 40%, increased repeat purchases by 40%"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Revenue doubled from $1.7 billion to $3.2 billion in four years through AI personalization",
+      "quote": "Stitch Fix used AI customer personalization to deliver hyper-personalized clothing recommendations that boosted average order value by 40%, increased repeat purchases by 40%, and doubled revenue from $1.7 billion to $3.2 billion in just four years"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "75% of Stitch Fix box selections are driven by AI personalization",
+      "quote": "75% of Stitch Fix box selections are now driven by AI customer personalization, improving relevance and customer satisfaction"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI personalization created a 15% boost in customer retention",
+      "quote": "75% of Stitch Fix box selections are now driven by AI customer personalization, improving relevance and customer satisfaction while creating a 15% boost in customer retention"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "More than one-third of Shop Your Looks customers engaged multiple times during beta",
+      "quote": "more than one-third of clients who purchased through Shop Your Looks engaged with the feature multiple times"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "60% of Shop Your Looks customers bought two or more items",
+      "quote": "approximately 60% of clients who purchased through the offering bought two items or more"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Company achieved year-over-year revenue growth of 0.7%",
+      "quote": "The company recorded a year-over-year increase in net revenue of 0.7%"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "Company returned to revenue growth after several years of declines",
+      "quote": "in its fiscal Q3, which ended May 3, 2025, the company marked a return to revenue growth after several years of declines"
+    }
+  ]
+}

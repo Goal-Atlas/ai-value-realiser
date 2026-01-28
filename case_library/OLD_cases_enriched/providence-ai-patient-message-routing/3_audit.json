@@ -1,0 +1,197 @@
+{
+  "case_id": "providence-ai-patient-message-routing",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of message triage process - reduces response time from 3 days to 1 hour for urgent mental health cases. Highly replicable pattern for healthcare message routing.",
+      "evidence_quality_assessment": "Named organization (Providence), specific quantified improvement (3 days → 1 hour), detailed process description with clear before/after comparison.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear process optimization and measurable outcome"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workflow optimization to reduce physician after-hours work ('pajama time'), which is a clear efficiency improvement. Pattern replicable across healthcare systems.",
+      "evidence_quality_assessment": "Named organization but lacks quantified metrics - describes the problem and solution conceptually without specific measurement of improvement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but needs quantified impact measurement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes patient communication workflow by deflecting routine inquiries from physicians to AI chatbot. Clear efficiency gain, highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (30% reduction in messages to physicians), clear measurement methodology implied.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong capability case with clear efficiency metric and replicable approach"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of physician inbox management workflow through AI triage. Replicable pattern for healthcare communication systems.",
+      "evidence_quality_assessment": "Named organization with specific baseline metric (3.5 days average processing time) but lacks quantified improvement - only describes the solution without measuring outcome.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good baseline measurement but missing outcome metrics to validate improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes referral process to reduce inappropriate specialty referrals. Clear efficiency improvement with replicable pattern across healthcare systems.",
+      "evidence_quality_assessment": "Named organization and specific tool (MedPearl) but completely lacks quantified metrics - only qualitative claim of reduction without measurement.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization concept but needs quantified impact measurement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims efficiency gains through reduced burnout and turnover, which are valid workforce optimization outcomes. Pattern replicable across healthcare organizations.",
+      "evidence_quality_assessment": "Named organization but explicitly states metrics are intangible ('you can't put a price on that'), making it difficult to verify specific improvements.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Valid optimization claim but lacks measurable evidence of impact"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workflow optimization by consolidating clinical information into single interface, reducing cognitive load. Highly replicable pattern for clinical decision support systems.",
+      "evidence_quality_assessment": "Named organization and specific tool (MedPearl), detailed description of functionality and clear process improvement (consolidation, workflow optimization, cognitive load reduction).",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong process optimization description with clear functional improvement"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of patient engagement optimization through AI chatbot deployment. Shows successful implementation of patient service efficiency improvement.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (101,000+ monthly active users), demonstrates adoption scale and service delivery optimization.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong adoption metric demonstrating successful service optimization implementation"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims speed improvement in patient question resolution through AI chatbot vs. direct provider messaging. Clear efficiency optimization with replicable pattern.",
+      "evidence_quality_assessment": "Named organization and specific tool (Grace) but lacks quantified speed improvement - only qualitative claim of 'faster' without specific metrics.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear efficiency claim but needs quantified speed improvement metrics"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes patient access optimization and care abandonment prevention through improved service delivery. Replicable pattern for healthcare patient engagement.",
+      "evidence_quality_assessment": "Named organization but completely lacks quantified metrics - only qualitative claims about improved access and preventing care abandonment without measurement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Valid optimization concept but needs measurable evidence of access improvement and care abandonment reduction"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing healthcare service delivery functions (message routing, patient communication, clinical workflow) rather than business model innovation or new revenue streams."
+}

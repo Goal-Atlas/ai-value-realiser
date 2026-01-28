@@ -1,0 +1,41 @@
+{
+  "case_id": "super-pharm-vertex-ai-inventory-accuracy",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Demand forecasting efficiency improved by 10x",
+      "quote": "Super-Pharm's demand forecasting is up to 10 times more efficient now."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Inventory accuracy improved from 50% to 90%",
+      "quote": "Our accuracy has improved to 90%, when it was previously about 50%"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Online sales surpassed brick-and-mortar revenue",
+      "quote": "Online sales recently surpassed brick-and-mortar revenue for Super-Pharm, Israel's leading drugstore."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Reduced staffing requirements for demand forecasting",
+      "quote": "Before using Vertex AI, Super-Pharm relied on an eight-person, in-house team for demand forecasting, along with placing much of the logistical burden on in-store employees and managers. Vertex AI enabled Super-Pharm to sharpen their accuracy, create inventory predictions far more quickly and efficiently, and ease the burden on their employees."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Enabled 24-hour delivery to nearest store",
+      "quote": "To optimize customer experience and boost sales on their ecommerce site, Super-Pharm needed to guarantee that consumers could select in-stock products, purchase them, and ship the items to the brick-and-mortar store nearest to them within 24 hours."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Prevented revenue loss from missing items",
+      "quote": "on-premise tools were unable to keep up with predicting customers' demand and thus managing inventory requirements. This resulted in potential loss of revenue due to missing items."
+    }
+  ]
+}

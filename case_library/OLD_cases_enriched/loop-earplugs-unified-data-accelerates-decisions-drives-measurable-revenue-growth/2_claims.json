@@ -1,0 +1,77 @@
+{
+  "case_id": "loop-earplugs-unified-data-accelerates-decisions-drives-measurable-revenue-growth",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Major reduction in production costs by 79%",
+      "quote": "the production cost fell to around 15,000 euros, a saving of 79%"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Acceleration of production times from three weeks to five days",
+      "quote": "Acceleration of production times (from three weeks to five days)"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Marketing completion rates reaching 98%",
+      "quote": "Maximized marketing performance, with completion rates reaching 98%"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Creative potential multiplied tenfold by AI",
+      "quote": "Creative potential multiplied tenfold by AI"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "15,275% growth since 2018 recognized by Deloitte Fast 50",
+      "quote": "Today, with 15,275% growth since 2018 hailed by the Deloitte Fast 50, the Belgian company is achieving global success"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "AI-generated campaigns achieved 95% completion rate on long formats and 98% on fifteen-second versions",
+      "quote": "these AI-generated campaigns recorded a completion rate of nearly 95% on long formats and up to 98% on fifteen-second versions"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Revenue growth from \u20ac0 to \u20ac42 million in 2022",
+      "quote": "Loop Earplugs, an e-commerce brand from Belgium, has reshaped the ear protection industry, achieving \u20ac42 million in 2022"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Business grew to \u20ac126.5 million by 2023 selling over 5 million pairs",
+      "quote": "By 2023, Loop Earplugs had grown into a \u20ac126.5 million business, selling over 5 million pairs in a year"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Monthly advertising spend of \u20ac1.5 million",
+      "quote": "The company spent \u20ac1.5 million monthly on ads"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Consistent profitability since 2020",
+      "quote": "Loop Earplugs, priced between \u20ac19.95 and \u20ac54.95, have consistently turned a profit since 2020"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Organic revenue achieved 28.63% split of total revenue, exceeding 20% target",
+      "quote": "Organic revenue target = 20% split of total revenue \u2013 achieved 28.63% split"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Organic traffic growth of 340.49% year-over-year",
+      "quote": "Organic traffic growth = \"massive scaling at approx 3x\" \u2013 achieved 340.49% growth YoY"
+    }
+  ]
+}

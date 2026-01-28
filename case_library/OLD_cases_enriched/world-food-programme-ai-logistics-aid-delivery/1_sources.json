@@ -1,0 +1,17 @@
+{
+  "case_id": "world-food-programme-ai-logistics-aid-delivery",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "SKAI | WFP Innovation",
+      "url": "https://innovation.wfp.org/project/SKAI",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "UN food aid deliveries by AI robots could begin next year | Reuters",
+      "url": "https://www.reuters.com/technology/un-food-aid-deliveries-by-ai-robots-could-begin-next-year-2023-07-07/",
+      "doc_type": "News Article"
+    }
+  ]
+}

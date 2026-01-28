@@ -1,0 +1,17 @@
+{
+  "case_id": "holcim-predictive-maintenance-equipment-health",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Holcim - Cement industry news from Global Cement",
+      "url": "https://www.globalcement.com/news/itemlist/tag/Holcim",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Holcim Safely Delivers Time-Sensitive Materials 7 Minutes Faster with AWS and HERE | Holcim & HERE Case Study | AWS",
+      "url": "https://aws.amazon.com/partners/success/holcim-here/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

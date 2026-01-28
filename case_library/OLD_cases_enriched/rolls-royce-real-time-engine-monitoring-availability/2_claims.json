@@ -1,0 +1,53 @@
+{
+  "case_id": "rolls-royce-real-time-engine-monitoring-availability",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Automated data pipeline reduces time to collect data and improves data accuracy",
+      "quote": "With the knowledge that they shared airline customers, Rolls-Royce approached IFS to help automate this data flow, which could cut down the time to collect data and improve data accuracy."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Real-time data enables more robust predictive maintenance offerings with multiple data points",
+      "quote": "When you start having multiple variables going in and coming out, it means that Rolls-Royce's offering can be more robust. They have more data points, and they have the ability to automate the output that they generate"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "IntelligentEngine maximizes engine availability while minimizing maintenance costs and disruption",
+      "quote": "Furthermore, the engine comprehends all of this information in a way that can support making smart decisions to maximize engine availability while minimizing maintenance costs and disruption."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "TotalCare delivers more availability, less disruption, and fewer maintenance interventions",
+      "quote": "But above all, it's about creating a step-by-step change in the delivery of TotalCare to airline operators. This means more availability, less disruption, and fewer maintenance interventions."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S5",
+      "claim": "CorporateCare provides predictable maintenance costs, reduced capital investment and increased aircraft residual value",
+      "quote": "it also provides operators with significant financial benefits, including predictable maintenance costs, reduced capital investment and, perhaps most importantly, increased aircraft residual value."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S5",
+      "claim": "Improved operational availability with over 97% averted missed trips and under 24-hour AOG response resolution time",
+      "quote": "We already see the benefit of this service as we have significantly improved averted missed trips to over 97 percent, while our average AOG response resolution time is now under 24 hours"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S5",
+      "claim": "CorporateCare transfers maintenance risk from owner to OEM with immediate tax benefits",
+      "quote": "Being the only programme for Rolls-Royce powered aircraft that fully transfers the risk of engine maintenance from the owner to the OEM \u2013 which also entails immediate tax benefits"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Strong market adoption with almost 1,900 aircraft covered and over 70% of new deliveries enrolled",
+      "quote": "Almost 1,900 aircraft around the world are now covered by CorporateCare and more than 70 percent of new delivery Rolls-Royce powered aircraft are enrolled in the programme."
+    }
+  ]
+}

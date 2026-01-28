@@ -1,0 +1,104 @@
+{
+  "case_id": "rio-tinto-mine-of-the-future",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes mine capacity and lifespan, not AI-driven functional optimization. No process improvement or efficiency gain claimed.",
+      "evidence_quality_assessment": "Specific metrics and named organization, but not relevant to Tier 1 capability assessment.",
+      "apqc_functions": [],
+      "notes": "Basic operational capacity information, not a capability case claim"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes production volume increases from new mine opening, not optimization of existing processes through AI/technology.",
+      "evidence_quality_assessment": "Vague claim without specific metrics or methodology for how technology drives the improvement.",
+      "apqc_functions": [],
+      "notes": "Production increase from new facility, not process optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims technology makes operations 'safer and more productive' which fits Tier 1 optimization, but lacks specificity about which processes are improved.",
+      "evidence_quality_assessment": "Named organization and mentions specific technologies (data analytics, ML, automation) but no quantified benefits or detailed process description.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Generic safety/productivity claims without specific metrics or process details"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Employment figures during construction and operations are not related to AI-driven process optimization.",
+      "evidence_quality_assessment": "Specific numbers and named organization, but not relevant to capability assessment.",
+      "apqc_functions": [],
+      "notes": "Employment data, not a capability improvement claim"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Procurement spending during construction is not related to AI-driven functional optimization.",
+      "evidence_quality_assessment": "Specific financial figure and geographic detail, but not relevant to capability assessment.",
+      "apqc_functions": [],
+      "notes": "Construction procurement data, not a capability improvement claim"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Solar farm powering operations is infrastructure/sustainability, not AI-driven process optimization.",
+      "evidence_quality_assessment": "Specific proportion (one-third) mentioned, but this is about renewable energy infrastructure, not capability enhancement.",
+      "apqc_functions": [],
+      "notes": "Renewable energy infrastructure, not AI/technology-driven process improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Integrated planning approach extracting additional value represents process optimization - improving planning efficiency to generate measurable financial benefit.",
+      "evidence_quality_assessment": "Named organization (Rio Tinto), specific quantified benefit (US$10 million), attributed to named executive (Farry), traceable source.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization with quantified value extraction through improved planning methodology"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims 'world-first performance' being 'safer, smarter and more productive' suggests process optimization, but extremely vague about specific improvements.",
+      "evidence_quality_assessment": "Named organization and mentions new processes/technologies, but uses superlative marketing language without specific metrics or process details.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "low"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Marketing-heavy language with unsubstantiated 'world-first' claims; lacks specific process improvements or metrics"
+    }
+  ],
+  "tier_verification": "Most claims are not tier 1 capability cases - they describe infrastructure, capacity, and general operations rather than AI-driven process optimization. Only C7 clearly demonstrates functional improvement with quantified benefits. C3 and C8 mention technology benefits but lack specificity."
+}

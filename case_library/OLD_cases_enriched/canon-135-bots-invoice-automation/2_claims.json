@@ -1,0 +1,47 @@
+{
+  "case_id": "canon-135-bots-invoice-automation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Canon processed over 4,500 vendor invoices monthly with manual processes causing errors and delays",
+      "quote": "Canon's finance team was drowning in paperwork with over 4,500 vendor invoices to process every month. Each one came with complex details, and because so much of the work was done by hand, errors and delays were common."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Previous RPA solution had very low accuracy rates of only 35-40%",
+      "quote": "Even though they already had an RPA workflow in place, it was rigid and unreliable, needing constant human oversight and delivering accuracy rates of only 35\u201340%."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "New solution achieved much higher accuracy using custom machine learning models instead of rigid RegEx rules",
+      "quote": "Instead of relying on rigid RegEx rules, we built custom machine learning models that could handle the complexity of their data with much higher accuracy."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Client processed 1,500 invoices manually per day with payment delays up to 45 days",
+      "quote": "It had 1,500 invoices to manually process each day. Meanwhile, the company's seven plants in the region\u2014which purchase cosmetics ingredients and packing materials, as well as pay staff salaries\u2014wanted to be reimbursed immediately. For a period of time, they weren't\u2014payment took as long as 45 days."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "New digital system processes invoices in 30 seconds when data matches, with invoices available within 24 hours",
+      "quote": "If an invoice is scanned and all the data fields match with the company's database, the process takes about 30 seconds and the invoice is available to the cosmetics company within 24 hours."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Payment processing time reduced from 45 days to an average of 2 days",
+      "quote": "Instead of 45 days, the company completes payment in an average of two days."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "New system eliminated data entry, human error, and paper accumulation",
+      "quote": "Job complete\u2014without any data entry, human error, or paper piling up on the client's end."
+    }
+  ]
+}

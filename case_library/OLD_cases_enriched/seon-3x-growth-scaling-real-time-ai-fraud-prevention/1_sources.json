@@ -1,0 +1,29 @@
+{
+  "case_id": "seon-3x-growth-scaling-real-time-ai-fraud-prevention",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Scaling rapidly with AWS\u2014How SEON achieved 3x growth for 3 years running | AWS Startups Blog",
+      "url": "https://aws.amazon.com/blogs/startups/scaling-rapidly-with-aws-how-seon-achieved-3x-growth-for-3-years-running/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "SEON & ClickHouse Success Story Success Story",
+      "url": "https://aws.amazon.com/solutions/case-studies/seon-clickhouse/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "SEON Closes $80 Million Series C Led by Sixth Street Growth to Scale Command Center for Fraud Prevention and AML Compliance as Digital Fraud Set to Exceed Billions Annually",
+      "url": "https://www.globenewswire.com/news-release/2025/09/16/3150593/0/en/SEON-Closes-80-Million-Series-C-Led-by-Sixth-Street-Growth-to-Scale-Command-Center-for-Fraud-Prevention-and-AML-Compliance-as-Digital-Fraud-Set-to-Exceed-Billions-Annually.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S4",
+      "title": "SEON Accelerates APAC Growth Amid Rising Demand for Unified Fraud and AML Solutions",
+      "url": "https://www.globenewswire.com/news-release/2025/05/29/3090029/0/en/SEON-Accelerates-APAC-Growth-Amid-Rising-Demand-for-Unified-Fraud-and-AML-Solutions.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

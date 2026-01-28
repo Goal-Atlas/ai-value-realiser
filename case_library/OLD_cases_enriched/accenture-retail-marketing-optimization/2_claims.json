@@ -1,0 +1,53 @@
+{
+  "case_id": "accenture-retail-marketing-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Data-driven companies achieve 10-15% more revenue growth than their peers",
+      "quote": "10-15% more revenue growth is achieved by data-driven companies than by their peers"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "97% of executives believe generative AI will transform their company and industry",
+      "quote": "97% of executives said generative AI will transform their company and industry"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Only 9% of companies have successfully scaled AI due to deployment challenges",
+      "quote": "Only 9% of companies have fully deployed an AI use case due to scaling challenges"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Despite recognizing AI's transformative potential, only 31% of companies have made significant investments",
+      "quote": "97% of companies know gen AI is transformative but only 31% have invested significantly"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Data-driven companies achieve 10-15% more revenue growth than their peers",
+      "quote": "10-15% more revenue growth is achieved by data-driven companies than by their peers"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "97% of executives believe generative AI will transform their company and industry",
+      "quote": "97% of executives said generative AI will transform their company and industry"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Salling Group successfully launched a new digital delivery business in just 10 months during the pandemic",
+      "quote": "Salling Group debuted its new business in just 10 months, and pandemic-era customers eagerly embraced the new service"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "The digital transformation created a customer-centric shopping experience that delivers the F\u2205tex brand experience directly to customers",
+      "quote": "Salling Group's customer-centric digital shopping experience now brings everything shoppers love about F\u2205tex straight to the front porch"
+    }
+  ]
+}

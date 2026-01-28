@@ -1,0 +1,65 @@
+{
+  "case_id": "ikea-reskilling-pivot-billie",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "IKEA generated $1.4 billion in additional revenue through reskilling 8,500 employees",
+      "quote": "IKEA chose a different path, one that not only reskilled 8,500 employees but also generated a remarkable $1.4 billion in additional revenue."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI chatbot Billie handled 47% of customer inquiries effectively",
+      "quote": "Billie, the AI bot, effectively managed 47% of customer inquiries."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The AI chatbot was cost-effective compared to human intervention",
+      "quote": "The AI was really good and cost less money than humans."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "IKEA generated $1.4 billion in additional revenue through strategic reskilling",
+      "quote": "IKEA chose a different path, one that not only reskilled 8,500 employees but also generated a remarkable $1.4 billion in additional revenue."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "The AI chatbot became a cost-effective tool that significantly reduced need for human intervention",
+      "quote": "This AI solution quickly became a cost-effective tool, significantly reducing the need for human intervention."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "IKEA unlocked new revenue streams through value-added interior design services",
+      "quote": "Not only did the company avoid layoffs, but they also unlocked new revenue streams. By retraining employees to offer value-added services in interior design consultations, IKEA enhanced their customer experience and sales."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "The company reported an unexpected $1.4 billion in additional revenue",
+      "quote": "The financial impact was significant: the company reported an unexpected $1.4 billion in additional revenue."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "IKEA unlocked $1.4 billion in new revenue through reskilling instead of cutting jobs",
+      "quote": "IKEA chose a different route, retraining 8,500 employees and unlocking an impressive $1.4 billion in new revenue."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI chatbot Billie took on 47% of customer interactions",
+      "quote": "IKEA introduced an AI chatbot, Billie, to handle customer inquiries. Billie took on 47% of these interactions."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "IKEA created new revenue streams and achieved $1.4 billion increase in sales through reskilling investment",
+      "quote": "By investing in reskilling, IKEA not only retained employees but also created new revenue streams. The $1.4 billion increase in sales is proof that AI and human talent can coexist\u2014and even thrive together."
+    }
+  ]
+}

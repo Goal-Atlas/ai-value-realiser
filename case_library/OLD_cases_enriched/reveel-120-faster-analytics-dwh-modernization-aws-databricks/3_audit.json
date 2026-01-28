@@ -1,0 +1,135 @@
+{
+  "case_id": "reveel-120-faster-analytics-dwh-modernization-aws-databricks",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - analytics processing speed improvement is a classic efficiency gain in existing data operations",
+      "evidence_quality_assessment": "Specific quantified metric (120x) but lacks context on baseline methodology or workload specifics. Single-vendor case study raises potential marketing bias concerns",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong performance claim but needs verification of measurement methodology"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Represents capacity optimization of existing analytics infrastructure - clear Tier 1 functional improvement",
+      "evidence_quality_assessment": "Quantified claim (25x) but 'workload capability' is vague without defining what constitutes a workload unit",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Capacity improvement claim needs clearer workload definition"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing analytics function with specific before/after comparison showing efficiency gains",
+      "evidence_quality_assessment": "Specific, measurable claim with clear baseline (5-10 minutes) and outcome (under 5 seconds). Concrete and verifiable",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Well-documented performance improvement with clear metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "System capacity optimization enabling better resource utilization - classic infrastructure efficiency improvement",
+      "evidence_quality_assessment": "Specific, quantified claim with clear before (1-2 users) and after (50 users) metrics. Concrete and measurable",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear capacity improvement with specific user concurrency metrics"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Performance optimization of existing dashboard functionality - improves user experience and operational efficiency",
+      "evidence_quality_assessment": "Specific performance metric (sub-5 second) for defined use case (large-scale analytical dashboards). Clear and measurable",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Specific performance improvement for defined analytical workloads"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "While scalability is a functional improvement, 'unlimited' is not a measurable or realistic claim",
+      "evidence_quality_assessment": "Vague marketing language without specific metrics or realistic bounds. 'Unlimited' is not credible or verifiable",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Marketing hyperbole without substantive technical detail or realistic constraints"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could be Tier 1 (operational capacity improvement) or tier 1 (business growth enablement). Context suggests capacity optimization enabling existing business expansion",
+      "evidence_quality_assessment": "Vague claim without quantification of 'larger group' or specific metrics on customer onboarding capacity",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Business outcome claim lacks specific metrics; unclear if this represents capacity optimization or business model expansion"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims relate to infrastructure and analytics performance optimization rather than business model innovation. Claims focus on doing existing functions better (faster analytics, higher capacity, more concurrent users) rather than creating new revenue streams or market opportunities."
+}

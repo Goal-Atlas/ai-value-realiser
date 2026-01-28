@@ -1,0 +1,35 @@
+{
+  "case_id": "netflix-personalization-algorithms",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "The Netflix Recommender System: Algorithms, Business Value, and Innovation",
+      "url": "https://dl.acm.org/doi/10.1145/2843948",
+      "doc_type": "Academic Paper"
+    },
+    {
+      "source_id": "S2",
+      "title": "Netflix Technology Blog: Learning a Personalized Homepage",
+      "url": "https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a",
+      "doc_type": "Technical Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "System Architectures for Personalization and Recommendation",
+      "url": "https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8",
+      "doc_type": "Technical Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Netflix Personalization: Machine Learning & AI at Netflix",
+      "url": "https://research.netflix.com/research-area/machine-learning",
+      "doc_type": "Research Page"
+    },
+    {
+      "source_id": "S5",
+      "title": "Artwork Personalization at Netflix",
+      "url": "https://netflixtechblog.com/artwork-personalization-c589f074ad76",
+      "doc_type": "Technical Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "case_id": "bayer-ai-expert-systems-scale-agronomic-expertise-farmers-frontline",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - improving speed and completeness of agronomic question answering, which is a core customer service function. Pattern is replicable across knowledge-intensive industries.",
+      "evidence_quality_assessment": "Organization (Bayer) is named, but claims are aspirational ('we are confident we can') rather than demonstrated results. No specific metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but weak evidence - this appears to be a planned implementation rather than proven results"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes knowledge retrieval and synthesis processes. Replicable pattern for organizations with complex technical knowledge bases.",
+      "evidence_quality_assessment": "Named organization but vague on specifics. 'Has helped organize' suggests some implementation, but no quantified improvements provided.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but lacks specific evidence of measurable improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer service and knowledge sharing functions. Broadly replicable across technical service industries.",
+      "evidence_quality_assessment": "Named organization but highly aspirational language ('can revolutionize'). No specific metrics or demonstrated outcomes.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic vision is clear but evidence is entirely forward-looking without proven results"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - precision farming improving cost efficiency. Pattern replicable across agricultural operations.",
+      "evidence_quality_assessment": "Specific quantified metric ($25 per acre savings) with named organization context. Measurable outcome clearly stated.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with specific cost savings metric and clear operational improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes agricultural production processes through reduced inputs and improved efficiency. Replicable across farming operations.",
+      "evidence_quality_assessment": "Named product (Croptimus™) and organization, with specific operational improvements described (reduced pesticides, minimized crop loss, enhanced scouting).",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational improvements with specific product attribution and measurable outcomes"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes pest management processes through early detection enabling more targeted interventions. Replicable pattern in agricultural pest management.",
+      "evidence_quality_assessment": "Specific process improvement described (early detection → less toxic solutions → cleaner produce) with clear causal chain and measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-defined process optimization with clear cause-effect relationship and quality improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too generic - describes broad benefits without specific functional optimization. Not sufficiently specific to be replicable.",
+      "evidence_quality_assessment": "Extremely vague claims with no specific metrics, processes, or measurable outcomes. Generic sustainability language without substance.",
+      "apqc_functions": [],
+      "notes": "Generic promotional language without specific functional improvements or measurable evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All substantive claims describe optimization of existing agricultural and customer service functions rather than business model innovation."
+}

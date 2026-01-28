@@ -1,0 +1,35 @@
+{
+  "case_id": "nestle-generative-ai-personalized-marketing-content-local-markets",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Nestl\u00e9 is creating AI-powered 'digital twins' for brands like Purina, Nescaf\u00e9 Dolce Gusto and Nespresso",
+      "url": "https://www.nestle.com/media/news/brands-ai-digital-twins-content-service",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Global CPG Companies Join Generative and Agentic AI Rush",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2025/global-cpg-companies-join-generative-agentic-ai-rush/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Nestl\u00e9, LVMH, L'Or\u00e9al Ramp Up Content Creation With AI-Powered Digital Twins",
+      "url": "https://consumergoods.com/nestle-lvmh-loreal-ramp-content-creation-ai-powered-digital-twins",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Case Study: Nestl\u00e9's AI Transformation",
+      "url": "https://aiexpert.network/ai-at-nestle/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "How Nestl\u00e9 is using AI to set creative rules for its 15,000 marketers",
+      "url": "https://www.thedrum.com/news/2023/02/15/how-nestl-using-ai-set-creative-rules-its-15000-marketers",
+      "doc_type": "News Article"
+    }
+  ]
+}

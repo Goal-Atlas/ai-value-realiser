@@ -1,0 +1,111 @@
+{
+  "case_id": "lowes-ai-search-inventory-management",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI assistant improving e-commerce conversion rates, which is optimization of existing sales/marketing function. Pattern replicable across retail organizations.",
+      "evidence_quality_assessment": "Named organization (Lowe's), specific quantified metric (doubled conversion rates), traceable claim about deployed system 'Mylow'.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear efficiency gain in sales conversion through AI optimization of customer interaction"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Customer service improvement aligns with functional optimization, but attribution to AI unclear - timeframe spans broader transformation period beyond AI implementation.",
+      "evidence_quality_assessment": "Named organization and specific metric (6% increase), but causal link to AI initiatives not established in the claim.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Metric is credible but lacks clear attribution to AI capabilities - may reflect broader operational improvements"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Sales growth over 6-year period too broad to attribute to specific AI functional optimizations - likely reflects multiple business factors.",
+      "evidence_quality_assessment": "While metric is specific (26% growth), the timeframe and lack of AI attribution make this unsuitable for capability case assessment.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too broad and lacks AI attribution - general business performance metric rather than capability-specific improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Professional contractor share growth appears to be strategic market positioning rather than functional optimization through AI.",
+      "evidence_quality_assessment": "Specific metric but no connection to AI capabilities - appears to be broader business strategy execution.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market share shift likely reflects strategic initiatives rather than AI-driven functional improvements"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Loyalty program performance could involve AI optimization (personalization, recommendations), but AI connection not explicit in claim.",
+      "evidence_quality_assessment": "Named organization, specific metric (50% higher spend), but lacks clear attribution to AI capabilities versus general loyalty program benefits.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong performance metric but needs clarification on AI's role in driving these loyalty program results"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Visual Scout appears to optimize customer engagement and conversion, fitting Tier 1 pattern, but lacks specific performance metrics.",
+      "evidence_quality_assessment": "Named feature (Visual Scout) with qualitative description of benefits, but no quantified improvement metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Describes functional optimization but lacks quantified evidence of improvement - needs performance metrics to strengthen case"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing functions (sales conversion, customer service, engagement) rather than business model transformation. C1 is strongest example of AI-driven functional improvement."
+}

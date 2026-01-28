@@ -1,0 +1,17 @@
+{
+  "case_id": "nfl-players-association-ai-video-review-safety-violations",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How the NFL is using AI to predict injuries",
+      "url": "https://www.spokesman.com/stories/2025/nov/15/how-the-nfl-is-using-ai-to-predict-injuries/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "How the NFL Is Using Technology To Advance Player Safety | Endava",
+      "url": "https://www.endava.com/insights/articles/how-the-nfl-is-using-technology-to-advance-player-safety-endava",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

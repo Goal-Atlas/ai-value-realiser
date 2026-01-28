@@ -1,0 +1,83 @@
+{
+  "case_id": "lemonade-ai-first-insurer",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Tech companies gather thousands of times more data than traditional insurers, producing nuanced customer profiles and remarkably predictive insights",
+      "quote": "Tech companies gather thousands of times more data than traditional insurers, producing nuanced profiles of their customers, and remarkably predictive insights."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI will enable insurance companies to quantify risk like never before through digital data collection",
+      "quote": "Act 1 showcases the power of technology to transform any business by reducing costs, increasing speed, and delighting consumers. But when Act 2 begins, we will see the power of AI to transform insurance in a uniquely powerful way. It will go beyond thrilling customers and driving efficiencies, to being able to quantify risk like never before."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Lemonade reached 1 million customers in just 4 years compared to 20+ years for traditional insurers",
+      "quote": "Lemonade has managed in just 4 years to reach the figure of 1 million customers when other companies of the size of GEICO, Allstate or Statefarm needed more than 20 years."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Lemonade is the first choice for first-time renters insurance buyers and second choice for people under 35",
+      "quote": "And in fact, Lemonade claims to be the first option for 1st-time buyers renters insurance and second for people under 35 years old."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Lemonade signed up over 14,000 customers in just six months, a record for a new Insurtech",
+      "quote": "Signed up over 14,000 customers in just six months, a record for a new Insurtech."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Cross-selling to renters becoming homeowners cut acquisition costs by 70%",
+      "quote": "Using lifecycle targeting, they cross-sold to renters becoming homeowners, cutting acquisition costs by 70%."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Lemonade's Automation Index jumped from 5 to 2,500, enabling the same headcount to handle vastly more customers",
+      "quote": "By 2019, automation became Lemonade's silent growth engine. The Automation Index jumped from 5 to 2,500, enabling the same headcount to handle vastly more customers."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Telematics integration improved auto insurance conversion by ~60%",
+      "quote": "In 2024, Lemonade transformed its auto business by integrating telematics auto insurance at onboarding, improving conversion by ~60% and pricing accuracy."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "By 2025, Lemonade achieved $1.083B in-force premiums with 29% year-over-year growth",
+      "quote": "By 2025, Lemonade Insurance achieved: In-Force Premiums: $1.083B (+29% YoY)"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Lemonade achieved 35% year-over-year revenue growth and doubled gross profit with 39% margins",
+      "quote": "Revenue: 35% YoY, Gross Profit: More than doubled, with margins at 39%"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Lemonade reached positive free cash flow of $25M",
+      "quote": "Free Cash Flow: Positive at $25M"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Lemonade's revenue grew rapidly from about $128 million in 2021 to about $430 million in 2023",
+      "quote": "Revenue has grown rapidly: for example from about $128 million in 2021 to about $430 million in 2023."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "Lemonade crossed the milestone of more than $1 billion in in-force premiums by 2025",
+      "quote": "Lemonade has grown from modest beginnings in 2015 into a public company (IPO in 2020) and has crossed key milestones such as more than $1 billion of 'in-force premiums' (IFP) by 2025."
+    }
+  ]
+}

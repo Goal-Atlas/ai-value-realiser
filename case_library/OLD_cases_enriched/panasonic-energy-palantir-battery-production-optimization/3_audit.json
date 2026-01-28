@@ -1,0 +1,83 @@
+{
+  "case_id": "panasonic-energy-palantir-battery-production-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - cost reduction in manufacturing operations. Pattern is replicable across manufacturing contexts.",
+      "evidence_quality_assessment": "Named organization (PENA/Panasonic Energy) but claim lacks specificity - no quantified metrics, only expectation of 'cost savings'. Appears to be forward-looking projection rather than achieved result.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit is strong but evidence quality is weak due to vague, aspirational language without specific metrics or timeline."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - waste reduction in manufacturing processes. Highly replicable pattern across manufacturing industries.",
+      "evidence_quality_assessment": "Named organization but lacks quantified impact. Uses expectation language ('expects to') rather than demonstrated results. No specific metrics on waste reduction achieved.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 but evidence quality is aspirational rather than demonstrable. Needs quantified results to be fully approved."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - replacing manual data management processes with AI/ML automation. Highly replicable pattern across industrial operations.",
+      "evidence_quality_assessment": "Named organizations (Panasonic Energy, Palantir), specific process described (facilities data management), clear before/after state (manual to AI/ML). Authoritative source with specific system mentioned (Foundry).",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear process optimization and sufficient detail. Represents classic automation of manual processes."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - addressing data integration challenges and improving data accuracy. Pattern is highly replicable across organizations with disparate systems.",
+      "evidence_quality_assessment": "Named organization, specific problem described (disparate data systems, manual work-arounds, inaccurate analysis), clear business context (connected factory initiative). Direct quote from organization provides credibility.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case addressing classic enterprise data integration challenges. Well-documented problem statement with clear optimization intent."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization within existing manufacturing operations rather than business model innovation or new revenue streams."
+}

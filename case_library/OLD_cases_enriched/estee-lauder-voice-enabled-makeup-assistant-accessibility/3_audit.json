@@ -1,0 +1,112 @@
+{
+  "case_id": "estee-lauder-voice-enabled-makeup-assistant-accessibility",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is market sizing data, not functional optimization. Does not describe improving existing business processes.",
+      "evidence_quality_assessment": "Credible NHS statistic but not relevant to Tier 1 capability assessment.",
+      "apqc_functions": [],
+      "notes": "Market data claim, not a capability improvement claim"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "First-to-market positioning is strategic marketing, not functional optimization of existing processes.",
+      "evidence_quality_assessment": "Vague marketing statement without specific operational improvements.",
+      "apqc_functions": [],
+      "notes": "Marketing positioning claim, not operational capability improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could represent optimization of product distribution/deployment processes, but lacks specifics on how existing functions are improved.",
+      "evidence_quality_assessment": "Named organization with specific expansion plans, but no metrics on efficiency gains or process improvements.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Expansion claim lacks operational improvement metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry award recognition is external validation, not internal functional optimization.",
+      "evidence_quality_assessment": "Credible third-party recognition but not relevant to operational capabilities.",
+      "apqc_functions": [],
+      "notes": "Award recognition, not capability improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future scalability potential is strategic vision, not current functional optimization.",
+      "evidence_quality_assessment": "Forward-looking statement without current operational improvements or metrics.",
+      "apqc_functions": [],
+      "notes": "Future potential claim, not current capability improvement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Geographic expansion could indicate optimized deployment processes, but no efficiency metrics provided.",
+      "evidence_quality_assessment": "Specific timeline and markets named, but lacks operational improvement details.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Market expansion timeline without operational efficiency claims"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Global market sizing is strategic context, not functional process optimization.",
+      "evidence_quality_assessment": "General industry statistic, not specific to ELC's operational improvements.",
+      "apqc_functions": [],
+      "notes": "Market context claim, not capability improvement"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Removing barriers could represent customer service process optimization, but lacks specific operational improvements.",
+      "evidence_quality_assessment": "Named organization with strategic intent, but no quantified improvements or detailed process changes.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Accessibility improvement claim lacks operational specifics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Brand commitment statement is strategic positioning, not functional optimization.",
+      "evidence_quality_assessment": "Generic brand positioning without operational improvement claims.",
+      "apqc_functions": [],
+      "notes": "Brand positioning statement, not capability improvement"
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified. Most claims describe strategic positioning, market expansion, and brand differentiation rather than functional optimization. This looks more like a tier 1 case focused on business model innovation (creating new accessible product experiences) rather than tier 1 capability improvement. The AI-enabled accessibility app represents a new way of engaging customers, not optimization of existing processes."
+}

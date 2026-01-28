@@ -1,0 +1,83 @@
+{
+  "case_id": "nubank-digital-banking-efficiency",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Nubank serves around 54 million customers across Brazil, Mexico and Colombia",
+      "quote": "Nubank has achieved unicorn startup status and is today one of the world's largest digital banking platforms, serving around 54 million customers across Brazil, Mexico and Colombia."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Nubank registered 42,000 new users per day in Q1 2020",
+      "quote": "In the first quarter of 2020, the bank registered an average of 42 thousand new users per day"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Elderly customer growth increased 50% between 2019-2021",
+      "quote": "Between April and June of 2021, the volume of new customers in this range was 50 percent higher than in the same period in 2019."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Nubank has 115M+ users with 80% growth from word-of-mouth referrals",
+      "quote": "A digital bank with 115M+ users \u2013 built with empathy and scaled with trust... 80% of that growth comes from word-of-mouth referrals alone."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Nubank maintains a Net Promoter Score of 90",
+      "quote": "At the heart of this engine is one number \u2013 its Net Promoter Score (NPS). Clocking in at 90, nearly three times higher than incumbents and other major local fintechs"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Customer acquisition cost held steady at $7 in 2023-2024",
+      "quote": "The customer acquisition cost has held steady at $7 for both 2023 and 2024, up slightly from $6.5 in 2022"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "94% of customer calls answered in under 45 seconds",
+      "quote": "94% of customer calls are answered in under 45 seconds."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Payments Assistant platform saved customers 750K+ hours in one year",
+      "quote": "Nubank's Payments Assistant platform for bills and recurring transactions saved customers 750K+ hours in one year."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Overdraft alerts helped customers avoid R$4M in interest in one month",
+      "quote": "Open finance-powered overdraft alerts helped avoid R$4M in interest in just a month."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Nubank grew from 93.9M to 114.3M customers (22% YoY growth)",
+      "quote": "Nubank grew from 93.9M customers in 2023 to 114.3M in 2024\u2014adding over 20M users (22% YoY)."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Cost to serve dropped to $0.8 per user from $0.9",
+      "quote": "cost to serve dropped to $0.8 per user, down from $0.9"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Nubank has only 1,222 complaints per million users",
+      "quote": "Nubank received only 1,222 complaints per million users in Q4 2024. That's far lower than both incumbents (Itau: 4,127; Santander: 3,365) and new-age fintechs like PagBank (7,926) and Inter (7,496)."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S3",
+      "claim": "Active users hit 94.9M with 83% activity rate",
+      "quote": "Active users hit 94.9M in 2024, sustaining an 83% activity rate."
+    }
+  ]
+}

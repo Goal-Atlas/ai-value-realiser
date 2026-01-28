@@ -1,0 +1,59 @@
+{
+  "case_id": "dbs-bank-reduced-call-handling-times-ai-assistant",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "DBS has deployed over 1,500 AI models across 370 use cases projected to bring SGD 1 billion economic value by 2025",
+      "quote": "As of May 2025, DBS has deployed over 1,500 AI models across 370 use cases. These use cases are projected to bring the bank economic value of SGD 1 billion by 2025."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "DBS reduced time-to-market for AI initiatives from 15 months to under 3 months through platform implementations",
+      "quote": "DBS' implementations of a data platform and protocol repository have reduced the time-to-market for AI initiatives from 15 months to just under three months."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Gen AI-powered CSO Assistant reduces call handling times and improves accuracy",
+      "quote": "Gen AI-powered tools like DBS' CSO Assistant can help customer service officers respond to queries more effectively. They do so by transcribing conversations in real-time, retrieving relevant information instantly, and assisting with documentation. The benefits include reduced call handling times and improved accuracy."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "CSO Assistant achieves nearly 100% transcription accuracy and is expected to reduce call handling time by up to 20%",
+      "quote": "based on the data it collected during the pilot, it found that the tool has been able to achieve a transcription accuracy of nearly 100%. When fully deployed, it is expected to reduce call handling time by up to 20%."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Close to 90% of CSOs reported positive impact on workflow and expressed confidence in long-term use",
+      "quote": "Close to 90% of CSOs involved in the pilot reported that the virtual assistant had a positive impact on their workflow and expressed confidence in leveraging it in the longer term."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "DBS AI Industrialisation Programme resulted in over S$370m of incremental economic benefits",
+      "quote": "DBS Bank's AI Industrialisation Programme has been instrumental in industrialising the use of data and AI across its business, resulting in over S$370m of incremental economic benefits."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "DBS expects 20% decrease in average handling time per service request while maintaining near 100% accuracy",
+      "quote": "As a result, we are expecting to see a 20% decrease in average handling time per service request, freeing up our CSOs to focus on more complex, high-value work. Importantly, this efficiency gain hasn't come at the expense of quality \u2014 our solution maintains near 100% accuracy"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "DBS transformed over 240 experimental AI initiatives into more than 20 practical use cases",
+      "quote": "Under Panchmatia's guidance, DBS has successfully transformed over 240 experimental AI initiatives into more than 20 practical use cases."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "CSO Assistant helps manage over 250,000 monthly customer queries more efficiently",
+      "quote": "Our Gen AI-enabled CSO Assistant, which will be progressively rolled out to our 500-strong customer service workforce in Singapore by end of the year, helps our customer service officers (CSOs) manage over 250,000 monthly customer queries more efficiently and effectively."
+    }
+  ]
+}

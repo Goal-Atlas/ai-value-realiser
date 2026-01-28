@@ -1,0 +1,173 @@
+{
+  "case_id": "deutsche-bank-ai-research-tool-report-creation-time-reduction",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - adoption metric indicates successful implementation of AI tool to enhance existing research analyst workflows",
+      "evidence_quality_assessment": "Named organization (Deutsche Bank), specific adoption metric (hundreds of analysts), traceable to first-party source",
+      "apqc_functions": [
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of successful AI tool deployment with measurable adoption"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing research functions - automating data analysis and streamlining workflows while maintaining compliance requirements",
+      "evidence_quality_assessment": "Named organization, specific functional improvements described, first-party account from Deutsche Bank",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent example of Tier 1 capability enhancement with clear process optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific task optimization within research function - automating routine tasks like summarization and proofreading",
+      "evidence_quality_assessment": "Named organization, specific task categories listed, first-party source",
+      "apqc_functions": [
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear capability enhancement for specific research tasks"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Strategic intent to optimize existing processes by reducing manual work and outsourcing dependency",
+      "evidence_quality_assessment": "Named organization, clear strategic objective stated, first-party account",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic rationale for capability optimization clearly articulated"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear efficiency optimization claim with specific percentage range",
+      "evidence_quality_assessment": "Mentions specific banks (JPMorgan, Deutsche Bank) but lacks attribution for the 40-60% metric - appears to be journalist's synthesis rather than direct measurement",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong efficiency claim but metric attribution unclear - may be journalistic estimate rather than measured result"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic efficiency improvement in task completion time - clear functional optimization",
+      "evidence_quality_assessment": "Named organization (JPMorgan), attributed quote from named executive (Jay Horine), specific time comparison",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent evidence quality with executive attribution and dramatic efficiency metric"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear productivity multiplier claim - 5x analyst efficiency improvement",
+      "evidence_quality_assessment": "No attribution provided - unclear who made this claim or in what context",
+      "apqc_functions": [
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong efficiency claim but lacks source attribution"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Team productivity optimization through AI tools - clear capability enhancement",
+      "evidence_quality_assessment": "Attributed to named source (Artis M&A founder), specific team size comparison provided",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good attribution and specific productivity comparison"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency gains in hedge fund operations - functional optimization",
+      "evidence_quality_assessment": "Attributed to credible industry publication (Hedgeweek), specific percentage metric provided",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Credible source attribution with specific efficiency metric"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing business functions rather than business model transformation or new revenue streams"
+}

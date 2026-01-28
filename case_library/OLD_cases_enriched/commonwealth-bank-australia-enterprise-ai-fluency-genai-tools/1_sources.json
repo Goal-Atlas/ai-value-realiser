@@ -1,0 +1,29 @@
+{
+  "case_id": "commonwealth-bank-australia-enterprise-ai-fluency-genai-tools",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How a 100-year-old financial institution modernized with cloud and AI - Work Life by Atlassian",
+      "url": "https://www.atlassian.com/blog/artificial-intelligence/modernizing-financial-institution-cloud-ai",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: CBA expands its generative AI vision - iTnews",
+      "url": "https://www.itnews.com.au/video/case-study-cba-expands-its-generative-ai-vision-614744",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Discover three skilling insights that set Frontier Firms apart | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/09/18/discover-three-skilling-insights-that-set-frontier-firms-apart/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Commonwealth Bank of Australia exploring GenAI use to test products | Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/commonwealth-bank-australia-exploring-genai-use-test-products",
+      "doc_type": "News Article"
+    }
+  ]
+}

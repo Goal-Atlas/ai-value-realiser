@@ -1,0 +1,23 @@
+{
+  "case_id": "apex-fintech-solutions-reduced-security-threat-detection-turnaround-time-by-75-percent",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Apex Fintech Solutions takes fighting financial crime to new heights",
+      "url": "https://www.genpact.com/case-studies/how-apex-fintech-solutions-takes-fighting-financial-crime-to-new-heights",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Apex Fintech Solutions takes fighting financial crime to new heights",
+      "url": "https://www.linkedin.com/pulse/how-apex-fintech-solutions-takes-fighting-financial-crime-new",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Apex FinTech Solutions boosts processing time by 50% | Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/databases/apex-fintech-solutions-boosts-processing-time/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

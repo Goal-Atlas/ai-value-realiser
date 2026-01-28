@@ -1,0 +1,162 @@
+{
+  "case_id": "globo-hyper-personalized-recommendations-doubled-click-through-play-rate",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague - 'complex projects' and 'traditional processes' are undefined. No specific function or process optimization described.",
+      "evidence_quality_assessment": "No quantified metrics, no specific processes identified. Generic claim without substance.",
+      "apqc_functions": [],
+      "notes": "Insufficient detail to assess any meaningful capability improvement"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational capability (hosting events) but unclear what optimization occurred - is this volume increase or process improvement?",
+      "evidence_quality_assessment": "Specific metric (50+ events) and timeframe (2021) but lacks baseline for comparison or efficiency claims.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Volume metric without efficiency context - could be growth rather than optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear process optimization claim (time savings for operators) through cloud migration technology.",
+      "evidence_quality_assessment": "Qualitative claim of 'time savings' without quantification. Process improvement described but not measured.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but lacks quantified impact metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability enhancement - dynamic scaling of workflows optimizes post-production operations for content creation efficiency.",
+      "evidence_quality_assessment": "Specific process (post-production workflows), clear benefit (dynamic scaling), contextual detail (multiple telenovelas production).",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-defined operational optimization with clear business context"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Resource optimization through infrastructure efficiency - reducing hardware dependency while maintaining capability.",
+      "evidence_quality_assessment": "Specific mechanism (lightweight endpoints vs heavy hardware), clear outcome (reduced carbon footprint), business context (ESG goals).",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency gain with environmental and cost benefits"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes maintaining performance levels during remote work transition - capability preservation rather than optimization.",
+      "evidence_quality_assessment": "Qualitative claim without metrics. 'High performance levels akin to on-premises' lacks quantification.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "More about capability maintenance than optimization - borderline Tier 1"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims conversion rate increases and revenue contribution but lacks specificity about what processes were optimized.",
+      "evidence_quality_assessment": "Qualitative claims ('increased conversion rates', 'significantly to revenue') without quantified metrics or baseline comparisons.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Revenue impact claimed but lacks quantified evidence of optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization claim - automation leading to cost reduction in advertising platforms.",
+      "evidence_quality_assessment": "Generic claim of 'significant cost reductions' without quantification or specific processes detailed.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but lacks quantified impact metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - eliminating intermediaries and reducing complexity for small advertisers through self-service platform.",
+      "evidence_quality_assessment": "Specific process changes (eliminated agencies, self-service via website), clear benefits (reduced costs, greater autonomy), defined target segment (small advertisers).",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-defined process simplification with clear efficiency and cost benefits"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe operational optimizations, cost reductions, or process improvements within existing business functions. No business model transformation or new revenue stream creation evident."
+}

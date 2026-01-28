@@ -1,0 +1,35 @@
+{
+  "case_id": "mckinsey-ai-transformation-consulting",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "McKinsey's industry AI products deliver value across a wide range of use cases",
+      "url": "https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinseys-industry-ai-products-deliver-value-across-a-wide-range-of-use-cases",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "A generative AI reset: Rewiring to turn potential into value in 2024",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024",
+      "doc_type": "Report"
+    },
+    {
+      "source_id": "S3",
+      "title": "How AI is transforming strategy development",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development",
+      "doc_type": "Report"
+    },
+    {
+      "source_id": "S4",
+      "title": "AI Consulting | Artificial Intelligence (QuantumBlack) | McKinsey & Company",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "Case Studies | Tech and AI | McKinsey & Company",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies",
+      "doc_type": "Case Study"
+    }
+  ]
+}

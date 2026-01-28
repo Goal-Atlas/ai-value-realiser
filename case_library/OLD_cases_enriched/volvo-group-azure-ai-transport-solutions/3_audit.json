@@ -1,0 +1,128 @@
+{
+  "case_id": "volvo-group-azure-ai-transport-solutions",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of connected vehicle infrastructure enabling optimization services - clear functional capability",
+      "evidence_quality_assessment": "Named organization (Volvo), specific metric (1 million trucks), traceable claim from official source",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of scale for connected services platform - foundational capability for optimization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization across multiple dimensions (uptime, energy, efficiency, safety) - fits Tier 1 pattern",
+      "evidence_quality_assessment": "Named organization but claims lack specific quantification - general benefits statement",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claims but needs specific metrics to be fully credible"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too high-level and aspirational - lacks specific functional optimization description",
+      "evidence_quality_assessment": "Vague societal value claim without measurable business impact or specific process improvement",
+      "apqc_functions": [],
+      "notes": "Marketing language without substantive operational detail or measurable improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of product development processes through AI analytics - fits Tier 1 pattern",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics or examples of actual improvements achieved",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid capability description but needs concrete examples or metrics of development acceleration"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Basic business metric unrelated to AI optimization or functional improvement",
+      "evidence_quality_assessment": "While specific and traceable, this is not an AI capability claim",
+      "apqc_functions": [],
+      "notes": "General business statistic - not relevant to AI capability assessment"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes prototype development, not operational optimization or measurable improvement",
+      "evidence_quality_assessment": "Vague claim about 'business value' without specifics, appears to be internal development activity",
+      "apqc_functions": [],
+      "notes": "R&D activity rather than deployed capability with measurable business impact"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization with specific metric (40% higher utilization) through AI route/schedule optimization",
+      "evidence_quality_assessment": "Named organization (aifleet), specific quantified improvement, clear process optimization described",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - specific AI optimization with measurable efficiency gain in logistics operations"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market sizing information unrelated to AI capabilities or functional optimization",
+      "evidence_quality_assessment": "While specific, this describes market opportunity rather than AI implementation or improvement",
+      "apqc_functions": [],
+      "notes": "Market context information - not an AI capability claim"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric unrelated to AI optimization or functional improvement",
+      "evidence_quality_assessment": "Specific and traceable but not relevant to AI capabilities assessment",
+      "apqc_functions": [],
+      "notes": "General financial metric - not relevant to AI capability assessment"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on functional optimization (connected services, route optimization, product development enhancement) rather than business model transformation. No evidence of tier 1 characteristics."
+}

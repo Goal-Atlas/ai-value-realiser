@@ -1,0 +1,176 @@
+{
+  "case_id": "allpay-developer-productivity-github-copilot",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of software development processes. 10% productivity gain is a measurable efficiency improvement in an existing business function. Pattern is highly replicable across software development organizations.",
+      "evidence_quality_assessment": "Named organization (allpay), specific quantified metric (10%), appears to be from official case study or interview. Credible and traceable.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear productivity optimization with specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes functional optimization with significant efficiency gains. Pattern is replicable, though specific use cases not detailed.",
+      "evidence_quality_assessment": "While from named organization, the 80% claim lacks specificity about which use cases achieve this level of improvement. Vague on methodology.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "High percentage claim needs more specific context about applicable use cases"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific functional optimization of database development tasks. Clear efficiency improvement in bounded process. Highly replicable pattern for database developers.",
+      "evidence_quality_assessment": "Very specific metrics (1 hour to 5 minutes), named organization, appears to be direct quote from stakeholder. Strong evidence quality.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent specific example of development task optimization with clear before/after metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of service deployment processes. Significant time reduction in established workflow. Pattern applicable to other development teams.",
+      "evidence_quality_assessment": "Specific timeframe comparison (1 week to 1 day), direct quote format, named organization. Good evidence quality.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong example of deployment process optimization with clear time savings"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of software delivery processes with measurable output increase. Replicable pattern for development organizations.",
+      "evidence_quality_assessment": "Specific metric (25% increase) from named organization, but acknowledges 'organizational changes' as contributing factor, making it unclear how much is attributable to AI vs other changes.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good metric but attribution unclear due to concurrent organizational changes"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of software release processes with measurable output improvement. Pattern replicable for development teams.",
+      "evidence_quality_assessment": "Specific, verifiable metric (900+ releases in 9 months vs 900 in previous full year), named organization, appears credible.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of release process optimization with clear comparative metrics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Confirms functional optimization of coding processes. Same organization and metric as C1, providing corroboration.",
+      "evidence_quality_assessment": "Named organization, specific metric, appears to be from credible publication or case study. Consistent with other claims.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Corroborates C1 claim from different source, strengthening evidence"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of software release processes with clear output metrics. Replicable pattern for development organizations.",
+      "evidence_quality_assessment": "Specific metrics (25% increase, 9-month timeframe), named organization, consistent with C5 and C6 claims.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Consistent with other release volume claims, good corroboration"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of software quality processes through reduced rework. Replicable pattern for development teams.",
+      "evidence_quality_assessment": "From named organization but lacks quantification. 'Has dropped' is vague without specific metrics or timeframes.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good concept but needs quantification for stronger evidence"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of system reliability through reduced incidents. Pattern applicable to IT operations.",
+      "evidence_quality_assessment": "From named organization but completely unquantified. 'Fewer incidents' provides no measurable baseline or improvement level.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Relevant operational improvement but lacks any quantitative evidence"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of code quality processes through improved review practices and standardization. Replicable pattern for development teams.",
+      "evidence_quality_assessment": "Named organization, describes specific mechanism (freed time enables more reviews), logical causal chain for quality improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good qualitative evidence of process improvement with clear mechanism described"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing software development and IT operations functions rather than business model changes or new revenue streams."
+}

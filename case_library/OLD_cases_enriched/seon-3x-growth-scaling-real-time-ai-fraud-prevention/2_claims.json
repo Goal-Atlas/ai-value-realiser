@@ -1,0 +1,89 @@
+{
+  "case_id": "seon-3x-growth-scaling-real-time-ai-fraud-prevention",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "SEON achieved triple growth for three consecutive years",
+      "quote": "SEON has scaled rapidly for three consecutive years, achieving triple growth each year by building on cloud services offered by AWS"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "In 2021, SEON more than tripled annual recurring revenue and grew headcount by 4X",
+      "quote": "In 2021 alone, SEON more than tripled its annual recurring revenue, grew its headcount by 4X, and opened new offices in Austin, Texas and Jakarta, Indonesia"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "SEON handles real-time transactions for more than 5,000 customers",
+      "quote": "AWS solutions such as Amazon Elastic Compute Cloud (Amazon EC2), Amazon Relational Database Service (Amazon RDS), Amazon API Gateway, and AWS Lambda, which allow them to handle real-time transactions for more than 5,000 customers"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "SEON served over 10,000 requests in the first minute without scalability issues",
+      "quote": "SEON served over 10,000 requests in the first minute without any scalability issues"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "SEON maintains 2-3 second response times around the world",
+      "quote": "By investing in multi-AZ and multi-region architecture, SEON is able to maintain approximately 2\u20133 second response times around the world"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "SEON improved database processing time by over 80 percent",
+      "quote": "the three companies engineered a solution that improved processing time by over 80 percent"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "SEON reduced data storage costs by 30%",
+      "quote": "improve near real-time data analytics by 80% and reduce data storage costs by 30%"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "SEON analyzes tens of millions of customer interactions daily",
+      "quote": "SEON analyzes tens of millions of customer interactions daily for thousands of customers"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "SEON closed $80 million Series C funding, bringing total funding to $187 million",
+      "quote": "SEON, the command center for fraud prevention and AML compliance, today announced the close of its $80 million Series C round of funding... This round brings SEON's total funding to $187 million"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Clients achieved up to 90% reductions in fraudulent account creation",
+      "quote": "Clients have achieved up to 90% reductions in fraudulent account creation"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Clients reported more than 80% increase in precision when stopping fraudulent transactions",
+      "quote": "as well as reporting more than an 80% increase in precision when stopping fraudulent transactions by unifying fraud and AML controls"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Clients report up to 75% reduction in manual review time",
+      "quote": "Clients also report up to a 75% reduction in manual review time, allowing teams to focus on growth and experimentation rather than reactive investigation"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S3",
+      "claim": "SEON can be integrated in as little as a few days",
+      "quote": "SEON clients can integrate SEON in as little as a few days, not months"
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S3",
+      "claim": "SEON serves thousands of customers including leading digital brands",
+      "quote": "SEON analyzes tens of millions of customer interactions daily for thousands of customers, including many of the world's leading digital brands like Revolut, Plaid, Nubank, Afterpay, Spotify and Entain"
+    }
+  ]
+}

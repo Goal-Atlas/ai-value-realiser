@@ -1,0 +1,29 @@
+{
+  "case_id": "lowes-ai-search-inventory-management",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Lowe's puts project expertise into every hand",
+      "url": "https://openai.com/index/lowes/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Vertex AI Vector Search helps create interactive shopping experiences",
+      "url": "https://cloud.google.com/blog/topics/retail/how-vertex-ai-vector-search-helps-create-interactive-shopping-experiences",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Lowe's Just Gave Its Associates AI Superpowers",
+      "url": "https://whatsnextiseverything.com/blog/2025/6/1/lowes-just-gave-its-associates-ai-superpowers",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Lowe's puts tech first in its 2025 CX plans",
+      "url": "https://www.customerexperiencedive.com/news/lowes-investor-day-2024-loyalty-generative-ai-experience/735320/",
+      "doc_type": "News Article"
+    }
+  ]
+}

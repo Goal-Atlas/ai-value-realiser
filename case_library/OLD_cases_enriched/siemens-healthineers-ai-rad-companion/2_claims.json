@@ -1,0 +1,71 @@
+{
+  "case_id": "siemens-healthineers-ai-rad-companion",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-Rad Companion Chest CT can simultaneously increase productivity and quality in diagnostic radiology",
+      "quote": "AI-Rad Companion Chest CT is a tool that can actually simultaneously increase productivity and quality in diagnostic radiology"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The software helps radiologists interpret images faster and more accurately while reducing documentation time",
+      "quote": "It is designed to help radiologists interpret images faster and more accurately, and to reduce the time involved in documenting results"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "The AI assistant enables faster, more accurate, and more comprehensive diagnoses",
+      "quote": "physicians can make faster, more accurate, and more comprehensive diagnoses"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI will help healthcare providers overcome challenges of rising patient numbers and staff shortfalls",
+      "quote": "One of the goals we have for our intelligent digital companions is that they'll help healthcare providers overcome the challenge of rising patient numbers coupled with shortfalls in staff"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "AI will increase efficiency and quality of diagnostic imaging processes by relieving radiologists of routine tasks",
+      "quote": "It will relieve them of routine tasks and can thereby increase the efficiency and quality of diagnostic imaging processes"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI-Rad offers superior sensitivity for detecting lung lesions compared to written reports",
+      "quote": "The AI-Rad can offer superior sensitivity for the detection of lung lesions (0.83 versus 0.52)"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "AI-Rad shows superior sensitivity for detecting consolidations compared to written reports",
+      "quote": "consolidations (0.88 versus 0.78)"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "AI-Rad demonstrates superior sensitivity for detecting atelectasis compared to written reports",
+      "quote": "atelectasis (0.54 versus 0.43) compared to the WR"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI-Rad provides high negative predictive values that boost radiologist confidence in negative findings",
+      "quote": "the high NPVs may be the greatest benefit of the AI-Rad giving radiologists the possibility to re-insure their own negative search for pathologies and thus boosting their confidence in their reports"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "AI-Rad Companion saves clinicians' time and helps increase diagnostic precision",
+      "quote": "It saves the clinicians' time and helps them to increase their diagnostic precision"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "The algorithm provides additional security and trust for radiologists in clinical practice",
+      "quote": "Meanwhile I really trust the algorithm. It gives me a sense of additional security"
+    }
+  ]
+}

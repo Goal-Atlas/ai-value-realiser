@@ -1,0 +1,29 @@
+{
+  "case_id": "scuderia-ferrari-ai-driven-platform-engages-millions-of-fans-with-personalized-content",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "IBM + Scuderia Ferrari perfect a new formula for fan engagement",
+      "url": "https://www.ibm.com/think/insights/ferrari",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Ferrari Advances Generative AI for Customer Personalization and Production Efficiency | Case Study | AWS",
+      "url": "https://aws.amazon.com/solutions/case-studies/ferrari-generative-ai-case-study/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Ferrari-Selects-AWS-as-its-Official-Cloud-Provider-to-Power-Innovation-on-the-Road-and-Track - US Press Center",
+      "url": "https://press.aboutamazon.com/2021/6/ferrari-selects-aws-as-its-official-cloud-provider-to-power-innovation-on-the-road-and-track",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S4",
+      "title": "IBM and Scuderia Ferrari HP Debut Reimagined Mobile App to Supercharge Global Formula 1 Fan Experience | IBM Stock News",
+      "url": "https://www.gurufocus.com/news/2818425/ibm-and-scuderia-ferrari-hp-debut-reimagined-mobile-app-to-supercharge-global-formula-1-fan-experience-ibm-stock-news",
+      "doc_type": "News Article"
+    }
+  ]
+}

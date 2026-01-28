@@ -1,0 +1,53 @@
+{
+  "case_id": "tii-trains-open-source-llms-google-cloud-efficiency",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Processes 14 trillion+ tokens efficiently for training Falcon models",
+      "quote": "Processes 14 trillion+ tokens efficiently, enabling the training of the latest Falcon models"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI models process 1,000+ tokens per second with Cloud GPUs",
+      "quote": "Supercharges LLM training with Cloud GPUs, enabling AI models capable of processing 1,000+ tokens per second"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "GPU utilization rates doubled compared to managed services",
+      "quote": "GPU utilization rates are double what they would have been with a managed service"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Accelerated go-to-market times by streamlining environment",
+      "quote": "Accelerates go-to-market times by streamlining the environment to deliver robust, mature products ready for users"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Dramatically sped up training runs",
+      "quote": "Dr. Hacid and his team have been able to speed up training runs dramatically, and the AI models are showing excellent results"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Models measured processing more than a thousand tokens per second",
+      "quote": "With Cloud GPUs, TII's models have been measured processing more than a thousand tokens per second"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Delivers reliability at scale for uninterrupted training runs",
+      "quote": "Delivers reliability at scale, ensuring uninterrupted training runs for even the largest LLMs"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "Unlocked serious efficiency gains through Google Cloud support",
+      "quote": "Google Cloud has helped us to unlock some serious efficiency gains"
+    }
+  ]
+}

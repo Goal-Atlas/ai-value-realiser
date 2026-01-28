@@ -1,0 +1,234 @@
+{
+  "case_id": "ihg-ai-self-service-upselling",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer discovery/booking process through AI-powered recommendations. Replicable pattern for hospitality industry.",
+      "evidence_quality_assessment": "Named organization (IHG) with specific scope (6,000 hotels, 19 brands, 100+ countries) but lacks quantified impact metrics. Future-tense language suggests planned rather than implemented capability.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but evidence is forward-looking without performance metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes streamlining of booking process through AI-enabled itinerary building. Clear efficiency improvement in customer journey.",
+      "evidence_quality_assessment": "Named organization with specific process description but no quantified metrics. Future-tense indicates planned capability rather than proven results.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process optimization clearly described but lacks evidence of actual implementation or results"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic strategic statement without specific process optimization described.",
+      "evidence_quality_assessment": "Named organization but claim is too high-level and lacks specific metrics or process details.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too generic; lacks specific functional optimization or measurable outcomes"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Vague strategic statement without specific process or functional improvements described.",
+      "evidence_quality_assessment": "Named organization but claim lacks specificity about what technology innovations or how they drive returns.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague; no specific functional optimization or evidence provided"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of guest services through platform capabilities. Replicable pattern for hospitality customer service.",
+      "evidence_quality_assessment": "Named organizations (IHG, Genesys) but lacks specific metrics. Vendor case study context requires scrutiny for marketing bias.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear service optimization described but vendor source and lack of metrics warrant review"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of contact center operations to improve response times. Replicable pattern across service industries.",
+      "evidence_quality_assessment": "Named organization with specific outcome (faster answers) and traceable source, though metric could be more precise.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional improvement with named organization and specific outcome"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes multiple operational optimizations: operations efficiency, self-service enhancement, and interaction improvement. Replicable across service industries.",
+      "evidence_quality_assessment": "Named organizations with specific functional improvements described, though individual metrics not quantified.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Multiple clear optimizations described with credible organizational attribution"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear evidence of digital channel optimization driving measurable business outcomes. Replicable pattern for mobile commerce.",
+      "evidence_quality_assessment": "Named organization with specific quantified metrics (>20% improvement in revenue, usage, downloads) and time-bound comparison.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with specific metrics and clear functional optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes technical performance optimization with measurable quality outcomes. Replicable pattern for mobile application development.",
+      "evidence_quality_assessment": "Named organization with specific metrics (4.9-star rating, crash-free performance) and verifiable claims.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear technical optimization with quantified quality metrics"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes operational model optimization providing scalability and risk reduction. Replicable pattern for technology development operations.",
+      "evidence_quality_assessment": "Named organization with specific operational benefits described, though not quantified numerically.",
+      "apqc_functions": [
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational optimization with specific benefits described"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear evidence of channel optimization driving growth. Replicable pattern for digital booking channels.",
+      "evidence_quality_assessment": "Named organization with specific outcome (fastest-growing booking channel) indicating measurable performance improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear channel optimization with specific growth outcome"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes dual optimization benefits (guest experience and revenue) but lacks specific process details.",
+      "evidence_quality_assessment": "Named organization but claims are general without specific metrics or detailed process descriptions.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Benefits described but lacks specificity in process optimization or quantified outcomes"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes significant technology infrastructure investment enabling operational capabilities. Replicable pattern for hospitality technology modernization.",
+      "evidence_quality_assessment": "Named organization with specific investment amount ($300M) and detailed scope of technology platforms.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear infrastructure investment with specific amount and scope detailed"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (booking, customer service, technology operations) rather than business model transformation or new revenue streams."
+}

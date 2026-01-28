@@ -1,0 +1,126 @@
+{
+  "case_id": "scania-accelerating-work-across-global-workforce-using-openai-tools",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a partnership announcement, not functional optimization. Being 'first' doesn't describe process improvement.",
+      "evidence_quality_assessment": "Named organization but no specific metrics or measurable outcomes. Vague competitive advantage claim.",
+      "apqc_functions": [],
+      "notes": "Marketing statement without substance about actual capability improvements"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future-oriented promise ('will improve') rather than demonstrated optimization. No specific function identified.",
+      "evidence_quality_assessment": "Named organization but completely vague claims with no metrics or specifics.",
+      "apqc_functions": [],
+      "notes": "Generic promise without measurable outcomes or process details"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Aspirational statement about potential benefits, not demonstrated functional optimization.",
+      "evidence_quality_assessment": "No specific metrics, processes, or evidence of actual implementation.",
+      "apqc_functions": [],
+      "notes": "High-level aspiration without concrete evidence of capability improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce augmentation pattern (employees working 'smarter and more efficiently') which fits Tier 1.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics. Claims are general without quantified improvements.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Describes efficiency improvement pattern but needs specific metrics to be fully credible"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce capability enhancement - junior engineers rapidly acquiring fullstack skills through AI assistance.",
+      "evidence_quality_assessment": "Specific, first-party account with measurable outcome (junior to fullstack transition, deployed projects impacting hundreds).",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong example of AI-enabled skill development with specific outcomes"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes feedback collection process - scales from 5 to 5000 interviews with structured insights. Clear efficiency gain.",
+      "evidence_quality_assessment": "Specific process description with scalability metrics. First-party detailed account.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent example of process automation with clear scalability benefits"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - identifies manual tasks, prioritizes improvements, launches automations with time savings.",
+      "evidence_quality_assessment": "Specific outcomes listed with quantified benefit ('hours every week'). Detailed process improvements.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong capability case with specific process improvements and time savings"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of development workflow - faster feedback loops, improved collaboration efficiency.",
+      "evidence_quality_assessment": "Specific process change described with clear before/after comparison. First-party detailed account.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear process improvement in software development workflow with collaborative benefits"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C5-C8 describe clear functional optimizations in workforce development and software engineering processes. Claims C1-C3 are marketing statements without substance. C4 is borderline but fits the efficiency improvement pattern."
+}

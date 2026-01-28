@@ -1,0 +1,23 @@
+{
+  "case_id": "uber-projected-22m-savings-via-uipath-automation-of-back-office-tasks",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Uber Maintains Global Infrastructure Built on UiPath RPA",
+      "url": "https://www.uipath.com/resources/automation-case-studies/uber-maintains-global-infrastructure-built-on-rpa",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "UiPath automation platform: drive AI transformation with agentic automation | UiPath",
+      "url": "https://www.uipath.com/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "New Era of Advertising | Uber Case Study | Accenture",
+      "url": "https://www.accenture.com/us-en/case-studies/software-platforms/uber-new-era-advertising",
+      "doc_type": "Case Study"
+    }
+  ]
+}

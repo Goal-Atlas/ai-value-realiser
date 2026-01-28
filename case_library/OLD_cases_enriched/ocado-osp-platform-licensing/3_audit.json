@@ -1,0 +1,181 @@
+{
+  "case_id": "ocado-osp-platform-licensing",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes internal deployment efficiency improvements, not business model transformation. Faster deployments are operational optimization.",
+      "evidence_quality_assessment": "Specific metrics from first-party source, but describes Tier 1 optimization activity.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear Tier 1 operational efficiency claim - faster internal deployments don't constitute strategic transformation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Increased deployment frequency is process optimization, not strategic transformation. This is about doing existing work faster/more frequently.",
+      "evidence_quality_assessment": "Specific metrics from credible source, but fundamentally a Tier 1 efficiency gain.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Another Tier 1 operational efficiency metric - more frequent deployments don't change the business model"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Hardware resource reduction is cost optimization, not business model change. Classic Tier 1 efficiency improvement.",
+      "evidence_quality_assessment": "Specific percentage range from first-party source, but describes cost savings not transformation.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear Tier 1 cost reduction claim - using less hardware is operational efficiency, not strategic transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Infrastructure consolidation is internal IT optimization, not strategic business model change. Reduces complexity but doesn't create new value propositions.",
+      "evidence_quality_assessment": "Specific metrics (10 to 1 clusters) from credible source, but describes internal efficiency.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Infrastructure consolidation is Tier 1 operational improvement - doesn't change how Ocado creates value for customers"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of Ocado's automated fulfillment platform - the core technology they license to other retailers. This is evidence of their transformation from retailer to technology platform provider.",
+      "evidence_quality_assessment": "Specific metrics (tens of thousands weekly, 200k orders at capacity) with named facility location. Credible operational data.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Shows the operational capability that underpins Ocado's platform business model - the technology they license to partners"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Self-service analytics adoption is internal process improvement, not business model transformation. Enables better decision-making but doesn't change value creation model.",
+      "evidence_quality_assessment": "Specific user count (700 weekly active) from credible source, but describes internal efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Internal analytics adoption is Tier 1 - improves decision-making efficiency but doesn't transform the business model"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "External reporting capability could support platform business model by providing insights to OSP partners, but unclear if this is customer-facing or internal reporting.",
+      "evidence_quality_assessment": "Specific timeline (3 months) from credible source, but ambiguous whether 'external' means customer-facing or just outside internal teams.",
+      "apqc_functions": [
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "low"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Ambiguous - could be platform capability for partners (tier 1) or just external compliance reporting (Tier 1). Needs clarification."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Internal platform adoption metrics describe organizational efficiency improvements, not strategic transformation. More users accessing analytics is process optimization.",
+      "evidence_quality_assessment": "Specific metrics (2,000 employees, 9 analyst teams) from credible source, but describes internal adoption.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Internal analytics platform adoption is Tier 1 - organizational efficiency improvement, not business model change"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Reusable metrics and consistency gains are internal process improvements, not strategic transformation. Classic efficiency optimization.",
+      "evidence_quality_assessment": "Qualitative description from first-party source, but clearly describes internal efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Metric reusability and consistency are Tier 1 operational efficiencies - don't change the fundamental business model"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates successful OSP platform deployment creating market leadership for a partner. This validates Ocado's transformation from retailer to technology platform provider enabling others' success.",
+      "evidence_quality_assessment": "Specific market position claims (leading in Catalonia, highest-rated in Spain) with named partner and third-party validation (OCU rating).",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of platform business model success - Ocado's technology enabling partner market leadership validates the transformation"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes the core value proposition of Ocado's platform business - providing automated fulfillment technology that enables profitable online grocery operations for partners.",
+      "evidence_quality_assessment": "Qualitative but specific claim about the platform's value proposition from credible source. Describes the fundamental economic benefit Ocado provides to partners.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Captures the essence of Ocado's platform transformation - selling automation technology that solves online grocery profitability for partners"
+    }
+  ],
+  "tier_verification": "This case contains both tier 1 and tier 1 elements. Claims C1-C4, C6, C8-C9 are clearly tier 1 operational improvements (deployment efficiency, resource optimization, internal analytics adoption). Claims C5, C10-C11 are genuine tier 1 transformation evidence showing Ocado's platform business model in action. C7 needs review for clarification. The case should focus on the platform licensing business model, not internal operational improvements."
+}

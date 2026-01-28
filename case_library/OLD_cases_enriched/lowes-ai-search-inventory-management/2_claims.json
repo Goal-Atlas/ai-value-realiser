@@ -1,0 +1,41 @@
+{
+  "case_id": "lowes-ai-search-inventory-management",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S3",
+      "claim": "Lowe's ChatGPT-powered assistant 'Mylow' has doubled conversion rates among users",
+      "quote": "Lowe's is doubling down on e-commerce (and conversions) through its ChatGPT-powered assistant, 'Mylow.' Already live online and in-app, Mylow has delivered double the conversion rate among users"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S4",
+      "claim": "Lowe's customer service score increased 6% from Q3 2018 to Q3 2024",
+      "quote": "Since Ellison joined Lowe's in 2018, its customer service score increased 6% in Q3 2024 compared to Q3 2018"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S4",
+      "claim": "Lowe's sales rose 26% from Q3 2018 to Q3 2024",
+      "quote": "Sales rose 26% during the same period"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S4",
+      "claim": "Professional contractor share of sales grew from 19% to 30%",
+      "quote": "The share of sales from professional contractors \u2014 the target of many CX upgrades \u2014 grew from 19% in 2019 to 30% in the latest quarter"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "MyLowe's Rewards members spend nearly 50% more than non-members",
+      "quote": "Members of MyLowe's Rewards program spend nearly 50% more than non-members with a 'notable increase in repeat shopping rates'"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Visual Scout provides an engaging and gamified shopping experience that encourages customer engagement and conversion",
+      "quote": "As the service updates in real time, Visual Scout provides an engaging and gamified shopping experience that encourages customer engagement and, ultimately, conversion"
+    }
+  ]
+}

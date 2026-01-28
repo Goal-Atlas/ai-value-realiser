@@ -1,0 +1,29 @@
+{
+  "case_id": "loreal-genai-creative-concept-generation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How L'Or\u00e9al Groupe pioneers responsible AI visuals with Veo and Imagen | Google Cloud Blog",
+      "url": "https://cloud.google.com/transform/loreal-ai-content-creation-veo-imagen-creaitech-next25",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "L'Or\u00e9al accelerates content creation with Adobe Firefly generative AI",
+      "url": "https://business.adobe.com/blog/adobe-firefly-loreal-ideation",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Gen AI content lab to augment creativity at L'OR\u00c9AL",
+      "url": "https://www.euroshop-tradefair.com/en/euroshopmag/gen-ai-content-lab-to-augment-creativity-at-loreal",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "L'Or\u00e9al unleashes science, technology and creativity to forge new beauty frontiers at Viva Technology 2025",
+      "url": "https://www.loreal.com/en/press-release/research-and-innovation/l-oreal-unleashes-science-technology-and-creativity-to-forge-new-beauty-frontiers-at-viva-technology-2025/",
+      "doc_type": "Press Release"
+    }
+  ]
+}

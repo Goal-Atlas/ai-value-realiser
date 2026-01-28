@@ -1,0 +1,83 @@
+{
+  "case_id": "clearwater-analytics-ai-platform-business-growth",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Clearwater-GPT will enable significant productivity gains, cost reductions, and competitive advantage",
+      "quote": "Clearwater-GPT promises to be an extraordinary breakthrough for our clients that will enable significant productivity gains, cost reductions, and an enviable competitive advantage."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Clearwater-GPT is already driving operational improvements and reducing costs",
+      "quote": "Clearwater-GPT is already being used by our employees to drive operational improvements and handle customer requests faster across business functions modernizing the client experience and reducing our own costs."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI will help clients grow their assets under management through tailored content",
+      "quote": "Clearwater-GPT will empower investors to access their data through interactive prompts and use insightful, accurate, tailored AI-generated content to grow their assets under management."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Migration to Atlassian Cloud saved $75,000 per year in hosting costs",
+      "quote": "Clearwater Analytics unlocked efficiency, visibility, and security, saving $75k per year on hosting costs by migrating to Atlassian Cloud Premium"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Cloud automation functionality provides significant time savings",
+      "quote": "The automation functionality within Atlassian cloud has been leaps and bounds above the Data Center experience. Moving into Jira Service Management cloud and building out a lot of automation to create or even eliminate tickets has been a huge time savings too."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AWS migration enabled handling 200% more resources",
+      "quote": "With more nimble and efficient technology operations on AWS, Clearwater can handle 200 percent more resources, meaning that it can accelerate innovation for customers and scale to match its global business growth."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "AWS reduced account provisioning time from 2 weeks to 2 hours",
+      "quote": "Now, developers can access AWS resources in 5 minutes in a sandbox environment, and it takes 2 hours instead of 2 weeks to spin up an AWS account set for projects."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Record quarterly revenue of $106.8 million, up 19% year-over-year",
+      "quote": "Record Quarterly Revenue of $106.8 Million, Up 19% Year-Over-Year"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Adjusted EBITDA increased 35% year-over-year to $33.4 million",
+      "quote": "Adjusted EBITDA of $33.4 Million, Up 35% Year-Over-Year"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Operating cash flows increased 108% year-over-year to $43.9 million",
+      "quote": "Operating Cash Flows of $43.9 Million, Up 108% Year-Over-Year"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Free cash flows grew 117% compared to previous year",
+      "quote": "Finally, our free cash flows grew by 117% compared to the previous year"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Annualized Recurring Revenue reached $427.2 million, up 22% year-over-year",
+      "quote": "Annualized Recurring Revenue of $427.2 Million, Up 22% Year-Over-Year"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "High customer retention with 99% gross revenue retention rate",
+      "quote": "Gross Revenue Retention Rate of 99%"
+    }
+  ]
+}

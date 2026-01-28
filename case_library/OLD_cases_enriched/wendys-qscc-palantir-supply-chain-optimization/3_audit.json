@@ -1,0 +1,115 @@
+{
+  "case_id": "wendys-qscc-palantir-supply-chain-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims 'new sales' which could indicate revenue generation (tier 1), but also mentions 'operating efficiencies' which fits Tier 1. The phrase 'new sales' is ambiguous - could mean better conversion of existing opportunities or entirely new revenue streams.",
+      "evidence_quality_assessment": "Very generic language with no specific metrics or measurable outcomes. 'Competitive advantage' and 'leveraging power' are marketing speak without substance.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Vague marketing language without specific metrics. 'New sales' element may indicate tier 1 characteristics."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of decision-making processes through better data integration, which fits Tier 1. However, lacks specificity about which decisions or processes are being improved.",
+      "evidence_quality_assessment": "Named organizations (Wendy's/QSCC and Palantir) but no quantified improvements. 'Improved speed and scale' is directional but not measurable.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization intent but lacks specific metrics or measurable outcomes."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clearly describes supply chain optimization through AI implementation, which is classic Tier 1 functional improvement. Cost savings and efficiency improvements are appropriate Tier 1 outcomes.",
+      "evidence_quality_assessment": "Named organizations but completely lacks quantification. 'Cost savings and efficiency improvements' without any metrics or timeframes makes this difficult to verify or benchmark.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 but lacks any quantified evidence of impact."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is generic vendor marketing speak that doesn't describe any specific functional optimization or process improvement. No clear connection to operational efficiency gains.",
+      "evidence_quality_assessment": "Completely generic claim with no specific metrics, processes, or measurable outcomes. Pure marketing language without substantive content.",
+      "apqc_functions": [],
+      "notes": "Generic vendor marketing without any specific functional claims or evidence."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of customer loyalty/rewards function through personalization, which is a clear efficiency improvement in customer relationship management. Replicable pattern for other retailers.",
+      "evidence_quality_assessment": "Named organization with specific description of functionality (analyzing customer data for personalized rewards). While not quantified, the process description is concrete and verifiable.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization with specific process description, though lacks quantified metrics."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes automation and optimization of the ordering process, which is a clear operational efficiency improvement. Natural language processing to improve order accuracy and customer interaction is a replicable pattern.",
+      "evidence_quality_assessment": "Specific description of functionality and process improvements. While not quantified, the operational benefits (automated ordering, natural conversation, query handling) are concrete and observable.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational optimization with specific process improvements described, though lacks quantified impact metrics."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on operational optimization and efficiency improvements within existing business functions. C1 has some ambiguity with 'new sales' but appears to refer to better conversion rather than new business models."
+}

@@ -1,0 +1,41 @@
+{
+  "case_id": "salesforce-einstein-internal-portal",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Einstein makes over 80 billion predictions daily, demonstrating massive scale and AI processing power",
+      "quote": "According to Salesfoce, Einstein makes more than 80 billion predictions daily, showcasing its power and dominance in AI."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Einstein launch generated significant media coverage and reinforced Salesforce's market leadership position",
+      "quote": "The groundbreaking AI innovation drew press coverage in Fortune, Forbes, Business Insider, TechCrunch, Bloomberg, and USA Today reinforced Salesforce's leadership as a tech disruptor on a global scale."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Einstein launch reached massive audience engagement with 170,000 onsite and 15 million online viewers",
+      "quote": "When 170,000 people watching onsite (and 15 million watching online) saw Einstein interacting with Benioff and Harris, the buzz meter flew into overdrive."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Einstein provides predictive lead scoring by analyzing historical data patterns and engagement metrics",
+      "quote": "Einstein Lead Scoring: Uses historical data patterns to rank prospects based on likelihood to convert, analyzing factors like email engagement, website behavior, and demographic information."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Einstein delivers deal-level predictions and risk assessments for sales opportunities",
+      "quote": "Einstein Opportunity Insights: Provides deal-level predictions and risk assessments by examining past won/lost patterns, competitor mentions, and engagement trends."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Einstein automates administrative tasks by automatically logging emails and calendar events",
+      "quote": "Einstein Activity Capture: Automatically logs emails and calendar events into Salesforce records, though this feature has known limitations in accurately attributing activities to the correct opportunities."
+    }
+  ]
+}

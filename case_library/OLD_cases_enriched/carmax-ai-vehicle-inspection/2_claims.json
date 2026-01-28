@@ -1,0 +1,59 @@
+{
+  "case_id": "carmax-ai-vehicle-inspection",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered vehicle inspection systems provide detailed condition reports with high-resolution photos while detecting issues in seconds",
+      "quote": "The UVeye technology scans the vehicle's body, tires and undercarriage to produce a vehicle condition report that includes high-resolution photos while also detecting missing parts, damage, leaks and other issues, according to the release. When a vehicle is driven through the system, the technology scans it within seconds, the release said."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI inspection systems deliver consistent and accurate results in real time",
+      "quote": "In the case of the UVeye inspection systems, AI and high-definition cameras work together to produce vehicle condition reports in real time and with consistent and accurate results, according to the press release."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI-powered reports give consumers confidence in recommended repairs and help dealerships identify unknown vehicle flaws",
+      "quote": "As PYMNTS reported in July, repair shops use the AI-powered reports to give consumers confidence that a recommended repair is needed, and dealerships use it to show the car owners flaws that they may not have known about."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Virtual assistant Skye creates operational efficiencies and widens bandwidth for associates",
+      "quote": "Customer adoption of Skye has been strong, and this has not only created efficiencies, but also widened bandwidth for our associates"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI-enhanced vehicle condition reports improve wholesale auction platform capabilities",
+      "quote": "On the wholesale side, CarMax has enhanced its auction platform to include single sign-on across all its systems, AI-enhanced vehicle condition reports, early bidding capabilities and automated bills of sale."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI improvements in appraisal systems increase accuracy and speed of vehicle valuations",
+      "quote": "Our systems are using AI to continuously improve the accuracy and speed of appraisals and optimize vehicle transfers"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "CarMax completed over 14 million online appraisals demonstrating significant digital engagement scale",
+      "quote": "CarMax completed more than 14 million online appraisals during fiscal 2024."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Data science optimization improves marketing spend efficiency and inventory alignment",
+      "quote": "We are using data science to optimize our marketing spend and better align inventory with customer needs"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Centralized tech platforms enable automation, cost reduction, and operational consistency",
+      "quote": "These systems enable automation, lower costs, and ensure consistency across CarMax's extensive footprint."
+    }
+  ]
+}

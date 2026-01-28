@@ -1,0 +1,102 @@
+{
+  "case_id": "meditech-saved-7-hours-employee-week-admin-tasks-gemini",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - automating administrative tasks is a classic efficiency gain pattern. Highly replicable across knowledge work organizations.",
+      "evidence_quality_assessment": "Named organization (MEDITECH) with specific quantified metric (7 hours/employee/week). However, lacks detail on methodology, sample size, or measurement period. Source authority unclear from provided information.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong time savings claim but needs verification of measurement methodology and broader context"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce optimization outcome - enabling focus on higher-value work is a legitimate efficiency pattern. Replicable wherever routine tasks can be automated.",
+      "evidence_quality_assessment": "Qualitative claim from named organization but lacks specific metrics or measurement approach. Job satisfaction is subjective and hard to verify without survey data or methodology.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.4",
+          "name": "Manage change",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization outcome but needs quantitative backing or survey methodology"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - AI summarization improving information access speed is a well-established efficiency pattern. Highly replicable across information-intensive industries.",
+      "evidence_quality_assessment": "Named organization with specific functional improvement described. While not quantified, the process improvement is concrete and observable.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process improvement with replicable pattern, though would benefit from speed/efficiency metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization example - automating specific manual tasks (notetaking, document drafting) with clear efficiency gains. Pattern highly replicable across knowledge work.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric and concrete examples of automated tasks. Provides sufficient detail to understand the optimization scope.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability case with specific tasks identified and quantified savings. Good replicability evidence."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce optimization outcome - freeing employees for innovation work is a valid efficiency pattern. Replicable where routine task automation is possible.",
+      "evidence_quality_assessment": "Named organization but purely qualitative claim about job satisfaction and innovation focus. Lacks measurement methodology or specific metrics for verification.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.4",
+          "name": "Manage change",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization outcome but needs quantitative support or survey methodology to verify satisfaction and innovation claims"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization of existing administrative and knowledge work processes rather than business model changes or new revenue streams."
+}

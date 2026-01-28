@@ -1,0 +1,235 @@
+{
+  "case_id": "airbus-ai-aircraft-structure-design-supply-chain",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of design and production processes, reducing quality issues and lead times. Replicable pattern for complex manufacturing.",
+      "evidence_quality_assessment": "Named organization with specific example (A320 family), but lacks quantified metrics. Claims are qualitative ('significantly reducing') rather than specific.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantified evidence for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing R&D and design validation processes by reducing physical prototyping needs. Clear efficiency gain with broad applicability.",
+      "evidence_quality_assessment": "Named organization, specific process improvement described, authoritative first-party source. Clear mechanism explained.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear capability enhancement with strong evidence quality"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes manufacturing processes through simulation and workflow prediction. Replicable for complex manufacturing environments.",
+      "evidence_quality_assessment": "Named organization but vague metrics ('boosting efficiency'). Process description is clear but impact quantification missing.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but lacks specific performance metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of operational monitoring capability. Enables data-driven maintenance and operations optimization.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (12,000 aircraft). Clear operational scope and authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of operational scale and capability deployment"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Addresses supply chain constraints through alternative manufacturing approach. Clear operational optimization with measurable output.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (25,000 parts annually). Clear business problem and solution.",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear supply chain optimization with strong quantified evidence"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates operational scale and certification achievement in manufacturing process optimization.",
+      "evidence_quality_assessment": "Named organizations (Airbus/Stratasys) with specific quantified metric (200,000 parts). Operational deployment evidence.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of scaled manufacturing capability optimization"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear manufacturing optimization achieving significant weight reduction. Highly replicable pattern for aerospace manufacturing.",
+      "evidence_quality_assessment": "Named organizations with specific quantified metric (43% weight reduction on A350). Credible third-party source.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent quantified evidence of manufacturing process optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes procurement and supply chain processes by eliminating MOQ constraints and reducing lead times. Highly replicable.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (85% lead time reduction). Clear operational improvement.",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong quantified evidence of supply chain process optimization"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic optimization of quality inspection processes through AI automation. Clear efficiency gain with broad manufacturing applicability.",
+      "evidence_quality_assessment": "Named organization with specific quantified improvement (hundreds to millions of images per minute). Authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Exceptional quantified evidence of inspection process optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear quality and manufacturing process optimization through error reduction and accuracy improvement.",
+      "evidence_quality_assessment": "Named organization but vague impact metrics ('significant savings', 'dramatic improvement'). Lacks specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantified savings/improvement metrics"
+    },
+    {
+      "claim_id": "C11",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes market forecasting capabilities for better demand planning. Replicable pattern for market analysis functions.",
+      "evidence_quality_assessment": "Named organizations (Airbus/Atlas AI) but qualitative assessment ('better reflect'). Initial deployment phase suggests limited validation.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but early-stage deployment with qualitative evidence"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Enhances market analysis and demand forecasting capabilities. Clear functional optimization potential.",
+      "evidence_quality_assessment": "Named organization but speculative language ('could significantly improve'). Future potential rather than demonstrated results.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic fit clear but evidence is prospective rather than demonstrated results"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (design, manufacturing, quality control, supply chain, market analysis) rather than business model transformation or new revenue streams."
+}

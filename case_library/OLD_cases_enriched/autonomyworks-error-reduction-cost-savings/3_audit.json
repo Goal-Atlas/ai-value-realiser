@@ -1,0 +1,102 @@
+{
+  "case_id": "autonomyworks-error-reduction-cost-savings",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims functional optimization (accuracy in report production/QA) but lacks specificity about what was improved or how AI contributed to accuracy gains.",
+      "evidence_quality_assessment": "Named organizations (AutonomyWorks, Rise) but no quantified metrics or specific process improvements. Claims are generic ('ensuring accuracy') without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Functional optimization implied but evidence too vague for strong approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims efficiency improvements in existing reporting function, which fits Tier 1 pattern, but no specific efficiency metrics or process details provided.",
+      "evidence_quality_assessment": "Named organizations but 'efficiency' claim is unquantified. No baseline comparison or specific improvement measures provided.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Efficiency optimization claimed but lacks quantification for strong validation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Scalability in reporting operations suggests process optimization, fitting Tier 1, but unclear what specific scalability improvements were achieved.",
+      "evidence_quality_assessment": "Named organizations but 'scalability' is not quantified. No metrics on volume increases, capacity improvements, or resource efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scalability improvement implied but needs quantification for validation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - maintaining rapid turnaround times in report delivery process. Specific time window provided shows measurable performance standard.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (2-3 hour turnaround from data to delivery). Measurable and verifiable claim.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with specific time metrics for process optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of decision-support processes through timely report delivery, fitting Tier 1 pattern of improving existing functions.",
+      "evidence_quality_assessment": "Named organization and specific deliverables mentioned (weekly/daily reports, optimization tools, pacing analyses) but no quantified improvement metrics or baseline comparison.",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "1.3",
+          "name": "Develop and measure strategic initiatives",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process optimization described but lacks quantified evidence of improvement"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing reporting and analytics functions rather than business model innovation or new revenue streams"
+}

@@ -1,0 +1,41 @@
+{
+  "case_id": "endex-openai-financial-model-reconciliation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Endex achieves 3x faster intelligence with OpenAI o3-mini",
+      "quote": "With OpenAI o3-mini, Endex gains 3x faster intelligence, enabling multi-step workflows like automating financial model reconciliation."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Endex simplifies complex workflows without sacrificing accuracy",
+      "quote": "Endex previously used complex prompts, chained completions, and verification steps. With OpenAI o1, it's now simpler without sacrificing accuracy."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Endex automates financial model reconciliation and frees analyst time for decision-making",
+      "quote": "Endex identifies discrepancies in financial data, flagging restatements and inconsistencies with citations, freeing analysts time for decisions."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Endex unlocks new levels of efficiency, insight, and institutional knowledge",
+      "quote": "By embedding advanced AI agents directly within Excel, Endex empowers finance teams to automate complex modeling and data workflows, unlocking new levels of efficiency, insight, and institutional knowledge while maintaining the highest standards of data security and compliance."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Early users from hedge funds describe Endex as transformative",
+      "quote": "Early users from hedge funds are calling it transformative, with some comparing the experience to 'seeing ChatGPT for the first time.'"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Endex enables finance professionals to focus on strategic thinking by handling repetitive tasks",
+      "quote": "Endex is building a future where finance professionals can focus on strategic thinking and creativity, with technology handling the repetitive, error-prone tasks of data gathering, reconciliation, and reporting."
+    }
+  ]
+}

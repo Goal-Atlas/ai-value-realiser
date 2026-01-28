@@ -1,0 +1,59 @@
+{
+  "case_id": "deutsche-bank-ai-research-tool-report-creation-time-reduction",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "DB Lumina was adopted by hundreds of research analysts after 12 months of development",
+      "quote": "The adoption of the DB Lumina digital assistant by hundreds of research analysts is the culmination of more than 12 months of intense collaboration between dbResearch, our internal development team, and many others."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "DB Lumina helps automate data analysis, streamline workflows, and deliver more accurate and timely insights",
+      "quote": "We created DB Lumina \u2014 an AI-powered research agent that helps automate data analysis, streamline workflows, and deliver more accurate and timely insights \u2013 all while maintaining the stringent data privacy requirements for the highly regulated financial sector."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "DB Lumina can perform tasks like summarization, proofreading, translation, and content drafting with precision and speed",
+      "quote": "DB Lumina can help with tasks like summarization, proofreading, translation, and content drafting with precision and speed."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "The goal was to enhance the research analyst experience and reduce the reliance on manual processes and outsourcing",
+      "quote": "Our goal was to enhance the research analyst experience and reduce the reliance on manual processes and outsourcing."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Banks are reducing repetitive tasks by 40 to 60% using AI tools",
+      "quote": "From JPMorgan's AI pitchbook tools to Deutsche Bank's internal copilots, banks are reducing repetitive tasks by 40 to 60%."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI enables tasks that take 10 hours to be completed in 10 seconds",
+      "quote": "AI will enable us to do tasks that take 10 hours in 10 seconds \u2013 Jay Horine, Co-Head of Investment Banking at JPMorgan"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "One AI-empowered analyst can do the work of five analysts",
+      "quote": "One AI-empowered analyst can do the work of five."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "A 15-person firm with AI tools can outperform a 50-person team",
+      "quote": "With the right AI tools, a 15-person firm can outperform a 50-person team. \u2013 Artis M&A founder"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Smaller hedge funds are seeing 40%+ efficiency gains from AI",
+      "quote": "Even smaller hedge funds are seeing 40%+ efficiency gains, according to Hedgeweek."
+    }
+  ]
+}

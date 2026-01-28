@@ -1,0 +1,140 @@
+{
+  "case_id": "hong-leong-bank-improved-digital-banking-experience-and-employee-workflows-using-gemini-models",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - digitizing account onboarding process to eliminate physical branch visits. This is a replicable pattern for banking institutions.",
+      "evidence_quality_assessment": "Named organization (Hong Leong Bank), specific achievement (first in Malaysia), traceable claim with clear process improvement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing process digitization with clear efficiency gains"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes specific process optimization - reducing account opening to three steps via mobile app. Clear efficiency improvement in existing banking function.",
+      "evidence_quality_assessment": "Specific process description with named app (Apply@HLB) and clear step-by-step workflow. Traceable and detailed.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good process optimization detail showing workflow simplification"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Indicates digital adoption trend but lacks specific process optimization details. More observational than operational improvement.",
+      "evidence_quality_assessment": "Vague metrics ('significant shift') without quantification. Time period specified (7 months) but no measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Too vague on specific improvements; lacks quantified benefits"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims process simplification and customer experience improvement but lacks specific operational details about what was optimized.",
+      "evidence_quality_assessment": "Very general claim without specific metrics or process details. 'Delightful experience' is subjective without measurement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic claim but insufficient operational specificity for strong Tier 1 evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization in loan processing with quantified efficiency gains. Digital platform improved existing lending operations.",
+      "evidence_quality_assessment": "Specific quantified metrics (300% increase, S$99M to S$400M), named organization (HLF), clear timeframe (2023-2024).",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear metrics showing process optimization results"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims operational streamlining and user experience enhancement but lacks specific process details or measurable outcomes.",
+      "evidence_quality_assessment": "General claim without specific metrics, processes, or quantified improvements. Too high-level for strong evidence.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Conceptual claim lacking operational specificity and measurable outcomes"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear operational optimization through scalable infrastructure and partnerships, targeting cost reduction and service quality improvement.",
+      "evidence_quality_assessment": "Named organization and specific partnership (WeBank), clear operational benefits (cost reduction, service quality), though metrics not quantified.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good operational optimization claim with named partnership, though would benefit from quantified cost savings"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on optimizing existing banking and financial services functions rather than creating new business models or revenue streams."
+}

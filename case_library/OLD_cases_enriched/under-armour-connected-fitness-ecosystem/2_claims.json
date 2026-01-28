@@ -1,0 +1,77 @@
+{
+  "case_id": "under-armour-connected-fitness-ecosystem",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Under Armour has built the world's largest digital health and fitness community",
+      "quote": "The Under Armour Connected Fitness\u2122 platform powers the world's largest digital health and fitness community through a suite of applications: UA Record, MapMyFitness, Endomondo and MyFitnessPal."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Under Armour's health and fitness community has more than 160 million members",
+      "quote": "We know through our family of world-class athletes, trainers, and more than 160 million community members that what can be accomplished during your workouts can easily be undone in everyday life."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "UA Record platform has over 400 partner apps and devices integrated",
+      "quote": "UA Record is powered by the Under Armour Connected Fitness\u2122 API/SDK platform (developer.underarmour.com), an open platform with more than 400 partner apps and devices."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Connected fitness products will empower athletes with information to make better decisions and enrich their lives in unprecedented ways",
+      "quote": "With the HealthBox suite of products being introduced, athletes will be empowered with the information to make better decisions and ultimately enrich their lives in a way that's never been done before."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Connected HOVR shoes with MapMyRun technology actually help runners improve performance",
+      "quote": "The new MapMyRun technology in all connected HOVR shoes is shown to actually help runners get better. Using data like pace, cadence, stride length and more, the MapMyRun app now offers a personalized coaching experience for each runner, meaning users are motivated to log more workouts and get faster."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "The connected ecosystem enables runners to train without carrying their phone while still receiving real-time feedback",
+      "quote": "Now, runners can run free from their phone, but still receive real-time feedback on cadence, stride length, distance, pace and more."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "UA HealthBox is positioned as the world's first Connected Fitness system",
+      "quote": "UA HealthBox\u2122, the world's first Connected Fitness system"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "UA SpeedForm Gemini 2 provides an untethered running experience allowing device-free running",
+      "quote": "This cutting-edge footwear provides an untethered running experience and allows the athlete to run device-free."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Under Armour's membership program creates lock-in effects to retain users in the ecosystem",
+      "quote": "These kinds of membership programs create continual touchpoints and incentives and finally lock-in effects to remain in the ecosystem."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Under Armour's main revenue is generated from Direct-to-customer and retail business",
+      "quote": "Under Armour's main source of revenue is generated from their Direct-to-customer (DTC) and retail business of sports clothing, shoes and hardware."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Connected products and apps help Under Armour gain relevant user data and understand customer needs",
+      "quote": "All these initiatives pay into the ambition to gain relevant user data and find out more about the needs of the customers."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "Performance Centers extend user experience from products to services and create additional lock-in effects",
+      "quote": "These offerings extend the user experience from the product to services and also create further lock-in effects."
+    }
+  ]
+}

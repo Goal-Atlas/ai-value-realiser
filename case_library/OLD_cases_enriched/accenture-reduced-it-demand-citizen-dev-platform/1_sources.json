@@ -1,0 +1,23 @@
+{
+  "case_id": "accenture-reduced-it-demand-citizen-dev-platform",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Citizen Developers | Power Platform Case Study",
+      "url": "https://www.accenture.com/us-en/case-studies/about/citizen-development",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Citizen Development Gives IT Power to the People | Accenture",
+      "url": "https://www.accenture.com/us-en/blogs/how-accenture-does-it/how-citizen-development-puts-it-power-in-the-hands-of-your-people",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Accenture Transforms Blueriq's Application Platform with Scalable Infrastructure on AWS | Accenture & Blueriq Case Study | AWS",
+      "url": "https://aws.amazon.com/partners/success/blueriq-accenture/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

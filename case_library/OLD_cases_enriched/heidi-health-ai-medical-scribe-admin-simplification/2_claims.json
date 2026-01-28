@@ -1,0 +1,77 @@
+{
+  "case_id": "heidi-health-ai-medical-scribe-admin-simplification",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Heidi Health's AI tool reduces documentation time during appointments by 51%",
+      "quote": "In the 25-day trial, 47 GPs across more than 2,800 patient consultations saw documentation time during appointments reduce by 51%"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "After-hours administrative work dropped by 61%",
+      "quote": "after-hours admin drop by 61%"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "78% of GPs reported building better rapport with patients",
+      "quote": "more than three quarters (78%) of GPs said they built better rapport with patients"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "78% of GPs reported lower cognitive load and improved focus",
+      "quote": "78% reported lower 'cognitive load' and improved focus"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Documentation-related stress reduced by 58%",
+      "quote": "This shift contributed to a 58% reduction in documentation-related stress"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "18% of clinicians reported greater enjoyment in their work",
+      "quote": "nearly one in five clinicians (18%) reported greater enjoyment in their work"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Heidi is used by 1 in 2 GPs across the UK and supports over 1.5 million NHS appointments monthly",
+      "quote": "Heidi is used by 1 in 2 GPs across the UK, in 15 NHS trusts and supports over 1.5 million NHS appointments every month"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Heidi Health achieved a $465 million valuation with nearly $100 million in total funding",
+      "quote": "The round brings the company's valuation to $465 million and its total funding to nearly $100 million"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "50% of clinicians' time is not spent on patient care",
+      "quote": "50% of clinicians' time is not spent on patient care"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Clinicians spend more than 2 hours daily on non-patient care tasks",
+      "quote": "Clinicians spend more than 2 hours every day on tasks other than patient care"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "Clinicians lose an average of $65,000 annually due to wasted time",
+      "quote": "Clinicians lose an average of $65,000 every year due to wasted time"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Doctors can be 2x faster and better in patient care tasks",
+      "quote": "Doctors can be 2x faster and better in patient care tasks"
+    }
+  ]
+}

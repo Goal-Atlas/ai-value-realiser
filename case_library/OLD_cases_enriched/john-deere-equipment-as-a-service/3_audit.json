@@ -1,0 +1,163 @@
+{
+  "case_id": "john-deere-equipment-as-a-service",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of platform transformation - 1M+ connected machines represents fundamental shift from selling equipment to operating connected ecosystem",
+      "evidence_quality_assessment": "Specific metrics from executive statements, credible scale indicators",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of platform-scale transformation with specific connected asset metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Core transformation evidence - digital platform becomes commerce channel, fundamentally changing how value is delivered beyond equipment sales",
+      "evidence_quality_assessment": "Clear description of new revenue mechanisms through digital channels",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates shift from product sales to platform-mediated recurring commerce"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Forward-looking targets suggest confidence in transformation model but don't demonstrate current transformation",
+      "evidence_quality_assessment": "Specific targets from company but these are projections, not demonstrated results",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Ambitious targets suggest transformation confidence but lack current performance validation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Traditional market position data - describes existing business, not transformation",
+      "evidence_quality_assessment": "Specific revenue figure but describes traditional equipment manufacturing model",
+      "apqc_functions": [
+        {
+          "id": "1.1",
+          "name": "Define the business concept and long-term vision",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Background context only - describes traditional business model, not transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes value creation through platform but focuses on operational efficiency rather than business model change",
+      "evidence_quality_assessment": "General description of platform benefits but lacks specific transformation metrics",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Platform value description but borderline Tier 1 (efficiency) vs tier 1 (transformation)"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates strategic transformation - software platform justifies premium pricing, changing competitive dynamics from commodity to differentiated offering",
+      "evidence_quality_assessment": "Clear strategic rationale for platform integration affecting pricing power",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Shows how platform strategy transforms competitive positioning and pricing power"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Platform creates ecosystem lock-in effects - fundamental change from competing on individual products to platform network effects",
+      "evidence_quality_assessment": "Clear description of strategic platform effects on customer behavior",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates platform network effects creating new competitive moats"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific recurring revenue model - $195/machine annually represents shift from one-time equipment sales to ongoing service subscriptions",
+      "evidence_quality_assessment": "Specific pricing for subscription services with clear recurring revenue structure",
+      "apqc_functions": [
+        {
+          "id": "5.1",
+          "name": "Establish service delivery governance and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of Equipment-as-a-Service model with specific subscription pricing"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Platform monetization extends beyond direct customers to ecosystem participants - creates multi-sided market",
+      "evidence_quality_assessment": "Specific pricing for third-party access demonstrates platform business model",
+      "apqc_functions": [
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "medium"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Multi-sided platform revenue from ecosystem participants beyond direct customers"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case demonstrates genuine business model transformation from equipment manufacturer to platform operator with recurring revenue, ecosystem lock-in, and multi-sided market dynamics. The 'remove the AI/platform test' confirms transformation - without the connected platform, John Deere reverts to traditional equipment sales without the recurring revenue, pricing power, or ecosystem effects."
+}

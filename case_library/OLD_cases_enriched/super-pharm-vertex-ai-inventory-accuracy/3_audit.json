@@ -1,0 +1,111 @@
+{
+  "case_id": "super-pharm-vertex-ai-inventory-accuracy",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of demand forecasting process. '10x efficiency' is a replicable pattern for inventory management systems.",
+      "evidence_quality_assessment": "Named organization (Super-Pharm) but '10x efficiency' lacks specific methodology or baseline definition. What does 'efficiency' measure - time, accuracy, resources?",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic fit but vague efficiency metric needs clarification"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of inventory accuracy function with specific, measurable improvement. Pattern applicable to other retailers with inventory management challenges.",
+      "evidence_quality_assessment": "Named organization with specific quantified metrics (50% to 90% accuracy). Clear baseline and outcome measurement.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case with clear functional improvement and specific metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes a business outcome/milestone rather than a functional optimization. Online sales surpassing brick-and-mortar indicates channel shift, not process improvement.",
+      "evidence_quality_assessment": "While factual and specific, this claim doesn't describe AI-driven functional optimization.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Not a Tier 1 capability case - describes business outcome rather than process optimization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce optimization through AI automation. Reducing 8-person team while improving accuracy is a replicable efficiency pattern.",
+      "evidence_quality_assessment": "Named organization with specific staffing reduction (8-person team) and qualitative improvements described. Credible operational detail.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing workforce augmentation and process efficiency gains"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes service capability enablement (24-hour delivery) but unclear if this is process optimization or new service offering. Could be either Tier 1 or tier 1.",
+      "evidence_quality_assessment": "Named organization with specific service metric (24 hours) but lacks detail on how AI enables this versus business strategy decision.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Ambiguous - could be process optimization or new service model. Needs clarification on AI's specific role."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear problem statement showing inventory optimization preventing revenue loss. Describes functional improvement in demand prediction and inventory management.",
+      "evidence_quality_assessment": "Named organization with clear problem description and outcome (prevented revenue loss). Establishes baseline (on-premise tools inadequacy).",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good Tier 1 case showing risk reduction and revenue protection through process improvement"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe functional optimization of inventory management, demand forecasting, and workforce efficiency. C3 is not a capability case, and C5 needs review for potential tier 1 elements."
+}

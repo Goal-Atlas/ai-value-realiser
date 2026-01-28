@@ -1,0 +1,71 @@
+{
+  "case_id": "morgan-stanley-ai-assistant-financial-advisors",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "98% adoption rate of AI assistant by financial advisors",
+      "quote": "The use of the AI @ Morgan Stanley Assistant has reached 98%, the firm says"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "AI drives immense efficiency in advisors' daily work, allowing more time for client engagement",
+      "quote": "AI @ Morgan Stanley Debrief drives immense efficiency in an advisors' day-to-day, allowing more time to spend on meaningful engagement with their clients"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "Document retrieval efficiency improved from 20% to 80%",
+      "quote": "Tools like AI @ Morgan Stanley Assistant boosted document retrieval efficiency from 20% to 80%"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "AI scaled to handle over 100,000 document queries",
+      "quote": "allowed the firm to scale from handling 7,000 to over 100,000 document queries"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Over 98% of advisors actively use the AI assistant",
+      "quote": "Adoption has been exceptionally high, with over 98 percent of advisors actively using the AI assistant, demonstrating both utility and trust in the system"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "AI helped close 100,000 new clients year-to-date",
+      "quote": "Successful referrals have now doubled at the firm to over 100,000 year-to-date, Yeshaya said"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Record $64 billion in net new assets in Q3, 76% increase over previous quarter",
+      "quote": "The Wall Street investment bank reported record revenue and profits in its wealth management unit last week, racking up almost $64 billion in new assets in the third quarter alone. For those keeping track, it's a 76% increase over the previous quarter and an almost 80% jump year-over-year"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI frees up about 30 minutes per client meeting",
+      "quote": "A Morgan Stanley financial advisor in Houston, cited in a press release, said Debrief freed up about half an hour of time per client meeting"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Client assets grew to record $6 trillion",
+      "quote": "That extra time has helped Morgan Stanley grow client assets to a record $6 trillion"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "98% of teams regularly use the AI knowledge assistant",
+      "quote": "Known as the AI knowledge assistant, it has already seen widespread adoption, with 98% of teams using it regularly"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "AI tools reduce operational costs and allow strategic resource allocation",
+      "quote": "Morgan Stanley's AI initiatives have also resulted in considerable cost savings. The reduction in time spent on routine tasks translates into lower operational costs and allows the company to allocate resources more strategically"
+    }
+  ]
+}

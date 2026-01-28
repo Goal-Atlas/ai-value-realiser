@@ -1,0 +1,29 @@
+{
+  "case_id": "klap-ai-video-platform-turns-hours-of-editing-into-minutes-for-creators",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Klap / Zigg case study | Google Cloud",
+      "url": "https://cloud.google.com/customers/klap-app",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How to Convert Long Videos into Viral Short-Form Content",
+      "url": "https://klap.app/blog/convert-long-video-to-short-form-content",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "How a Video Clip Generator AI Can Transform Your Content",
+      "url": "https://klap.app/blog/video-clip-generator-ai",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Content Repurposing Strategy: 7 Proven Methods to Maximize Your Content ROI",
+      "url": "https://klap.app/blog/content-repurposing-strategy",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

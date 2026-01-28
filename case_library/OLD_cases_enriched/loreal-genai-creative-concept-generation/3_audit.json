@@ -1,0 +1,149 @@
+{
+  "case_id": "loreal-genai-creative-concept-generation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of creative asset generation process. Replicable pattern for other brands needing visual content creation.",
+      "evidence_quality_assessment": "Named organization (L'Oréal) but lacks specific quantified metrics. Claims are qualitative ('high-quality', 'perfectly aligned') without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but evidence quality weakened by lack of quantified improvements"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of content creation workflow. Pattern applicable across marketing organizations.",
+      "evidence_quality_assessment": "Named organization but 'significantly speeds up' is vague without specific metrics or timeframes.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantification of speed improvements"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes video asset production process. Replicable for organizations creating video content.",
+      "evidence_quality_assessment": "Named organization but 'dramatically accelerating' lacks specific metrics. No timeframe or percentage improvement provided.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization but evidence quality limited by vague quantification"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of concept creation process. Highly replicable pattern for marketing organizations.",
+      "evidence_quality_assessment": "Named organization with specific, measurable improvement: 'weeks to days' provides clear timeframe reduction.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong case with both clear optimization and specific measurable outcome"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost reduction and efficiency gains in asset creation. Replicable optimization pattern.",
+      "evidence_quality_assessment": "Named organization but lacks specific cost reduction metrics or efficiency measurements.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear efficiency claim but needs quantification of cost savings and efficiency gains"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of product design iteration process with specific comparison to existing method (3D printing). Replicable for product development organizations.",
+      "evidence_quality_assessment": "Named organization with specific process comparison and clear efficiency/cost benefits versus established baseline.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "10.2",
+          "name": "Design and construct assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong case with clear process optimization and comparative baseline"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes marketing workflow by reducing agency dependency and iteration cycles. Replicable pattern for marketing operations.",
+      "evidence_quality_assessment": "Named organization with detailed process description but lacks specific timeframe improvements or quantified turnaround metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Good process optimization description but needs specific turnaround time metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes acceleration of marketing ideation and concept development processes. Replicable for marketing teams.",
+      "evidence_quality_assessment": "Named organization with detailed use cases but lacks quantified time savings or measurable outcomes beyond 'save time'.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Comprehensive process description but needs specific metrics for time savings and efficiency gains"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing and product development functions rather than business model innovation or new revenue streams."
+}

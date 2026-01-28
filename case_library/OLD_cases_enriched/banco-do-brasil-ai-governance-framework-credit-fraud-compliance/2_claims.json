@@ -1,0 +1,65 @@
+{
+  "case_id": "banco-do-brasil-ai-governance-framework-credit-fraud-compliance",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Reduced false positive rates by more than 90%",
+      "quote": "This resulted in the bank transforming its compliance requirements into a business advantage \u2013 securing real-time payments in multiple screening configurations to establish a holistic view of financial crime risk, and a 90 percent reduction in the bank's false positive rates"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Reduced False Positive Rate to just 2%",
+      "quote": "Napier AI implemented its Transaction Screening module and consulted with the business on the best rules strategies, reducing Banco do Brasil's False Positive Rate (FPR) to just 2%"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Significantly increased operational efficiency by reducing manual reviews",
+      "quote": "This significantly increased operational efficiency by reducing manual reviews and enhanced risk management which in turn facilitates fewer disruptions to customers through faster transaction processing"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Supports up to 300,000 transactions screened annually",
+      "quote": "This supports up to 300,000 transactions screened annually, while segregating and configuring the solution to best fit each business unit's requirements"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Granted significant time and cost savings through independent rule testing",
+      "quote": "This granted the FCC team significant time and cost savings by independently changing and testing rules within the user interface, without any need to understand the code"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Reduces false positives by 40% with AI-driven transaction screening",
+      "quote": "It has adopted AI-driven tools like Napier AI's transaction screening system on Azure, which reduces false positives by 40% and enables agile responses to evolving sanctions"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Capital adequacy ratio of 15.2%, exceeding regulatory minimum",
+      "quote": "As of 2024, the bank reported a capital adequacy ratio (CAR) of 15.2%, exceeding Brazil's regulatory minimum of 10%"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Non-performing loan ratio of 2.8%, significantly lower than regional average",
+      "quote": "and a non-performing loan (NPL) ratio of 2.8%, significantly lower than the Latin American average of 5.1%"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S2",
+      "claim": "Total assets reached $414 billion with 15.3% year-over-year credit portfolio growth",
+      "quote": "The bank's total assets reached $414 billion in 2024, with a 15.3% year-over-year growth in its credit portfolio, driven by agribusiness and sustainable loans"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "90.7% of total transactions conducted electronically",
+      "quote": "the bank currently has 6 million Internet banking customers, and 90.7 of the bank's total transactions are conducted electronically - either via the Internet, mobile device or ATM"
+    }
+  ]
+}

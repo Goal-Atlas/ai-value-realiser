@@ -1,0 +1,35 @@
+{
+  "case_id": "siemens-ai-predictive-maintenance-equipment-failures",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Generative artificial intelligence takes Siemens' predictive maintenance solution to the next level",
+      "url": "https://press.siemens.com/global/en/pressrelease/generative-artificial-intelligence-takes-siemens-predictive-maintenance-solution-next",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Leveraging AI for Predictive Maintenance: The Future of Industrial Efficiency",
+      "url": "https://blog.siemens.com/2024/08/leveraging-ai-for-predictive-maintenance-the-future-of-industrial-efficiency/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Siemens expands Industrial Copilot with New generative AI-powered Maintenance Offering",
+      "url": "https://press.siemens.com/global/en/pressrelease/siemens-expands-industrial-copilot-new-generative-ai-powered-maintenance-offering",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S4",
+      "title": "Mindsphere application \"Predictive Service Assistance\" uses artificial intelligence to optimize the maintenance efficiency of drive systems",
+      "url": "https://press.siemens.com/global/en/pressrelease/mindsphere-application-predictive-service-assistance-uses-artificial-intelligence",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S5",
+      "title": "Siemens introduces AI agents for industrial automation",
+      "url": "https://press.siemens.com/global/en/pressrelease/siemens-introduces-ai-agents-industrial-automation",
+      "doc_type": "Press Release"
+    }
+  ]
+}

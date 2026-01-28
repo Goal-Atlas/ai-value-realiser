@@ -1,0 +1,83 @@
+{
+  "case_id": "salesforce-einstein-internal-portal",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a scale metric, not functional optimization. No specific business process improvement described.",
+      "evidence_quality_assessment": "Named organization but claim lacks substance - volume metrics don't demonstrate capability impact or business value.",
+      "apqc_functions": [],
+      "notes": "Pure scale bragging without demonstrating how this translates to functional improvement. Not a capability case."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes marketing/PR outcomes, not operational capability enhancement within existing business functions.",
+      "evidence_quality_assessment": "Media coverage is verifiable but irrelevant to Tier 1 assessment - this is about market positioning, not functional optimization.",
+      "apqc_functions": [],
+      "notes": "Marketing impact, not capability improvement. Outside scope of Tier 1 assessment."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Event attendance metrics don't describe functional optimization or process improvement.",
+      "evidence_quality_assessment": "Specific metrics but completely irrelevant to capability assessment - this is event marketing data.",
+      "apqc_functions": [],
+      "notes": "Event metrics have no bearing on operational capability enhancement."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of sales lead qualification process through predictive scoring. Replicable pattern for sales organizations.",
+      "evidence_quality_assessment": "Named organization (Salesforce), specific functionality described with clear process improvement mechanism.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Classic Tier 1 capability - AI optimizing existing sales qualification function with predictive analytics."
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing sales opportunity management through predictive risk assessment. Standard capability enhancement pattern.",
+      "evidence_quality_assessment": "Named organization, specific functionality with clear business process improvement described.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear capability case - AI enhancing deal assessment and risk management within existing sales processes."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Automation of administrative tasks is clear functional optimization, though the acknowledged limitations raise questions about effectiveness.",
+      "evidence_quality_assessment": "Named organization with specific functionality described, but the caveat about 'known limitations' suggests incomplete implementation or effectiveness issues.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Administrative automation is valid Tier 1, but acknowledged limitations suggest this may not deliver the expected capability enhancement."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C4, C5, and C6 describe functional optimization within existing sales processes. Claims C1-C3 are marketing/scale metrics irrelevant to capability assessment."
+}

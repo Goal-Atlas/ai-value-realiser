@@ -1,0 +1,23 @@
+{
+  "case_id": "virgin-australia-databricks-baggage-ml-deployment",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Pushing the Boundaries of Innovation with Data and AI: Announcing the 2024 Finalists of the Databricks Data Team Transformation Award | Databricks Blog",
+      "url": "https://www.databricks.com/blog/pushing-boundaries-innovation-data-and-ai-announcing-2024-finalists-databricks-data-team",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Announcing the Winners of the 2024 Databricks Data Team Awards | Databricks Blog",
+      "url": "https://www.databricks.com/blog/announcing-winners-2024-databricks-data-team-awards",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Virgin Australia automates lifecycle management using Amazon EKS Auto Mode | Case Study | AWS",
+      "url": "https://aws.amazon.com/solutions/case-studies/virgin-australia-case-study/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

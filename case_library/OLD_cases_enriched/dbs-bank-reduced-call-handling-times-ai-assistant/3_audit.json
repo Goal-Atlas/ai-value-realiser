@@ -1,0 +1,158 @@
+{
+  "case_id": "dbs-bank-reduced-call-handling-times-ai-assistant",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "High-level aggregated claim about AI deployment across multiple use cases. While it implies functional optimization, it's too broad to assess specific replicable patterns.",
+      "evidence_quality_assessment": "Named organization with specific metrics (1,500 models, 370 use cases, SGD 1B value), but lacks detail on what functions are being optimized or how value is measured.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Portfolio-level claim needs breakdown into specific functional improvements for proper Tier 1 assessment"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of AI development process - reducing time-to-market from 15 to 3 months through platform implementation. Highly replicable pattern for other organizations.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement (80% time reduction), clear process description with identifiable methodology.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - clear functional optimization with strong evidence and replicability"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear customer service function optimization through AI assistant providing real-time transcription and information retrieval. Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization and specific tool, but benefits are described qualitatively without quantified metrics. Claims are reasonable but not precisely measured.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantified evidence for full approval - addressed in subsequent claims"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific optimization of call handling function with clear efficiency gains (20% time reduction) and quality metrics (100% transcription accuracy). Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific quantified metrics from pilot data, clear measurement methodology described.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case with excellent evidence quality and clear functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce adoption metric supporting the functional optimization described in other claims. Indicates successful human-AI augmentation pattern.",
+      "evidence_quality_assessment": "Named organization, specific percentage (90%), based on pilot data with clear methodology (CSO feedback).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good supporting evidence for workforce impact of the customer service optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "High-level program claim about AI industrialization benefits. Implies functional optimization but lacks specific process details.",
+      "evidence_quality_assessment": "Named organization with specific financial metric (S$370m), but lacks breakdown of how benefits were achieved or measured across functions.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Portfolio-level financial claim needs functional breakdown for proper Tier 1 assessment"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear customer service optimization with specific efficiency target (20% handling time reduction) while maintaining quality. Enables workforce reallocation to higher-value work.",
+      "evidence_quality_assessment": "Named organization, specific quantified expectation, quality maintenance metric (100% accuracy), clear business rationale provided.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 case demonstrating both efficiency and quality optimization with workforce augmentation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of AI development process - converting experimental initiatives into practical applications. Shows systematic approach to capability development.",
+      "evidence_quality_assessment": "Named organization, specific conversion metrics (240 experiments to 20+ use cases), demonstrates systematic methodology.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good example of R&D process optimization with clear conversion metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear customer service function optimization with scale context (250K monthly queries, 500 CSOs). Demonstrates systematic rollout of efficiency improvements.",
+      "evidence_quality_assessment": "Named organization, specific scale metrics, clear deployment timeline and workforce scope provided.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong contextual evidence showing scale and systematic deployment of customer service optimization"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization within existing business model - primarily customer service efficiency, AI development process improvement, and workforce augmentation. No business model transformation or new revenue streams indicated."
+}

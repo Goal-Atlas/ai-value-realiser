@@ -1,0 +1,190 @@
+{
+  "case_id": "under-armour-connected-fitness-ecosystem",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Building a large community is not inherently transformational - many traditional companies have large customer bases. No evidence of business model change.",
+      "evidence_quality_assessment": "Vague superlative claim ('world's largest') without specific metrics or independent verification.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scale alone doesn't constitute transformation; lacks business model innovation evidence"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Large user base is impressive but doesn't demonstrate transformation. This appears to be customer acquisition for existing business model.",
+      "evidence_quality_assessment": "Specific metric (160M members) but no source attribution or verification method provided.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "User count is operational metric, not transformation indicator"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "API platform with integrations suggests ecosystem building but no evidence this changed UA's core business model from selling athletic apparel.",
+      "evidence_quality_assessment": "Specific metric (400+ partners) with traceable source, but lacks context on revenue impact or strategic significance.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Technical capability without demonstrated business model transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Aspirational statement about empowering athletes - no concrete evidence of transformation or new value creation model.",
+      "evidence_quality_assessment": "Vague marketing language ('unprecedented ways', 'never been done before') without specific outcomes or metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Marketing rhetoric without substantive transformation evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Product enhancement with data analytics - this is optimization of existing products, not business model transformation.",
+      "evidence_quality_assessment": "Claims performance improvement but lacks specific metrics or independent validation of 'actually help runners get better'.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Product improvement, not transformation - still selling shoes with added features"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Feature enhancement (phone-free running) represents product innovation within existing model, not business transformation.",
+      "evidence_quality_assessment": "Specific technical capability described but no evidence of strategic impact or revenue model change.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Product feature enhancement, not business model change"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Marketing claim about being 'first' in connected fitness - no evidence this created new business model or revenue streams.",
+      "evidence_quality_assessment": "Unsubstantiated superlative claim without independent verification or specific transformation metrics.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Marketing positioning without transformation substance"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Technical product feature (device-free running) - represents incremental innovation, not strategic transformation.",
+      "evidence_quality_assessment": "Describes technical capability but lacks evidence of business impact or model change.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Product feature, not business transformation"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer retention strategy through lock-in effects - this is optimization of existing business model, not transformation.",
+      "evidence_quality_assessment": "Describes strategic intent but lacks specific metrics on retention rates or revenue impact.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Customer retention strategy, not business model transformation"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Explicitly states main revenue is from traditional DTC and retail - confirms this is NOT a transformation case.",
+      "evidence_quality_assessment": "Clear statement that contradicts transformation thesis - revenue model remains traditional product sales.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Confirms traditional business model - disqualifies as transformation case"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Data collection to understand customers better - this is market research optimization, not business transformation.",
+      "evidence_quality_assessment": "Describes data strategy but no evidence this created new revenue streams or changed core business model.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Data collection for customer insights - optimization, not transformation"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Service extension and customer lock-in - represents business expansion within existing model, not fundamental transformation.",
+      "evidence_quality_assessment": "Describes service expansion strategy but lacks specific metrics on service revenue or business model impact.",
+      "apqc_functions": [
+        {
+          "id": "5.1",
+          "name": "Establish service delivery governance and strategies",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Service expansion, not business model transformation"
+    }
+  ],
+  "tier_verification": "This case is MISCLASSIFIED - should be tier 1. All claims describe product enhancements, customer retention strategies, and data collection within Under Armour's traditional athletic apparel business model. Claim C10 explicitly confirms revenue comes from 'DTC and retail business of sports clothing, shoes and hardware.' No evidence of new business models, revenue decoupling, or AI-driven transformation. This represents digital enhancement of existing operations, not strategic transformation."
+}

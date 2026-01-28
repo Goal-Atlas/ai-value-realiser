@@ -1,0 +1,82 @@
+{
+  "case_id": "accenture-retail-marketing-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a generic industry statistic about data-driven companies, not a specific functional optimization case. No specific process or organization described.",
+      "evidence_quality_assessment": "While the metric is specific (10-15%), this appears to be an industry-wide statistic without attribution to a specific study or methodology. No named organization implementing specific improvements.",
+      "apqc_functions": [],
+      "notes": "Generic industry statistic without specific organizational context or process optimization detail"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a survey statistic about executive beliefs/intentions, not an actual functional optimization implementation. No specific process improvement described.",
+      "evidence_quality_assessment": "While specific (97%), this is a belief/intention metric, not evidence of actual capability improvement. No named organizations or specific implementations.",
+      "apqc_functions": [],
+      "notes": "Survey data about intentions, not evidence of actual functional optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes deployment challenges and scaling issues, not successful functional optimization. It's about barriers to implementation rather than achieved improvements.",
+      "evidence_quality_assessment": "Specific statistic (9%) but describes failure to scale rather than successful optimization. No named organizations or specific functional improvements.",
+      "apqc_functions": [],
+      "notes": "Describes scaling challenges rather than successful capability improvements"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This contrasts belief vs. investment levels but doesn't describe any specific functional optimization or process improvement.",
+      "evidence_quality_assessment": "Specific percentages (97% vs 31%) but describes investment patterns, not operational improvements or capability enhancements.",
+      "apqc_functions": [],
+      "notes": "Investment pattern statistic, not evidence of functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate of C1 - generic industry statistic without specific organizational context or process optimization.",
+      "evidence_quality_assessment": "Same issues as C1 - industry-wide statistic without specific organizational attribution or methodology.",
+      "apqc_functions": [],
+      "notes": "Duplicate claim - same rejection rationale as C1"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate of C2 - survey about beliefs rather than actual functional optimization implementation.",
+      "evidence_quality_assessment": "Same issues as C2 - belief metric rather than evidence of capability improvement.",
+      "apqc_functions": [],
+      "notes": "Duplicate claim - same rejection rationale as C2"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This appears to describe launching a new digital delivery business, which could be tier 1 (new business model) rather than Tier 1 (optimizing existing functions). The 10-month timeline suggests rapid capability development.",
+      "evidence_quality_assessment": "Named organization (Salling Group) and specific timeline (10 months), but lacks detail about what specific processes or technologies enabled this speed.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.1",
+          "name": "Establish service delivery governance and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "May be misclassified - appears to describe new business creation rather than functional optimization. Needs review for proper tier classification."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes a customer experience outcome but provides no specific process optimization, efficiency gains, or measurable improvements to existing functions.",
+      "evidence_quality_assessment": "Named organization (Salling Group, Føtex) but the claim is qualitative marketing language without specific metrics or process details.",
+      "apqc_functions": [],
+      "notes": "Marketing language describing customer experience without specific functional optimization metrics or process improvements"
+    }
+  ],
+  "tier_verification": "Most claims appear to be industry statistics or marketing content rather than specific capability optimization cases. C7 may be misclassified as it appears to describe new business creation (tier 1) rather than functional optimization (tier 1). The case lacks concrete examples of AI optimizing existing business functions."
+}

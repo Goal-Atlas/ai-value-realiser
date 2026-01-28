@@ -1,0 +1,35 @@
+{
+  "case_id": "astrazeneca-optimized-clinical-trial-design",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AstraZeneca launches Evinova, a health-tech business to accelerate innovation across the life sciences sector, the delivery of clinical trials and better health outcomes",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2023/astrazeneca-launches-evinova-health-tech-business-to-accelerate-innovation-across-the-life-sciences-sector.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "AstraZeneca leads big pharma's AI clinical trials revolution with real-world patient impact",
+      "url": "https://www.artificialintelligence-news.com/news/astrazeneca-ai-clinical-trials-2025/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Reify Health Powers Patient Recruitment and Enrollment Across AstraZeneca's Extensive Breast Cancer Clinical Trial Pipeline",
+      "url": "https://blog.onestudyteam.com/astrazeneca-breast-cancer-clinical-trial-enrollment",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "AstraZeneca: Multi-Agent AI Development Assistant for Clinical Trial Data Analysis - ZenML LLMOps Database",
+      "url": "https://www.zenml.io/llmops-database/multi-agent-ai-development-assistant-for-clinical-trial-data-analysis",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "AstraZeneca's AI Strategy: Analysis of AI Dominance in Pharmaceutical and Biotech - Klover.ai",
+      "url": "https://www.klover.ai/astrazeneca-ai-strategy-analysis-of-ai-dominance-in-pharmaceutical-biotech/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

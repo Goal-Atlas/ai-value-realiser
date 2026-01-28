@@ -1,0 +1,17 @@
+{
+  "case_id": "bkw-media-inquiries-edison-ai-platform",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Edison on Microsoft Azure gives BKW a platform for hands-on AI | Microsoft Customer Stories",
+      "url": "https://www.microsoft.com/en/customers/story/24329-bkw-fmb-energie-ag-azure-ai-foundry",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

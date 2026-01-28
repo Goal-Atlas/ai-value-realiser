@@ -1,0 +1,244 @@
+{
+  "case_id": "airbus-skywise-platform",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Strong evidence of platform business model - 80+ airlines connecting demonstrates network effects and platform adoption beyond traditional OEM role",
+      "evidence_quality_assessment": "Specific metric (80 airlines), named organization (Airbus), credible source",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Platform adoption metric validates transformation from aircraft manufacturer to data platform provider"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes platform capabilities that enable new value creation - automated reporting and benchmarking represent new service offerings beyond traditional manufacturing",
+      "evidence_quality_assessment": "Specific functional capabilities described, authoritative first-party source",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Platform services represent new revenue streams and value propositions"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Network effects are core to platform transformation - more participants create exponentially more value for all users",
+      "evidence_quality_assessment": "Clear description of platform dynamics, authoritative source",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Network effects demonstrate genuine platform economics, not just data sharing"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Predictive maintenance preventing faults represents new value creation - moving from reactive to predictive service model",
+      "evidence_quality_assessment": "Specific customer (easyJet), concrete outcome (prevented faults), credible source",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates platform enabling new service capabilities for customers"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "60x data increase enables fundamentally different analytics capabilities - quantum leap in data foundation for platform",
+      "evidence_quality_assessment": "Specific metric (60x), named technology (FOMAX), specific customer context",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Infrastructure transformation enabling platform capabilities"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Discovering hidden failures through data analysis represents new safety value creation - platform enabling insights impossible with traditional methods",
+      "evidence_quality_assessment": "Specific technical incident (A330neo), detailed technical explanation, authoritative source",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Platform analytics creating new safety value beyond traditional engineering"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Proactive failure detection represents transformation from reactive to predictive safety model - new value creation in risk management",
+      "evidence_quality_assessment": "Clear outcome description, industry significance noted, credible source",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Data-driven safety represents new industry capability enabled by platform"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "4x faster IT delivery could enable transformation but lacks context about what new capabilities this enables",
+      "evidence_quality_assessment": "Specific metric (4x) but lacks detail on measurement methodology or baseline",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Efficiency improvement that may enable transformation but needs more context on strategic impact"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Mobile access to real-time data could enable new operational models but appears more like process improvement",
+      "evidence_quality_assessment": "Specific application described, named technology (MuleSoft), but limited outcome metrics",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Could be Tier 1 optimization rather than transformation - needs clarification on strategic impact"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Real-time supply chain visibility is valuable but appears to be operational improvement rather than business model change",
+      "evidence_quality_assessment": "Clear before/after contrast (no visibility to real-time), specific technology context",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Likely Tier 1 operational improvement rather than transformation"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "60x increase in data parameters (400 to 24,000) represents fundamental shift in aircraft data capability - enables entirely new analytics and services",
+      "evidence_quality_assessment": "Specific metrics (400 vs 24,000 parameters), named technology (FOMAX), clear technical specification",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Infrastructure transformation enabling platform capabilities and new service models"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Data-for-platform-access model represents new business model - monetizing through data sharing rather than traditional licensing",
+      "evidence_quality_assessment": "Clear business model description (shared value arrangement), specific terms (no cost for data sharing)",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Novel business model where data becomes currency for platform access"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Higher accuracy predictive maintenance represents new service capability - moving from scheduled to predictive maintenance model",
+      "evidence_quality_assessment": "Clear capability description, outcome-focused (higher accuracy, maximized reliability), authoritative source",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Platform enabling new predictive service models for customers"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Airbus has transformed from aircraft manufacturer to data platform provider, creating new business models (data-for-access), enabling network effects, and generating new revenue streams through platform services. Some claims (C8-C10) may be tier 1 operational improvements within the broader transformation story."
+}

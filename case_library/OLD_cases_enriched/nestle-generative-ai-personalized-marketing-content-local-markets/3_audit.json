@@ -1,0 +1,159 @@
+{
+  "case_id": "nestle-generative-ai-personalized-marketing-content-local-markets",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - 70% reduction in time/costs for scaling digital twins optimizes existing product development and marketing asset creation processes. Pattern is replicable across CPG companies with digital asset needs.",
+      "evidence_quality_assessment": "Named organization (Nestlé), specific quantified metric (70% reduction), traceable to company statement. Metric is substantial and measurable.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear efficiency gains in digital asset production"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes scaling of existing digital asset creation capability from 4,000 to 10,000 products. This optimizes marketing and product development functions through standardized digital twin creation.",
+      "evidence_quality_assessment": "Named organization, specific metrics (4,000 baseline, 10,000 target), clear timeline (two years), traceable company statement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear capability scaling with specific targets and timeline"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of media investment allocation (72% digital shift) and data collection capability (340M records). Improves existing marketing function efficiency and targeting capability.",
+      "evidence_quality_assessment": "Named organization, specific quantified metrics (72% digital, 340M records), company-sourced data.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of marketing function optimization with clear metrics"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - AI system reduces time-to-market and costs for visual asset production. Pattern replicable across marketing-intensive industries.",
+      "evidence_quality_assessment": "Named organization but uses vague qualifiers ('significantly reduced'). No specific metrics provided, though the improvement claim is credible.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but lacks quantified metrics - needs specific data for full approval"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of R&D processes through faster iteration and increased concept diversity. Clear functional improvement in product development.",
+      "evidence_quality_assessment": "Named organization but qualitative claims without specific metrics. 'Faster cycles' and 'increased diversity' are not quantified.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear R&D optimization but needs quantified metrics for full validation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of customer engagement through personalization - improves existing marketing and customer service functions. Pattern widely replicable.",
+      "evidence_quality_assessment": "Named organization but qualitative benefits ('increasing engagement', 'strengthening loyalty') without specific metrics or measurement methodology.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit for personalization optimization but lacks quantified impact measures"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of advertising effectiveness - 66% higher ROAS for ads meeting quality thresholds. Optimizes existing marketing spend efficiency.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (66% higher ROAS), measurable threshold (creative quality score >66%), traceable claim.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with specific ROAS improvement metric and clear threshold"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of ad campaign effectiveness through AI-driven creative requirements. Clear functional improvement in marketing operations.",
+      "evidence_quality_assessment": "Named organization but uses vague qualifier ('transformational results', 'significantly higher'). References testing but no specific metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic concept but needs specific quantified results to validate 'transformational' claims"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing, R&D, and product development functions rather than business model transformation. Focus is on efficiency gains, cost reduction, and performance improvement within established processes."
+}

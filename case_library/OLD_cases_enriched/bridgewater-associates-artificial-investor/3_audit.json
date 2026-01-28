@@ -1,0 +1,108 @@
+{
+  "case_id": "bridgewater-associates-artificial-investor",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Making predictions is core to investment management - this describes improved capability within existing model rather than transformation. AI enhancing prediction accuracy is optimization, not business model change.",
+      "evidence_quality_assessment": "Named organization (Bridgewater) with specific executive quote (Jensen), but lacks quantitative metrics or performance data. Claims are qualitative ('solid predictions', 'exceeding expectations').",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "This appears to be Tier 1 optimization rather than tier 1 transformation - better predictions within existing investment model"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Generating 'unique alpha' could indicate new value creation, but this is still within traditional asset management model. The claim of uncorrelated returns suggests differentiation but not fundamental business model change.",
+      "evidence_quality_assessment": "Executive statement with specific goals (high returns, uncorrelated alpha) but no demonstrated results or metrics. This is forward-looking expectation rather than proven transformation.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Promising new investment product but lacks evidence of actual transformation - still traditional fund management with AI enhancement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describing AI as a 'return stream' suggests it may be productized, but this is still within asset management framework. Not clear if this represents new business model or enhanced existing model.",
+      "evidence_quality_assessment": "Executive endorsement from named source but completely lacks quantitative validation. 'Good enough' and 'good return stream' are vague qualitative assessments.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Insufficient evidence to determine if this represents genuine transformation or optimization of existing investment approach"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Continuous learning and improvement describes operational enhancement, not strategic transformation. This is about making existing AI better, not changing what the business fundamentally does.",
+      "evidence_quality_assessment": "Forward-looking speculation ('hoping', 'will get') rather than demonstrated results. No evidence of actual transformation occurring.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This describes iterative improvement of AI capabilities, which is operational optimization rather than business transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "General speculation about AI's potential impact across industries. No specific transformation described for Bridgewater or any named organization.",
+      "evidence_quality_assessment": "Completely speculative ('may boost', 'remains highly uncertain'). No specific organization, metrics, or demonstrated results.",
+      "apqc_functions": [],
+      "notes": "Generic speculation about AI potential, not a substantive transformation case"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Forward-looking prediction about competitive advantages rather than demonstrated transformation. Building 'economic moats' through better ML is still competitive positioning within existing paradigm.",
+      "evidence_quality_assessment": "Entirely speculative ('Over the next decade', 'will likely'). No current examples, metrics, or specific organizational changes.",
+      "apqc_functions": [],
+      "notes": "Future-oriented speculation without evidence of actual transformation occurring"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Legal team recognition for supporting AI initiatives describes operational support, not strategic transformation. This is about enabling AI adoption, not fundamental business change.",
+      "evidence_quality_assessment": "Third-party recognition (Financial Times) provides credibility, but the achievement is process support rather than business transformation results.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Recognition for supporting AI implementation is operational excellence, not evidence of business model transformation"
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. The claims describe AI-enhanced investment management capabilities within Bridgewater's existing asset management business model. While the AI may be sophisticated, there's no evidence of fundamental business model change, new market creation, or strategic reinvention. This appears to be tier 1 optimization - using AI to make better investment decisions within the traditional hedge fund model. The 'remove the AI' test confirms this: without AI, Bridgewater would still be a hedge fund making investment decisions, just less effectively."
+}

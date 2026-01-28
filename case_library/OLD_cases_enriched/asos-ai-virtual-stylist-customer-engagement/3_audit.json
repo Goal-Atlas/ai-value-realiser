@@ -1,0 +1,149 @@
+{
+  "case_id": "asos-ai-virtual-stylist-customer-engagement",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of product recommendation system to improve customer engagement and sales metrics. Replicable pattern for e-commerce retailers.",
+      "evidence_quality_assessment": "Named organization (ASOS) with specific AI techniques described, but lacks quantified metrics. Claims 'increasing engagement and average order value' without specific percentages or dollar amounts.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs quantified results for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of sizing recommendation function to reduce returns and improve satisfaction. Highly replicable pattern for fashion retailers.",
+      "evidence_quality_assessment": "Named organization with detailed process description, but claims 'reducing returns and improving customer satisfaction' without specific metrics or percentages.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong functional optimization but lacks quantified impact metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of personalization capabilities affecting key business metrics. Replicable for e-commerce operations.",
+      "evidence_quality_assessment": "Named organization but very general claims without specific metrics. Mentions 'increase AOV' and 'reduce returns' but no quantification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but too vague on actual results"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Comprehensive optimization of customer discovery and conversion processes. Multiple AI applications improving established e-commerce functions.",
+      "evidence_quality_assessment": "Named organization with specific AI technologies mentioned (Azure OpenAI, visual search, virtual try-on), but claims improvement without quantified metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good technical detail but lacks measurable outcomes"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too general - lists AI capabilities without describing specific functional optimizations or processes being improved.",
+      "evidence_quality_assessment": "Named organization but extremely vague claims. No specific processes, metrics, or measurable improvements described.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Generic AI implementation statement without substantive detail about actual optimizations"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "ROI metric suggests functional optimization, but lacks context about which specific processes or functions are being optimized.",
+      "evidence_quality_assessment": "Specific quantified metric (3.2x ROI) but no organization named, just 'pioneering adopters in fashion segment'. Source authority unclear.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong metric but lacks organizational attribution and process specificity"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Revenue growth could indicate functional optimization, but unclear which specific business processes are being improved.",
+      "evidence_quality_assessment": "Specific metric (31% faster growth) with clear segment (small-mid retailers), but no individual organization named. Comparative study format suggests research credibility.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good quantified outcome but needs more specificity about optimized functions"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of content creation processes with specific cost reduction. Highly replicable pattern for retailers with content marketing needs.",
+      "evidence_quality_assessment": "Specific quantified metric (47% cost savings), clear business segment (department stores), and traceable functional improvement in content creation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear functional optimization and quantified results"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing e-commerce and retail functions rather than business model transformation. Focus is on improving conversion, reducing costs, and enhancing customer experience within established retail operations."
+}

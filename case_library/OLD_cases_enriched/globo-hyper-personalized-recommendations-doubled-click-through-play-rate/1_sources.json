@@ -1,0 +1,29 @@
+{
+  "case_id": "globo-hyper-personalized-recommendations-doubled-click-through-play-rate",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Globo Case Study | Google Cloud Documentation",
+      "url": "https://cloud.google.com/customers/globo",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Brazil's Globo measures audience engagement across its portfolio | The Audiencers",
+      "url": "https://theaudiencers.com/how-brazils-globo-measures-audience-engagement-across-its-portfolio/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Grupo Globo's Digital Transformation with Google Cloud, CREE8, and HP Anyware",
+      "url": "https://blog.cree8.io/blog/grupo-globo-case-study",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Globant helps Globo advance their tech model, reshaping the advertising landscape | Globant Blog",
+      "url": "https://stayrelevant.globant.com/en/creativity/full-funnel-media/globo-globant-reshape-advertising-landscape/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

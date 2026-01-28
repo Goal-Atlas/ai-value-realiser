@@ -1,0 +1,205 @@
+{
+  "case_id": "jetbrains-ai-assistant-developer-productivity",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - AI augmenting developer productivity in existing software development processes. Pattern is replicable across development teams.",
+      "evidence_quality_assessment": "Specific metric (8 hours/week) but based on very small sample (23 people, 4% of users). Source is first-party JetBrains survey, which introduces potential bias.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong productivity claim but small sample size and vendor bias concerns warrant review"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of development workflow. High adoption rate suggests replicable pattern.",
+      "evidence_quality_assessment": "High percentage (91%) but vague metric ('saving time' without quantification). First-party survey source introduces bias.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "High adoption rate is positive signal but lacks specific time savings quantification"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization with specific time savings ranges. Pattern applicable to other development teams using AI coding assistants.",
+      "evidence_quality_assessment": "Specific quantified ranges (1-3 hours, 3-5 hours per week) with clear percentages. While first-party, the specificity adds credibility.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Most credible productivity claim with specific time ranges and substantial user percentages"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Satisfaction metric doesn't demonstrate functional optimization or efficiency gains.",
+      "evidence_quality_assessment": "While specific (75% satisfied, 25% very satisfied), satisfaction doesn't constitute evidence of capability improvement.",
+      "apqc_functions": [],
+      "notes": "Satisfaction metrics don't qualify as Tier 1 capability improvements - no operational benefit demonstrated"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of information search process within development workflow. Replicable pattern for knowledge work optimization.",
+      "evidence_quality_assessment": "Specific percentage (78%) with clear functional improvement described. First-party source but credible operational claim.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency gain in information retrieval - core development support function"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization claim but 'much faster' is subjective without quantification.",
+      "evidence_quality_assessment": "Good percentage (71%) but 'much faster' lacks specific measurement. First-party source.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "High adoption of speed improvement but needs quantification for full approval"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Working on 'more exciting projects' is a qualitative outcome, not a measurable capability improvement.",
+      "evidence_quality_assessment": "While specific percentage (55%), 'exciting projects' is subjective and doesn't demonstrate operational efficiency.",
+      "apqc_functions": [],
+      "notes": "Qualitative benefit rather than measurable capability improvement - doesn't meet Tier 1 criteria"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Workflow enhancement is relevant but 'reduced mental strain' is subjective. 'Easier task completion' suggests efficiency but lacks specificity.",
+      "evidence_quality_assessment": "Specific percentage (58%) but combines objective (easier completion) with subjective (mental strain) metrics.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Mixed objective/subjective claim - easier completion is relevant but mental strain is too subjective"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth metric doesn't demonstrate functional optimization or capability improvement.",
+      "evidence_quality_assessment": "No specific growth data provided, just a general claim about being 'fastest-growing'.",
+      "apqc_functions": [],
+      "notes": "Business growth claim rather than operational capability improvement - not Tier 1 relevant"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims to handle routine and complex tasks for productivity gains, which fits Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "'Significantly dial up productivity' is vague marketing language without specific metrics. Source appears to be marketing material.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Relevant capability claim but lacks specificity and appears to be marketing copy"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency optimization - 3-5 minutes of AI work replacing 30-40 minutes of manual work represents significant productivity gain. Replicable pattern.",
+      "evidence_quality_assessment": "Very specific time comparison with clear efficiency ratio (6-13x improvement). Appears to be user testimonial providing concrete example.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent specific example of dramatic efficiency improvement with clear time savings ratio"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry prediction rather than specific organizational capability improvement.",
+      "evidence_quality_assessment": "While from authoritative source (Gartner), this is a prediction about industry trends, not evidence of actual capability improvement.",
+      "apqc_functions": [],
+      "notes": "Industry forecast rather than demonstrated capability case - not applicable to Tier 1 assessment"
+    },
+    {
+      "claim_id": "C13",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "30% speed increase represents clear functional optimization if referring to development tool performance.",
+      "evidence_quality_assessment": "Specific metric (30% speed increase) but unclear what 'Junie' refers to and context is vague. Needs clarification of what was improved.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Specific improvement metric but lacks context about what 'Junie' is and what speed was improved"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case focuses on AI augmenting existing software development processes to improve developer productivity, reduce time spent on routine tasks, and optimize workflow efficiency. No business model transformation or new revenue streams are described."
+}

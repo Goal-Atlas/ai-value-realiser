@@ -1,0 +1,35 @@
+{
+  "case_id": "jetbrains-ai-assistant-developer-productivity",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Developers save up to 8 hours per week with JetBrains AI Assistant",
+      "url": "https://blog.jetbrains.com/ai/2024/04/developers-save-up-to-8-hours-per-week-with-jetbrains-ai-assistant/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI Assistant Update \u2013 October 2023",
+      "url": "https://blog.jetbrains.com/blog/2023/10/12/ai-assistant-update-october-2023/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Embrace AI-Driven Productivity in .NET with JetBrains AI Assistant in ReSharper",
+      "url": "https://blog.jetbrains.com/dotnet/2024/04/30/jet-brains-ai-assistant-in-resharper/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Introducing JetBrains AI and the In-IDE AI Assistant",
+      "url": "https://blog.jetbrains.com/blog/2023/12/06/introducing-jetbrains-ai-and-the-in-ide-ai-assistant/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S5",
+      "title": "JetBrains Recognized in the 2025 Magic Quadrant\u2122 for AI Code Assistants",
+      "url": "https://blog.jetbrains.com/blog/2025/09/30/jetbrains-recognized-in-the-2025-magic-quadrant-for-ai-code-assistants/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "sikshana-foundation-reduced-lesson-planning-time",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Sikshana Foundation | Latest Updates",
+      "url": "https://sikshana.org/LatestUpdates/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Karnataka rolls out new AI assistant for teachers with Microsoft's support: Report",
+      "url": "https://www.hindustantimes.com/cities/bengaluru-news/karnataka-rolls-out-new-ai-assistant-for-teachers-with-microsofts-support-report-101729314327986.html",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Sikshana Foundation | Technology",
+      "url": "https://sikshana.org/Products/Technolgy/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

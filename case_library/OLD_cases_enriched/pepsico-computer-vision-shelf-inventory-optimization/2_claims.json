@@ -1,0 +1,53 @@
+{
+  "case_id": "pepsico-computer-vision-shelf-inventory-optimization",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "PepsiCo's Shelf Intelligence solution turned shelf vision into measurable revenue impact",
+      "quote": "Get the full case study to see how the PepsiCo Shelf Intelligence solution turned shelf vision into measurable revenue impact, and how to replicate it at enterprise scale."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The solution enables auditing shelves in seconds and provides real-time guidance to merchandisers",
+      "quote": "The case study shows how they tackled it with edge AI and computer vision to audit shelves in seconds, guide merchandisers in real time, and capture trusted data for decisions."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "One convenience store chain saw salty snacks sales grow $4,000 per store annually using PepsiCo's data platform",
+      "quote": "After customizing its assortment, one c-store chain saw sales of its salty snacks grow $4,000 per store annually, while the other rose nearly $1,300."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Another convenience store chain achieved nearly $1,300 annual sales increase per store",
+      "quote": "After customizing its assortment, one c-store chain saw sales of its salty snacks grow $4,000 per store annually, while the other rose nearly $1,300."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S4",
+      "claim": "Order processing times reduced by over 50% in automated warehouses compared to traditional setups",
+      "quote": "The results have been game-changing, with order processing times reduced by over 50% in automated warehouses compared to traditional setups."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "PepsiCo achieved a 40% reduction in warehouse labor costs through AGV implementation",
+      "quote": "PepsiCo has also indicated a 40% reduction of its warehouse labour cost and improved safety due to the fact that there have been fewer workplace accidents."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "AGV operations achieve 99.9% accuracy on delivery of orders",
+      "quote": "AGV operation is 99.9% accurate on delivery of orders, becoming the hallmark of the company in the high-tech way of warehousing."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI-powered inventory management enabled about a 20% reduction in inventory costs",
+      "quote": "The system has also, through this, enabled about a 20% reduction in o"
+    }
+  ]
+}

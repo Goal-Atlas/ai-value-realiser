@@ -1,0 +1,17 @@
+{
+  "case_id": "city-of-helsinki-virtual-assistants-citizen-support",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Helsinki uses cloud-based solutions to improve senior services - Microsoft Industry Blogs",
+      "url": "https://www.microsoft.com/en-us/industry/blog/government/2017/09/15/helsinki-uses-cloud-based-solutions-to-improve-senior-services/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "City of Helsinki adopts MyData principles to improve digital services | Computer Weekly",
+      "url": "https://www.computerweekly.com/news/252496546/City-of-Helsinki-adopts-MyData-principles-to-improve-digital-services",
+      "doc_type": "News Article"
+    }
+  ]
+}

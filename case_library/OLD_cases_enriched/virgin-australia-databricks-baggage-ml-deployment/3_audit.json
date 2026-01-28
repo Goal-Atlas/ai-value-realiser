@@ -1,0 +1,159 @@
+{
+  "case_id": "virgin-australia-databricks-baggage-ml-deployment",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - improving data infrastructure capabilities to enable better operational decision-making. Replicable pattern for other airlines or data-intensive organizations.",
+      "evidence_quality_assessment": "Named organization (Virgin Australia), specific quantified metric (75% increase), appears to be from official case study or partnership announcement.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizing data infrastructure for operational improvements"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization - reducing baggage mishandling directly improves existing operational processes. Highly replicable pattern for airline industry.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (44% decrease), credible operational improvement claim.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Classic Tier 1 operational efficiency improvement with clear customer impact"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Revenue boost from analytics insights could indicate functional optimization, but lacks specificity about which processes were improved. Could potentially be tier 1 if it represents new revenue streams.",
+      "evidence_quality_assessment": "Named organization and specific metric (25%), but vague attribution to 'analytics insights' without detail on mechanism.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Needs clarification on whether this represents process optimization or new revenue generation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - improving ML model deployment speed enhances existing analytics capabilities. Replicable pattern for organizations deploying ML at scale.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (90% faster), relates to operational capability improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong operational efficiency improvement in ML deployment processes"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - implementing real-time baggage tracking improves existing operational processes. Replicable for other airlines.",
+      "evidence_quality_assessment": "Named organization and specific system implementation, though 'enhanced efficiencies' is somewhat vague without quantification.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Solid operational improvement, though would benefit from quantified metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Functional optimization of analytics processes, but 'significant improvements' is too vague to assess replicability or specific impact.",
+      "evidence_quality_assessment": "Named organization but lacks specific metrics - 'significant improvements' is not quantified.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claim but needs more specific evidence of improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - improving data governance, collaboration, and reporting capabilities enhances existing business processes. Replicable pattern for data-driven organizations.",
+      "evidence_quality_assessment": "Named organization with detailed description of capabilities implemented, though lacks quantified metrics.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "8.2",
+          "name": "Develop and manage IT business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability enhancement case, though would benefit from quantified outcomes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - migrating APIs to more efficient infrastructure improves existing IT operations. Replicable pattern for organizations with API-heavy architectures.",
+      "evidence_quality_assessment": "Named organization with specific quantified achievement (200+ APIs migrated), demonstrates successful implementation at scale.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong infrastructure optimization case with clear scale demonstration"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing functions (data infrastructure, baggage handling, ML deployment, API management) rather than business model transformation. C3 flagged for review as revenue boost could potentially indicate tier 1 elements."
+}

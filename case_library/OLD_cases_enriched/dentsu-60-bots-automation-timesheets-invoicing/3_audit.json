@@ -1,0 +1,126 @@
+{
+  "case_id": "dentsu-60-bots-automation-timesheets-invoicing",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - data extraction and migration automation. Highly replicable pattern for similar data migration projects across organizations.",
+      "evidence_quality_assessment": "Named organization (Dentsu), specific quantified metric (60 robots, 30 days, 125,000 hours saved), appears to be from authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear automation of existing data management processes and substantial quantified savings."
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent functional optimization example - timesheet reporting process improvement from 1 day to 10 minutes. Highly replicable across organizations with similar reporting requirements.",
+      "evidence_quality_assessment": "Specific, measurable improvement with clear before/after metrics. Named organization and detailed process description.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Exemplary Tier 1 case showing dramatic efficiency gains in routine administrative processes."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of Media Operations functions. Pattern replicable for other media/advertising operations teams.",
+      "evidence_quality_assessment": "Named organization, specific quantified projection (850+ hours annually), from hackathon context adds credibility.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with projected savings in media operations processes."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of multiple administrative functions (reporting, invoicing, timesheets). Highly replicable patterns across organizations.",
+      "evidence_quality_assessment": "Named organization, specific process types identified, provides concrete examples of automation targets.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good supporting evidence for multiple functional optimizations, particularly strong in financial processes."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of analysis/insight generation processes. Replicable pattern for analytics functions.",
+      "evidence_quality_assessment": "Named organization and dramatic quantified improvement (90% reduction), but 'time-to-insight' is somewhat vague. Source authority unclear from this excerpt.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong efficiency claim but needs verification of source credibility and more specific definition of 'time-to-insight' metric."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of campaign operations and cost reduction. Replicable for marketing operations.",
+      "evidence_quality_assessment": "Named organization but claims are qualitative without specific metrics ('faster', 'dropped', 'freed'). Lacks quantified evidence.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization described but lacks specific metrics to substantiate claims. Would benefit from quantified evidence."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (data processing, reporting, media operations, campaign management) rather than business model innovation or new revenue streams."
+}

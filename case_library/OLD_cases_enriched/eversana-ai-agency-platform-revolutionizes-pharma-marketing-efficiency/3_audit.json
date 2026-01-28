@@ -1,0 +1,97 @@
+{
+  "case_id": "eversana-ai-agency-platform-revolutionizes-pharma-marketing-efficiency",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - dramatically accelerating marketing campaign development process from weeks/months to 30 minutes. This is a replicable pattern for marketing operations optimization.",
+      "evidence_quality_assessment": "Named organization (EVERSANA) with specific time metrics, but appears to be from company marketing materials rather than independent verification. Lacks customer attribution or third-party validation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong efficiency claim but needs independent validation. Time reduction metric is very specific but source appears promotional."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear automation-driven efficiency improvement in marketing operations. The 80/20 split between AI and human oversight represents a replicable workforce augmentation pattern.",
+      "evidence_quality_assessment": "Specific percentage metrics provided, but lacks detail on measurement methodology. Source appears to be company-generated content without customer validation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Automation percentage is specific but methodology unclear. Needs validation from actual users or independent assessment."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - transforming sequential workflows to parallel processing. This represents a replicable pattern for marketing operations efficiency that could apply across industries.",
+      "evidence_quality_assessment": "Named organization with clear before/after process description. While promotional in nature, the workflow transformation is specifically described and represents observable operational change.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process transformation is well-described and represents clear operational improvement. Pattern is replicable despite promotional source."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of content creation and iteration processes across multiple marketing formats. Represents replicable pattern for marketing content development efficiency.",
+      "evidence_quality_assessment": "Specific time metric (30 minutes) and detailed output description, but lacks independent verification. Multiple content formats mentioned suggest comprehensive capability but needs customer validation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Comprehensive content creation claim with specific metrics, but promotional source reduces credibility. Needs user testimonials or case studies."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This claim describes platform creation and industry positioning rather than functional optimization. 'First AI-powered platform' suggests innovation/differentiation rather than efficiency improvement.",
+      "evidence_quality_assessment": "While organization is named, this is a positioning statement rather than a performance claim. No measurable improvement or operational benefit described.",
+      "apqc_functions": [
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "low"
+        }
+      ],
+      "notes": "This is a product positioning claim rather than an operational efficiency claim. Does not meet Tier 1 criteria for functional optimization."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1-C4 describe optimization of existing marketing functions (campaign development, content creation, workflow management). C5 is more about product positioning. No business model transformation or new revenue streams described - this is about doing marketing better, not creating new business models."
+}

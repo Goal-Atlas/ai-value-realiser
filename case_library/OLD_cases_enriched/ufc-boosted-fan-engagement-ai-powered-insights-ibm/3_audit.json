@@ -1,0 +1,154 @@
+{
+  "case_id": "ufc-boosted-fan-engagement-ai-powered-insights-ibm",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - enhances existing fan experience delivery using historical data processing. Replicable pattern for other sports organizations with large datasets.",
+      "evidence_quality_assessment": "Named organizations (UFC, IBM), specific metrics (13.2M data points, 20 years, 2,400 athletes), traceable to official partnership announcement.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes content delivery function with quantified data scope"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes technical optimization (speed + depth) but lacks specific process improvement context. Pattern potentially replicable for real-time analytics applications.",
+      "evidence_quality_assessment": "Named organizations but vague on measurable outcomes. Claims 'game-changer' without quantified improvement metrics.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical capability claim without specific business process improvement metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too generic - describes industry transformation rather than specific functional optimization. No clear process improvement identified.",
+      "evidence_quality_assessment": "Broad marketing statement without specific metrics, processes, or measurable outcomes.",
+      "apqc_functions": [],
+      "notes": "Generic marketing claim without substantive operational detail"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of content delivery function - enriching viewer experience through real-time data integration. Replicable for other live content providers.",
+      "evidence_quality_assessment": "Named organization (UFC), specific improvement described (richer viewing experience via real-time data), traceable source.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid capability enhancement with clear functional improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic partnership marketing language without specific process optimization described. 'Revolutionize' suggests transformation rather than capability enhancement.",
+      "evidence_quality_assessment": "Marketing rhetoric without specific metrics, processes, or measurable improvements.",
+      "apqc_functions": [],
+      "notes": "Marketing statement lacking operational substance"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes fan engagement optimization but vague on specific processes. Could be replicable pattern for sports/entertainment organizations.",
+      "evidence_quality_assessment": "Named organizations and technology (watsonx) but lacks specific metrics or detailed process improvements.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Engagement optimization claim needs more specific process detail"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of content production workflow - transforming complex data into scalable content across multiple platforms. Replicable for other content-heavy organizations.",
+      "evidence_quality_assessment": "Specific process described (complex data → scalable content), quantified scope (40+ events annually), multiple distribution channels identified.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong process optimization with clear workflow improvement and scale metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes engagement optimization across event lifecycle but lacks specific process details. Pattern potentially replicable for event-based businesses.",
+      "evidence_quality_assessment": "Named organizations but vague on specific improvements or metrics. 'Unlocks opportunities' is aspirational rather than demonstrative.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Broad engagement claim needs more specific operational detail"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes fan experience enhancement but lacks specific process optimization details. General pattern for customer experience improvement.",
+      "evidence_quality_assessment": "Named organizations but vague metrics. 'Deeper and enhanced' lacks quantification or specific improvement description.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Customer experience optimization claim needs more specific detail"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic industry statement without specific organizational process optimization. No clear functional improvement described.",
+      "evidence_quality_assessment": "Broad industry observation without specific organization, metrics, or traceable improvements.",
+      "apqc_functions": [],
+      "notes": "Generic industry statement without operational substance"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case focuses on optimizing existing fan engagement and content delivery functions rather than creating new business models. The AI enhances UFC's current operations in content production, data processing, and fan experience delivery."
+}

@@ -1,0 +1,162 @@
+{
+  "case_id": "ikea-reskilling-pivot-billie",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes workforce optimization and cost management, not business model transformation. Reskilling employees is a Tier 1 efficiency improvement, not fundamental value creation change.",
+      "evidence_quality_assessment": "The $1.4B figure lacks specificity - no timeframe, methodology, or verification. The claim appears across multiple sources but without authoritative attribution or detailed breakdown.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This is workforce optimization, not transformation. The revenue claim lacks credible sourcing and specificity."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "AI chatbot handling customer inquiries is process automation/efficiency improvement, not business model transformation. This is classic Tier 1 - doing existing things better, not creating new value propositions.",
+      "evidence_quality_assessment": "The 47% figure is specific but lacks context (timeframe, volume, success metrics). No authoritative source attribution for this metric.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Customer service automation is Tier 1 optimization, not transformation. Lacks authoritative sourcing."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cost reduction through AI automation is efficiency improvement, not transformation. This describes doing existing customer service cheaper, not creating new business models.",
+      "evidence_quality_assessment": "Extremely vague claim with no metrics, specifics, or authoritative sourcing. The quote is too informal and lacks credibility.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Vague cost reduction claim without evidence. This is Tier 1 optimization misclassified as transformation."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate of C1 - reskilling is workforce optimization, not business model transformation. Strategic reskilling improves existing operations rather than creating new value creation mechanisms.",
+      "evidence_quality_assessment": "Same issues as C1 - the $1.4B figure lacks verification, timeframe, and authoritative sourcing.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim with same fundamental issues - this is Tier 1 workforce optimization."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cost reduction and reduced human intervention describes process automation, not transformation. This is optimizing existing customer service, not creating new business models.",
+      "evidence_quality_assessment": "Vague claim without specific metrics or authoritative sourcing. No quantification of cost savings or intervention reduction.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Process automation claim without evidence. This is Tier 1 efficiency improvement."
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Adding interior design consultation services could represent service expansion and new revenue streams, which has transformation potential. However, unclear if this fundamentally changes IKEA's business model or just extends existing retail model.",
+      "evidence_quality_assessment": "Lacks specific metrics on revenue impact from design services. No authoritative sourcing or quantification of the new service line's contribution.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Service expansion has transformation potential but lacks evidence and specificity. Could be genuine new business line or just service enhancement."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue increase alone doesn't indicate transformation without understanding the mechanism. This appears to be the same $1.4B claim tied to efficiency improvements rather than new business models.",
+      "evidence_quality_assessment": "The $1.4B figure lacks verification, methodology, and authoritative sourcing. 'Unexpected' suggests lack of strategic planning rather than intentional transformation.",
+      "apqc_functions": [
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Unsubstantiated revenue claim without transformation evidence. Likely efficiency gains misrepresented as transformation."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Same as previous claims - reskilling instead of layoffs is workforce management optimization, not business model transformation. This describes cost avoidance and efficiency, not new value creation.",
+      "evidence_quality_assessment": "Same $1.4B figure without verification or authoritative sourcing. No breakdown of how reskilling generated this revenue.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Workforce optimization misclassified as transformation. Lacks credible evidence for revenue claims."
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer service automation is process optimization, not transformation. AI handling customer interactions improves efficiency but doesn't change IKEA's fundamental business model.",
+      "evidence_quality_assessment": "The 47% figure is specific but lacks context and authoritative sourcing. No verification of this metric from credible sources.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Customer service automation is Tier 1 optimization. Lacks authoritative sourcing for the 47% claim."
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes AI-human collaboration for efficiency rather than transformation. Creating 'new revenue streams' through reskilling suggests optimization of existing model, not fundamental business model change.",
+      "evidence_quality_assessment": "Same unverified $1.4B claim. No specific evidence of what the 'new revenue streams' actually are or how they represent transformation.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "AI-human collaboration for efficiency is Tier 1. The revenue claims lack credible evidence and specificity."
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. The majority of claims describe workforce optimization, process automation, and cost reduction - all tier 1 activities. Only C6 (interior design services) has potential transformation elements, but lacks sufficient evidence. The case should likely be reclassified as tier 1 with focus on operational efficiency improvements rather than business model transformation."
+}

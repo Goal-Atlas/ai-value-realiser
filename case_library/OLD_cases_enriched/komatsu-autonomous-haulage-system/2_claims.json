@@ -1,0 +1,59 @@
+{
+  "case_id": "komatsu-autonomous-haulage-system",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "FrontRunner AHS delivers reduced worker exposure to harm and improved mine-site safety",
+      "quote": "FrontRunner delivers significant benefits, including reduced worker exposure to harm, protocols designed to constantly improve mine-site safety"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "FrontRunner AHS provides reduced operating costs",
+      "quote": "FrontRunner delivers significant benefits, including reduced worker exposure to harm, protocols designed to constantly improve mine-site safety, reduced operating costs, and increased productivity and efficiency"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "FrontRunner AHS increases productivity and efficiency",
+      "quote": "FrontRunner delivers significant benefits, including reduced worker exposure to harm, protocols designed to constantly improve mine-site safety, reduced operating costs, and increased productivity and efficiency"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Komatsu customers have moved two billion tons of surface material autonomously",
+      "quote": "supporting customers to move two billion tons of surface material in the copper, iron ore, and oil sands industries autonomously"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Over 700 autonomous trucks are operating worldwide with Komatsu FrontRunner system as of February 2024",
+      "quote": "the number of commercial deployments of Komatsu FrontRunner, an Autonomous Haulage System (AHS), over AHS trucks has surpassed 700 as of February 2024"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "AHS trucks have hauled seven and half billion metric tons of materials by February 2024",
+      "quote": "AHS trucks hauling seven and half billion metric tons of materials by the end of February 2024"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "FrontRunner brings safer, more reliable and consistent mine operations while lowering operating costs and increasing production",
+      "quote": "FrontRunner is bringing safer, more reliable and consistent mine operations while lowering operating costs and increasing production"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "FrontRunner system can yield substantial benefits for mining operations including increased productivity and reduced total cost of ownership",
+      "quote": "this Komatsu system offers automation that can yield substantial benefits for a mining operation. Combining the reliability and durability of Komatsu electric drive trucks with the power of innovative autonomous haulage technology has helped mining customers worldwide increase productivity and reduce total cost of ownership while promoting zero harm"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Over 4 billion tonnes moved since first commercial deployment in 2008",
+      "quote": "Komatsu FrontRunner is a well-proven system, with over 4 billion tonnes moved since its first commercial deployment in 2008 at CODELCO's Gabriela Mistral (Gaby) copper mine in Chile"
+    }
+  ]
+}

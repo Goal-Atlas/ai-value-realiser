@@ -1,0 +1,29 @@
+{
+  "case_id": "volvo-group-azure-ai-transport-solutions",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Accelerate AI innovation and business transformation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/28/accelerate-ai-innovation-and-business-transformation-scaling-ai-transformation-with-strategic-cloud-partnership/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "One million connected Volvo trucks on the road | Volvo Trucks",
+      "url": "https://www.volvotrucks.com/en-en/news-stories/press-releases/2025/sep/one-million-connected-volvo-trucks-on-the-road.html",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "AI in Action: A Journey of data and AI driven innovation and collaboration",
+      "url": "https://www.volvogroup.com/en/news-and-media/news/2024/mar/ai-in-action--a-journey-of-data-and-ai-driven-innovation-and-col.html",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Volvo Group Venture Capital invests in aifleet, an AI-driven trucking company",
+      "url": "https://www.volvogroup.com/en/news-and-media/news/2024/sep/volvo-group-venture-capital-invests-in-aifleet--an-ai-driven-trucking-company.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

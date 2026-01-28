@@ -1,0 +1,127 @@
+{
+  "case_id": "bitazza-scaled-broker-platform-crypto-adoption-google-cloud-ai",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear infrastructure optimization to handle increased transaction volume - classic capability enhancement for existing trading platform operations",
+      "evidence_quality_assessment": "Specific metric ($4.6B transactions), named organization (Bitazza), appears to be from official case study",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - infrastructure scaling to support existing business operations with quantified results"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent process optimization example - 75% reduction in financial reporting time represents clear efficiency gain in existing accounting function",
+      "evidence_quality_assessment": "Highly specific metrics (75% improvement, 1 year to 3 months), quantified and measurable improvement",
+      "apqc_functions": [
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Exemplary Tier 1 case - dramatic process improvement with precise quantification"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process optimization for regulatory compliance - improving existing compliance reporting function with near-real-time capabilities",
+      "evidence_quality_assessment": "Specific capability described (near-real-time reporting), clear functional improvement for compliance requirements",
+      "apqc_functions": [
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear compliance process enhancement - fits Tier 1 pattern of improving existing regulatory functions"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation and process optimization - enabling existing team to perform DevOps functions without additional headcount",
+      "evidence_quality_assessment": "Specific operational improvement described - team empowerment without dedicated DevOps engineer represents measurable efficiency gain",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good example of capability enhancement - existing team enabled to perform additional functions efficiently"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Appears to duplicate C1 - same infrastructure scaling claim with identical $4.6B transaction volume",
+      "evidence_quality_assessment": "Same evidence quality as C1 but redundant claim - may be duplicate content from same source",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate of C1 - recommend consolidation to avoid double-counting same achievement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process capability for compliance - describes operational requirement that drives the infrastructure and reporting improvements mentioned in other claims",
+      "evidence_quality_assessment": "Specific operational requirement described (daily aggregated millions of transactions), provides context for other process improvements",
+      "apqc_functions": [
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Contextual claim that supports other process improvements - describes the operational challenge being optimized"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market context information, not a capability improvement - describes industry size rather than organizational optimization",
+      "evidence_quality_assessment": "Third-party market data (Statista), but not relevant to capability assessment - provides context only",
+      "apqc_functions": [],
+      "notes": "Market context claim - not a capability case. Provides industry background but no organizational process improvement"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Product/service description rather than capability improvement - describes what Bitazza offers, not how they optimized operations",
+      "evidence_quality_assessment": "Factual service description but not a process improvement or efficiency gain claim",
+      "apqc_functions": [],
+      "notes": "Service description - not a capability improvement claim. Describes product offering rather than operational optimization"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1-C6 represent clear functional optimizations (infrastructure scaling, process acceleration, compliance automation, workforce augmentation) rather than business model changes. No evidence of new revenue streams or market creation."
+}

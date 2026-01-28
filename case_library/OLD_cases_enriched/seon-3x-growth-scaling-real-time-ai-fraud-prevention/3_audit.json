@@ -1,0 +1,228 @@
+{
+  "case_id": "seon-3x-growth-scaling-real-time-ai-fraud-prevention",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth metrics alone don't demonstrate transformation - this describes scaling an existing business model, not creating a new one",
+      "evidence_quality_assessment": "Vague claim without specific revenue figures or timeframe details",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Pure growth metric without transformation context - this is operational scaling, not strategic reinvention"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Revenue growth and headcount expansion indicate business success but not business model transformation",
+      "evidence_quality_assessment": "Specific metrics provided but from company source without independent validation",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Operational scaling metrics - impressive growth but doesn't demonstrate doing fundamentally new things"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer count and technical infrastructure describe operational capacity, not strategic transformation",
+      "evidence_quality_assessment": "Specific customer count but lacks context on what makes this transformational vs. traditional SaaS scaling",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical capability metric - shows scale but not transformation of value creation model"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Performance metric demonstrates technical capability but not business model innovation",
+      "evidence_quality_assessment": "Specific technical metric but lacks business context or independent verification",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical performance metric - operational excellence, not strategic transformation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Response time optimization is operational efficiency, not strategic transformation",
+      "evidence_quality_assessment": "Specific performance metric but represents incremental improvement rather than transformation",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical optimization metric - better performance of existing model, not new value creation"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Processing time improvement is operational optimization, not business model change",
+      "evidence_quality_assessment": "Specific percentage improvement but lacks context on strategic impact",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical efficiency gain - classic Tier 1 optimization, not transformation"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Cost reduction is efficiency improvement, not strategic transformation",
+      "evidence_quality_assessment": "Specific cost savings percentage but represents operational optimization",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Cost optimization metric - clear Tier 1 efficiency improvement, not transformation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Processing volume demonstrates scale but not transformation of how value is created",
+      "evidence_quality_assessment": "Specific volume metric but lacks context on what makes this transformational",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Scale metric - shows operational capacity but not strategic reinvention"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Funding level suggests investor confidence in transformational potential, but funding alone doesn't prove transformation",
+      "evidence_quality_assessment": "Specific funding amounts from credible source (press release)",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "high"
+        },
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        }
+      ],
+      "notes": "High funding level may indicate transformational business model but needs validation of actual transformation claims"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "90% reduction in fraudulent account creation could indicate transformation of fraud prevention economics, but may be operational improvement",
+      "evidence_quality_assessment": "Specific outcome metric but lacks independent verification and context on baseline",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Significant outcome improvement - could be transformational if it enables new business models for clients, needs context"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Precision improvement in fraud detection is operational enhancement, not business model transformation",
+      "evidence_quality_assessment": "Specific performance metric but represents incremental improvement",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Performance improvement metric - better fraud detection is optimization, not transformation"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Manual review time reduction is efficiency improvement, not strategic transformation",
+      "evidence_quality_assessment": "Specific efficiency metric but represents operational optimization",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Efficiency improvement - classic Tier 1 optimization of existing processes"
+    },
+    {
+      "claim_id": "C13",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Fast integration time is operational efficiency, not business model innovation",
+      "evidence_quality_assessment": "Specific timeframe but represents process optimization rather than transformation",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Implementation efficiency - faster deployment is operational improvement, not strategic change"
+    },
+    {
+      "claim_id": "C14",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer list and processing volume demonstrate market success but not transformation of value creation",
+      "evidence_quality_assessment": "Named customers provide credibility but scale metrics don't demonstrate transformation",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market success indicators - impressive client roster but doesn't demonstrate fundamental business model change"
+    }
+  ],
+  "tier_verification": "This case appears to be misclassified as tier 1. All claims describe operational scaling, technical optimization, and efficiency improvements of an existing fraud prevention SaaS model. SEON is doing traditional things better (faster processing, lower costs, higher accuracy) rather than doing fundamentally new things. This should be reclassified as tier 1 - the business model remains B2B SaaS fraud prevention software, with AI improving performance but not creating new value creation paradigms."
+}

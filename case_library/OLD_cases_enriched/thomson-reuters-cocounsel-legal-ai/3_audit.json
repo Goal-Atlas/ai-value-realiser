@@ -1,0 +1,258 @@
+{
+  "case_id": "thomson-reuters-cocounsel-legal-ai",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing due diligence process - AI enables lower-skilled staff to complete work previously requiring lawyers. Replicable pattern for legal document review.",
+      "evidence_quality_assessment": "Specific example with quantified scope (87 contracts), clear process description, and measurable outcome (intern completion without lawyer assistance).",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing workforce augmentation and process efficiency in legal due diligence"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes cost reduction through reduced external counsel dependency - clear functional optimization.",
+      "evidence_quality_assessment": "Vague claim without specific metrics or quantification of reduction in outside counsel usage.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic fit clear but lacks specific evidence of cost savings or usage reduction"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Quality improvement and error reduction in legal review processes - fits Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Qualitative claim without quantified error reduction metrics or specific examples.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process improvement but needs quantification for full approval"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capacity optimization - doubling urgent case handling represents significant efficiency gain in existing legal aid operations.",
+      "evidence_quality_assessment": "Named organization (Legal Aid Society of San Bernardino), specific quantified metric (2x capacity), credible source.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of capacity optimization with clear metrics and named organization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Efficiency improvement enabling 20% more case onboarding - clear optimization of existing legal aid capacity.",
+      "evidence_quality_assessment": "Specific quantified metric (20% increase), same credible organization as C4.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear capacity improvement with specific metrics from credible source"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Speed optimization in legal response processes - 90% faster response times represent significant efficiency gains.",
+      "evidence_quality_assessment": "Specific quantified metric (90% faster), same credible source, with concrete business impact examples.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of process speed optimization with clear business impact"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Speed optimization in legal research - minutes/seconds vs traditional timeframes represents clear efficiency gain.",
+      "evidence_quality_assessment": "Specific time metrics, though relative comparison could be more precise. Credible source context.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear research process optimization with good time-based metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "User satisfaction metric suggests process improvement but doesn't directly quantify efficiency gains.",
+      "evidence_quality_assessment": "Specific percentage (96%) from named organization (Plante Moran) but satisfaction doesn't equal measurable optimization.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "High user satisfaction suggests value but lacks direct efficiency/cost/quality metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Speed improvement in research methods - 91% reporting faster performance indicates clear efficiency optimization.",
+      "evidence_quality_assessment": "Specific percentage from named organization, directly addresses speed/efficiency comparison.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of research process speed optimization with clear comparative metrics"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Purchase recommendation suggests value but doesn't directly quantify operational improvements.",
+      "evidence_quality_assessment": "Specific percentage (87%) from named organization but represents intention rather than measured optimization.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong user endorsement but lacks direct efficiency/cost/quality improvement metrics"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Efficiency and time savings in technical research - clear optimization of existing research processes.",
+      "evidence_quality_assessment": "Specific percentage (62%) reporting 'significant' improvements, though 'significant' could be more precisely defined.",
+      "apqc_functions": [
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear research efficiency improvement, though 'significant' could be better quantified"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "450% user base scaling suggests adoption success but doesn't directly quantify operational efficiency gains.",
+      "evidence_quality_assessment": "Specific metric (450% scaling) from named organization but measures adoption rather than process optimization.",
+      "apqc_functions": [
+        {
+          "id": "13.4",
+          "name": "Manage change",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong adoption metrics but indirect evidence of operational optimization"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Platform performance optimization - 97% reduction in download time represents clear technical efficiency improvement.",
+      "evidence_quality_assessment": "Specific quantified metric (97% reduction) with clear technical performance measure.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear technical performance optimization with strong quantified metrics"
+    },
+    {
+      "claim_id": "C14",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Task completion time improvement - 31% average improvement represents clear process efficiency optimization.",
+      "evidence_quality_assessment": "Specific quantified metric (31% improvement) though quote appears truncated. Technical performance measure.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear task efficiency improvement with good quantified metrics, though source quote incomplete"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing legal and professional service functions rather than business model transformation. Focus is on efficiency, speed, capacity, and quality improvements within established legal practice operations."
+}

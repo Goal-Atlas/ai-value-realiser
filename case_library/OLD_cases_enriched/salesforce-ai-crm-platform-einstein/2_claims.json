@@ -1,0 +1,65 @@
+{
+  "case_id": "salesforce-ai-crm-platform-einstein",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Salesforce invested over $600 million to bring AI components together",
+      "quote": "We have been making lots of investments in AI technology, spending over $600m to bring together various components."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Einstein eliminates data preparation requirements for customers",
+      "quote": "What makes it so special is that Salesforce Einstein is 'Data Ready'. So our customers don't have to do any data preparation or ETL. They just put the data into Salesforce and it works."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Einstein enables sales reps to focus on closing the best leads through predictive lead scoring",
+      "quote": "Sales Cloud Einstein will include Predictive Lead Scoring that enables sales reps to focus on closing the best leads"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Einstein helps service agents resolve customer issues faster through automated case classification",
+      "quote": "Service Cloud Einstein will include Recommended Case Classification which automatically pre-populates key case fields enabling predictive routing of cases to the right agent and enabling agents to resolve customer issues faster."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Einstein improves agent productivity by predicting case resolution times",
+      "quote": "Predictive Close Times will predict the time needed to resolve an issue, helping improve agent productivity."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Einstein was expected to deliver around 1 trillion transactions per week",
+      "quote": "Salesforce CEO Marc Benioff said Einstein would deliver around 1 trillion transactions the week of the call."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Data Cloud integration reduces AI hallucination risks",
+      "quote": "Retrieving accurate data via Data Cloud lowers the risk of hallucination, Sinh said."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Einstein has data storage and migration issues that impact performance",
+      "quote": "Einstein employs Machine Learning and Natural Language Processing to analyze data to predict sales outcomes, provide insights into customers, and even automate routine tasks. However, it has issues related to data storage and migration that need to be addressed in updates."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Einstein sometimes fails to deliver expected insights, forcing users back to manual processes",
+      "quote": "Few teething problems and sometime the AI doesn't bring back the particular insights we're looking for so we have had to go back to the old ways with deadlines but that could be down to user error."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Einstein faces implementation challenges including high costs and complex 2-3 month deployments",
+      "quote": "Key implementation challenges include high total costs, complex 2-3 month deployments, and limited conversation intelligence accuracy."
+    }
+  ]
+}

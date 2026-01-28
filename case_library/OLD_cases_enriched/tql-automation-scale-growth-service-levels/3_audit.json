@@ -1,0 +1,106 @@
+{
+  "case_id": "tql-automation-scale-growth-service-levels",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - automation streamlining high-volume processes to enable workforce focus on higher-value activities. Pattern is replicable across logistics operations.",
+      "evidence_quality_assessment": "Named organization (TQL) but lacks specific metrics or quantified improvements. Claims are general without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit for Tier 1 optimization but needs specific metrics to be fully approved"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Suggests process optimization potential across multiple functions, but lacks specificity about what processes or improvements are achieved.",
+      "evidence_quality_assessment": "Named organization but extremely vague - no details about the innovation, processes affected, or measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague to assess properly - needs specific process details and outcomes"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a business outcome/scale metric, not functional optimization. Does not describe AI/automation improving specific processes.",
+      "evidence_quality_assessment": "Specific claim about company size but not relevant to Tier 1 capability assessment.",
+      "apqc_functions": [],
+      "notes": "Not a capability case - describes business scale, not process optimization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry growth statistics, not functional optimization. Does not describe specific process improvements at TQL.",
+      "evidence_quality_assessment": "Industry data is specific but not about TQL's operational capabilities or AI/automation use.",
+      "apqc_functions": [],
+      "notes": "Industry context, not a capability case about process optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes business model/operational volume but not optimization or improvement through AI/automation.",
+      "evidence_quality_assessment": "Specific operational metric but does not demonstrate capability improvement or efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Operational scale metric, not a capability improvement case"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Employee satisfaction metric, not functional process optimization. Does not describe AI/automation improving specific operations.",
+      "evidence_quality_assessment": "Specific comparative metric from credible source but not relevant to operational capability assessment.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "HR outcome metric, not a process optimization capability case"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Employee retention metric, not functional optimization. Does not describe process improvements through AI/automation.",
+      "evidence_quality_assessment": "Specific comparative metric but not about operational capabilities or process optimization.",
+      "apqc_functions": [
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "low"
+        }
+      ],
+      "notes": "HR outcome metric, not a capability case about process optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Company scale metric, not functional optimization. Does not describe AI/automation improving specific processes.",
+      "evidence_quality_assessment": "Specific headcount data but not relevant to capability assessment of process optimization.",
+      "apqc_functions": [],
+      "notes": "Scale metric, not a capability case about process improvement"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1, but most claims are business metrics rather than capability cases. Only C1 and C2 relate to actual process optimization, though both lack sufficient detail for full approval."
+}

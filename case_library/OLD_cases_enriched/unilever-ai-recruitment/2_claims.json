@@ -1,0 +1,53 @@
+{
+  "case_id": "unilever-ai-recruitment",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Saved over 50,000 hours in candidate interview time over 18 months",
+      "quote": "Saved 50,000 hours in candidate time over 18 months"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Delivered over \u00a31M annual savings",
+      "quote": "\u00a31M annual costs savings"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Improved candidate completion rate from 50% to 96%",
+      "quote": "96% candidate completion rate compared to 50%"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Achieved 90% reduction in time to hire",
+      "quote": "90% reduction in time to hire"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Increased diversity hires by 16%",
+      "quote": "16% increase in diversity hires"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "AI was able to filter up to 80% of the candidate pool",
+      "quote": "artificial-intelligence was able to filter up to 80% of the candidate pool"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Achieved 75% reduction in recruitment time",
+      "quote": "75% reduction in recruitment time"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Cost savings exceeding GBP 1 million",
+      "quote": "cost savings exceeding GBP 1 million"
+    }
+  ]
+}

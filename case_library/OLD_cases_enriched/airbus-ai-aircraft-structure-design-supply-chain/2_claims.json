@@ -1,0 +1,77 @@
+{
+  "case_id": "airbus-ai-aircraft-structure-design-supply-chain",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Digital twins significantly reduce quality issues and shorten design and production lead times",
+      "quote": "For example, on the A320 family \"heads of versions\" \u2013 the first aircraft in a series with identical specifications for a given customer \u2013 the use of 3D data as a master and automation is significantly reducing quality issues and shortening design and production lead times."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Digital twins accelerate time to market and enhance design accuracy by reducing need for physical prototypes",
+      "quote": "They enable our engineering teams to simulate aircraft behaviour under a multitude of real-world scenarios, using physics-based models. This capability significantly reduces the need for physical prototypes, accelerating time to market and enhancing design accuracy and performance validation."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Digital twins boost manufacturing efficiency and minimize paperwork",
+      "quote": "By simulating tools, robots, workflows, and supply chains, we can predict how designs will perform under various conditions, boosting efficiency and minimising paperwork."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Over 12,000 aircraft are connected to digital twin platform providing real-time insights",
+      "quote": "Today, over 12,000 aircraft are connected to the Skywise platform, where real-time data from sensors throughout the aircraft feeds their virtual twins."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Airbus produces more than 25,000 flight-ready 3D-printed parts annually to address supply chain constraints",
+      "quote": "Airbus is now addressing supply chain constraints by producing more than 25,000 flight-ready 3D-printed parts annually."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Over 200,000 certified 3D-printed polymer parts are in active service worldwide",
+      "quote": "It now has over 200,000 certified Stratasys polymer parts in active service with airlines and air forces worldwide."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "3D printed parts resulted in 43% weight reduction on A350 aircraft",
+      "quote": "Stratasys shares that the implementation of' 3D printed parts in the production process of the Airbus A350 long-haul jet has resulted in a 43% weight reduction."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "3D printing eliminated minimum order quantity requirements and achieved 85% reduction in lead time",
+      "quote": "For Airbus, this process eliminated the Minimum Order Quantity (MOQ) requirement, and led to an 85% reduction in lead time."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI-powered computer vision accelerated inspections from hundreds to millions of images per minute",
+      "quote": "By combining this direction with the custom annotation tool, we were able to accelerate inspections from hundreds of images per minute to millions of images per minute."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "AI automation eliminates human error and dramatically improves accuracy leading to significant manufacturing savings",
+      "quote": "The result is a dramatic improvement in the accuracy of the readings which translates into significant savings during the manufacturing process \u2014 all while boosting quality and maintaining safety standards."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S4",
+      "claim": "Atlas AI's GeoAI platform demonstrated ability to develop better bottom-up forecasts reflecting dynamic growth profiles",
+      "quote": "In the initial deployment phase of the collaboration, Atlas AI's technology demonstrated an ability to develop bottom-up forecasts that better reflect the dynamic and heterogeneous growth profile of the initial markets being tested."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "GeoAI provides unprecedented granularity and adaptability in forecasting to improve market understanding",
+      "quote": "The team's level of granularity and adaptability in forecasting could significantly improve Airbus' understanding of rapidly evolving markets, aiding in better anticipating future air travel demands and trends."
+    }
+  ]
+}

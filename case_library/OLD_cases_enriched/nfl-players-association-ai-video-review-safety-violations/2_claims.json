@@ -1,0 +1,53 @@
+{
+  "case_id": "nfl-players-association-ai-video-review-safety-violations",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI platform helps teams maximize and predict player performance through comprehensive data analysis",
+      "quote": "Digital Athlete, an artificial intelligence platform that helps teams maximize, and even predict, player performance."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI models can identify subtle movement changes that signal fatigue or higher injury risk",
+      "quote": "The models can identify subtle changes in movement that may signal fatigue or higher injury risk \u2013 whether a player is ramping up too fast or pushing beyond his usual limits."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Teams use AI information to prevent injuries, manage recovery and ensure peak performance timing",
+      "quote": "Teams use that information to prevent injuries, manage recovery and ensure their rosters peak when it matters most."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI injury prediction system represents significant advancement over previous methods",
+      "quote": "The process isn't foolproof, but it is light-years ahead of a decade ago, when teams relied on the naked eye and an athlete's own candor."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "AI has become essential for daily operations across sports organizations",
+      "quote": "Across the sports world, AI has quickly moved from an emerging curiosity to an essential part of daily operations."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Digital Athlete AI system enhances player recovery and game performance",
+      "quote": "the Digital Athlete uses artificial intelligence and machine learning to identify the needs of each player to enhance recovery and game performance."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "AI-powered visual system provides detailed head impact data for player safety",
+      "quote": "The NFL also utilizes an AI-powered visual system that measures the number of head impacts per player during each game... it does provide each team with detailed information about the number of head impacts individual players sustained during a game."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Rule changes based on data analysis achieved significant concussion reduction",
+      "quote": "the rule change resulted in a 60% decrease in concussions during kickoff"
+    }
+  ]
+}

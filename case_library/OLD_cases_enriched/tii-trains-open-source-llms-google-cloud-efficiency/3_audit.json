@@ -1,0 +1,124 @@
+{
+  "case_id": "tii-trains-open-source-llms-google-cloud-efficiency",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes training efficiency/scale, not business model transformation. Processing tokens is an operational capability, not a new way of creating value.",
+      "evidence_quality_assessment": "Specific metric (14 trillion tokens) but lacks context for strategic significance. No indication this enables new business models or markets.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical achievement in model training, but this is operational efficiency, not transformation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Processing speed is a technical performance metric, not evidence of business model change or new market creation.",
+      "evidence_quality_assessment": "Specific metric (1,000+ tokens/second) but this measures technical capability, not strategic transformation.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Technical performance metric - not indicative of tier 1 transformation"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "GPU utilization improvement is operational efficiency, not strategic transformation. This is cost optimization within existing model.",
+      "evidence_quality_assessment": "Specific comparative claim (doubled utilization) but this is clearly Tier 1 efficiency improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Classic Tier 1 efficiency gain - better resource utilization, not new value creation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Accelerated go-to-market could indicate transformation, but lacks specifics about what new markets or business models are enabled.",
+      "evidence_quality_assessment": "Vague claim without specific metrics or details about what products or markets are being accessed differently.",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "low"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague to assess transformation - could be operational improvement or genuine strategic change"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Training speed improvement is operational efficiency, not business model transformation.",
+      "evidence_quality_assessment": "Vague claim ('dramatically sped up') without specific metrics or strategic context.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Operational improvement without strategic transformation evidence"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate of C2 - technical performance metric, not strategic transformation.",
+      "evidence_quality_assessment": "Specific metric but measures technical capability, not business model change.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate technical metric - not transformation evidence"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Reliability and scale are operational capabilities, not evidence of new business models or market creation.",
+      "evidence_quality_assessment": "General claim about reliability without specific metrics or strategic implications.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Infrastructure reliability - operational capability, not transformation"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Efficiency gains are explicitly Tier 1 - doing existing things better, not creating new value propositions.",
+      "evidence_quality_assessment": "Vague claim without specific metrics. 'Efficiency gains' clearly indicates operational improvement.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Explicitly describes efficiency gains - classic Tier 1, not transformation"
+    }
+  ],
+  "tier_verification": "MISCLASSIFIED - This case appears to be tier 1, not tier 1. All claims describe operational efficiency improvements, technical performance metrics, and infrastructure optimization. There is no evidence of business model change, new market creation, or AI as a core value proposition. This is about doing LLM training better/faster/cheaper, not about fundamental transformation of how TII creates value or serves markets."
+}

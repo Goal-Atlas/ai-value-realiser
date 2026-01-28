@@ -1,0 +1,35 @@
+{
+  "case_id": "c2i-genomics-ai-genomic-blood-cancer-detection",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "C2i Genomics and Premier Inc. Team Up to Bring AI-Powered Personalized Cancer Detection and Treatment Monitoring to U.S. Healthcare Providers",
+      "url": "https://premierinc.com/newsroom/premier-in-the-news/c2i-genomics-and-premier-team-up-to-bring-ai-powered-personalized-cancer-detection-and-treatment-monitoring-to-u-s-healthcare-providers",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "C2i Genomics lands $100M to scale up software that detects tiny traces of cancer in a single blood draw",
+      "url": "https://www.fiercebiotech.com/medtech/c2i-genomics-lands-100m-series-b-to-scale-up-software-detects-tiny-traces-cancer-a-single",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "C2i Genomics Teams With Premier for AI-Driven Minimal Residual Disease Detection",
+      "url": "https://www.genomeweb.com/business-news/c2i-genomics-teams-premier-ai-driven-minimal-residual-disease-detection",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "C2i Genomics and Ichilov bring cancer detection and monitoring platform to Israel",
+      "url": "https://cancerletter.com/free/20230811_10e/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "C2i Genomics Partners with Twist Bioscience to Launch Reference Materials for Whole-Genome Cancer Detection",
+      "url": "https://twistbiosciences.gcs-web.com/news-releases/news-release-details/c2i-genomics-partners-twist-bioscience-launch-reference",
+      "doc_type": "Press Release"
+    }
+  ]
+}

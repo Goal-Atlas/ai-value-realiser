@@ -1,0 +1,192 @@
+{
+  "case_id": "kraft-heinz-reduced-marketing-campaign-creation-time-8-weeks-to-8-hours",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of content development process - reducing time from 8 weeks to 8 hours represents dramatic efficiency gain in existing marketing function. Pattern is replicable across other CPG companies.",
+      "evidence_quality_assessment": "Named organization (Kraft Heinz), highly specific quantified metric (8 weeks to 8 hours), appears to be from authoritative source discussing their AI implementation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with dramatic time reduction in content development process"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization with time-to-value improvement, fits Tier 1 pattern of efficiency gains in existing functions.",
+      "evidence_quality_assessment": "Named organization and specific percentage (75%), but 'time to value' is somewhat vague - unclear what specific processes or outcomes are being measured.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but metric lacks specificity about what processes achieved 75% faster time to value"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear efficiency optimization across multiple business functions (R&D, Innovation, Marketing). Pattern is replicable.",
+      "evidence_quality_assessment": "Named organization, but 'thousands of hours' is imprecise quantification. Lacks specific methodology or timeframe for the savings calculation.",
+      "apqc_functions": [
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but vague quantification reduces evidence quality"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Adoption rate indicates successful process optimization and workforce augmentation, fitting Tier 1 pattern of improving existing functions.",
+      "evidence_quality_assessment": "Named organization with specific adoption percentage (70%), but productivity and efficiency claims are qualitative without measurable outcomes.",
+      "apqc_functions": [
+        {
+          "id": "13.4",
+          "name": "Manage change",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Good adoption metric but lacks specific productivity measurements"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Identical to C1 - clear functional optimization of concept production process with dramatic time reduction. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, highly specific quantified metric (8 weeks to 8 hours), authoritative source with direct quote.",
+      "apqc_functions": [
+        {
+          "id": "2.2",
+          "name": "Generate and define new product/service ideas",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate of C1 but from different context (concept vs content production) - both strong Tier 1 cases"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of content creation process with efficiency gains. Pattern applicable to other content-heavy organizations.",
+      "evidence_quality_assessment": "Named organization, but 'tens of thousands of hours' is imprecise. Good description of specific outcomes (high-volume, personalized, on-brand content).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but imprecise time savings quantification"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization with specific time reduction (8x faster, weeks to hours). Highly replicable across similar organizations.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement (8x reduction), appears from credible source discussing speed-to-market improvements.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with clear time reduction in design processes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of content creation and versioning processes, enabling scale efficiencies in existing marketing functions. Pattern replicable for content-intensive businesses.",
+      "evidence_quality_assessment": "Named organization with specific description of capabilities (asset creation, versioning across image/motion/video). Detailed process description compensates for lack of quantified metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit with detailed process description, though lacks quantified metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes campaign development optimization, but 'just weeks' is not clearly an improvement without baseline comparison. Unclear if this represents efficiency gain.",
+      "evidence_quality_assessment": "Named organization with specific example (sports event campaign), but lacks baseline for comparison. 'Just weeks' could be fast or slow depending on previous timeline.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Lacks baseline comparison to determine if 'weeks' represents improvement"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization enabling faster content updates and workforce empowerment. Represents efficiency gain in content management function with replicable pattern.",
+      "evidence_quality_assessment": "Named organization with specific capability description (on-the-fly updates, democratized content changes). Qualitative but detailed and credible.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Strong process optimization case with workforce empowerment benefits"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing, content development, and product development functions rather than business model changes or new revenue streams."
+}

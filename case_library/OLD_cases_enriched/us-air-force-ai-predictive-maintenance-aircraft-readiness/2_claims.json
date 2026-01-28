@@ -1,0 +1,41 @@
+{
+  "case_id": "us-air-force-ai-predictive-maintenance-aircraft-readiness",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "PANDA has successfully predicted hundreds of failures before they happen",
+      "quote": "PANDA is used to actively monitor thousands of components, and has helped the USAF successfully predict hundreds of failures before they happen."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The system has scaled to monitor more than 3,000 aircraft across 16 aircraft platforms",
+      "quote": "Today, the toolkit has scaled to monitor more than 3,000 aircraft across 16 aircraft platforms."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "PANDA makes more accurate predictions about needed repairs and replacement parts, reducing over-maintenance and increasing aircraft readiness",
+      "quote": "Since the USAF deployed PANDA in AWS GovCloud (US), it makes more accurate predictions about needed repairs and replacement parts, reducing over-maintenance and increasing aircraft readiness."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Machine learning models have accelerated the time it takes to extract, analyze, and act on relevant maintenance data",
+      "quote": "Using ML models has accelerated the time it takes to extract, analyze, and act on relevant maintenance data."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "PANDA supports more than 775 active users across eight mission applications",
+      "quote": "PANDA is built on the C3 AI Platform and C3 AI Readiness, and is comprised of eight mission applications that support more than 775 active users."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "More aircraft are ready for flight as a result of the predictive maintenance solutions",
+      "quote": "Most importantly, with the use of predictive maintenance solutions provided by C3 AI and AWS, more aircraft are ready for flight and the USAF can focus on what's most critical \u2013 the defense mission."
+    }
+  ]
+}

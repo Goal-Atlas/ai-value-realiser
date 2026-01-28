@@ -1,0 +1,29 @@
+{
+  "case_id": "team-liquid-saved-10000-hours-manual-work-sap-business-ai",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Team Liquid: Changing the game in esports data analytics with AI and SAP solutions",
+      "url": "https://www.sap.com/asset/dynamic/2023/07/c4e4d3c9-807e-0010-bca6-c68f7e60039b.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Team Liquid Unlocking the Next Level with AI Agents | SAP News Center",
+      "url": "https://news.sap.com/2025/05/team-liquid-unlocking-next-level-ai-agents/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Team Liquid Hones Their Competitive Edge with Data... - SAP Community",
+      "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/team-liquid-hones-their-competitive-edge-with-data-analytics/ba-p/13545103",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Team Liquid tackles esports data with AI | CIO",
+      "url": "https://www.cio.com/article/2144065/team-liquid-tackles-esports-data-with-ai.html",
+      "doc_type": "News Article"
+    }
+  ]
+}

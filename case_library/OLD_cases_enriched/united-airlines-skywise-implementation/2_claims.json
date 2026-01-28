@@ -1,0 +1,47 @@
+{
+  "case_id": "united-airlines-skywise-implementation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Skywise enables more efficient data management and analysis for airlines",
+      "quote": "Skywise enables airlines to store, access, manage, and analyze data more efficiently while also benchmarking against other airline users' trends"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "The platform provides comprehensive technology capabilities in one integrated solution",
+      "quote": "Skywise provides all technology elements in one place, including data warehousing, visualization, alerting, and even machine learning packages, allowing United and other airlines to nimbly develop and deploy their own analytical products"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Integration with Palantir Foundry enhances operational reliability",
+      "quote": "the combination of Palantir Foundry and Airbus' Skywise will provide United with the data and tools to enhance its operational reliability"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "The platform enables fleet performance maximization through data insights",
+      "quote": "this new data platform, which will allow us to maximize the performance of our Airbus fleet by analyzing the best data we have available and using those insights to continuously improve our operation"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Skywise unlocks data value to power operational efficiency in maintenance and flight operations",
+      "quote": "Skywise will bring significant value by unlocking data, which will power operational efficiency in aircraft maintenance and flight operations for United Airlines' fleet"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "The platform improves operational performance across the aviation value chain",
+      "quote": "Skywise is fast becoming the platform of reference used by all major aviation players to improve operational performance, ensuring complete data continuity with benefits across the entire value chain"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Increased data sharing leads to more accurate predictions and models",
+      "quote": "The more data that airlines or OEMs share into the Skywise Core platform, the more accurate the predictions and models for customers connected"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "meditech-saved-7-hours-employee-week-admin-tasks-gemini",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "MEDITECH saved 7 hours per employee per week using Gemini",
+      "quote": "7 hours saved per employee per week with Gemini"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Improved job satisfaction as employees can focus on strategic work",
+      "quote": "Improved job satisfaction as team members can focus on more strategic projects"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Faster access to complex industry information through AI summarization",
+      "quote": "Faster, simpler access to complex industry information with Gemini summarization"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Average of 7 hours saved per employee per week by reducing manual tasks",
+      "quote": "We found that we were able to save an average of seven hours per employee per week by reducing some manual tasks such as notetaking during meetings or drafting and revising emails and documents"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Teams feel more satisfied with their jobs due to automation of mundane tasks",
+      "quote": "Our teams overall are feeling more satisfied with their jobs because they're able to automate these more mundane tasks and focus on innovation"
+    }
+  ]
+}

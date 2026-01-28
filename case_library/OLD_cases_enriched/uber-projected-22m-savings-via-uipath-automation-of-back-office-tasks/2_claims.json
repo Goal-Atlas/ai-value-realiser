@@ -1,0 +1,71 @@
+{
+  "case_id": "uber-projected-22m-savings-via-uipath-automation-of-back-office-tasks",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Uber saves $10 million per year from RPA automation",
+      "quote": "After three years, Uber has more than 100 automations in production, which saves Uber an estimated $10 million per year."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Uber Freight automated invoicing for over 80 customers across seven main portals",
+      "quote": "We've been able to automate invoicing for over 80 customers across seven main portals that we use daily, which raises customer satisfaction as well as decreasing errors"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Uber Freight increased automation coverage from less than 20% to handling nearly 100 customers and shippers",
+      "quote": "Starting with one customer and one shipper, Uber Freight now handles invoices for nearly 100 customers and shippers"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Uber Freight began with less than 20% invoice automation coverage two years ago",
+      "quote": "We began managing less than 20% of our invoices through automation two years ago"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "WEX saved $2.7M by streamlining operations with automation and agentic AI",
+      "quote": "Discover how WEX saved $2.7M by streamlining operations with automation and agentic AI"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "U.S. Department of Veteran Affairs reduced claims processing time from 27 days to 12 hours",
+      "quote": "From 27 days to 12 hours\u2014 learn how the U.S. Department of Veteran Affairs reinvented claims processing"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Uber's advertising platform surpassed $1 billion in annual revenue run rate",
+      "quote": "Since launching a new Uber advertising division in 2022, the platform has already surpassed an impressive US$1 billion in annual revenue run rate."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "Uber achieved 70% increase in speed of ad sales process",
+      "quote": "70% increase in speed of Uber's ad sales process"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Uber is intaking advertising demand 50% faster",
+      "quote": "Uber is now intaking advertising demand 50% faster and the speed of their end-to-end ad sales process has increased by nearly 70%."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "Over 100 processes were moved and modernized in the cloud",
+      "quote": "100+ processes moved and modernized in the cloud"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "75+ custom dashboards were created to give teams visibility into operations",
+      "quote": "75+ custom dashboards created to give teams visibility into operations"
+    }
+  ]
+}

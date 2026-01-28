@@ -1,0 +1,29 @@
+{
+  "case_id": "virgin-atlantic-ai-travel-personalization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Virgin Atlantic boosts loyalty with Adobe-powered personalization",
+      "url": "https://business.adobe.com/blog/how-virgin-atlantic-soared-with-adobe",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Why Virgin Atlantic champions data & AI",
+      "url": "https://www.cambridgespark.com/blog/why-virgin-atlantic-champions-data-ai",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Virgin Atlantic unveils AI-powered travel concierge",
+      "url": "https://www.traveldailymedia.com/virgin-atlantic-unveils-ai-powered-travel-concierge/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "How Virgin Atlantic Uses AI to Shape the Future",
+      "url": "https://www.fetcherr.io/blog/how-virgin-atlantic-uses-ai-to-shape-the-future",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "case_id": "bbva-digital-customer-centricity",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "BBVA acquired 11.1 million new customers in 2023",
+      "quote": "11.1M new customers in 2023"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "65% of new customers were acquired through digital channels",
+      "quote": "65% of those new customers were acquired through digital channels"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "BBVA achieved 100% growth in digital sales over four years",
+      "quote": "100% growth in digital sales during the last four years"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "BBVA realized 117% growth in new customers over five years",
+      "quote": "The company realized a staggering 117% growth in new customers in the last five years"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "BBVA posted record profit of \u20ac8.02B in 2023",
+      "quote": "posted a profit of \u20ac8.02B in 2023, the highest earnings in its history"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Nearly 50 million customers interact with BBVA through digital channels",
+      "quote": "Nearly 50 million customers now interact with the bank through digital channels"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Seven out of 10 sales are made digitally",
+      "quote": "seven out of 10 sales are made digitally"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "Client onboarding process reduced to just minutes",
+      "quote": "BBVA's client onboarding process takes just minutes (versus a few days at most other banks)"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S1",
+      "claim": "BBVA achieved cost-to-income ratio of 41.7%, one of the best among European banks",
+      "quote": "including a cost-to-income ratio of 41.7%, one of the best among European banks"
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S1",
+      "claim": "BBVA gained 130,000 new customers in Italy in the first year, rising to over 450,000",
+      "quote": "in Italy, BBVA opened in new markets with a full digital value proposition that inspired 130,000 new customers to join in the first year alone\u2014a figure which has risen to more than 450,000 in the time since"
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "BBVA's Data & Analytics team grew from 6 to 50 people between 2014 and 2017 with low turnover",
+      "quote": "between 2014 and 2017, the D&A team grew from six to fifty people, one-third of whom were female, while only six people left"
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S4",
+      "claim": "BBVA achieved 117% growth in new customers in recent years",
+      "quote": "117% growth in new customers in recent years"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "BBVA posted record profit of \u20ac8.02B in 2023",
+      "quote": "Record profit of \u20ac8.02B in 2023"
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S4",
+      "claim": "70% of BBVA sales are made digitally",
+      "quote": "70% of sales made digitally"
+    }
+  ]
+}

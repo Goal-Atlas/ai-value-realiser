@@ -1,0 +1,29 @@
+{
+  "case_id": "tql-automation-scale-growth-service-levels",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Team Rocket Takes Flight with IT Hackathon Victory",
+      "url": "https://www.tql.com/about-us/lifeattql-blog/october-2023/team-rocket-takes-flight-with-it-hackathon-victory",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Total Quality Logistics' 2021 AWARD FINALIST CASE STUDY: Best Achievement in Operational Excellence to deliver Business Transformation",
+      "url": "https://insights.btoes.com/total-quality-logistics-2021-award-finalist-case-study-best-achievement-in-operational-excellence-to-deliver-business-transformation",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Total Quality Logistics Ships Until They Drop",
+      "url": "https://www.cincinnatimagazine.com/article/total-quality-logistics-ships-until-they-drop/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Working at Total Quality Logistics",
+      "url": "https://www.greatplacetowork.com/certified-company/1100931",
+      "doc_type": "Case Study"
+    }
+  ]
+}

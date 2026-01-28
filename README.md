@@ -157,7 +157,9 @@ pytest --cov=case_library --cov-report=html
 ## Documentation
 
 - [AI Case Library Specification](docs/specs/AI_CASE_LIBRARY_SPECIFICATION.md)
-- [Architecture Brief](docs/architecture/VALUE_REALISER_ARCHITECTURE_BRIEF.md)
+- [Work Plan](docs/WORK_PLAN.md) - Complete implementation roadmap
+- [Work Plan Summary](docs/WORK_PLAN_SUMMARY.md) - Quick reference
+- [Architecture Brief](docs/architecture/VALUE_REALISER_ARCHITECTURE_BRIEF.md) *(coming soon)*
 
 ---
 

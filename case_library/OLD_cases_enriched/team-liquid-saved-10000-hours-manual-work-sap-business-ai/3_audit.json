@@ -1,0 +1,107 @@
+{
+  "case_id": "team-liquid-saved-10000-hours-manual-work-sap-business-ai",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of data analysis function - converting hours of manual work to instant access. Replicable pattern for other data-intensive organizations.",
+      "evidence_quality_assessment": "Vague quantification ('hours' vs 'instantly') without specific metrics. Source appears to be vendor case study which may have marketing bias.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but lacks specific time savings metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes information retrieval function - making game statistics and performance data instantly accessible. Pattern applicable to other analytics-heavy organizations.",
+      "evidence_quality_assessment": "Specific about speed ('within seconds') but lacks baseline comparison metrics. Vendor case study context raises credibility questions.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good process description but needs stronger quantitative evidence"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of data retrieval processes, eliminating manual work and enabling faster decision-making. Highly replicable pattern across data-driven organizations.",
+      "evidence_quality_assessment": "Named organization (Team Liquid), specific process improvement (eliminates manual data retrieval), traceable to authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit and adequate evidence quality for capability optimization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic optimization of match preparation process - 96% time reduction (4 days to 1 hour). Highly replicable for other competitive analysis contexts.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement, attributed to team member (Milanov). Strong evidence quality.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent example of Tier 1 optimization with strong quantitative evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a hypothetical value statement about potential prize money, not a description of functional optimization or process improvement.",
+      "evidence_quality_assessment": "Speculative claim ('could mean') rather than actual achieved improvement. No evidence of realized benefit.",
+      "apqc_functions": [],
+      "notes": "Not a capability case - describes potential value rather than actual process optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Historical performance data, not a description of AI-driven process optimization or capability improvement.",
+      "evidence_quality_assessment": "Factual organizational background information but not relevant to AI capability assessment.",
+      "apqc_functions": [],
+      "notes": "Background information, not a capability optimization claim"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes data volume/scale but not process optimization or efficiency improvement. No before/after comparison or improvement claim.",
+      "evidence_quality_assessment": "Specific metrics about data processing volume but no claim of optimization or improvement over previous methods.",
+      "apqc_functions": [],
+      "notes": "Data scale description, not a capability improvement claim"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1-C4 describe optimization of existing analytical and strategic preparation functions rather than business model changes or new revenue streams."
+}

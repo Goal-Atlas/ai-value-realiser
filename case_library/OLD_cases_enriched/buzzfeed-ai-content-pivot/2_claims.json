@@ -1,0 +1,59 @@
+{
+  "case_id": "buzzfeed-ai-content-pivot",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "BuzzFeed's stock price rose more than 100% following AI content announcement",
+      "quote": "Following news this morning that BuzzFeed will be using AI to produce content, its share price had risen more than 100 percent at the time of writing."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "BuzzFeed's stock jumped 150% after announcing AI content creation plans",
+      "quote": "The news sent BuzzFeed's sagging stock skyrocketing more than 150% in trading Thursday to more than $2 a share."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "AI content shows above-average engagement and time spent compared to human-created content",
+      "quote": "AI content on Buzzfeed often sees above-average engagement and time spent compared to posts created entirely by humans or less interactive pages, the publisher has said."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Users spend 2-3 times more time interacting with AI chatbot games than static content",
+      "quote": "Peretti said users 'really loved' these formats and that they 'spend two, three more times interacting with a chatbot game than with a static piece of content'."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "BuzzFeed doubled AI-assisted content output between Q1 and Q2",
+      "quote": "Buzzfeed doubled its output of AI-assisted content between Q1 and Q2 and expects to continue ramping up at a similar rate in Q3, Peretti said."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Views and time spent with AI content increased three-fold between Q1 and Q2",
+      "quote": "He added that views and time spent with Buzzfeed's AI content both increased three-fold between Q1 and Q2 'driven by higher content output, and the new content is also driving higher engagement quarter-over-quarter.'"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Top 20 AI articles in Q2 generated more than twice the time spent compared to Q1",
+      "quote": "Our top 20 AI articles published in Q2 generated more than twice the time spent when compared with our top 20 AI articles in Q1."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "AI-generated Barbie content achieved over one million views and went viral",
+      "quote": "For example, a piece that used Midjourney to imagine what Barbie's dreamhouse would look like in each US state saw more than one million views and, according to Peretti, went viral on Tiktok and Instagram Reels."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "AI quizzes for client Serta exceeded expectations for engagement and clickthrough rates",
+      "quote": "two infinity quizzes made in partnership with mattress brand Serta \u2013 a bedtime story generator and a dream interpreter \u2013 saw 'above average time spent compared to non-AI formats, and audience clickthrough rate and engagement rate both exceeded the client's expectations'."
+    }
+  ]
+}

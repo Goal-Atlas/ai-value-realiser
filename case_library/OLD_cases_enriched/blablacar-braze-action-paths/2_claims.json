@@ -1,0 +1,53 @@
+{
+  "case_id": "blablacar-braze-action-paths",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "BlaBlaCar achieved a 30% increase in bookings through their abandoned cart campaign",
+      "quote": "30% Increase in bookings"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "BlaBlaCar achieved a 48% uplift in click rate",
+      "quote": "48% Uplift in click rate"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Personalized emails drive more engagement and conversions compared to non-personalized emails",
+      "quote": "their use of Canvas Flow's experiment path component helped prove that personalized emails can drive more engagement and conversions, compared to non-personalized emails"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Canvas Flow enabled BlaBlaCar to reach more customers at scale and increase team productivity",
+      "quote": "Braze Canvas Flow has enabled BlaBlaCar to reach more of their customers at scale and increase team productivity"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Canvas Flow helps drive financial KPIs and reduces dependency on engineering teams",
+      "quote": "This feature can help drive financial KPIs, and its advanced automation can help teams cut back on back and forth with engineering and data teams, leading to more iterative and impactful campaigns overall"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "BlaBlaCar achieved a 24% increase in email open rates",
+      "quote": "24% Increase in Email Open Rates"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Using personalized sender names resulted in 20+% higher open rates compared to brand name",
+      "quote": "the brand discovered that sending emails with the first names of real people resulted in 20+% higher open rates for their messages, compared to emails sent from 'BlaBlaCar.'"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "BlaBlaCar leveraged Canvas Flow to increase team productivity and achieve 30% increase in bookings",
+      "quote": "BlaBlaCar leveraged Braze Canvas Flow to reach more of their customers at scale and increase team productivity leading to a 30% increase in bookings"
+    }
+  ]
+}

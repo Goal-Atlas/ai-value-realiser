@@ -1,0 +1,29 @@
+{
+  "case_id": "georgia-tech-stonecrest-asset-management",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Georgia Tech | IBM",
+      "url": "https://www.ibm.com/case-studies/georgia-tech",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Microgrid Answers via Georgia Tech Project | PowerSecure",
+      "url": "https://powersecure.com/blog/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Asking All the Questions You Can Ask about a Microgrid via Georgia Tech Project | Microgrid Knowledge",
+      "url": "https://www.microgridknowledge.com/distributed-energy/article/11427820/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Georgia Tech and Stryten Energy Unveil Installation of Lead Battery Energy Storage System for Advanced Research",
+      "url": "https://www.businesswire.com/news/home/20250423704154/en/Georgia-Tech-and-Stryten-Energy-Unveil-Installation-of-Lead-Battery-Energy-Storage-System-for-Advanced-Research",
+      "doc_type": "Press Release"
+    }
+  ]
+}

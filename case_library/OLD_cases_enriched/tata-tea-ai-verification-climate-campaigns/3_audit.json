@@ -1,0 +1,125 @@
+{
+  "case_id": "tata-tea-ai-verification-climate-campaigns",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - reducing infrastructure costs for existing operations. Pattern replicable for other cloud migrations.",
+      "evidence_quality_assessment": "Specific quantified metric (30-40% cost reduction), named organization (Tata Tea), credible source context.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear cost optimization with specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing data processing function with clear efficiency gains (2-3x faster). Replicable pattern for data analytics operations.",
+      "evidence_quality_assessment": "Specific performance improvement metric, named technology (BigQuery), clear business outcome (real-time dashboards).",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear efficiency optimization with measurable improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic process optimization - automating manual validation from 5 minutes to 10-15 seconds total. Highly replicable pattern for image verification tasks.",
+      "evidence_quality_assessment": "Very specific time comparisons with clear before/after metrics. Demonstrates substantial efficiency gain.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - clear automation of existing manual process with dramatic efficiency gains"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could be process optimization (faster campaign development) but lacks comparison to previous timeline. Replicability unclear without baseline.",
+      "evidence_quality_assessment": "Specific timeline (3-4 weeks) but missing comparison to traditional campaign development time. No efficiency metric provided.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Needs baseline comparison to establish this as optimization rather than just project execution"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes campaign reach/effectiveness, not functional optimization. More about marketing outcomes than process improvement.",
+      "evidence_quality_assessment": "Specific metric (200M people, 2 months) but doesn't demonstrate efficiency or cost optimization of existing functions.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marketing effectiveness metric, not operational optimization. Not a Tier 1 capability case."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Website traffic metric indicates campaign success but doesn't demonstrate functional optimization or efficiency gains.",
+      "evidence_quality_assessment": "Specific metric (150K visitors) but represents marketing outcome rather than process improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Marketing performance metric, not operational capability enhancement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Vague benefit statement without specific process optimization or measurable improvement described.",
+      "evidence_quality_assessment": "No quantification, no specific process described, too general to assess as functional optimization.",
+      "apqc_functions": [
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague and general - lacks specificity for Tier 1 assessment"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims C1-C3 represent clear functional optimizations (cost reduction, processing speed, automation efficiency). Claims C4-C7 are more about campaign outcomes than operational improvements, with C5-C6 being marketing metrics rather than capability enhancements."
+}

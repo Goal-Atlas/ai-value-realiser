@@ -1,0 +1,83 @@
+{
+  "case_id": "airbus-skywise-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Over 80 airlines worldwide have connected their fleets to Skywise platform",
+      "quote": "Today over 80 airlines around the world have connected their Airbus and non-Airbus fleet to Skywise."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Skywise enables automated reporting, benchmarking capacity, and cost reduction for airlines",
+      "quote": "The platform frees data from organisational siloes, allowing automated reporting, benchmarking capacity, and access to applications improving airlines operations and reducing their costs."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "More data sharing improves prediction accuracy for all connected customers",
+      "quote": "The more data that airlines or OEMs share into the Skywise Core platform, the more accurate the predictions and models are for connected customers."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "easyJet engineers successfully removed components before faults occurred, limiting delays and cancellations",
+      "quote": "This activity builds on extensive trials with the platform that allowed easyJet engineers to remove components before faults occurred, limiting delays and cancellations as a result."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "New FOMAX equipment collects 60 times more data than existing systems",
+      "quote": "Skywise is able to analyse data from other components on easyJet's aircraft thanks to the installation of Airbus' new flight operations and maintenance exchanger, called FOMAX \u2013 which collects 60-times more data than existing systems."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Skywise data analysis helped discover and prevent a potentially catastrophic A330neo accident",
+      "quote": "Seeking an explanation for the leaking valves, Airbus engineers turned to the company's big data platform, Skywise, in search of clues. By comparing operational and sensor data, they were ultimately able to determine that in certain take-off configurations, the software in the bleed monitoring computer (BMC) [...] did not correctly control the high-pressure valve"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Data-driven approach discovered hidden failure before it resulted in harm to people or property",
+      "quote": "What makes the A330neo case so significant for the entire aviation industry [...] is how data was used to uncover the failure before it resulted in harm to people or property."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "IT projects are delivered 4 times faster with the new API-led approach",
+      "quote": "Delivering IT projects 4x faster"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Shop floor operators gained real-time mobile access to critical data, reducing manufacturing delays",
+      "quote": "Using MuleSoft, Airbus built an application that shop floor operators can access from their personal mobile devices to gain real-time visibility into parts and projects."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S4",
+      "claim": "Real-time supply chain visibility was achieved where none existed before",
+      "quote": "We also use MuleSoft to collect supply chain data and provide real-time visibility to all stakeholders. Before MuleSoft, we had no real-time visibility of part status."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "FOMAX module dramatically increases data capture from 400 to 24,000 aircraft parameters",
+      "quote": "only about 400 aircraft parameters could previously be recorded on an A320, compared with roughly 24,000 from an aircraft equipped with it."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S5",
+      "claim": "Airlines can access Skywise Core platform at no cost through data sharing arrangement",
+      "quote": "For airlines who have not yet selected the premium predictive services, Airbus offers Skywise Core under a 'shared value' arrangement: airlines that agree to share operating data from their Airbus fleet can access the platform at no cost."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S5",
+      "claim": "Enhanced predictive maintenance allows airlines to anticipate maintenance needs with higher accuracy",
+      "quote": "In turn this will allow them to anticipate, with higher levels of accuracy, the needs for maintenance before an event happens, and thus maximise the operational reliability and utilization of their assets."
+    }
+  ]
+}

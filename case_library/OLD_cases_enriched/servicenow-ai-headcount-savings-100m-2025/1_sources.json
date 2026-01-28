@@ -1,0 +1,29 @@
+{
+  "case_id": "servicenow-ai-headcount-savings-100m-2025",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "ServiceNow eyes $100M in AI-powered headcount savings \u2022 The Register",
+      "url": "https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "ServiceNow CFO eyes AI agents following robust Q3 | CFO Dive",
+      "url": "https://www.cfodive.com/news/servicenow-cfo-eyes-aiagents-robust-q3-generativeai-customerservice/732057/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "ServiceNow Q3 FY 2025 Earnings Raise Outlook on AI Demand - Futurum",
+      "url": "https://futurumgroup.com/insights/servicenow-q3-fy-2025-earnings-raise-outlook-on-ai-driven-demand/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "ServiceNow Supercharges AI Adoption for Enterprises With Secure, ...",
+      "url": "https://www.servicenow.com/company/media/press-room/ai-platform-zurich-release.html",
+      "doc_type": "Press Release"
+    }
+  ]
+}

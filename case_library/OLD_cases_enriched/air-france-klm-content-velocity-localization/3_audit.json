@@ -1,0 +1,140 @@
+{
+  "case_id": "air-france-klm-content-velocity-localization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of digital content delivery workflows, which is functional improvement. Pattern is replicable across organizations with similar digital content needs.",
+      "evidence_quality_assessment": "Named organization (Air France-KLM) but claims are vague - 'superior digital experiences' and 'rapid, agile workflows' lack specific metrics. Source appears to be vendor case study.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization but lacks quantified benefits. Vendor source reduces credibility."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes content consistency across channels and markets - clear functional improvement in marketing/content operations. Replicable pattern for multi-market organizations.",
+      "evidence_quality_assessment": "Named organization with direct quote, but 'more consistent content' is qualitative without specific metrics. Vendor case study source.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization claim but lacks measurable outcomes. Vendor bias concern."
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost optimization through infrastructure migration - classic efficiency improvement. Pattern highly replicable for organizations with similar on-premise to cloud migrations.",
+      "evidence_quality_assessment": "Named organization with specific quantified benefit ($600,000 annually). Appears to be from credible vendor case study with concrete metrics.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with specific cost savings and clear functional optimization."
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational improvements through cloud migration - clear functional optimization. Replicable pattern for infrastructure modernization.",
+      "evidence_quality_assessment": "Named organization but claims are qualitative ('eliminated downtime', 'better user experience') without specific metrics or timeframes.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization but lacks quantified evidence of improvements."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Time savings through process optimization - clear efficiency improvement. Replicable for similar migrations.",
+      "evidence_quality_assessment": "Named organization with specific claim ('thousands of hours every day') but the scale seems potentially inflated without methodology explanation. Vendor source.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Specific time claim but magnitude seems questionable without supporting detail."
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear efficiency improvement in aircraft maintenance workflows - digitizing manual processes. Highly replicable pattern for maintenance-heavy industries.",
+      "evidence_quality_assessment": "Named organization with specific process improvement described (replacing manual filing with digital access). Clear before/after comparison.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing clear workflow optimization with tangible process improvement."
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Expected benefits from cloud migration - functional optimization. Replicable pattern but these are projected, not realized benefits.",
+      "evidence_quality_assessment": "Named organization but claims are future expectations ('we'll unlock', 'expects to achieve') rather than demonstrated results. Qualitative benefits without metrics.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization pattern but based on expectations rather than realized outcomes."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimizations (content management, infrastructure efficiency, maintenance workflows) rather than business model changes or new revenue streams."
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "amazon-supply-chain-inventory-forecasting",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Companies using AI have reduced logistics costs by 15%, improved inventory levels by 35%, and enhanced service levels by 65%",
+      "quote": "According to a McKinsey report, companies using AI have reduced logistics costs by 15%, improved inventory levels by 35%, and enhanced service levels by 65%."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Companies relying solely on traditional supply chain methods can lose up to 10% of their annual revenue due to inefficiencies",
+      "quote": "A recent McKinsey study found that companies relying solely on traditional supply chain methods can lose up to 10% of their annual revenue due to inefficiencies."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Amazon uses AI systems to forecast daily demand of over 400 million products during peak seasons",
+      "quote": "Amazon uses AI systems to forecast daily demand of over 400 million products during peak seasons."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Over 140 electric vehicles will transport at least 300 million packages annually with zero exhaust emissions",
+      "quote": "Over 140 electric vehicles will be integrated into the delivery network, including Mercedes-Benz eActros 600 trucks and Volvo FM Battery Electric trucks. These electric trucks are expected to transport at least 300 million packages annually with zero exhaust emissions."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Amazon's rail initiative expects to move more than 20 million products via electric rail network in 2025 alone",
+      "quote": "This initiative expects to move more than 20 million products via the electric rail network in 2025 alone, significantly reducing carbon emissions associated with long-haul trucking."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Amazon's net sales reached $386 billion in 2020",
+      "quote": "According to a report by Statista, Amazon's net sales reached $386 billion in 2020, highlighting the scale of its operations and customer base."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Amazon operates over 175 fulfillment centers worldwide as of 2021",
+      "quote": "As of 2021, Amazon operates over 175 fulfillment centers worldwide, spanning millions of square feet."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Amazon is projected to increase the efficiency of its supply chain by 75% through AI integration",
+      "quote": "Amazon is projected to increase the efficiency of its supply chain by an astounding 75%, with AI playing a central role in this transformation."
+    }
+  ]
+}

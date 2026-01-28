@@ -1,0 +1,29 @@
+{
+  "case_id": "dbs-bank-reduced-call-handling-times-ai-assistant",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Responsible AI in banking: Gaining a competitive edge | DBS Bank",
+      "url": "https://www.dbs.com/artificial-intelligence-machine-learning/artificial-intelligence/responsible-ai-in-banking-gaining-a-competitive-edge.html",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "DBS rolls out GenAI assistant for customer service teams | Computer Weekly",
+      "url": "https://www.computerweekly.com/news/366596235/DBS-rolls-out-GenAI-assistant-for-customer-service-teams",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "How DBS Bank uses a human-AI synergy approach to enhance customer experiences and improve efficiencies - Tearsheet",
+      "url": "https://tearsheet.co/artificial-intelligence/how-dbs-bank-uses-a-human-ai-synergy-approach-to-enhance-customer-experiences-and-improve-efficiencies/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "DBS Bank: Transforming digital banking in Singapore | Tech and AI | McKinsey & Company",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients/rewired-in-action/dbs-transforming-a-banking-leader-into-a-technology-leader",
+      "doc_type": "Case Study"
+    }
+  ]
+}

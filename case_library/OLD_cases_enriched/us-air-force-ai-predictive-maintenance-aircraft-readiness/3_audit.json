@@ -1,0 +1,111 @@
+{
+  "case_id": "us-air-force-ai-predictive-maintenance-aircraft-readiness",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - predictive maintenance is a classic efficiency improvement pattern. Highly replicable across military and commercial aviation.",
+      "evidence_quality_assessment": "Named organization (USAF) but vague quantification ('hundreds of failures'). No timeframe or baseline for comparison. Source appears to be vendor case study which may introduce bias.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs more specific metrics for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale of optimization deployment across existing fleet management operations. Pattern clearly replicable for other large fleet operators.",
+      "evidence_quality_assessment": "Named organization with specific, verifiable metrics (3,000 aircraft, 16 platforms). Scale indicators suggest substantial operational deployment.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of scaled functional optimization with specific metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Excellent strategic fit - reducing over-maintenance while increasing readiness is core operational optimization. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization but qualitative claims without quantified improvements. 'More accurate' and 'reducing over-maintenance' lack specific metrics or baselines.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong optimization case but needs quantified evidence for full approval"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear process optimization - accelerating data analysis and action cycles is classic efficiency improvement. Replicable across data-intensive maintenance operations.",
+      "evidence_quality_assessment": "Named organization but completely qualitative. 'Accelerated' provides no baseline, timeframe, or magnitude of improvement.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but lacks any quantitative evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates operational scale and user adoption of optimization tools. Shows systematic deployment across organization.",
+      "evidence_quality_assessment": "Named organization with specific metrics (775 users, 8 applications). Verifiable scale indicators suggest substantial operational integration.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear evidence of scaled deployment with specific user metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Ultimate outcome of maintenance optimization - increased aircraft readiness is the key performance metric. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization but completely qualitative outcome claim. 'More aircraft are ready' lacks any quantification, baseline, or timeframe.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong strategic outcome but needs quantified readiness metrics for approval"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This is classic functional optimization - using AI to improve existing maintenance operations for better efficiency, cost control, and asset availability. No business model transformation or new revenue streams described."
+}

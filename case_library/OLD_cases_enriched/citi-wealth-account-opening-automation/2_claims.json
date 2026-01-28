@@ -1,0 +1,41 @@
+{
+  "case_id": "citi-wealth-account-opening-automation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Account opening process takes 9 days on average, which is 3 times the industry average",
+      "quote": "That is a tall order when it takes nine days on average to open a new account, according to an internal audit reviewed by Business Insider, which is three times the industry average."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Citi Wealth has significantly lower wallet share compared to competitors (13% vs 64%)",
+      "quote": "The audit highlighted Citi Wealth's dismal 13% average wallet share compared to its peers' 64% average."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Technology overhaul would require at least $500 million investment",
+      "quote": "The audit, conducted by Ernst & Young, estimated it would take at least $500 million to overhaul Citi Wealth's patchwork technology, which includes 30 content platforms and more than 70 product processors."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Poor technology has direct negative impact on current and prospective clients",
+      "quote": "The result of Citi's burdensome technology, the report said, is 'a direct negative impact to our current and prospective clients.'"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Technology problems make it difficult for clients to do business with Citi and disincentivize them from keeping their full portfolio with the bank",
+      "quote": "We invite them to enter a partnership with us, yet we've shut and locked the door, making it difficult to actually do business with us\" and disincentivizing clients \"to retain their full portfolio and wallet share with Citi"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Process time reduced from 9 days to seconds through AI implementation",
+      "quote": "This process would take 9 days. Now it takes seconds."
+    }
+  ]
+}

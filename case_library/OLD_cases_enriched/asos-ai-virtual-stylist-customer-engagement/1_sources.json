@@ -1,0 +1,29 @@
+{
+  "case_id": "asos-ai-virtual-stylist-customer-engagement",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "6 Ways ASOS Is Using AI to Redefine Ecommerce | XgenTech",
+      "url": "https://xgentech.net/blogs/resources/asos-ai-in-ecommerce-personalization-strategy",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "ASOS Case Study: AI Technology Triples Revenue Growth - RETAILBOSS",
+      "url": "https://retailboss.co/asos-case-study-ai-technology/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: ASOS's Use of AI to Optimize Online Fashion Retail",
+      "url": "https://redresscompliance.com/case-study-asoss-use-of-ai-to-optimize-online-fashion-retail/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Generative AI in Retail: Use Cases & Real-Life Examples",
+      "url": "https://www.jellyfishtechnologies.com/generative-ai-in-retail-use-cases-with-real-life-examples/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

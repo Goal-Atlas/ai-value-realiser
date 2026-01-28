@@ -1,0 +1,29 @@
+{
+  "case_id": "bright-money-ai-debt-reduction-credit-building",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Multiple teams were making similar data requests with slight modifications, increasing database load",
+      "quote": "It was observed that many users across different teams would need similar data, only with slight modifications. The multiple requests would increase the load of the database."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Analytics tools consumed significant time from analysts",
+      "quote": "Additionally, these tools would consume a lot of time from analysts."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Pre-defined events in product analytics tools limited exploratory analysis capabilities",
+      "quote": "They had to pre-define events between the application and users on the product analytics tool. This limited their ability to conduct exploratory analysis."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Data transformation and enrichment was required from existing tools",
+      "quote": "The data from these tools would sometimes need to be transformed and enriched, so a solution that could extract and transform the data was required."
+    }
+  ]
+}

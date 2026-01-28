@@ -1,0 +1,176 @@
+{
+  "case_id": "uhcw-nhs-trust-ai-patient-flow-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - automating routine patient inquiries to reduce operational workload. Replicable pattern for healthcare organizations.",
+      "evidence_quality_assessment": "Named organization (UHCW NHS Trust) but lacks specific quantified metrics. Claims are directional ('aims to reduce') rather than achieved results.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but evidence quality weakened by aspirational language rather than measured outcomes"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization goal - freeing staff time through automation. Replicable across healthcare settings.",
+      "evidence_quality_assessment": "Named organization and credible partners (IBM Consulting, AWS) but very high-level claim without specific metrics or process details.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic intent is clear but lacks substantive evidence of actual improvements achieved"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimizes appointment management process with clear efficiency benefits. Pattern applicable to other healthcare providers.",
+      "evidence_quality_assessment": "Named organization with technical implementation details (serverless architecture, AWS) but claims about satisfaction and clinical outcomes are not quantified.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good technical specificity but outcome claims lack measurement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic industry observation rather than specific functional optimization claim.",
+      "evidence_quality_assessment": "No specific organization, no metrics, no concrete implementation details. General industry statement.",
+      "apqc_functions": [],
+      "notes": "Too generic and lacks any specific evidence or measurable claims"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization - automating email responses to gather missing information faster. Replicable pattern for patient communication.",
+      "evidence_quality_assessment": "Named organization, specific technology (Amazon SES), clear process description with measurable outcome (queries resolved more quickly).",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit with adequate technical specificity and clear efficiency benefit"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Addresses patient care optimization through digital preparation. Replicable in pediatric healthcare settings.",
+      "evidence_quality_assessment": "Provides specific statistics (50-75% affected) but doesn't clearly establish how digital solution addresses this - more context than direct claim.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Establishes problem scope but doesn't directly claim digital solution effectiveness"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Similar to C6 - addresses patient care optimization but connection to digital solution unclear.",
+      "evidence_quality_assessment": "Specific statistics (50% develop changes, 8% ongoing at one year) but doesn't establish digital solution impact.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Provides problem quantification but lacks direct claim about digital solution effectiveness"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Cost optimization through reduced cancellations and better treatment adherence. Replicable benefit pattern.",
+      "evidence_quality_assessment": "Named organization context but no specific metrics on cost savings achieved through digital preparation.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Identifies cost optimization opportunity but lacks quantified results"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear cost and time efficiency improvement over traditional face-to-face preparation methods. Replicable across healthcare settings.",
+      "evidence_quality_assessment": "Named organization, clear comparison between current state (paper leaflets, single meeting) and digital alternative with cost/time constraints identified.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit with clear efficiency comparison, though specific savings not quantified"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Patient experience optimization through digital solution. 'Easily adoptable' suggests replicable implementation pattern.",
+      "evidence_quality_assessment": "Named organization, specific solution (Little Journey App), clear target population and outcome (enhanced patient experience).",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional enhancement with specific solution and target population identified"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims focus on optimizing existing healthcare operations (patient communication, appointment management, pre-operative preparation) rather than creating new business models or revenue streams."
+}

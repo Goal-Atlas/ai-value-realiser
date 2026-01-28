@@ -1,0 +1,35 @@
+{
+  "case_id": "helleniq-energy-productivity-boost-email-processing",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Over 70% of employees reported enhanced productivity with Microsoft 365 Copilot",
+      "quote": "over 70% of employees reported enhanced productivity"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Meeting catch-up times improved fourfold with Microsoft 365 Copilot",
+      "quote": "meeting catch-up times improved fourfold"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "AI adoption brought step change in employee engagement and operational enhancements",
+      "quote": "By adopting AI for HR services delivery, HELLENiQ ENERGY has brought about a step change in how it engages with its employees and made huge advances in enhancing operations at the same time"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "71 tailored use cases were developed to integrate Copilot into daily workflows across business functions",
+      "quote": "PwC collaborated with key business functions such as Finance, Operations, Marketing, HR, and Customer Service to develop 71 tailored use cases that integrate Copilot into daily workflows"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "HELLENiQ ENERGY achieved 70% productivity boost with Microsoft 365 Copilot",
+      "quote": "HELLENiQ ENERGY boosts productivity 70% and scales AI adoption with Microsoft 365 Copilot"
+    }
+  ]
+}

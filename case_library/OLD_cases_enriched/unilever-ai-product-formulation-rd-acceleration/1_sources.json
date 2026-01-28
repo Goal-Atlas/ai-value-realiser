@@ -1,0 +1,35 @@
+{
+  "case_id": "unilever-ai-product-formulation-rd-acceleration",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How AI is transforming Unilever's Personal Care business | Unilever",
+      "url": "https://www.unilever.com/news/news-search/2025/how-ai-is-transforming-unilevers-personal-care-business/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "How AI is helping drive Desire at Scale across Unilever | Unilever",
+      "url": "https://www.unilever.com/news/news-search/2025/how-ai-is-helping-drive-desire-at-scale-across-unilever/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Unilever: Using AI to empower people to supercharge\u2026 | PA Consulting",
+      "url": "https://www.paconsulting.com/client-story/unilever-using-ai-to-empower-people-to-supercharge-innovation-and-drive-growth",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Unilever R&D head lifts lid on AI, robots and beating the 'grease gap' - Research & Development World",
+      "url": "https://www.rdworldonline.com/unilever-rd-head-lifts-lid-on-ai-robots-and-beating-the-grease-gap/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Unilever Case Study: How AI Transformed Leadership Strategies \u2013 AI by Riz \u2013 Learn, Innovate, and Succeed with Generative AI",
+      "url": "https://aibyriz.com/unilever-case-study-how-ai-transformed-leadership-strategies/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

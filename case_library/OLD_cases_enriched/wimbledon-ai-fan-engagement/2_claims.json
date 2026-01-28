@@ -1,0 +1,59 @@
+{
+  "case_id": "wimbledon-ai-fan-engagement",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI is bringing fans closer to the action at Wimbledon through chatbots and real-time predictions",
+      "quote": "From an AI chatbot and real-time win predictions, at one of tennis's biggest global stages, Wimbledon is testing new ways to bring fans closer to the action."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI is changing how millions of fans follow tennis off court",
+      "quote": "As the world tunes in, artificial intelligence is changing how the game is followed off court by millions."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "AI monitoring provides information that wasn't available in the past for player protection",
+      "quote": "basically we are scrolling social media for any of this type of content and it means that we can get information that we haven't had in the past."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "AI enables proactive security response rather than relying only on player reports",
+      "quote": "We're not just relying on what the player might be saying has happened to them, but also if there is something that is of concern, that is when our security team is going to basically kick in and actually help do something about it."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "AI system successfully identified significant abuse across tennis tournaments",
+      "quote": "Wimbledon said Threat Matrix had conducted a study in which it monitored more than 1.6m public posts on X and 19,000 Instagram comments sent to 454 players competing at a range of professional tennis tournaments in 2022 and found that one in four players were subject to abuse. It identified 546 offensive posts from 438 accounts."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Company reputation can account for up to 63% of market value, making online abuse a bottom-line issue",
+      "quote": "Industry estimates suggest that a company's reputation can account for up to 63% of its market value, underlining the financial implications of unchecked online harassment."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "AI enables businesses to respond promptly to customer concerns and prevent sales losses",
+      "quote": "By quickly identifying negative sentiment or emerging issues, businesses can respond promptly to customer concerns... This approach aims to maintain brand image, foster customer trust and potentially prevent sales losses."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "AI provides 24/7 crisis management capabilities for organizations",
+      "quote": "These systems can suggest appropriate reactions to negative feedback, providing businesses with a 24/7 crisis management team."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "AI can process information chaos faster than ever before",
+      "quote": "AI can parse information chaos faster than ever, but it's not foolproof"
+    }
+  ]
+}

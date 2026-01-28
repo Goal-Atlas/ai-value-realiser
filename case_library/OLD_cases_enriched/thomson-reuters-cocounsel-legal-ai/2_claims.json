@@ -1,0 +1,89 @@
+{
+  "case_id": "thomson-reuters-cocounsel-legal-ai",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "CoCounsel enabled completion of M&A due diligence by a summer intern without lawyer assistance",
+      "quote": "In one example, the company was undertaking a mergers and acquisitions (M&A) transaction with 87 different land contracts attached to it and used CoCounsel Core to take a 'first pass' at summarizing the documents as part of the due diligence process and organize the insights into a usable format, eliminating the need for a lawyer to read through each one individually. This approach was so successful that the project was completed by a summer law student intern without any help from the lawyers."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "CoCounsel reduces need for outside counsel advice",
+      "quote": "In both cases, this reduces the need to ask outside counsel for advice."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "CoCounsel cuts down on errors and finds missed items",
+      "quote": "It also provides a nice double check and cuts down on errors. It'll find things that you may have missed when you're trying to read something cold."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Legal Aid Society doubled urgent case handling capacity",
+      "quote": "With CoCounsel, Legal Aid Society of San Bernardino staff has been able to address 2x as many of the urgent cases\u2014such as those concerning eviction\u2014that come through the hotline."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Legal Aid Society onboarded 20% more cases overall",
+      "quote": "And they've been able to onboard 20% more cases overall, going beyond simply providing advice to truly advocating for their clients, representing them for longer-term, more complex cases."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Legal Aid Society responds up to 90% faster to opposing counsel demands",
+      "quote": "Being able to do more thorough work more quickly means the people they serve get badly needed resources, safety, and assistance sooner, for instance responding up to 90% faster to opposing counsel demands, which can mean preventing an eviction or getting someone back into their home days sooner."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "CoCounsel provides legal research answers in minutes or seconds",
+      "quote": "Plus, CoCounsel can return these legal research answers in minutes \u2014 sometimes seconds."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "96% of Plante Moran users agreed CoCounsel is useful for practice staff",
+      "quote": "Nearly all respondents (96%) either strongly agreed or agreed that CoCounsel is a useful tool for practice staff members."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "91% reported CoCounsel was faster than traditional research methods",
+      "quote": "A large majority of respondents (91%) reported that CoCounsel was faster than traditional methods of research and finding answers."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "87% felt the firm should purchase CoCounsel for all staff",
+      "quote": "Most respondents (87%) felt the firm should purchase CoCounsel and make it available to all staff."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S3",
+      "claim": "62% reported significant efficiency improvements during technical research",
+      "quote": "Significant efficiency and time savings improvements during technical research were reported by 62% of respondents using CoCounsel."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S3",
+      "claim": "Plante Moran scaled CoCounsel user base by 450%",
+      "quote": "Since adopting CoCounsel, Plante Moran has scaled its user base 450%, showcasing exceptional innovation in adoption techniques, upskilling, and AI usage to make processes faster than ever \u2014 driving significant innovation and creating a ripple effect across their organization."
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S4",
+      "claim": "97% reduction in CoCounsel's average file download time",
+      "quote": "Platform updates led to a 97% reduction in CoCounsel's average file download time."
+    },
+    {
+      "claim_id": "C14",
+      "source_id": "S4",
+      "claim": "31% average improvement in task completion time",
+      "quote": "Additionally, the average time required to complete tasks using skills rooted in our industry-leading content has a 31% average improvement, reflecting changes in AI performance on features includin"
+    }
+  ]
+}

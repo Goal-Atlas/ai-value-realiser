@@ -1,0 +1,119 @@
+{
+  "case_id": "unilever-ai-recruitment",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing recruitment function - reducing interview time through AI screening is a classic efficiency gain in HR processes",
+      "evidence_quality_assessment": "Specific quantified metric (50,000 hours over 18 months) from named organization (Unilever). Time savings are measurable and credible for large-scale recruitment",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case - clear process optimization with specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Cost reduction through recruitment process optimization - fits Tier 1 pattern of efficiency gains in existing functions",
+      "evidence_quality_assessment": "Specific financial metric (£1M annual savings) from named organization. Reasonable scale for Unilever's global recruitment operations",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear cost optimization with credible financial impact"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process improvement in candidate experience - optimizing recruitment funnel completion rates through better AI-driven screening",
+      "evidence_quality_assessment": "Specific before/after metrics (50% to 96% completion rate) showing dramatic improvement. Measurable and verifiable outcome",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong process optimization metric showing improved candidate experience"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Classic Tier 1 efficiency gain - reducing time-to-hire through AI automation of screening processes",
+      "evidence_quality_assessment": "Specific percentage reduction (90%) from named organization. High impact but credible for AI-driven process automation",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Significant but credible time reduction through process automation"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Quality improvement in recruitment outcomes - AI reducing bias and improving diversity metrics within existing hiring processes",
+      "evidence_quality_assessment": "Specific quantified improvement (16% increase) from named organization. Reasonable impact for bias-reduction AI tools",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Process quality improvement with measurable diversity impact"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Efficiency optimization through automated candidate filtering - reduces manual screening workload in existing recruitment process",
+      "evidence_quality_assessment": "Specific filtering percentage (80%) from named organization. Credible automation rate for AI screening tools",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear automation efficiency gain in candidate screening process"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Similar to C4 but different percentage - both claim recruitment time reduction, need to verify if these are consistent or from different time periods/contexts",
+      "evidence_quality_assessment": "Specific metric (75% reduction) but conflicts with C4's 90% claim. May be from different source or measurement methodology",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Conflicting time reduction claims need reconciliation - may reflect different measurement periods or scopes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Cost savings claim similar to C2 - both reference £1M+ savings, need to verify if these are duplicate claims or cumulative",
+      "evidence_quality_assessment": "Similar financial impact to C2 but from different source (S3 vs S1). May be confirmation or duplicate reporting",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Potential duplicate of C2 savings claim - need source verification to avoid double-counting"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - all claims describe optimization of existing HR recruitment processes through efficiency gains, cost reduction, and quality improvements. No business model changes or new revenue streams indicated."
+}

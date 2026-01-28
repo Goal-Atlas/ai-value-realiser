@@ -1,0 +1,29 @@
+{
+  "case_id": "accenture-reduced-it-demand-citizen-dev-platform",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S3",
+      "claim": "Accenture enabled customers to deploy applications with minimal effort through scalable infrastructure",
+      "quote": "Learn how Accenture built a scalable system for Blueriq on AWS that enables customers in regulated sectors to securely deploy applications with minimal effort."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S3",
+      "claim": "The platform solution allows customers to avoid on-premises hardware costs",
+      "quote": "He wanted to make the Blueriq Platform available as a PaaS solution so customers could deploy new Blueriq-based applications in the cloud without running into scaling limitations or incurring on-premises hardware costs."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S3",
+      "claim": "The solution helps customers speed up time to identify processes for automation and deploy applications",
+      "quote": "Versluis wanted to reduce the complexity of deploying large Blueriq applications and help customers speed up the time it took to identify a process for automation and to deploy a Blueriq application."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "The solution makes it easier for customers to deploy high-load applications and simplifies complex configuration management",
+      "quote": "We wanted to make it easier for customers to deploy high-load Blueriq applications and simplify the task of managing complex configurations"
+    }
+  ]
+}

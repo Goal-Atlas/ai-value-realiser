@@ -1,0 +1,53 @@
+{
+  "case_id": "waymo-commercial-robotaxis",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Waymo has achieved significant scale in autonomous operations with over 100 million miles driven and 10 million paid rides",
+      "quote": "The self-driving company says it's driven over 100 million fully autonomous miles on public roads and has provided more than 10 million paid rides."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Waymo demonstrates superior safety performance compared to human drivers with 88% fewer serious injury crashes",
+      "quote": "Waymo's Safety Impact report notes that over the course of 71 million autonomous miles driven through March 2025, its Waymo Driver technology had 88% fewer crashes leading to serious injuries or worse and 78% fewer injury-causing crashes, compared with 'an average human driver over the same distance in our operating cities.'"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Waymo is rapidly expanding commercial operations across multiple major cities",
+      "quote": "Waymo currently offers fully autonomous rides to the general public in Phoenix, San Francisco, Los Angeles, Atlanta, and Austin, Texas, through the all-electric Jaguar I-Pace."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "Waymo is scaling manufacturing capacity with plans to significantly expand fleet size",
+      "quote": "In May, the company said it's opening a new, 239,000-square-foot autonomous vehicle factory in the Phoenix area. The plan is to add 2,000 more fully autonomous Jaguar I-Pace vehicles to its existing 1,500-vehicle fleet."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Waymo has achieved major airport integration demonstrating commercial viability",
+      "quote": "Phoenix Sky Harbor International Airport became the first major airport to offer fully autonomous Waymo rides to its terminals. Waymo said in September 2025 that it has 'served hundreds of thousands of trips to/from Sky Harbor, and it remains the single most popular Waymo destination in Phoenix.'"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Waymo successfully handled thousands of complex traffic situations during emergency conditions",
+      "quote": "While a lot of focus has been placed on the instances where Waymo's robotaxis got stuck during the power outage, the company shared that its vehicles 'successfully traversed more than 7,000 dark signals on Saturday.'"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Waymo has accumulated extensive real-world testing experience across multiple cities",
+      "quote": "Its cars have driven 10 million miles on public roads in 25 US cities, and another 10 billion in simulation."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Waymo has built comprehensive commercial infrastructure including dispatch and fleet management systems",
+      "quote": "The company has helped shape legislation governing the technology, tackled the knotty problem of keeping a fleet of cars in good shape and on the road, and it has built a dispatch system that connects riders and rides."
+    }
+  ]
+}

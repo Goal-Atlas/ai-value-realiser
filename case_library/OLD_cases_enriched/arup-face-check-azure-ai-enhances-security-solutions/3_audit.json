@@ -1,0 +1,71 @@
+{
+  "case_id": "arup-face-check-azure-ai-enhances-security-solutions",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes a security incident/loss, not AI optimization of business functions. No capability improvement is described.",
+      "evidence_quality_assessment": "Named organization with specific loss amount, but this is a fraud incident report, not a capability case.",
+      "apqc_functions": [],
+      "notes": "This is a fraud incident report, not a Tier 1 capability optimization case. Does not belong in capability tier."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes the mechanics of a fraud attack, not AI-driven functional optimization or capability improvement.",
+      "evidence_quality_assessment": "Specific details about the fraud method, but irrelevant to Tier 1 assessment as this is not about capability enhancement.",
+      "apqc_functions": [],
+      "notes": "Detailed fraud incident description, not a capability optimization case."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes increasing security threats, not AI optimization of business processes or capabilities.",
+      "evidence_quality_assessment": "General statement about threat landscape from named organization, but not relevant to capability optimization.",
+      "apqc_functions": [],
+      "notes": "Threat landscape observation, not capability improvement case."
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry-wide fraud statistics do not describe functional optimization or capability improvement through AI.",
+      "evidence_quality_assessment": "Specific statistic with source attribution, but not relevant to Tier 1 capability cases.",
+      "apqc_functions": [],
+      "notes": "Industry fraud statistics, not capability optimization."
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial loss statistics from fraud do not represent AI-driven capability improvements.",
+      "evidence_quality_assessment": "Specific metrics for financial sector losses, but this describes the problem AI might solve, not the solution implementation.",
+      "apqc_functions": [],
+      "notes": "Fraud loss statistics, not capability enhancement case."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Incident frequency statistics describe the threat landscape, not functional optimization through AI capabilities.",
+      "evidence_quality_assessment": "Comparative statistic but lacks context for capability improvement assessment.",
+      "apqc_functions": [],
+      "notes": "Threat frequency statistics, not capability optimization."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Regional fraud statistics do not describe AI-driven process improvements or capability enhancements.",
+      "evidence_quality_assessment": "Specific regional statistics with quantified increase, but not relevant to capability optimization.",
+      "apqc_functions": [],
+      "notes": "Regional fraud statistics, not capability improvement case."
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes the prevalence of AI in fraud attacks, not AI being used to optimize business functions or capabilities.",
+      "evidence_quality_assessment": "Specific percentage of AI involvement in fraud, but this describes the threat, not defensive capability improvements.",
+      "apqc_functions": [],
+      "notes": "Fraud method statistics, not capability optimization through AI."
+    }
+  ],
+  "tier_verification": "MISCLASSIFIED - This case appears to be about deepfake fraud incidents and threat statistics, not about AI optimizing business capabilities. All claims describe fraud losses, attack methods, and threat landscape rather than functional improvements. This does not belong in tier 1 (capability) classification. The case may need to be reclassified or removed entirely as it doesn't demonstrate AI-driven capability enhancement."
+}

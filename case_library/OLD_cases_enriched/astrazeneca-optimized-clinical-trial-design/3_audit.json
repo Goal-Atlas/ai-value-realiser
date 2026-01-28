@@ -1,0 +1,144 @@
+{
+  "case_id": "astrazeneca-optimized-clinical-trial-design",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing diagnostic screening function. AI tool improves accuracy of chest X-ray interpretation, a standard medical process. Pattern is replicable across healthcare systems.",
+      "evidence_quality_assessment": "Named organization (AstraZeneca), specific quantified metric (54.1% PPV vs 20% threshold), traceable to named study (CREATE) and conference presentation. Highly credible.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case - optimizes diagnostic accuracy in established screening process with clear performance metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates scale deployment of screening optimization. Large-scale implementation (660k+ people) shows operational efficiency in existing healthcare delivery. Replicable pattern for population health screening.",
+      "evidence_quality_assessment": "Specific scale metrics (660,000 people, 8% detection rate), named geography (Thailand), timeframe specified (since 2022). Credible operational data.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent evidence of scaled operational deployment with clear volume metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Infrastructure scaling of proven capability optimization. Expanding AI screening across hospital network represents systematic efficiency improvement in healthcare delivery.",
+      "evidence_quality_assessment": "Specific implementation details (887 hospitals, 415M baht budget, 3-year timeline), named implementing organization (Thailand's National Health Security Office). Authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "10.1",
+          "name": "Plan and acquire assets",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of systematic capability deployment with clear resource allocation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization in clinical trial documentation. 85% time reduction in document authoring represents significant efficiency gain in established R&D workflow. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific quantified improvement (85% time reduction), clear process description (document authoring). Credible efficiency claim.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case - dramatic efficiency improvement in bounded process with clear metric"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of drug discovery success rates. Improving Phase I success from 40-65% to 80-90% represents significant efficiency gain in established R&D process. Pattern applicable across pharmaceutical industry.",
+      "evidence_quality_assessment": "Named organization, specific quantified metrics with clear benchmark comparison (80-90% vs 40-65%), established industry context. Credible performance claim.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability optimization with clear risk reduction and efficiency metrics in R&D process"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Appears to optimize clinical trial patient recruitment efficiency. StudyTeam tool improving patient randomization rates represents process optimization, but lacks specificity.",
+      "evidence_quality_assessment": "Named organization and tool (StudyTeam), but metrics are vague ('more patients per site per month' without quantification). Positive feedback mentioned but not detailed.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Clear optimization pattern but lacks specific metrics. Needs quantified improvement data for full approval."
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Strong indicator of process optimization effectiveness. 100% retention rate for StudyTeam usage suggests significant operational improvement in clinical trial management. Replicable pattern.",
+      "evidence_quality_assessment": "Named organization and tool, specific metric (100% continuation rate), clear behavioral indicator of value. Credible retention metric.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong retention metric indicates significant process improvement value, though underlying efficiency gains not quantified"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes strategic goals and business model transformation rather than specific process optimization. '20 new medicines by 2030' represents business strategy, not functional efficiency improvement.",
+      "evidence_quality_assessment": "While organization is named and goal is specific, this is a strategic objective rather than an operational capability improvement with measurable efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strategic goal rather than capability optimization. Lacks specific process improvement metrics. May be better suited for tier 1 classification."
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe optimization of existing pharmaceutical R&D and healthcare delivery processes with clear efficiency improvements. C8 is strategic rather than operational and should be rejected for tier 1."
+}

@@ -1,0 +1,187 @@
+{
+  "case_id": "burberry-optimized-production-schedules-raw-material-waste-reduction",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing manufacturing process - switching to organic cotton sourcing represents material improvement in production function",
+      "evidence_quality_assessment": "Specific metric (100%), named organization (Burberry), specific product line (Heritage Trench Coats) and locations (Yorkshire sites)",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Represents clear supply chain optimization with measurable improvement in material sourcing"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of existing manufacturing operations through renewable energy adoption - improves sustainability profile of production function",
+      "evidence_quality_assessment": "Specific metric (100%), named facilities (Castleford and Keighley), traceable claim from company source",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        },
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear operational efficiency improvement in manufacturing energy sourcing"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization benefit of organic cotton but lacks specificity about Burberry's actual implementation",
+      "evidence_quality_assessment": "General statement without quantified metrics or specific organizational impact - more of a contextual explanation",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Supporting context for C1 but lacks specific organizational metrics or measurable outcomes"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of component sourcing - switching to bio-based materials represents measurable improvement in manufacturing inputs",
+      "evidence_quality_assessment": "Specific metric (90% bio-based), clear product component (buttons), traceable organizational claim",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates supply chain optimization with quantified material composition improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of capital raising function - demonstrates improved efficiency in accessing sustainability-linked financing",
+      "evidence_quality_assessment": "Specific metric (8x oversubscription), named organization, credible financial outcome",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear financial function optimization showing improved access to capital markets"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of sustainability management function - demonstrates improved target-setting and commitment processes",
+      "evidence_quality_assessment": "Specific metrics (30% to 46% reduction target), clear timeframe (by 2030), named organization",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "1.3",
+          "name": "Develop and measure strategic initiatives",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Shows optimization of sustainability planning and risk management functions"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes enabler for optimization but lacks specific measurable improvement or process detail",
+      "evidence_quality_assessment": "Qualitative statement from named executive but no quantified benefits or specific process improvements",
+      "apqc_functions": [
+        {
+          "id": "4.2",
+          "name": "Procure materials and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Supporting context for supply chain optimization but lacks specific metrics or measurable outcomes"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes overall business performance outcome rather than specific functional optimization - too high-level for Tier 1",
+      "evidence_quality_assessment": "While specific (quadrupled value), lacks detail on which functions were optimized or how improvements were achieved",
+      "apqc_functions": [],
+      "notes": "High-level business outcome without specific functional optimization detail - insufficient for Tier 1 classification"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes a problem/waste issue rather than optimization or improvement - this is negative performance data",
+      "evidence_quality_assessment": "Specific metrics ($40M, 20,000 coats equivalent) but describes waste rather than optimization",
+      "apqc_functions": [],
+      "notes": "Describes waste problem rather than functional optimization - not a capability improvement claim"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes worsening waste performance rather than optimization - shows declining efficiency",
+      "evidence_quality_assessment": "Specific trend data but describes negative performance trajectory rather than improvement",
+      "apqc_functions": [],
+      "notes": "Shows declining performance in waste management rather than optimization - opposite of Tier 1 criteria"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of capital raising function - demonstrates improved efficiency in bond pricing and market access",
+      "evidence_quality_assessment": "Specific metrics (7.9x oversubscription, 1.125% coupon, £300m size), measurable financial outcome",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Demonstrates clear treasury function optimization with quantified financial benefits"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization target for emissions management function - specific, measurable commitment to operational improvement",
+      "evidence_quality_assessment": "Specific metric (95% reduction), clear baseline (2016 levels), defined timeframe (by 2022), named organization",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong commitment to operational optimization with quantified environmental performance targets"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe functional optimizations in manufacturing, supply chain, and financial operations. Claims C8-C10 are not optimization-focused but rather describe business outcomes or problems. No evidence of business model transformation that would indicate tier 1."
+}

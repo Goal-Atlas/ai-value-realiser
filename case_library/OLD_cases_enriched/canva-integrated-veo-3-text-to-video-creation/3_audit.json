@@ -1,0 +1,216 @@
+{
+  "case_id": "canva-integrated-veo-3-text-to-video-creation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - consolidating multiple creative tools into a single workflow improves efficiency for existing content creation processes. This is a replicable pattern for other creative platforms.",
+      "evidence_quality_assessment": "Named organization (Canva), specific integration described, traceable to official sources. Clear description of workflow improvement.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid Tier 1 case of workflow optimization through tool consolidation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes capability enhancement - making professional tools accessible to broader user base improves existing creative processes. Pattern applicable to other professional tool democratization.",
+      "evidence_quality_assessment": "Named executive (Danny Wu, Head of AI Products), direct quote from official blog post, specific feature description.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-documented capability enhancement with clear attribution"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes capability enhancement for video creation processes, but lacks specificity about the actual optimization achieved.",
+      "evidence_quality_assessment": "Vague quantification ('millions'), no specific metrics on efficiency gains or process improvements. Source appears credible but claims are broad.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid optimization concept but needs more specific evidence of improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability enhancement - integrating advanced technology into existing subscription model improves user access to video generation within established workflows.",
+      "evidence_quality_assessment": "Specific technology mentioned (Google's Veo 3), clear integration context (Canva AI), mentions existing subscription model.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good evidence of capability integration improving existing service delivery"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Excellent capability optimization example - making expensive technology ($249/month) accessible through integrated platform reduces cost barriers for existing creative processes.",
+      "evidence_quality_assessment": "Specific cost comparison provided ($249/month for Ultra package), clear accessibility improvement described, concrete integration benefit.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case with specific cost optimization metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process efficiency improvement ('few clicks' for polished content), but the claim about impossibility 'a year ago' is more about industry evolution than specific organizational capability.",
+      "evidence_quality_assessment": "Specific capability described (polished, brandable video with audio), but lacks quantified metrics on time savings or efficiency gains.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valid efficiency claim but needs more specific measurement of improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability optimization - removing technical skill and expensive software barriers for existing video creation processes. Replicable pattern for other specialized tool democratization.",
+      "evidence_quality_assessment": "Named organizations (Google and Canva), specific partnership mentioned, clear problem-solution description for marketers and creators.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Well-articulated barrier removal for existing business functions"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes capability improvement (lowering barriers), but the competitive impact claim ('immense pressure on other providers') goes beyond functional optimization.",
+      "evidence_quality_assessment": "Integration mentioned but lacks specific metrics on how barriers are lowered or what efficiency gains result.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Valid capability claim but mixed with competitive strategy elements"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes capability enhancement enabling organizational transformation to video-first approach - clear functional optimization for content creation and marketing processes.",
+      "evidence_quality_assessment": "Specific organizational outcome described (video-first organization), clear capability improvement implied through tool accessibility.",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good example of capability enabling strategic operational improvement"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear capability optimization - democratizing technology and combining workflows improves creative processes across multiple content types. Replicable integration pattern.",
+      "evidence_quality_assessment": "Specific workflow improvement described (video generation and editing combined), multiple use cases mentioned (social posts, brand videos, pitch decks).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing workflow optimization across multiple business functions"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes workflow optimization - combining generation and editing in single workflow improves efficiency for existing creative processes across multiple content formats.",
+      "evidence_quality_assessment": "Specific workflow improvement described, multiple concrete use cases provided (social posts, brand videos, pitch decks).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear workflow optimization with specific application examples"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe capability optimization and workflow improvements within existing business functions rather than business model transformation or new revenue streams."
+}

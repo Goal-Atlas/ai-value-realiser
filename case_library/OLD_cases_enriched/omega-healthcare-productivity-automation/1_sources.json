@@ -1,0 +1,29 @@
+{
+  "case_id": "omega-healthcare-productivity-automation",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Omega Processes 60M Transactions with UiPath AI & Automation",
+      "url": "https://www.omegahms.com/newsroom/omega-healthcare-processes-60-million-transactions-with-enterprise-ai-and-automation-from-uipath/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Omega Healthcare Processes 60 Million Transactions with Enterprise AI and Automation from UiPath",
+      "url": "https://www.businesswire.com/news/home/20241023959951/en/Omega-Healthcare-Processes-60-Million-Transactions-with-Enterprise-AI-and-Automation-from-UiPath",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Omega Healthcare Processes 60 Million Transactions with AI and Automation | UiPath",
+      "url": "https://www.uipath.com/newsroom/omega-healthcare-processes-60-million-transactions-with-enterprise-ai-and-automation",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Omega Healthcare Processes 60 Million Transactions with Enterprise AI and Automation from UiPath :: UiPath, Inc. (PATH)",
+      "url": "https://ir.uipath.com/news/detail/370/omega-healthcare-processes-60-million-transactions-with-enterprise-ai-and-automation-from-uipath",
+      "doc_type": "Press Release"
+    }
+  ]
+}

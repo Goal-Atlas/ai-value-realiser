@@ -1,0 +1,23 @@
+{
+  "case_id": "general-mills-ai-supply-chain-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "General Mills attributes millions in cost savings to AI | CIO Dive",
+      "url": "https://www.ciodive.com/news/General-Mills-AI-cost-saving-strategy/740416/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "General Mills says AI has generated millions of dollars in savings | Food Dive",
+      "url": "https://www.fooddive.com/news/General-Mills-AI-cost-saving-strategy/740460/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Palantir is pitching ad agencies on its AI technology",
+      "url": "https://www.marketingbrew.com/stories/2024/04/18/palantir-is-pitching-ad-agencies-on-its-ai-technology",
+      "doc_type": "News Article"
+    }
+  ]
+}

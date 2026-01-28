@@ -1,0 +1,23 @@
+{
+  "case_id": "hong-leong-bank-improved-digital-banking-experience-and-employee-workflows-using-gemini-models",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Hong Leong Bank Becomes First Bank in Malaysia to Offer a Fully Digital Account Onboarding Experience",
+      "url": "https://www.hubbis.com/news/hong-leong-bank-becomes-first-bank-in-malaysia-to-offer-a-fully-digital-account-onboarding-experience",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions",
+      "url": "https://www.hubbis.com/news/hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Hong Leong Finance's Digital Transformation and Its Strategic Implications for Southeast Asian Financial Markets",
+      "url": "https://www.ainvest.com/news/hong-leong-finance-digital-transformation-strategic-implications-southeast-asian-financial-markets-2509/",
+      "doc_type": "News Article"
+    }
+  ]
+}

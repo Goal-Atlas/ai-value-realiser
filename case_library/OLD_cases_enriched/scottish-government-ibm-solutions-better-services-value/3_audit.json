@@ -1,0 +1,129 @@
+{
+  "case_id": "scottish-government-ibm-solutions-better-services-value",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - accelerated achievement of cost optimization goals demonstrates improved efficiency in existing operations. Pattern is replicable across other government agencies with similar transformation timelines.",
+      "evidence_quality_assessment": "Named organization (Social Security Scotland), specific timeframe metrics (18 months vs 3 years), traceable to official source. Quantified performance improvement.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing operational efficiency gains with clear metrics and replicable pattern"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Direct cost reduction through cloud optimization - classic efficiency improvement in existing IT operations. Highly replicable pattern for organizations managing cloud infrastructure.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (30.4% reduction), clear timeframe (first year). Credible and measurable claim.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent Tier 1 example of IT cost optimization with precise metrics"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Provides insight into the mechanism of optimization (usage optimization vs other factors). Shows process improvement in resource utilization - clear functional enhancement.",
+      "evidence_quality_assessment": "Specific breakdown of savings drivers (78% from usage optimization), provides analytical depth to the cost reduction claims. Traceable and specific.",
+      "apqc_functions": [
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Valuable detail that explains the mechanism behind the cost savings, strengthening the overall case"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims operational improvements (enhanced service delivery and resilience) but lacks specificity about what was enhanced or how resilience improved. Pattern is conceptually replicable but vague.",
+      "evidence_quality_assessment": "Named organization but qualitative claims without specific metrics or observable outcomes. 'Enhanced' and 'improved' are not quantified or detailed.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.5",
+          "name": "Develop and manage services/solutions",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Lacks specificity - needs concrete examples of service delivery improvements or resilience metrics"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims to be a 'model' suggests replicable best practices, but this is more about recognition/positioning than functional optimization. Borderline relevance to Tier 1 criteria.",
+      "evidence_quality_assessment": "Named organization and specific positioning claim, but 'model' and 'best possible value' are subjective assessments without measurable criteria or third-party validation.",
+      "apqc_functions": [
+        {
+          "id": "12.2",
+          "name": "Manage government and industry relationships",
+          "confidence": "low"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "low"
+        }
+      ],
+      "notes": "More about reputation/positioning than operational improvement - questionable fit for Tier 1"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates successful operational execution of payment processing - clear functional performance with volume and reliability metrics. Pattern replicable for other payment systems.",
+      "evidence_quality_assessment": "Highly specific metrics: 1,641 payments, £3 million value, 42 consecutive weeks, 11 releases. Named system (MVS) with launch date. Excellent quantification.",
+      "apqc_functions": [
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong operational metrics demonstrating reliable system performance and processing capability"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic future-looking statement about potential efficiencies rather than demonstrated optimization. No specific process or function identified.",
+      "evidence_quality_assessment": "Vague aspirational claim without specific metrics, timeframes, or measurable outcomes. 'Will drive efficiencies' is predictive, not evidential.",
+      "apqc_functions": [],
+      "notes": "Too generic and forward-looking - lacks the specificity and evidence required for Tier 1 validation"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All substantive claims focus on operational optimization, cost reduction, and efficiency improvements within existing government service delivery functions. No business model transformation or new revenue streams indicated."
+}

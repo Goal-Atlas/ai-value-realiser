@@ -1,0 +1,108 @@
+{
+  "case_id": "wells-fargo-customer-decision-hub",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of customer service function through AI virtual assistant automation. Replicable pattern for other financial institutions.",
+      "evidence_quality_assessment": "Named organization (Wells Fargo), specific metric (21 million interactions), traceable to annual report source.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing measurable customer service optimization through AI automation"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Financial performance metric without clear connection to AI optimization. No specific process improvement described.",
+      "evidence_quality_assessment": "While specific (11% increase, $19.1B), this is general financial performance not tied to AI capability improvements.",
+      "apqc_functions": [],
+      "notes": "General financial performance claim without demonstrable link to AI-driven functional optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Similar to C2 - financial performance without clear connection to specific AI-driven process optimization.",
+      "evidence_quality_assessment": "Specific metric (47% increase, $5.1B) but no causal link to AI capabilities described.",
+      "apqc_functions": [],
+      "notes": "Financial performance claim lacking connection to specific AI-driven functional improvements"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer engagement and marketing functions through AI personalization. Replicable pattern.",
+      "evidence_quality_assessment": "Named organization but vague on specific metrics - 'drive engagement and revenue' without quantification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but lacks specific quantified outcomes"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear customer service optimization with scalability projection. Replicable automation pattern.",
+      "evidence_quality_assessment": "Named system (Fargo), specific metrics (20M interactions, 100M projection), measurable scale improvement.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of customer service automation with clear scalability metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear customer service optimization through response time improvement. Replicable pattern.",
+      "evidence_quality_assessment": "Named organization and clear functional improvement but lacks specific quantification of 'significantly reduced' and satisfaction metrics.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization but needs specific metrics for response time and satisfaction improvements"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation and operational efficiency optimization. Replicable human+AI pattern.",
+      "evidence_quality_assessment": "Named system, clear process description of automation freeing human agents for complex work, operational efficiency improvement described.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong example of AI-human collaboration optimizing operational efficiency in customer service"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Claims focus on optimizing existing customer service and engagement functions rather than creating new business models or revenue streams."
+}

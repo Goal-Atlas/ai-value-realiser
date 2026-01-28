@@ -1,0 +1,53 @@
+{
+  "case_id": "loreal-genai-creative-concept-generation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Teams can generate high-quality visuals perfectly aligned with brand identity using simple prompts",
+      "quote": "By describing an idea with simple prompts, powered by Veo and Imagen models, teams can generate high-quality visuals perfectly aligned with their brand."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "GenAI significantly speeds up content creation workflow",
+      "quote": "By describing an idea with simple prompts, teams can generate high-quality visuals perfectly aligned with each brand's identity, significantly speeding up the content creation workflow."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Video generation dramatically accelerates production of engaging video assets",
+      "quote": "Teams are now using Veo to bring their static images to life as stunning, eight-second animated sequences \u2014 dramatically accelerating the production of engaging video assets."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Marketing teams reduced concept creation time from weeks to days",
+      "quote": "L'Or\u00e9al Groupe's marketing teams have reduced the amount of time it takes to create initial concepts from weeks to days."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "GenAI cuts down costs and creates new efficiencies in asset creation",
+      "quote": "Third, it cuts down on cost and creates new efficiencies, given the number of assets that are created."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "AI integration allows more efficient and cost-effective product design iteration compared to 3D printing",
+      "quote": "Integrating AI into this process allows its product teams to explore and iterate various packing design concepts more efficiently and cost-effectively compared to 3D printing."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "GenAI enables faster turnaround times compared to traditional agency workflows",
+      "quote": "Secondly, the tool has helped teams deliver quicker turnaround times compared to the traditional ways of working with agencies, where requests, idea proposals, and revisions often prolong the creation of marketing campaigns and product concepts."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "AI technology serves as a big accelerator for marketing teams in bringing ideas to life",
+      "quote": "Using AI technology is a very big accelerator for marketing teams. Now, it's easier to bring to life ideas and generate new concepts, create storyboards, or test product pack shots in different universes \u2014 all of this in order to express a clearer vision to internal teams or partners and, therefore, save time and back and forth."
+    }
+  ]
+}

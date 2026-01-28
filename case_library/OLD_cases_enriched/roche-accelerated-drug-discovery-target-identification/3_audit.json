@@ -1,0 +1,162 @@
+{
+  "case_id": "roche-accelerated-drug-discovery-target-identification",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague - 'scale previously unattainable' doesn't describe specific functional optimization or measurable improvement",
+      "evidence_quality_assessment": "Marketing language without specific metrics or observable outcomes",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Generic promotional statement lacking substance for Tier 1 assessment"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Claims acceleration but provides no baseline, timeline, or measurable improvement",
+      "evidence_quality_assessment": "Future-oriented promise without current evidence or specific metrics",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Aspirational claim without substantive evidence of current capability improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes capability but 'unprecedented scale and speed' is unmeasured and unverifiable",
+      "evidence_quality_assessment": "Superlative claims without quantification or comparison baseline",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Marketing hyperbole without concrete evidence of functional improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes clear functional optimization goals (predictability, cost-effectiveness, success rates) but lacks specificity",
+      "evidence_quality_assessment": "Named organization with clear improvement targets but no current metrics or timeline",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic vision with relevant optimization goals but insufficient evidence of current achievement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic potential statement without specific process optimization described",
+      "evidence_quality_assessment": "Industry-level generalization without organization-specific evidence",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too generic for Tier 1 assessment - describes industry potential rather than specific capability"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization ('streamlines traditional trial-and-error') with performance improvement claim",
+      "evidence_quality_assessment": "Named approach with improvement claim but lacks quantified metrics",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Describes process improvement but needs quantified evidence of performance gains"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional capability - rapid generation and testing of thousands of virtual molecular structures represents measurable process optimization",
+      "evidence_quality_assessment": "Specific, observable capability with quantifiable scale ('thousands of new molecules')",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Concrete capability with measurable scale - clear Tier 1 functional optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Aspirational goal without current evidence of faster delivery",
+      "evidence_quality_assessment": "Future-oriented hope without baseline comparison or timeline",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Aspirational rather than evidential - lacks current capability demonstration"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Future-oriented promise without current functional optimization evidence",
+      "evidence_quality_assessment": "Aspirational outcomes without current metrics or demonstrated capability",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Promise of future benefits without current evidence of capability improvement"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry context statement, not a capability optimization claim",
+      "evidence_quality_assessment": "Background information rather than capability evidence",
+      "apqc_functions": [],
+      "notes": "Contextual information about industry challenges, not a capability case claim"
+    },
+    {
+      "claim_id": "C11",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry benchmark data, not organizational capability optimization",
+      "evidence_quality_assessment": "Industry statistics rather than organizational capability evidence",
+      "apqc_functions": [],
+      "notes": "Industry cost data, not relevant to organizational capability assessment"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Industry success rate statistic, not organizational capability improvement",
+      "evidence_quality_assessment": "Industry benchmark rather than organizational evidence",
+      "apqc_functions": [],
+      "notes": "Industry statistics, not organizational capability evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe functional optimization in drug discovery/development processes, though many lack sufficient evidence. No business model transformation or new revenue streams indicated."
+}

@@ -1,0 +1,129 @@
+{
+  "case_id": "etsy-gemini-customer-support-analysis",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - AI augmenting employee productivity across general workplace tasks. Pattern is replicable across organizations using similar tools.",
+      "evidence_quality_assessment": "Specific quantified metric (105 minutes/week) but source appears to be Google marketing material. No independent verification or methodology disclosed.",
+      "apqc_functions": [
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        },
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Strong time savings claim but needs independent verification given vendor source"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes quality improvement in existing work processes. Replicable pattern for AI-assisted work enhancement.",
+      "evidence_quality_assessment": "Percentage metric provided (75%) but lacks definition of 'quality improvement' and methodology. Vendor-sourced statistic.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Quality improvement claim is vague without specific quality metrics or measurement criteria"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is an adoption statistic, not a functional optimization claim. No specific process improvement described.",
+      "evidence_quality_assessment": "While specific (100,000+ organizations), this is a market penetration claim rather than an efficiency/capability improvement.",
+      "apqc_functions": [],
+      "notes": "Market adoption statistic, not a capability case claim"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of customer feedback analysis process. Dramatic time reduction (2-4 hours to 5-6 minutes) in bounded, repeatable task. Pattern applicable to other customer service operations.",
+      "evidence_quality_assessment": "Named organization (Etsy), specific quantified improvement, detailed process description. Credible efficiency gain.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability case with named customer and dramatic, measurable process improvement"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear productivity optimization for development team. Replicable pattern for software development functions.",
+      "evidence_quality_assessment": "Named organization (FinQuery) and specific metric (5% productivity boost), but relatively modest gain and no methodology provided.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Modest but credible productivity claim from named organization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific optimization of development tasks (unit testing, component writing). Clear efficiency gain in bounded processes. Highly replicable across software development teams.",
+      "evidence_quality_assessment": "Named organization (FinQuery), specific tasks identified, dramatic time improvement (hours to minutes). Detailed and credible.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong capability case with specific development tasks and significant time savings"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of two distinct functions: research and donor outreach. Significant time savings in repeatable processes. Pattern applicable to other nonprofits and research organizations.",
+      "evidence_quality_assessment": "Named organization (Understood.org), specific quantified savings for two different processes (10 hours/project, 2 hours/day). Credible and detailed.",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong dual-function optimization case with significant time savings in research and fundraising activities"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization and efficiency gains within existing business processes, not business model transformation."
+}

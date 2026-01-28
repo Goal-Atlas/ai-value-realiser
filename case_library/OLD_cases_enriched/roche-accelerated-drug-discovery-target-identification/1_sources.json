@@ -1,0 +1,29 @@
+{
+  "case_id": "roche-accelerated-drug-discovery-target-identification",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Genentech and NVIDIA Enter Into Strategic Research Collaboration",
+      "url": "https://www.gene.com/media/press-releases/15010/2023-11-21/genentech-and-nvidia-enter-into-strategi",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI and machine learning: Revolutionising drug discovery and transforming patient care",
+      "url": "https://www.roche.com/stories/ai-revolutionising-drug-discovery-and-transforming-patient-care",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "The AI Revolution in Drug Repurposing: A Comprehensive Pipeline Analysis from Target Identification to Clinical and Commercial Validation",
+      "url": "https://www.drugpatentwatch.com/blog/the-ai-revolution-in-drug-repurposing-a-comprehensive-pipeline-analysis-from-target-identification-to-clinical-and-commercial-validation/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Roche AI Case Study: Accelerating Drug Discovery with AI and Machine Learning",
+      "url": "https://www.gobeyond.ai/ai-resources/case-studies/roche-ai-ml-drug-discovery-development",
+      "doc_type": "Case Study"
+    }
+  ]
+}

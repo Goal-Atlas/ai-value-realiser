@@ -1,0 +1,23 @@
+{
+  "case_id": "nokia-gemini-coding-tool-app-development",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Nokia and Google Cloud collaborate to help developers worldwide create 5G applications faster with telco APIs",
+      "url": "https://www.nokia.com/newsroom/nokia-and-google-cloud-collaborate-to-help-developers-worldwide-create-5g-applications-faster-with-telco-apis/",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Nokia turns to Google's AI to give network APIs a boost",
+      "url": "https://www.lightreading.com/wireless/nokia-turns-to-google-s-ai-to-give-apis-a-boost",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "Nokia launches Network as Code platform to accelerate network programmability and monetization",
+      "url": "https://www.nokia.com/about-us/news/releases/2023/09/26/nokia-launches-network-as-code-platform-to-accelerate-network-programmability-and-monetization/",
+      "doc_type": "Press Release"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "lumen-technologies-sales-summarization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Lumen fuels growth marketing with Adobe GenStudio",
+      "url": "https://business.adobe.com/customer-success-stories/lumen.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Lumen and Cisco - AI Connectivity Case Study - Cisco",
+      "url": "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/lumen-technologies.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Lumen Technologies reports fourth quarter and full year 2024 results",
+      "url": "https://ir.lumen.com/news/news-details/2025/Lumen-Technologies-reports-fourth-quarter-and-full-year-2024-results/default.aspx",
+      "doc_type": "Press Release"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "case_id": "millennium-bcp-boosted-digital-sales-conversion-rates-by-2",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of existing marketing function - improving audience targeting to increase conversion rates. This is a replicable pattern for other organizations using data analytics for marketing optimization.",
+      "evidence_quality_assessment": "Specific quantified metric (2.6x higher conversion rates) with clear comparison baseline (other first-party audiences). Organization is named (Millennium BCP) and appears to be from an authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing measurable improvement in marketing effectiveness through better data utilization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of marketing function showing volume improvements through better audience targeting. Replicable pattern for organizations with similar data analytics capabilities.",
+      "evidence_quality_assessment": "Specific quantified metric (2.4x greater conversion volume) with clear baseline comparison. Named organization with traceable claims.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Complements C1 by showing both rate and volume improvements from the same optimization"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of paid media marketing function with measurable improvements. Pattern is replicable for other organizations running paid media campaigns.",
+      "evidence_quality_assessment": "Specific metrics provided (doubled conversion volume, 1.9x higher conversion rates) with clear attribution to BigQuery-powered audiences. Named organization with detailed claims.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of paid media optimization through improved audience targeting"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimization of marketing efficiency through cost reduction while maintaining or improving performance. Highly replicable pattern for marketing operations.",
+      "evidence_quality_assessment": "Specific quantified metric (36% CPA reduction) with clear comparison baseline. Named organization with precise measurement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Demonstrates cost efficiency gains alongside performance improvements from previous claims"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of IT deployment processes showing dramatic efficiency improvement. Highly replicable pattern for organizations implementing DevOps/automation practices.",
+      "evidence_quality_assessment": "Specific and dramatic improvement metric (8 days to 8 minutes) though lacks some detail on methodology. The scale of improvement suggests legitimate process automation.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Significant IT process optimization showing classic automation benefits, though could benefit from more implementation detail"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (marketing and IT deployment) rather than business model innovation or new revenue streams."
+}

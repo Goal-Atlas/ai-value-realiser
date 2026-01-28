@@ -1,0 +1,59 @@
+{
+  "case_id": "georgia-tech-stonecrest-asset-management",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "40% reduction in unplanned asset downtime across 3 counties",
+      "quote": "By leveraging predictive analytics, the initiative achieved a 40% reduction in unplanned asset downtime across three counties."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "60% decrease in manual field response times",
+      "quote": "Smart workflows enabled by watsonx Orchestrate led to a 60% decrease in manual field response times, significantly improving operational agility."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "18% reduction in peak load costs through energy monitoring",
+      "quote": "Clean energy monitoring contributed to an 18% reduction in peak load costs"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "30% decrease in water waste in agriculture through automation",
+      "quote": "automation in agriculture drove a 30% decrease in water waste"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "30% increase in deployment speed compared to previous projects",
+      "quote": "The initiative also delivered a 30% increase in deployment speed compared to previous projects"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "USD 2.3 million in cost avoidance over three years with 10x return on investment",
+      "quote": "it is projected to generate USD 2.3 million in cost avoidance over three years, with a 10x return on investment"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Creation of 120 new jobs in sustainability and smart infrastructure",
+      "quote": "the project also created 120 new jobs in sustainability and smart infrastructure, empowering local talent"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S2",
+      "claim": "Tech Square Microgrid capital cost of $4.8 million",
+      "quote": "The capital cost is $4.8 million. As approved in a 2019 rate case, Docket 42516, that amount will be recovered through rates over the life of the microgrid"
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Tech Square Microgrid capital cost of $4.8 million",
+      "quote": "The capital cost is $4.8 million. As approved in a 2019 rate case, Docket 42516, that amount will be recovered through rates over the life of the microgrid"
+    }
+  ]
+}

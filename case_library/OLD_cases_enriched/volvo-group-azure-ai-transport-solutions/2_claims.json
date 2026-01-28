@@ -1,0 +1,59 @@
+{
+  "case_id": "volvo-group-azure-ai-transport-solutions",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Volvo has achieved scale with over one million connected trucks providing comprehensive services",
+      "quote": "More than one million connected Volvo trucks are now on the road worldwide and can make use of the company's full range of services."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Connected services optimize uptime, reduce energy consumption, and improve operational efficiency and safety",
+      "quote": "Using connected services, we can support our customers and the drivers in so many ways \u2013 optimizing uptime, lowering energy consumption, and making the entire truck operation more efficient and safer."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Connected services contribute to societal value by keeping trucks operational",
+      "quote": "A truck is a work tool for the transport companies, and it needs to stay on the road to deliver value. Our services can really contribute here. In the long run, this contributes to the functioning of our entire society."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "AI and analytics enable faster product development and innovative solutions",
+      "quote": "With the use of advanced analytical methods and AI, we can analyze large amounts of data and use the findings in our product development. We can develop new products and services that benefit our customers, and make transportation more productive, more sustainable and safer."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Volvo delivered approximately 134,000 trucks globally in 2024",
+      "quote": "In 2024, approximately 134,000 Volvo trucks were delivered worldwide."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "AI hackathon produced working prototypes that can demonstrate business value",
+      "quote": "I think it's great that it's not only the concept, but also the POCs (proof of concepts) already. So basically, the proof of concepts that can be taken further and shown to the business to prove the value."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "aifleet achieves over 40% higher driver utilization than industry average through AI optimization",
+      "quote": "By optimizing route planning and scheduling, and building end-to-end automation, aifleet's own operation generate over 40% higher driver utilization than industry average."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "The U.S. full-truckload market represents a $400 billion opportunity with significant inefficiencies",
+      "quote": "The U.S. full-truckload (FTL) market size is $400 billion, but it's a massively inefficient and fragmented market with half a million carriers, where even the biggest has less than 1% of the market."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Volvo Group achieved SEK 553 billion in net sales in 2023",
+      "quote": "In 2023, net sales amounted to SEK 553 billion (EUR 48 billion)."
+    }
+  ]
+}

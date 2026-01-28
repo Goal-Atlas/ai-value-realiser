@@ -1,0 +1,116 @@
+{
+  "case_id": "karaca-smec-catalog-segmentation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of advertising/marketing operations with measurable revenue improvement. Pattern is replicable across retail organizations.",
+      "evidence_quality_assessment": "Named organization (Decathlon) with specific quantified metric (22% revenue increase YoY). However, source appears to be from service provider (Karaca/SMEC) which introduces potential marketing bias.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong metric but vendor-sourced case study requires human review for bias assessment"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear optimization of advertising efficiency with specific performance metric. ROAS improvement demonstrates better resource allocation in existing marketing function.",
+      "evidence_quality_assessment": "Named organization with specific quantified metric (52% ROAS increase YoY). Same concern about vendor source bias as C1.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong performance metric but vendor case study bias concern"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of product mix and campaign allocation through automation. Fits Tier 1 pattern of improving existing marketing functions.",
+      "evidence_quality_assessment": "Named organization but claim is qualitative ('healthier revenue mix') without specific metrics. Vendor source adds bias concern.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Clear functional improvement but lacks quantification"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes process optimization creating scalable campaign structure. Fits Tier 1 pattern of improving operational efficiency in marketing function.",
+      "evidence_quality_assessment": "Named organization but entirely qualitative claim without measurable outcomes. Vendor source bias concern.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Process improvement claim but no quantifiable evidence"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation pattern - automation freeing human resources from manual tasks to focus on higher-value work. Highly replicable across organizations.",
+      "evidence_quality_assessment": "Named organization with specific process description (freeing from manual tasks). While vendor-sourced, the claim is specific and credible about operational change.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Classic Tier 1 workforce augmentation with clear operational benefit"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes knowledge transfer and training rather than AI-driven functional optimization. More about human capability development than process improvement.",
+      "evidence_quality_assessment": "Qualitative claim without specific metrics. 'Significantly increased' is vague and unmeasurable.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Not AI optimization - describes human knowledge transfer and training"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing marketing/advertising functions rather than business model innovation. No evidence of new revenue streams or market creation."
+}

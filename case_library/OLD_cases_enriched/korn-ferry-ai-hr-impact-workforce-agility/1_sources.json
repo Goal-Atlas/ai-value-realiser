@@ -1,0 +1,35 @@
+{
+  "case_id": "korn-ferry-ai-hr-impact-workforce-agility",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Korn Ferry Reveals Workforce 2025 Research",
+      "url": "https://www.kornferry.com/about-us/press/korn-ferry-reveals-workforce-2025-research",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI in the workplace",
+      "url": "https://www.kornferry.com/insights/featured-topics/gen-ai-in-the-workplace",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S3",
+      "title": "Korn Ferry launches AI-powered talent analytics platform",
+      "url": "https://www.consulting.us/news/6997/korn-ferry-launches-ai-powered-talent-analytics-platform",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Korn Ferry Survey Highlights How TR Leaders Are Responding to Change",
+      "url": "https://worldatwork.org/publications/workspan-daily/korn-ferry-survey-highlights-how-tr-leaders-are-responding-to-change",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Empowering Growth with Scalable, Inclusive Talent Tools",
+      "url": "https://www.kornferry.com/insights/talent-suite-resources/empowering-growth-with-scalable-inclusive-talent-tools",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

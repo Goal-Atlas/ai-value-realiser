@@ -1,0 +1,149 @@
+{
+  "case_id": "pepsico-computer-vision-shelf-inventory-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "While this appears to describe retail execution optimization, the claim is too vague to assess strategic fit. 'Measurable revenue impact' without specifics doesn't demonstrate clear functional optimization.",
+      "evidence_quality_assessment": "Marketing language without specific metrics or details. The quote is essentially a teaser for a case study rather than substantive evidence.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Rejected due to lack of specific claims and marketing-focused language without substance"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - automating shelf auditing and providing real-time merchandising guidance. This optimizes existing retail execution processes and is replicable across CPG companies.",
+      "evidence_quality_assessment": "Named organization (PepsiCo) but lacks specific quantified metrics. 'Seconds' is somewhat specific for timing but no comparison baseline or volume metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit but needs more specific metrics for full approval"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of product assortment and merchandising functions. The $4,000 annual increase per store demonstrates measurable improvement in existing retail execution processes.",
+      "evidence_quality_assessment": "Named organization (PepsiCo), specific quantified metric ($4,000 per store annually), and traceable to source discussing their data platform implementation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of functional optimization with specific, measurable results"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Same as C3 - demonstrates optimization of assortment and merchandising functions with measurable results, showing the pattern is replicable across different store chains.",
+      "evidence_quality_assessment": "Named organization, specific metric ($1,300 annual increase per store), same authoritative source as C3.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Reinforces the replicability of the optimization pattern across different customer segments"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear warehouse operations optimization - 50% reduction in order processing times represents significant efficiency improvement in existing logistics functions.",
+      "evidence_quality_assessment": "Specific quantified metric (50% reduction) but source quality uncertain. The language suggests this may be from a less authoritative source or potentially marketing material.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but source authority needs verification"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear cost optimization in warehouse operations - 40% labor cost reduction through AGV implementation represents significant efficiency improvement in existing functions.",
+      "evidence_quality_assessment": "Named organization (PepsiCo) and specific metric (40% reduction), but the writing quality and grammar suggest potentially less authoritative source.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good strategic fit and specific metrics, but source credibility questionable based on language quality"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Quality improvement in warehouse operations - 99.9% accuracy represents optimization of existing order fulfillment processes.",
+      "evidence_quality_assessment": "Specific metric (99.9% accuracy) but same source quality concerns as C5-C6. The language suggests marketing material or less rigorous reporting.",
+      "apqc_functions": [
+        {
+          "id": "4.4",
+          "name": "Manage logistics and warehousing",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong operational metric but source authority questionable"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Would represent clear inventory cost optimization if complete, but the truncated quote makes assessment impossible.",
+      "evidence_quality_assessment": "Quote is incomplete ('enabled about a 20% reduction in o') making it impossible to verify the full claim or assess evidence quality.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Rejected due to incomplete/corrupted source data"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing business functions (retail execution, warehousing, inventory management) rather than new business models or revenue streams."
+}

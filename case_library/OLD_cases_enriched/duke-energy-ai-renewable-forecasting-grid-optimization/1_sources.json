@@ -1,0 +1,29 @@
+{
+  "case_id": "duke-energy-ai-renewable-forecasting-grid-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How newly patented technology will drive a more responsive grid",
+      "url": "https://illumination.duke-energy.com/articles/how-newly-patented-technology-will-drive-a-more-responsive-grid",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Duke Energy's John Pressley on how AI is reshaping utility work",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/duke-energys-john-pressley-on-how-ai-is-reshaping-utility-work/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S3",
+      "title": "How Duke Energy used generative AI for DER growth and grid reliability",
+      "url": "https://www.distributech.com/2025-technical-conference-sessions/how-duke-energy-used-generative-ai-for-der-growth-and-grid-reliability",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Duke Energy Energy Storage and Battery Initiatives for 2025: Key Projects, Strategies and Market Impact",
+      "url": "https://enkiai.com/duke-energy-energy-storage-and-battery-initiatives-for-2025-key-projects-strategies-and-market-impact",
+      "doc_type": "News Article"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "starbucks-deep-brew-personalization-roi-engagement",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "37% lift in repeat purchases from AI-driven personalization",
+      "quote": "Across various reports, Starbucks shows a repeat purchase lift of around 37% related to AI-driven personalization."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "30% higher marketing ROI from more relevant offers and better audience segmentation",
+      "quote": "Up to 30% higher marketing ROI thanks to more relevant offers and better audience segmentation"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Improved customer engagement on the app",
+      "quote": "Improved customer engagement on the app has become noticeable."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Reduced waste and more accurate planning at store level",
+      "quote": "Reduced waste and more accurate planning at store level"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "Record quarterly earnings achieved through AI and digital innovation",
+      "quote": "The strategic emphasis on AI and digital innovation has yielded notable results for Starbucks, including record quarterly earnings and a substantial increase in active rewards program members."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S3",
+      "claim": "Substantial increase in active rewards program members",
+      "quote": "The strategic emphasis on AI and digital innovation has yielded notable results for Starbucks, including record quarterly earnings and a substantial increase in active rewards program members."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "15% growth in US rewards membership to 17.6 million members",
+      "quote": "The result has seen a 15% growth in US membership to 17.6 million members in the last quarter of 2019, up 15% year-over-year."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Digital orders made up 10% of business in China with 7% from delivery and 3% from Mobile Order & Pay",
+      "quote": "In China, digital orders made up 10% of the company's business this past quarter, with 7% coming from delivery and 3% from Mobile Order & Pay, Starbucks' app-based order-ahead feature."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S5",
+      "claim": "34.3 million rewards members in the U.S. by 2023",
+      "quote": "By 2023, the company counted 34.3 million rewards members in the U.S. alone."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S5",
+      "claim": "AI inventory system reduces time from one hour to fifteen minutes",
+      "quote": "What once took staff an hour with paper and pencil now takes about fifteen minutes with a tablet scan."
+    }
+  ]
+}

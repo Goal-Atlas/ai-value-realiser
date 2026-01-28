@@ -1,0 +1,83 @@
+{
+  "case_id": "jetbrains-ai-assistant-developer-productivity",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Developers save up to 8 hours per week using JetBrains AI Assistant",
+      "quote": "4% of users (23 people) claimed to free up more than 8 hours per week. That's an entire working day!"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "91% of users save time with JetBrains AI Assistant",
+      "quote": "We were thrilled to hear that 91% of respondents had been saving time by using JetBrains AI Assistant."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "37% of users save 1-3 hours per week and 22% save 3-5 hours per week",
+      "quote": "A significant 37% noted saving between 1 and 3 hours per week, while an additional 22% saved between 3 and 5 hours."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "75% of users are satisfied with JetBrains AI Assistant",
+      "quote": "75% of users who took our survey are happy with JetBrains AI Assistant. Even better \u2013 25% of them say they're 'very satisfied'."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "78% of developers spend less time on information searches",
+      "quote": "78% of developers find they spend less time on their information searches."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "71% of developers complete tasks much faster",
+      "quote": "Tasks are completed much faster for 71% of them"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "55% of developers work on more exciting projects due to time savings",
+      "quote": "55% are diving into more exciting projects as a result of all the time they're saving."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S1",
+      "claim": "58% of users experience easier task completion and reduced mental strain",
+      "quote": "AI Assistant enhances workflows, with 58% of users experiencing easier task completion and reduced mental strain."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S1",
+      "claim": "AI Assistant became the fastest-growing commercial tool in JetBrains' portfolio",
+      "quote": "JetBrains AI Assistant is deeply integrated into JetBrains development environments, code editors, and other products. It is currently powered by both OpenAI's and JetBrains's models, and the company is working on integrating other LLMs to act as a neutral provider."
+    },
+    {
+      "claim_id": "C10",
+      "source_id": "S3",
+      "claim": "AI Assistant significantly increases productivity by handling routine and complex tasks",
+      "quote": "Simply put, AI Assistant transforms ReSharper into an even better coding companion, one that handles routine and complex tasks to significantly dial up your productivity."
+    },
+    {
+      "claim_id": "C11",
+      "source_id": "S5",
+      "claim": "AI tasks that take 3-5 minutes replace 30-40 minutes of manual work",
+      "quote": "I tend to use it for short tasks that take 3\u20135 minutes of agent time, which would have taken me 30\u201340 minutes of work."
+    },
+    {
+      "claim_id": "C12",
+      "source_id": "S5",
+      "claim": "Gartner predicts 30% productivity gain in software development through AI tools by 2028",
+      "quote": "Gartner predicts that, 'Through 2028, a 30% productivity gain in software development will be achieved across enterprises as a result of applying multiple AI-powered tools in the software development life cycle.'"
+    },
+    {
+      "claim_id": "C13",
+      "source_id": "S5",
+      "claim": "Junie's speed increased by 30% since Gartner's research",
+      "quote": "Since Gartner's research, we've increased Junie's speed by 30% and added MCP support."
+    }
+  ]
+}

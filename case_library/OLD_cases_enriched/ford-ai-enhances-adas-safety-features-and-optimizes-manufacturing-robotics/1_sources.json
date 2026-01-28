@@ -1,0 +1,35 @@
+{
+  "case_id": "ford-ai-enhances-adas-safety-features-and-optimizes-manufacturing-robotics",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Ford Launches New AI Driver Assistance Subsidiary",
+      "url": "https://www.designnews.com/automotive-engineering/ford-launches-new-ai-driver-assistance-subsidiary",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: AI and Autonomous Vehicle Development at Ford Motor Company - AIX | AI Expert Network",
+      "url": "https://aiexpert.network/case-study-ai-and-autonomous-vehicle-development-at-ford-motor-company/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "5 ways Ford is using AI [Case Study] [2025] - DigitalDefynd",
+      "url": "https://digitaldefynd.com/IQ/ford-using-ai-case-study/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Ford AI Assistant Revealed at CES 2026: Could New Tech Worsen 5,000 Job Vacancies Crisis? | IBTimes",
+      "url": "https://www.ibtimes.com/ford-ai-assistant-revealed-ces-2026-could-new-tech-worsen-5000-job-vacancies-crisis-3794771",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Ford (F) Shares Rise on AI Initiatives and Advanced Driving Systems",
+      "url": "https://www.gurufocus.com/news/4102217/ford-f-shares-rise-on-ai-initiatives-and-advanced-driving-systems",
+      "doc_type": "News Article"
+    }
+  ]
+}

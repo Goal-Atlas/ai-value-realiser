@@ -1,0 +1,59 @@
+{
+  "case_id": "john-deere-equipment-as-a-service",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "John Deere has over 1 million connected machines generating recurring revenue",
+      "quote": "Executives said Deere now has more than 1 million connected machines in operation and that its Operations Center platform covers about 500 million engaged acres globally."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Digital platforms enable direct commerce transactions for parts, upgrades, and subscriptions",
+      "quote": "Customers can order parts, upgrade features, activate subscriptions and connect with dealers through the same digital platforms they use to monitor equipment performance. That effectively turns Deere's digital footprint into a commerce channel."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Company targets 10% annual equipment sales growth and 20% operating margins by 2030",
+      "quote": "The targets included 10% annual equipment sales growth through 2030 and plans to lift operating margins to around 20% later in the decade."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S2",
+      "claim": "John Deere is the world's largest farm equipment manufacturer with $26.6B in 2016 revenues",
+      "quote": "John Deere is the number one farm equipment manufacturer in the world with 2016 worldwide revenues of $26.6B."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Platform strategy helps farmers manage fleet, reduce downtime, and save fuel costs",
+      "quote": "This information is shared across stakeholders to help farmers manage their fleet, reduce downtime inefficiencies, and save on fuel costs."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "Platform integration provides justification for premium hardware pricing",
+      "quote": "John Deere has seen competition from low-cost competitors, but by integrating a software platform into its products, it can provide a reason for consumers to pay more for its hardware."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S2",
+      "claim": "Platform creates customer lock-in by incentivizing single-vendor equipment purchases",
+      "quote": "Creating this unified platform gives incentives to farmers to purchase all equipment through John Deere instead of through multiple hardware providers."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "PRO Service generates $195 per machine annually or $4,995 for fleet licenses",
+      "quote": "For $195 a year for each machine linked in a farmer's Operations Center account, John Deere says customers in the U.S. and Canada can now 'maintain, diagnose, repair and protect' equipment. A John Deere customer with a large fleet of green and yellow machines can purchase the 'Entire Organization Customer Fleet' annual license for $4,995."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S3",
+      "claim": "Independent service technicians pay $5,995 annually for PRO Service access",
+      "quote": "Independent service technicians are also able to obtain and use Operations Center PRO Service. That license costs $5,995 per year."
+    }
+  ]
+}

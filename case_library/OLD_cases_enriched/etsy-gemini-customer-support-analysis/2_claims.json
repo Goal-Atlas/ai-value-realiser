@@ -1,0 +1,47 @@
+{
+  "case_id": "etsy-gemini-customer-support-analysis",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "Gemini saves employees an average of 105 minutes per week",
+      "quote": "Gemini for Google Workspace not only saves employees, on average, 105 minutes per week, it also improves the quality of their work"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Gemini improves work quality according to 75% of daily users",
+      "quote": "Quality improvement according to 75% of daily Gemini users"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Over 100,000 organizations are using Gemini for Google Workspace to boost productivity",
+      "quote": "There are now more than 100,000 organizations empowering their employees to boost productivity with Gemini for Google Workspace"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Etsy reduces customer feedback analysis time from 2-4 hours to 5-6 minutes using Gemini",
+      "quote": "Quickly analyze customer feedback with a simple prompt like \"What are top customer concerns?\" \u2014 reducing the process from 2-4 hours to 5-6 minutes"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "FinQuery achieves 5% productivity boost for their development team using Gemini",
+      "quote": "Boost their development team's productivity by 5%"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "FinQuery accelerates low-impact code tasks from hours to minutes with Gemini",
+      "quote": "Accelerate low-impact code tasks like unit testing or writing a small component (going from hours to minutes)"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Understood.org saves 10 hours per research project and 2 hours per day for donor outreach using Gemini",
+      "quote": "Save 10 hours per research project and 2 hours per day for donor outreach"
+    }
+  ]
+}

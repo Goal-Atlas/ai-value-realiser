@@ -1,0 +1,135 @@
+{
+  "case_id": "scale-ai-data-infrastructure-utility",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational efficiency (hours vs days) rather than business model transformation. This is about faster service delivery, not creating new markets or revenue models.",
+      "evidence_quality_assessment": "Specific timeframes provided but lacks quantitative metrics or named customer examples. Source appears to be company materials but needs verification.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This appears to be a Tier 1 efficiency claim rather than transformation. Fast turnaround is operational improvement, not strategic reinvention."
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes process optimization (accelerating experimentation cycles) rather than business model change. This is about making existing ML development faster, not creating new value creation models.",
+      "evidence_quality_assessment": "Vague claims without specific metrics, timelines, or customer examples. No quantifiable evidence of transformation impact.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear Tier 1 misclassification - this is process improvement, not transformation."
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could indicate platform transformation (democratizing access to ML capabilities globally), but lacks evidence of how this changes business models or creates new markets beyond traditional data services.",
+      "evidence_quality_assessment": "Aspirational claim without specific metrics on global reach, customer adoption, or market penetration. No evidence of actual universal access achievement.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Potentially transformational if truly democratizing ML development globally, but needs concrete evidence of market creation and business model innovation."
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates platform transformation - expanding from single vertical (autonomous vehicles) to horizontal platform serving multiple industries. This indicates business model evolution from niche service to infrastructure utility.",
+      "evidence_quality_assessment": "Specific industry examples provided (satellite, e-commerce, insurance, government). Shows clear expansion beyond original market, though could benefit from quantitative metrics.",
+      "apqc_functions": [
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This shows genuine transformation from vertical solution to horizontal platform, creating new markets and revenue streams across industries."
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes foundational infrastructure role, which could indicate platform transformation, but focuses on enabling existing ML development rather than creating fundamentally new business models.",
+      "evidence_quality_assessment": "Conceptual description without specific metrics or customer examples. Source appears analytical but lacks concrete validation of infrastructure claims.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Infrastructure positioning suggests transformation potential, but needs evidence of how this changes customer business models, not just improves their processes."
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes market problem/opportunity rather than demonstrated transformation. This is context-setting, not evidence of business model change or new value creation.",
+      "evidence_quality_assessment": "General industry observation without specific data, metrics, or organizational examples. No evidence of Scale AI's transformational response to this problem.",
+      "apqc_functions": [
+        {
+          "id": "1.1",
+          "name": "Define the business concept and long-term vision",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Problem statement rather than transformation evidence. Does not demonstrate how Scale AI transforms in response to this challenge."
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes theoretical network effects and data flywheel concepts rather than demonstrated business model transformation. This is strategic theory, not proven transformation.",
+      "evidence_quality_assessment": "Conceptual framework without specific examples, metrics, or evidence that Scale AI has achieved this self-reinforcing cycle. No organizational validation.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Theoretical description of potential transformation mechanics, but no evidence this has been achieved or is driving actual business model change."
+    }
+  ],
+  "tier_verification": "MISCLASSIFIED - Most claims describe operational improvements and service delivery optimization rather than business model transformation. Only C4 shows genuine tier 1 characteristics (platform expansion across industries). This case appears to be primarily tier 1 with one tier 1 element. The 'remove the AI' test fails - Scale AI is a data labeling service that could operate with human labelers, just less efficiently."
+}

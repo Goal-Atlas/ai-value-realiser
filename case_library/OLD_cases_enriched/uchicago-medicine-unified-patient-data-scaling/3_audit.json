@@ -1,0 +1,159 @@
+{
+  "case_id": "uchicago-medicine-unified-patient-data-scaling",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of research and care delivery processes through faster data access, which is functional improvement. However, claims are aspirational ('will accelerate') rather than demonstrated outcomes.",
+      "evidence_quality_assessment": "Named organization (UChicago Medicine) with traceable source, but lacks specific metrics or quantified improvements. Claims are forward-looking rather than proven results.",
+      "apqc_functions": [
+        {
+          "id": "2.1",
+          "name": "Govern and manage product/service development program",
+          "confidence": "medium"
+        },
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization intent but lacks demonstrated results or specific metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes empowerment of clinical teams and streamlining operations, which fits capability enhancement. Pattern is replicable across healthcare systems.",
+      "evidence_quality_assessment": "Named organization with authoritative source, but claims are aspirational ('will empower', 'will reimagine') without specific evidence of achieved improvements.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic vision is clear but lacks concrete evidence of implementation success"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of data access processes, eliminating time delays in data request fulfillment. This is a replicable pattern for data-driven organizations.",
+      "evidence_quality_assessment": "Named organization with specific process improvement described (eliminating request-to-fulfillment delays). Source appears to be interview with leadership.",
+      "apqc_functions": [
+        {
+          "id": "8.2",
+          "name": "Develop and manage IT business strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization with specific problem identification and solution approach"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes enabling continuous quality improvement through rapid data iteration, which is functional process optimization. Pattern applicable to other healthcare quality improvement initiatives.",
+      "evidence_quality_assessment": "Named organization with leadership confirmation that this approach is being implemented ('We're starting to see that happen'). Specific methodology described.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear quality improvement process with leadership validation of early results"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Specific example of care delivery optimization through data-driven patient identification. Clear functional improvement in clinical workflow.",
+      "evidence_quality_assessment": "Named organization with specific, quantified example (586 patients identified). Concrete process described with measurable outcome.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent concrete example with specific metrics and clear process improvement"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes staff workload optimization through AI automation of routine tasks, which is clear functional improvement. Pattern replicable across customer service operations.",
+      "evidence_quality_assessment": "Named organization but claims are forward-looking ('is intended to', 'will alleviate'). Source appears to be vendor announcement rather than operational results.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization strategy but lacks evidence of actual implementation or results"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes workforce optimization by automating routine inquiries to enable focus on complex tasks. Clear capability enhancement pattern.",
+      "evidence_quality_assessment": "Named organization but claims are expectational ('are expected to help'). Lacks specific metrics or demonstrated outcomes.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Sound optimization approach but presented as expectation rather than achieved result"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes operational efficiency improvement and staff empowerment for better patient interactions. Clear functional optimization.",
+      "evidence_quality_assessment": "Named organization but language is promotional ('not just boosting...it is empowering'). Appears to be vendor marketing content rather than operational assessment.",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization claims but source appears to be vendor marketing rather than operational evidence"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization and capability enhancement within existing healthcare delivery model, not business model transformation."
+}

@@ -1,0 +1,167 @@
+{
+  "case_id": "nokia-gemini-coding-tool-app-development",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims faster development but lacks specificity about what process is being optimized or how much faster",
+      "evidence_quality_assessment": "Named organizations (Nokia, Google Cloud) but no quantified metrics or specific improvement measures",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Vague efficiency claim without measurable improvement or specific process description"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes productivity improvement in coding, which is functional optimization, but lacks specificity",
+      "evidence_quality_assessment": "General claim about AI coding assistance without quantified productivity gains or specific metrics",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Classic capability enhancement but needs specific metrics to be fully credible"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague - 'better and safer' without defining what process is optimized or how",
+      "evidence_quality_assessment": "No specific metrics, no measurable improvement claimed, purely aspirational language",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Marketing language without substantive detail about functional improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes access to capabilities rather than optimization of existing functions",
+      "evidence_quality_assessment": "No improvement metrics, describes feature availability rather than efficiency gains",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Platform feature description, not functional optimization with measurable benefits"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims faster value creation but lacks specificity about the optimized process",
+      "evidence_quality_assessment": "Named organization but no quantified speed improvement or specific metrics",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Efficiency claim but needs quantification to be credible"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes acceleration of development work, which is functional optimization",
+      "evidence_quality_assessment": "Named organizations but lacks specific metrics on how much acceleration is achieved",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear optimization claim but needs quantified improvement measures"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes new revenue streams beyond basic connectivity - this is business model expansion, not functional optimization",
+      "evidence_quality_assessment": "No specific metrics on monetization improvements",
+      "apqc_functions": [
+        {
+          "id": "3.4",
+          "name": "Develop sales strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This appears to be tier 1 (business model innovation) rather than Tier 1 functional optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes new pathways for value creation - business model innovation rather than functional optimization",
+      "evidence_quality_assessment": "No measurable improvement metrics, aspirational language about new business opportunities",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Business model innovation claim, likely tier 1 rather than Tier 1"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Vague claim about enhanced applications without specifying what function is optimized",
+      "evidence_quality_assessment": "No specific metrics or measurable improvements described",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Too vague to assess functional optimization; lacks substantive detail"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes creation and monetization of new solutions - this is business model innovation, not functional optimization",
+      "evidence_quality_assessment": "No specific metrics on efficiency gains or cost reductions in existing processes",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Business model innovation and new market creation - appears to be tier 1 rather than Tier 1"
+    }
+  ],
+  "tier_verification": "Several claims (C7, C8, C10) appear to describe business model innovation and new revenue stream creation rather than functional optimization. These may be misclassified and should be considered for tier 1. The remaining claims focus on development efficiency but lack the specific metrics needed for strong tier 1 cases."
+}

@@ -1,0 +1,159 @@
+{
+  "case_id": "netflix-personalization-algorithms",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - personalizing content delivery to improve user experience and engagement within existing streaming service model. Highly replicable pattern across content platforms.",
+      "evidence_quality_assessment": "Named organization (Netflix), specific metric (57 million members), from authoritative first-party technical blog source.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case demonstrating optimization of content delivery function with clear scale metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of user interface function to improve content discovery efficiency. Standard pattern applicable to any content platform.",
+      "evidence_quality_assessment": "Clear functional description from Netflix's own technical documentation, though lacks quantified improvement metrics.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid capability optimization case, though would benefit from quantified metrics on discovery improvement"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Addresses classic optimization problem - efficiently matching large inventory to individual preferences. Highly replicable across e-commerce and content platforms.",
+      "evidence_quality_assessment": "First-party source clearly articulating the operational challenge being optimized, though no specific performance metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good example of AI optimizing inventory-customer matching function, applicable beyond streaming"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes system architecture enabling experimentation rather than specific functional optimization. More about capability enablement than direct efficiency gains.",
+      "evidence_quality_assessment": "Authoritative source but vague on specific improvements or measurable outcomes from the architecture.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Borderline case - describes enabling infrastructure rather than direct functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates mass customization optimization - creating individualized experiences at scale. Replicable pattern for any platform serving diverse user bases.",
+      "evidence_quality_assessment": "Named organization with specific scale metric (100 million personalized products), from authoritative Netflix technical blog.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case showing optimization through mass personalization with clear scale metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes visual presentation function to improve user engagement and experience. Clear efficiency gain in content marketing/presentation.",
+      "evidence_quality_assessment": "First-party source with clear functional description, though lacks quantified metrics on experience improvement.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good capability case optimizing visual marketing function, though would benefit from engagement metrics"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of content discovery mechanism through personalized visual cues. Replicable pattern for improving user engagement across platforms.",
+      "evidence_quality_assessment": "Clear functional description from authoritative source, explains the optimization mechanism though lacks performance metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid optimization case for content discovery function with clear mechanism description"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Classic optimization objective - improving timing and targeting efficiency of content recommendations. Highly replicable across recommendation systems.",
+      "evidence_quality_assessment": "Authoritative first-party source clearly stating optimization goal, though lacks specific performance metrics.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong Tier 1 case articulating core recommendation optimization objective"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing functions (content delivery, user interface, recommendation systems) rather than business model innovation. Netflix is using AI to do existing things better, not creating new revenue streams or fundamentally changing their business model."
+}

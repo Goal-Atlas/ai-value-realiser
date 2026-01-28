@@ -1,0 +1,17 @@
+{
+  "case_id": "aztec-group-copilot-productivity-pilot",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Copilots are helping customers and partners drive pragmatic innovation to achieve business results that matter - The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2024/10/29/how-copilots-are-helping-customers-and-partners-drive-pragmatic-innovation-to-achieve-business-results-that-matter/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

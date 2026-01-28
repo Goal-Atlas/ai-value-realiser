@@ -1,0 +1,341 @@
+{
+  "case_id": "omega-healthcare-productivity-automation",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - RPA automating transaction processing in healthcare operations. Pattern is replicable across healthcare organizations.",
+      "evidence_quality_assessment": "Named organization with specific metric (60M transactions over 4 years), but appears to be from vendor case study which may have marketing bias. Need to verify source authority.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong volume metric but vendor source raises credibility concerns"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear efficiency optimization claim. 100% productivity increase is substantial but within bounds for RPA implementations in repetitive tasks.",
+      "evidence_quality_assessment": "Specific quantified claim from named organization, but 100% productivity increase is a round number that may indicate approximation rather than precise measurement. Vendor source adds bias risk.",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Significant but plausible productivity claim; vendor source requires scrutiny"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of documentation processes - core administrative function in healthcare. Highly replicable pattern.",
+      "evidence_quality_assessment": "Specific metric (40% reduction) from named organization. Documentation time reduction is measurable and credible for RPA implementation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "11.2",
+          "name": "Manage compliance",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Credible documentation efficiency improvement with specific metric"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear workforce augmentation and efficiency optimization. Monthly hour savings is a standard RPA benefit metric.",
+      "evidence_quality_assessment": "Very specific metric (6,700 hours/month) from named organization. This level of precision suggests actual measurement rather than estimation.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Precise hour savings metric indicates strong measurement methodology"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear process optimization improving service delivery speed. Turnaround time reduction is core efficiency improvement.",
+      "evidence_quality_assessment": "Specific metric (50% reduction) from named organization. Turnaround time is measurable and commonly tracked in healthcare operations.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong operational efficiency metric with clear business impact"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear quality improvement through automation. Process accuracy is fundamental operational optimization.",
+      "evidence_quality_assessment": "Specific metric (99.5% accuracy) from named organization. High precision suggests measurement system in place.",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        },
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Credible accuracy improvement metric typical of RPA implementations"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Financial return metric supporting overall efficiency optimization case. ROI demonstrates measurable business value.",
+      "evidence_quality_assessment": "Specific metric (30% ROI in year 1) from named organization. ROI calculation implies structured financial analysis.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        },
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Credible first-year ROI metric supporting overall efficiency case"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C1 - same claim from different source",
+      "evidence_quality_assessment": "Same assessment as C1 - vendor source credibility concern",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C1 assessment"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C2 - same productivity claim",
+      "evidence_quality_assessment": "Same assessment as C2 - vendor source bias concern",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C2 assessment"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C3 - same documentation efficiency claim",
+      "evidence_quality_assessment": "Same assessment as C3 - credible metric",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C3 assessment"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C4 - same hour savings claim",
+      "evidence_quality_assessment": "Same assessment as C4 - precise metric",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C4 assessment"
+    },
+    {
+      "claim_id": "C12",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C5 - same turnaround time claim",
+      "evidence_quality_assessment": "Same assessment as C5 - credible metric",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C5 assessment"
+    },
+    {
+      "claim_id": "C13",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C6 - same accuracy claim",
+      "evidence_quality_assessment": "Same assessment as C6 - credible metric",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C6 assessment"
+    },
+    {
+      "claim_id": "C14",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C7 - same ROI claim",
+      "evidence_quality_assessment": "Same assessment as C7 - credible financial metric",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C7 assessment"
+    },
+    {
+      "claim_id": "C15",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C1/C8 - same transaction volume claim",
+      "evidence_quality_assessment": "Same vendor source credibility concern",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C1 assessment"
+    },
+    {
+      "claim_id": "C16",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate of C2/C9 - same productivity claim",
+      "evidence_quality_assessment": "Same vendor source bias concern",
+      "apqc_functions": [
+        {
+          "id": "7.4",
+          "name": "Manage employee relations",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C2 assessment"
+    },
+    {
+      "claim_id": "C17",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C3/C10 - same documentation claim",
+      "evidence_quality_assessment": "Same credible assessment",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C3 assessment"
+    },
+    {
+      "claim_id": "C18",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C4/C11 - same hour savings claim",
+      "evidence_quality_assessment": "Same precise metric assessment",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C4 assessment"
+    },
+    {
+      "claim_id": "C19",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C5/C12 - same turnaround claim",
+      "evidence_quality_assessment": "Same credible assessment",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C5 assessment"
+    },
+    {
+      "claim_id": "C20",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C6/C13 - same accuracy claim",
+      "evidence_quality_assessment": "Same credible assessment",
+      "apqc_functions": [
+        {
+          "id": "13.3",
+          "name": "Manage enterprise quality",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C6 assessment"
+    },
+    {
+      "claim_id": "C21",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Duplicate of C7/C14 - same ROI claim",
+      "evidence_quality_assessment": "Same credible financial assessment",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Duplicate claim - consolidate with C7 assessment"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. This case describes RPA optimization of existing healthcare administrative processes - clear functional improvements in efficiency, accuracy, and cost reduction within established business model. No business model transformation or new revenue streams indicated."
+}

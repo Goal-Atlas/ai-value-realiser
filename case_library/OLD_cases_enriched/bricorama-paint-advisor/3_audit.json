@@ -1,0 +1,146 @@
+{
+  "case_id": "bricorama-paint-advisor",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic claim about saving time/effort/money without specifying which business function is optimized or how",
+      "evidence_quality_assessment": "Vague marketing language with no specific metrics or measurable outcomes",
+      "apqc_functions": [],
+      "notes": "Too generic to assess - lacks specificity about what process is being improved"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Brand repositioning could involve functional optimization of marketing/customer engagement processes",
+      "evidence_quality_assessment": "Named organization but vague on specific mechanisms or measurable outcomes",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strategic claim but lacks detail on how AI optimizes specific marketing functions"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Brand awareness and loyalty could indicate optimization of marketing and customer service functions",
+      "evidence_quality_assessment": "Named organization but no quantified metrics for brand awareness or loyalty improvements",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Relevant business outcomes but lacks specific evidence of functional improvement"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Generic statement about AI potential rather than describing specific functional optimization",
+      "evidence_quality_assessment": "Vague aspirational language without concrete evidence of process improvement",
+      "apqc_functions": [],
+      "notes": "Too generic - describes potential rather than actual functional optimization"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Unique online experience suggests optimization of digital customer service delivery",
+      "evidence_quality_assessment": "Named organization and specific service context but lacks quantified improvements",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional context (online customer experience) but needs specific metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of customer service function through personalized professional responses across channels",
+      "evidence_quality_assessment": "Named organization, specific functional description (cross-channel personalized service), first-party quote",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization with specific process description and replicable pattern"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer service and project support functions",
+      "evidence_quality_assessment": "Named organization and specific service context but lacks measurable outcomes",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good functional context but needs quantified evidence of improvement"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Describes optimization of sales and customer service functions through hyper-relevant product recommendations",
+      "evidence_quality_assessment": "Named organization, specific functional mechanism (personalized recommendations at decision points), traceable source",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization with specific mechanism and replicable pattern for retail"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Factual operational update - service discontinuation is relevant context for case assessment",
+      "evidence_quality_assessment": "Named organization, specific operational decision, traceable French source",
+      "apqc_functions": [
+        {
+          "id": "5.2",
+          "name": "Manage service delivery resources",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Important operational context - service has been discontinued indefinitely"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - describes optimization of customer service, sales, and marketing functions rather than business model transformation. Note: Service discontinuation (C9) significantly impacts case validity."
+}

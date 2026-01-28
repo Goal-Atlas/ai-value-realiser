@@ -1,0 +1,53 @@
+{
+  "case_id": "asos-ai-virtual-stylist-customer-engagement",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI-powered recommendations increase engagement and average order value",
+      "quote": "ASOS uses collaborative filtering and machine learning for smart recommendations, to suggest products based on browsing patterns and what similar customers buy together, increasing engagement and average order value."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "AI Fit Assistant reduces returns and improves customer satisfaction",
+      "quote": "The ASOS Fit Assistant tool uses machine learning to analyze past purchases, returns, and customer measurements to provide accurate size recommendations, reducing returns and improving customer satisfaction."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "AI personalization strategies increase average order value and reduce sizing-related returns",
+      "quote": "ASOS AI personalization strategies help increase average order value (AOV), reduce sizing-related returns and exchanges."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "AI improves conversion rates through personalized discovery and styling",
+      "quote": "ASOS uses machine learning for product clusters, visual search, virtual try-on, and Azure OpenAI to deliver personalized discovery and styling - improving conversion and average order value."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "AI implementation enhances customer experience, increases conversions, and customer satisfaction",
+      "quote": "ASOS implements artificial intelligence (AI), machine learning (ML), predictive analytics, and automation, among other AI-based capabilities to enhance customer experience, increase conversions, and customer satisfaction."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Fashion segment pioneers achieve 3.2x ROI with generative AI",
+      "quote": "3.2x ROI by the pioneering adopters in the fashion segment"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Small to mid-size retailers using generative AI experience 31% faster revenue growth",
+      "quote": "Small to mid-size retailers using generative AI are experiencing a 31% faster revenue growth than non-users."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S4",
+      "claim": "Department stores achieve 47% savings in content creation costs with generative AI",
+      "quote": "47% saving in content creation costs for department stores using generative AI"
+    }
+  ]
+}

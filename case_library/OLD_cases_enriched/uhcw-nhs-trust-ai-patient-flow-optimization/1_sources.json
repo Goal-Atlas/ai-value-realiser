@@ -1,0 +1,17 @@
+{
+  "case_id": "uhcw-nhs-trust-ai-patient-flow-optimization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "University Hospitals Coventry and Warwickshire NHS Trust digitizes and improves patient experience with AWS | AWS Public Sector Blog",
+      "url": "https://aws.amazon.com/blogs/publicsector/university-hospitals-coventry-and-warwickshire-nhs-trust-digitizes-and-improves-patient-experience-with-aws/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "University Hospitals Coventry and Warwickshire NHS Trust Case Study",
+      "url": "https://www.littlejourney.health/news/uhcw-case-study",
+      "doc_type": "Case Study"
+    }
+  ]
+}

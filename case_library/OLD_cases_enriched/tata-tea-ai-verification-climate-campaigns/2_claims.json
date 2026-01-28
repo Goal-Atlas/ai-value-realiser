@@ -1,0 +1,47 @@
+{
+  "case_id": "tata-tea-ai-verification-climate-campaigns",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "30-40% infrastructure cost reduction using Cloud Run",
+      "quote": "30\u201340% infrastructure cost reduction using Cloud Run"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Data processing completed 2-3 times faster with BigQuery",
+      "quote": "Data processing of chat history, image metadata, and impact summaries is completed two to three times faster with BigQuery, enabling real-time dashboards visualizing engagement"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Image validation completed in seconds versus 5 minutes manually",
+      "quote": "The calculations are completed in approximately three to four seconds to deliver photo verifications approximately 10\u201315 seconds \u2014 a step-up from manual validation that previously took up to five minutes per image"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Campaign built and launched in 3-4 weeks",
+      "quote": "Built and launched the interactive Jaago Re campaign on WhatsApp in three to four weeks using Google Cloud"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Platform reached 200 million people within two months",
+      "quote": "The platform reached 200 million people across multimedia platforms within two months of launch"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "150,000 website visitors in two months to learn about the tool",
+      "quote": "150,000 visitors checked out the JaagoRe website in this period to learn more about the tool"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S1",
+      "claim": "Instant feedback provided significant consumer benefit",
+      "quote": "The biggest benefit was the instant feedback provided to consumers"
+    }
+  ]
+}

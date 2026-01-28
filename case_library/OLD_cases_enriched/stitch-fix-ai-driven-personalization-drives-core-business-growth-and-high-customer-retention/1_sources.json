@@ -1,0 +1,35 @@
+{
+  "case_id": "stitch-fix-ai-driven-personalization-drives-core-business-growth-and-high-customer-retention",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How We're Revolutionizing Personal Styling with Generative AI - Stitch Fix Newsroom",
+      "url": "https://newsroom.stitchfix.com/blog/how-were-revolutionizing-personal-styling-with-generative-ai/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "How Stitch Fix's AI Personalization Strategy Increased Average Order Value by 40% and Doubled Revenue - CAIO_Blog2025",
+      "url": "https://chiefaiofficer.com/blog/how-stitch-fixs-ai-personalization-strategy-increased-average-order-value-by-40-and-doubled-revenue/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "How Stitch Fix used AI to personalize its online shopping experience | VentureBeat",
+      "url": "https://venturebeat.com/business/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "Stitch Fix: AI-Powered Personalization Will Overcome Any Macro Challenges | PYMNTS.com",
+      "url": "https://www.pymnts.com/news/ecommerce/2025/stitch-fix-ai-powered-personalization-will-overcome-any-macro-challenges",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S5",
+      "title": "Stitch Fix Amps Up Personalization with New AI Features - Retail TouchPoints",
+      "url": "https://www.retailtouchpoints.com/topics/data-analytics/ai-machine-learning/stitch-fix-amps-up-personalization-with-new-ai-features",
+      "doc_type": "News Article"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "case_id": "bmw-generative-design-vehicle-components-weight-efficiency",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "BMW Group Sustainability through Innovation 2022",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0403367EN/bmw-group-sustainability-through-innovation-2022",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "Industrial-scale 3D printing continues to advance at BMW Group",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0322259EN/industrial-scale-3d-printing-continues-to-advance-at-bmw-group?language=en",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: NVIDIA Boosts BMW Group's Production Efficiency with AI",
+      "url": "https://www.nvidia.com/en-us/customer-stories/bmw-optimizes-production-with-ai-and-dgx-systems/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Generative AI For Production Line Optimization: BMW Case Study",
+      "url": "https://pingax.com/genai-production-line-optimization/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

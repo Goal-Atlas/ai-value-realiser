@@ -1,0 +1,171 @@
+{
+  "case_id": "bbva-digital-customer-centricity",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer acquisition is a business outcome, not a functional optimization. No specific AI/technology process improvement described.",
+      "evidence_quality_assessment": "Specific metric with named organization, but lacks detail on how this relates to capability enhancement.",
+      "apqc_functions": [],
+      "notes": "Raw business metric without connection to functional optimization - not a Tier 1 capability case"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Digital channel optimization could represent functional improvement in customer acquisition processes, but lacks detail on the underlying capability enhancement.",
+      "evidence_quality_assessment": "Specific percentage with named organization, but missing details on what digital capabilities enabled this.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Could be Tier 1 if it described specific digital process improvements, but currently just reports channel mix"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Growth metric without description of functional optimization or process improvement that enabled it.",
+      "evidence_quality_assessment": "Specific metric with timeframe, but no detail on underlying capability changes.",
+      "apqc_functions": [],
+      "notes": "Business outcome metric without connection to functional optimization"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Customer growth is a business outcome, not a description of functional optimization.",
+      "evidence_quality_assessment": "Specific metric with timeframe, but no process improvement detail.",
+      "apqc_functions": [],
+      "notes": "Duplicate of business outcome metrics without capability detail"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Profit is a business outcome, not a functional optimization. No connection to specific capability improvements.",
+      "evidence_quality_assessment": "Specific financial metric, but irrelevant to capability assessment.",
+      "apqc_functions": [],
+      "notes": "Financial outcome without connection to functional optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Digital interaction capability could represent functional optimization in customer service delivery, but lacks detail on process improvements.",
+      "evidence_quality_assessment": "Specific metric with named organization, but missing details on capability enhancements.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Could be Tier 1 if it described specific digital service capabilities, currently just reports usage"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Digital sales process could represent functional optimization, but lacks detail on underlying capability improvements.",
+      "evidence_quality_assessment": "Specific ratio with named organization, but missing process improvement details.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Could be Tier 1 if it described specific digital sales process improvements"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization - onboarding process time reduction from days to minutes represents measurable efficiency improvement in existing function.",
+      "evidence_quality_assessment": "Specific process improvement with clear before/after comparison and named organization.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear Tier 1 case - specific process optimization with measurable efficiency gain"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Cost-to-income ratio could indicate operational efficiency improvements, but lacks detail on specific functional optimizations that achieved this.",
+      "evidence_quality_assessment": "Specific metric with benchmark comparison, but missing details on underlying capability improvements.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Efficiency outcome that could result from Tier 1 improvements, but lacks process detail"
+    },
+    {
+      "claim_id": "C10",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Market entry and customer acquisition numbers are business outcomes, not functional optimization descriptions.",
+      "evidence_quality_assessment": "Specific metrics with timeframe, but no functional improvement detail.",
+      "apqc_functions": [],
+      "notes": "Business expansion outcome without connection to functional optimization"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Team scaling with low turnover represents functional optimization in talent management and organizational capability building.",
+      "evidence_quality_assessment": "Specific metrics on team growth, composition, and retention with named organization and timeframe.",
+      "apqc_functions": [
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "high"
+        },
+        {
+          "id": "7.5",
+          "name": "Reward and retain employees",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization in human capital management with measurable outcomes"
+    },
+    {
+      "claim_id": "C12",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate customer growth metric without functional optimization detail.",
+      "evidence_quality_assessment": "Specific metric but lacks process improvement connection.",
+      "apqc_functions": [],
+      "notes": "Duplicate business outcome metric"
+    },
+    {
+      "claim_id": "C13",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Duplicate profit metric without functional optimization connection.",
+      "evidence_quality_assessment": "Specific financial metric but irrelevant to capability assessment.",
+      "apqc_functions": [],
+      "notes": "Duplicate financial outcome metric"
+    },
+    {
+      "claim_id": "C14",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Duplicate digital sales metric - could represent functional optimization but lacks process detail.",
+      "evidence_quality_assessment": "Specific metric but missing capability improvement details.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Duplicate of C7 - could be Tier 1 with more process detail"
+    }
+  ],
+  "tier_verification": "Most claims are business outcome metrics rather than functional optimization descriptions. Only C8 (onboarding process improvement) and C11 (team scaling efficiency) clearly represent tier 1 capability cases. Several claims (C2, C6, C7, C9, C14) could be tier 1 with more detail on underlying process improvements. This case appears to mix business outcomes with some genuine capability improvements."
+}

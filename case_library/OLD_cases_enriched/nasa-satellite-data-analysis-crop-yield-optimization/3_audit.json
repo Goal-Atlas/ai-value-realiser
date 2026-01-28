@@ -1,0 +1,119 @@
+{
+  "case_id": "nasa-satellite-data-analysis-crop-yield-optimization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - mechanizing fertilizer application improves existing farming operations. Pattern is replicable across similar agricultural contexts.",
+      "evidence_quality_assessment": "Specific quantified metric (4.5% yield improvement) but no organization named. Source appears to be research-based but lacks clear attribution to specific farms or companies.",
+      "apqc_functions": [
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good optimization case with specific metrics but needs organizational attribution for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Demonstrates data-driven targeting optimization - using productivity data to optimize equipment deployment. Clear efficiency improvement in existing agricultural operations.",
+      "evidence_quality_assessment": "Specific claim about doubling yield gains through targeting, but lacks organizational attribution and detailed methodology. Research-based but not tied to named implementers.",
+      "apqc_functions": [
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit showing data-driven optimization, but evidence quality limited by anonymity"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Economic viability assessment supports the optimization case - farmers' willingness to pay indicates cost-effective process improvement.",
+      "evidence_quality_assessment": "Qualitative economic indicator but lacks specific cost figures or named organizations. Research finding but not tied to specific implementations.",
+      "apqc_functions": [
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Supports economic case for optimization but lacks quantitative specifics and organizational attribution"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - improving existing crop yield prediction processes through satellite data integration. Replicable pattern for agricultural prediction systems.",
+      "evidence_quality_assessment": "Named institution (Michigan State University) and specific improvement claim, but lacks quantified metrics on prediction accuracy improvement.",
+      "apqc_functions": [
+        {
+          "id": "13.5",
+          "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Good institutional attribution but needs specific accuracy metrics for full approval"
+    },
+    {
+      "claim_id": "C5",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Optimization of prediction methodology - improving existing forecasting capabilities through enhanced data inputs. Pattern applicable to other predictive agricultural systems.",
+      "evidence_quality_assessment": "Claims 'substantial' and 'significant' improvement but lacks specific quantified metrics. Research-based but vague on performance gains.",
+      "apqc_functions": [
+        {
+          "id": "13.6",
+          "name": "Measure and benchmark",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization intent but evidence quality weakened by vague improvement claims"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too general and aspirational - describes potential benefits rather than specific functional optimization. No concrete process improvement described.",
+      "evidence_quality_assessment": "Vague claims about positive effects without specific metrics, processes, or organizational examples. More of a research conclusion than evidence of implementation.",
+      "apqc_functions": [],
+      "notes": "Rejected due to lack of specific optimization claims and absence of concrete evidence"
+    },
+    {
+      "claim_id": "C7",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a problem statement, not an optimization case. Describes the scale of soil erosion losses but no AI or technology solution is mentioned.",
+      "evidence_quality_assessment": "Specific quantified loss figure ($3 billion) but this is context/problem definition, not evidence of capability improvement.",
+      "apqc_functions": [],
+      "notes": "Rejected - this is problem context, not a capability case showing optimization"
+    },
+    {
+      "claim_id": "C8",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Background information about soil loss rates, not a capability case. No optimization or improvement described.",
+      "evidence_quality_assessment": "Specific metrics about soil loss but no connection to any optimization solution or capability improvement.",
+      "apqc_functions": [],
+      "notes": "Rejected - contextual information, not a capability optimization case"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes adoption trends of conservation practices but no specific optimization or AI/technology capability described. More of an industry trend than a capability case.",
+      "evidence_quality_assessment": "Specific adoption statistics (50% increase, 3.4% of cropland) but no connection to specific optimization technologies or organizational implementations.",
+      "apqc_functions": [],
+      "notes": "Rejected - industry trend data, not evidence of specific capability optimization"
+    }
+  ],
+  "tier_verification": "This case appears to be correctly classified as tier 1, focusing on agricultural process optimization through technology adoption and data-driven improvements. However, most claims lack the organizational attribution and specific metrics needed for strong tier 1 evidence."
+}

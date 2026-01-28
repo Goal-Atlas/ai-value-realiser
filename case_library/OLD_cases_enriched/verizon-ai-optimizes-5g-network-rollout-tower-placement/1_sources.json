@@ -1,0 +1,29 @@
+{
+  "case_id": "verizon-ai-optimizes-5g-network-rollout-tower-placement",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Verizon accelerates 5G rollouts with automation platform",
+      "url": "https://www.cio.com/article/652683/verizon-accelerates-5g-rollouts-with-automation-platform.html",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Verizon has the best 5G network in America",
+      "url": "https://www.verizon.com/about/news/verizon-has-best-5g-network-america",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S3",
+      "title": "Verizon looks to leverage distributed infrastructure for AI inferencing",
+      "url": "https://www.rcrwireless.com/20250128/ai-infrastructure/verizon-distributed-infrastructure-ai-inferencing",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S4",
+      "title": "5 ways Verizon is using AI [Case Study] [2025]",
+      "url": "https://digitaldefynd.com/IQ/verizon-using-ai-case-study/",
+      "doc_type": "Case Study"
+    }
+  ]
+}

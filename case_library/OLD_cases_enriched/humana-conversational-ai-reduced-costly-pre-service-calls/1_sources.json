@@ -1,0 +1,29 @@
+{
+  "case_id": "humana-conversational-ai-reduced-costly-pre-service-calls",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "Humana and Google Expand Partnership to Help Reduce Cost of Care and Improve Member Experiences",
+      "url": "https://press.humana.com/news/news-details/2024/Humana-and-Google-Expand-Partnership-to-Help-Reduce-Cost-of-Care-and-Improve-Member-Experiences/default.aspx",
+      "doc_type": "Press Release"
+    },
+    {
+      "source_id": "S2",
+      "title": "AI-Driven Solutions for Customer Retention: Humana and IBM's Conversational Assistant",
+      "url": "https://www.analyticsinsight.net/case-study/ai-driven-solutions-for-customer-retention-humana-and-ibms-conversational-assistant",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Improving human care with ethical Augmented Intelligence",
+      "url": "https://news.humana.com/news/articles/improving-human-care-with-ethical-augmented-intelligence",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S4",
+      "title": "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models",
+      "url": "https://azure.microsoft.com/en-us/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}

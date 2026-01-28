@@ -1,0 +1,59 @@
+{
+  "case_id": "bricorama-paint-advisor",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "The pAInt platform saves customers time, effort and money",
+      "quote": "Named pAInt, this gen AI shopping assistant saves time, effort and money."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "pAInt supports Bricorama's goal to reposition its brand as the DIY champion",
+      "quote": "For Bricorama, pAInt is supporting its goal to reposition its brand as the DIY champion of home improvement projects for French consumers."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "pAInt is driving brand awareness and increasing customer loyalty",
+      "quote": "Ultimately, it's driving brand awareness and increasing customer loyalty."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "pAInt showcases the potential for generative AI to enhance customer experience",
+      "quote": "pAInt has also showcased the potential for generative AI to enhance the customer experience and provide valuable guidance in unique decision-making processes."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "pAInt enables Bricorama to offer customers a unique online experience",
+      "quote": "Ce nouveau service permet \u00e0 l'enseigne d'offrir \u00e0 ses clients une exp\u00e9rience unique en ligne et de les accompagner dans la r\u00e9ussite de leurs projets \u00ab Do It Yourself \u00bb."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "pAInt provides a personalized professional response across channels",
+      "quote": "Nos clients attendent une r\u00e9ponse professionnelle personnalis\u00e9e, quel que soit le canal qu'ils choisissent. Avec pAInt, nous proposons une exp\u00e9rience en ligne \u00ab sur-mesure \u00bb"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "pAInt enables the brand to offer customers a unique online experience and accompany them to successful project completion",
+      "quote": "This new service enables the brand to offer its customers a unique online experience, and to accompany them to the successful completion of their 'Do-It-Yourself' (DIY) projects."
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S3",
+      "claim": "pAInt offers hyper-relevant retail suggestions to each customer in each decision-making moment",
+      "quote": "design and deliver a tool that offers hyper-relevant retail suggestions to each customer in each decision-making moment."
+    },
+    {
+      "claim_id": "C9",
+      "source_id": "S4",
+      "claim": "Bricorama has stopped the pAInt service for an indefinite period",
+      "quote": "Bricorama annonce interrompre, \u00ab pour une dur\u00e9e ind\u00e9termin\u00e9e \u00bb, son service d'assistance \u00e0 l'achat de peinture, baptis\u00e9 pAInt et pilot\u00e9 par IA."
+    }
+  ]
+}

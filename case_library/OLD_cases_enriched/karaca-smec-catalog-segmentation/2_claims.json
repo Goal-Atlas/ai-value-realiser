@@ -1,0 +1,41 @@
+{
+  "case_id": "karaca-smec-catalog-segmentation",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "22% increase in revenue year-over-year",
+      "quote": "Our collaboration culminated in a remarkable boost for Decathlon, marked by a 22% rise in revenue and an impressive 52% boost in ROAS (YoY) \u2013 clear markers of healthy growth."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "52% increase in ROAS (Return on Ad Spend) year-over-year",
+      "quote": "Our collaboration culminated in a remarkable boost for Decathlon, marked by a 22% rise in revenue and an impressive 52% boost in ROAS (YoY) \u2013 clear markers of healthy growth."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Achieved overall healthier revenue mix through data-driven automation",
+      "quote": "By utilizing data-driven automation and pushing products into the right campaigns, Decathlon managed to achieve an overall healthier revenue mix and a sustainable, scalable campaign structure based on their business objectives."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Created sustainable, scalable campaign structure aligned with business objectives",
+      "quote": "By utilizing data-driven automation and pushing products into the right campaigns, Decathlon managed to achieve an overall healthier revenue mix and a sustainable, scalable campaign structure based on their business objectives."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S1",
+      "claim": "Freed in-house team from repetitive manual tasks to focus on core objectives",
+      "quote": "Furthermore, our partnership freed Decathlon's in-house team from repetitive, error-prone manual tasks, empowering them to concentrate on their core objective: enhancing the prominence of Decathlon's own brands."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S1",
+      "claim": "Significantly increased team knowledge through partnership with experienced professionals",
+      "quote": "On top of that, the Decathlon team's know-how grew significantly due to a robust alliance with our experienced PPC professionals who shared valuable practical tips and comprehensive, in-depth reports."
+    }
+  ]
+}

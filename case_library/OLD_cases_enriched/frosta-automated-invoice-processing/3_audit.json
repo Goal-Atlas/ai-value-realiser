@@ -1,0 +1,6 @@
+{
+  "case_id": "frosta-automated-invoice-processing",
+  "tier": "capability",
+  "audited_claims": [],
+  "tier_verification": "No claims provided for audit. Case appears to be correctly classified as tier 1 based on the case_id suggesting automated invoice processing, which would be a functional optimization of accounts payable processes."
+}

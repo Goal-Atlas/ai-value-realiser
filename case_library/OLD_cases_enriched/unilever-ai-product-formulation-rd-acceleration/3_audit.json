@@ -1,0 +1,254 @@
+{
+  "case_id": "unilever-ai-product-formulation-rd-acceleration",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of brief creation process with specific efficiency metrics (58% time savings) and quality improvements (14% brief quality, 26% satisfaction). Replicable pattern for content/brief generation workflows.",
+      "evidence_quality_assessment": "Named organization (Unilever), specific quantified metrics, appears to be from authoritative source describing internal implementation.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing process optimization with clear metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce augmentation through AI productivity tools adoption. Clear efficiency improvement through human+AI collaboration. Pattern replicable across knowledge work organizations.",
+      "evidence_quality_assessment": "Named organization, specific adoption metric (75%), credible claim about productivity tool deployment.",
+      "apqc_functions": [
+        {
+          "id": "7.3",
+          "name": "Manage employee onboarding, training, and development",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Good example of workforce augmentation with measurable adoption"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Appears to optimize safety behavior identification process with 12% improvement metric. Replicable for safety management functions.",
+      "evidence_quality_assessment": "Quote appears truncated ('identif'), making full context unclear. Metric is specific but incomplete information reduces confidence.",
+      "apqc_functions": [
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Incomplete quote reduces evidence quality despite clear metric"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes marketing campaign execution with measurable outcomes (700M impressions, 94% positive sentiment). Demonstrates improved campaign performance efficiency.",
+      "evidence_quality_assessment": "Named organization and campaign (Dove), specific metrics, appears to describe actual campaign results.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear marketing process optimization with strong performance metrics"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates significant acceleration of campaign development process (6 months for 25 markets, 100+ content pieces). Clear efficiency improvement in marketing operations.",
+      "evidence_quality_assessment": "Specific timeline and scale metrics, named organization, describes process acceleration.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong process acceleration case with clear scale and timeline metrics"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes content production process with dramatic efficiency gains (100+ assets in 3 days). Clear functional improvement in creative production workflow.",
+      "evidence_quality_assessment": "Named brand (Closeup), specific output metrics and timeline, describes AI-powered production system.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "7.2",
+          "name": "Recruit, source, and select employees",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent example of production process optimization with clear throughput improvement"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes content creation and deployment speed (hours vs typical timeline) with measurable engagement results (6M views, 22.5% visibility boost). Replicable for social media operations.",
+      "evidence_quality_assessment": "Named brands (Rinso, Sunlight), specific engagement metrics, describes rapid content deployment capability.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "12.5",
+          "name": "Manage public relations program",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong case for social media process optimization with engagement metrics"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of asset production process (30% faster) with improved performance outcomes (doubled VCR and CTR). Replicable pattern for creative production workflows.",
+      "evidence_quality_assessment": "Named system (Beauty AI Studio), specific efficiency metric (30% faster) and performance improvements (doubled metrics).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case with both efficiency and effectiveness improvements"
+    },
+    {
+      "claim_id": "C9",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Development timeline claim (18 months) suggests process efficiency but lacks comparison baseline. Could indicate optimized development process but context unclear.",
+      "evidence_quality_assessment": "Named system (DelphiAI), specific timeline, but lacks context about whether this represents improvement over typical development cycles.",
+      "apqc_functions": [
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Timeline claim needs baseline comparison to demonstrate optimization"
+    },
+    {
+      "claim_id": "C10",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Scaling plan suggests successful optimization but lacks specific metrics about efficiency or performance improvements achieved.",
+      "evidence_quality_assessment": "Named system and specific expansion plan (9 teams), but no quantified benefits or optimization metrics provided.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        },
+        {
+          "id": "13.2",
+          "name": "Manage portfolio, program, and project",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Scaling success implied but lacks specific optimization metrics"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Dramatic optimization of R&D experimentation process, reducing from 1,000 experiments to 'fraction of the time'. Clear efficiency improvement in product development workflow.",
+      "evidence_quality_assessment": "Named organization, specific baseline (1,000 experiments), though 'fraction of the time' is somewhat vague on exact improvement.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong R&D process optimization despite somewhat vague improvement quantification"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Patent count (100+) suggests R&D productivity but doesn't clearly demonstrate process optimization or efficiency improvement - could be output metric rather than process improvement.",
+      "evidence_quality_assessment": "Named organization, specific count (100+ patents), but unclear if this represents improved efficiency or just accumulated output.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Patent count alone doesn't clearly demonstrate process optimization"
+    },
+    {
+      "claim_id": "C13",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Claims high concentration of chemistry robots but doesn't specify efficiency gains, cost reduction, or process improvements achieved. More about capability than optimization.",
+      "evidence_quality_assessment": "Named organization and location (Liverpool facility), but lacks specific metrics about performance improvements or optimization achieved.",
+      "apqc_functions": [
+        {
+          "id": "10.3",
+          "name": "Maintain assets",
+          "confidence": "low"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Infrastructure claim lacks optimization metrics - describes capability rather than improvement"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe functional optimization within existing business model - improving R&D processes, marketing efficiency, content production, and workforce productivity. No business model transformation or new revenue streams described."
+}

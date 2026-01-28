@@ -1,0 +1,29 @@
+{
+  "case_id": "axa-unified-200tb-data-personalization",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AXA Switzerland Case Study | Google Cloud",
+      "url": "https://cloud.google.com/customers/axa-switzerland",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: AI Integration at AXA - AIX | AI Expert Network",
+      "url": "https://aiexpert.network/case-study-ai-integration-at-axa/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "AXA Konzern AG Becomes First German Cloud-Native Insurance Platform Using msg.Life Factory on AWS | AXA Konzern AG & msg Case Study | AWS",
+      "url": "https://aws.amazon.com/partners/success/axa-msg/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Project management case study: Resource management in AXA group improved - Easy Redmine",
+      "url": "https://www.easyredmine.com/resources/case-studies/axa-group",
+      "doc_type": "Case Study"
+    }
+  ]
+}

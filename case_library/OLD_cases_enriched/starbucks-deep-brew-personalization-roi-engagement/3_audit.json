@@ -1,0 +1,186 @@
+{
+  "case_id": "starbucks-deep-brew-personalization-roi-engagement",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of marketing/customer engagement processes. 37% lift in repeat purchases demonstrates measurable improvement in customer retention function. Pattern is replicable across retail organizations with loyalty programs.",
+      "evidence_quality_assessment": "Named organization (Starbucks), specific quantified metric (37% lift), though source attribution could be stronger ('across various reports' suggests compilation rather than primary source).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing optimization of customer retention through AI personalization"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes existing marketing function through better targeting and segmentation. 30% ROI improvement is a clear efficiency gain in marketing spend effectiveness. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (30% higher ROI), credible improvement claim with clear methodology (better targeting).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Classic Tier 1 marketing optimization case with strong quantified results"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer engagement function, which fits Tier 1. Pattern is replicable across mobile app-based businesses.",
+      "evidence_quality_assessment": "Named organization but vague metric ('noticeable' improvement). Lacks specific quantification or detailed process description.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Weak evidence quality due to vague quantification, though strategic fit is clear"
+    },
+    {
+      "claim_id": "C4",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization of inventory management and operational planning. Waste reduction and planning accuracy are classic efficiency improvements. Highly replicable pattern.",
+      "evidence_quality_assessment": "Named organization but no quantified metrics. Claims are specific in nature (waste reduction, planning accuracy) but lack measurement.",
+      "apqc_functions": [
+        {
+          "id": "4.1",
+          "name": "Plan for and align supply chain resources",
+          "confidence": "high"
+        },
+        {
+          "id": "4.3",
+          "name": "Produce/Assemble/Test product",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs quantification for full approval"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too high-level and potentially describes business model transformation rather than functional optimization. 'Record quarterly earnings' could indicate new revenue streams or market expansion.",
+      "evidence_quality_assessment": "Named organization but extremely vague metrics ('record earnings'). No specific process or function described.",
+      "apqc_functions": [],
+      "notes": "Lacks specificity and may be misclassified - could be tier 1 business transformation rather than Tier 1 optimization"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Could represent optimization of customer acquisition/retention functions, but 'substantial increase' is vague and could indicate new market creation (tier 1).",
+      "evidence_quality_assessment": "Named organization but vague metric ('substantial increase'). Lacks specific quantification.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "medium"
+        },
+        {
+          "id": "6.1",
+          "name": "Develop customer service strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "Borderline case - could be customer acquisition optimization or business model expansion"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates optimization of customer acquisition/retention functions. 15% growth with specific member count shows measurable improvement in loyalty program effectiveness.",
+      "evidence_quality_assessment": "Named organization, specific quantified metrics (15% growth, 17.6 million members), time-bound data (Q4 2019).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong Tier 1 case showing measurable optimization of loyalty program function"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Shows optimization of order fulfillment and customer service functions through digital channels. 10% digital penetration with breakdown demonstrates process improvement.",
+      "evidence_quality_assessment": "Named organization, specific quantified metrics (10% total, 7% delivery, 3% mobile), geographic specificity (China).",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization of service delivery with strong metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates continued optimization of customer loyalty function. Specific member count shows scale of program effectiveness.",
+      "evidence_quality_assessment": "Named organization, specific quantified metric (34.3 million members), time-bound (2023), geographic specificity (U.S.).",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence of loyalty program optimization success"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear functional optimization of inventory management process. 75% time reduction (60 min to 15 min) is significant efficiency gain. Highly replicable pattern across retail operations.",
+      "evidence_quality_assessment": "Named organization, specific quantified time savings (1 hour to 15 minutes), clear process description (tablet scan vs paper/pencil).",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent Tier 1 case showing dramatic process efficiency improvement with clear methodology"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Most claims describe functional optimization (marketing, inventory, customer service) rather than business model transformation. Claims C5 and C6 are borderline and could benefit from more specific context to confirm they're not tier 1 business expansion."
+}

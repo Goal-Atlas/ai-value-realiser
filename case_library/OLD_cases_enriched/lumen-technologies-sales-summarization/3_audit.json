@@ -1,0 +1,102 @@
+{
+  "case_id": "lumen-technologies-sales-summarization",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of network architecture for cost reduction - fits Tier 1 functional optimization pattern. Replicable for other network operators modernizing infrastructure.",
+      "evidence_quality_assessment": "Specific quantified metric (50% cost savings) but appears to be from sales/marketing context rather than implemented case study. Lacks customer attribution or deployment evidence.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization claim with specific metrics, but source appears promotional rather than evidential"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Extends C1 with additional optimization (eliminating cross connects) - clear functional improvement pattern. Replicable technical approach.",
+      "evidence_quality_assessment": "Specific metric (60%+ savings) but same source quality concerns as C1. No customer validation or deployment proof points.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Incremental optimization claim building on C1, but lacks implementation evidence"
+    },
+    {
+      "claim_id": "C3",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes inefficiency in current architecture - supports optimization narrative. Pattern applicable to multicloud environments generally.",
+      "evidence_quality_assessment": "Strong quantified claim (literally double costs) but appears to be sales positioning rather than measured outcome. No specific customer or deployment context.",
+      "apqc_functions": [
+        {
+          "id": "8.1",
+          "name": "Develop and manage IT customer relationships",
+          "confidence": "high"
+        },
+        {
+          "id": "9.1",
+          "name": "Perform planning and management accounting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Supports optimization case but reads as sales argument rather than proven result"
+    },
+    {
+      "claim_id": "C4",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Shifts from cost optimization to revenue generation and 'monetization opportunities' - this suggests new business model development rather than functional optimization.",
+      "evidence_quality_assessment": "Vague language ('monetization opportunities', 'differentiated services') without specific metrics or implementation details. No customer attribution.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "low"
+        }
+      ],
+      "notes": "This appears to be business model innovation (tier 1) rather than functional optimization (Tier 1)"
+    },
+    {
+      "claim_id": "C5",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Describes market positioning and service portfolio rather than functional optimization. This is strategic positioning, not operational improvement.",
+      "evidence_quality_assessment": "Marketing language without specific metrics or improvement claims. No measurable optimization described.",
+      "apqc_functions": [
+        {
+          "id": "3.2",
+          "name": "Develop marketing strategy",
+          "confidence": "high"
+        },
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Pure positioning statement - no functional optimization claimed"
+    }
+  ],
+  "tier_verification": "Claims C1-C3 fit tier 1 (network architecture optimization for cost reduction) but appear to be sales projections rather than implemented results. Claims C4-C5 suggest tier 1 elements (business model innovation, market positioning). Overall case needs stronger implementation evidence to qualify as substantive tier 1."
+}

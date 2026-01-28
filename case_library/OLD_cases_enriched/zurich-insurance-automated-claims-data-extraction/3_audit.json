@@ -1,0 +1,182 @@
+{
+  "case_id": "zurich-insurance-automated-claims-data-extraction",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Clear functional optimization - fraud detection improves existing claims processing. Pattern is replicable across insurance industry.",
+      "evidence_quality_assessment": "Named organization but vague quantification ('substantial increase', 'millions'). No specific metrics or timeframe provided.",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong strategic fit but needs more specific metrics for full approval"
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes resource reallocation from efficiency gains - classic Tier 1 optimization pattern.",
+      "evidence_quality_assessment": "Very general claim without specific metrics. No quantification of 'efficiency improvements' or resource freed up.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear optimization concept but lacks measurable detail"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear automation of existing processes with workforce reallocation. Highly replicable pattern in financial services.",
+      "evidence_quality_assessment": "Named organization with specific volume metric (3 million transactions). Traceable to Blue Prism case study.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Strong evidence with specific transaction volume and clear business impact"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process automation across multiple functions - clear efficiency optimization. Pattern applicable to other large insurers.",
+      "evidence_quality_assessment": "Specific metrics (55 digital workers, 120+ processes) from named organization. Authoritative vendor case study.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "13.1",
+          "name": "Manage business processes",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent specificity with clear scale metrics and business impact"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Automation of cash application process - clear functional optimization with measurable efficiency gain.",
+      "evidence_quality_assessment": "Specific performance metric (85% hit rate) with named technology provider (HighRadius). Precise and measurable.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        },
+        {
+          "id": "9.3",
+          "name": "Perform general accounting and reporting",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear automation success with specific performance metric"
+    },
+    {
+      "claim_id": "C6",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Workforce optimization through automation - classic Tier 1 efficiency gain with resource reallocation.",
+      "evidence_quality_assessment": "Specific FTE impact (6 employees, 33% of team) with clear methodology. Quantified and credible.",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        },
+        {
+          "id": "7.1",
+          "name": "Develop and manage human resources planning, policies, and strategies",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent quantification of workforce impact with clear percentage and headcount"
+    },
+    {
+      "claim_id": "C7",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Cost elimination through process automation - clear efficiency optimization replacing manual/outsourced process.",
+      "evidence_quality_assessment": "Specific cost savings (100% elimination of lockbox fees) with clear technology explanation (AI-powered OCR).",
+      "apqc_functions": [
+        {
+          "id": "9.6",
+          "name": "Process accounts payable and expense reimbursements",
+          "confidence": "high"
+        },
+        {
+          "id": "9.7",
+          "name": "Manage treasury operations",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear cost elimination with specific technology and measurable impact"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Process time reduction through automation - clear efficiency optimization in claims processing workflow.",
+      "evidence_quality_assessment": "Specific time improvement (24 hours to 3 hours) with named system (Zara). Clear before/after comparison.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Excellent time-based efficiency metric with 8x improvement"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Automation of customer interaction process with measurable adoption. Replicable chatbot implementation pattern.",
+      "evidence_quality_assessment": "Specific metrics (765 interactions, 20% of volume, 6-week timeframe) with named system and customer feedback.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong adoption metrics with clear volume percentage and timeframe"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Service availability optimization - extending operational hours through automation. Clear capability enhancement.",
+      "evidence_quality_assessment": "Specific usage pattern (60% outside office hours) demonstrating 24/7 service capability with named system.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear service enhancement with specific usage pattern demonstrating extended availability"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. All claims describe optimization of existing insurance functions (claims processing, fraud detection, customer service, financial operations) rather than business model innovation. No new revenue streams or market creation described."
+}

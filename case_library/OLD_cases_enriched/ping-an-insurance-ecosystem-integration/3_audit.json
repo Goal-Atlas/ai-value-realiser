@@ -1,0 +1,243 @@
+{
+  "case_id": "ping-an-insurance-ecosystem-integration",
+  "tier": "transformation",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Revenue growth alone doesn't indicate transformation - could be traditional insurance growth or genuine business model change. Lacks detail on what drove the growth.",
+      "evidence_quality_assessment": "Specific metrics (250% revenue increase 2013-2017) but no source attribution visible. Need to verify if this represents ecosystem transformation vs traditional growth.",
+      "apqc_functions": [
+        {
+          "id": "1.2",
+          "name": "Develop business strategy",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong metrics but unclear if represents transformation or traditional business growth"
+    },
+    {
+      "claim_id": "C2",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "510M internet customers vs 180M retail finance customers suggests ecosystem model beyond traditional insurance - indicates platform transformation.",
+      "evidence_quality_assessment": "Specific customer metrics, named organization (Ping An), appears to be from credible business case study.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear evidence of ecosystem expansion beyond core insurance business"
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This describes operational efficiency improvement (faster claim processing), not business model transformation. Classic Tier 1 optimization.",
+      "evidence_quality_assessment": "Specific metrics (95% of claims, 5-10 minutes) but this is process improvement, not transformation.",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Misclassified - this is Tier 1 operational efficiency, not transformation"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Healthcare platform with 500K daily consultations, 228M users, 3,100 hospitals represents new business model - healthcare as a service beyond insurance.",
+      "evidence_quality_assessment": "Specific metrics, named platform (Good Doctor), demonstrates scale of new business line.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear transformation into healthcare services platform"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "OneConnect as 'world's largest cloud platform for financial services' serving hundreds of banks represents platform business model - selling capabilities to competitors.",
+      "evidence_quality_assessment": "Named subsidiary (OneConnect), specific claim about market position, serving 'hundreds of banks' indicates B2B platform scale.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of platform transformation - selling tech capabilities to industry"
+    },
+    {
+      "claim_id": "C6",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Market valuation leadership could indicate transformation success but doesn't describe the transformation itself. Supporting evidence rather than primary claim.",
+      "evidence_quality_assessment": "Credible claim (Forbes Global 2000 ranking) but lacks specificity about what drove the valuation.",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Market recognition of transformation but not evidence of transformation itself"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Share price performance suggests market recognition of transformation but doesn't describe the business model change itself.",
+      "evidence_quality_assessment": "Specific metric (400% increase 2013-2019) with timeframe, but secondary indicator of transformation.",
+      "apqc_functions": [
+        {
+          "id": "12.1",
+          "name": "Build investor relationships",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Financial outcome of transformation rather than evidence of transformation mechanism"
+    },
+    {
+      "claim_id": "C8",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "OneConnect adding 50+ new customers during COVID demonstrates platform scalability and market demand for their B2B capabilities.",
+      "evidence_quality_assessment": "Specific customer acquisition numbers during identifiable timeframe (COVID-19), demonstrates platform business traction.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "high"
+        },
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Evidence of platform business model success during crisis period"
+    },
+    {
+      "claim_id": "C9",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "1.11 billion accesses during epidemic peak demonstrates healthcare platform scale and utility beyond traditional insurance.",
+      "evidence_quality_assessment": "Specific usage metric during identifiable crisis period, named platform (Good Doctor), demonstrates platform adoption.",
+      "apqc_functions": [
+        {
+          "id": "5.3",
+          "name": "Deliver service to customer",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of healthcare platform transformation and crisis-period validation"
+    },
+    {
+      "claim_id": "C10",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Autohome distributing 3,000 credit cards daily shows ecosystem integration - automotive platform enabling financial services cross-sell.",
+      "evidence_quality_assessment": "Specific daily volume metric, named platform (Autohome), demonstrates ecosystem monetization.",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Evidence of ecosystem cross-selling and platform integration"
+    },
+    {
+      "claim_id": "C11",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "74 million customers with multiple Ping An companies demonstrates successful ecosystem integration - customers using multiple services across the platform.",
+      "evidence_quality_assessment": "Specific customer metric with timeframe (2019), demonstrates ecosystem cross-penetration success.",
+      "apqc_functions": [
+        {
+          "id": "3.1",
+          "name": "Understand markets, customers, and capabilities",
+          "confidence": "high"
+        },
+        {
+          "id": "1.4",
+          "name": "Develop and maintain business models",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Strong evidence of ecosystem business model success"
+    },
+    {
+      "claim_id": "C12",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Alipay Insurance gaining 5M users in launch month suggests platform distribution power but limited detail on business model innovation.",
+      "evidence_quality_assessment": "Specific user acquisition metric but unclear source attribution and limited context on transformation nature.",
+      "apqc_functions": [
+        {
+          "id": "3.5",
+          "name": "Develop and manage sales plans",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Impressive growth metric but needs more context on transformation vs distribution efficiency"
+    },
+    {
+      "claim_id": "C13",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Curacel's embedded insurance and 20% revenue increase could indicate transformation but lacks detail on business model change vs optimization.",
+      "evidence_quality_assessment": "Named company (Curacel) with specific revenue metric but limited source context and transformation detail.",
+      "apqc_functions": [
+        {
+          "id": "2.3",
+          "name": "Develop products and services",
+          "confidence": "medium"
+        },
+        {
+          "id": "9.2",
+          "name": "Perform revenue accounting",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Potential transformation case but needs more detail on business model change"
+    },
+    {
+      "claim_id": "C14",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "28% fewer hospital stays describes health outcome improvement, not business model transformation. This is program effectiveness, not strategic change.",
+      "evidence_quality_assessment": "Specific health outcome metric but this measures program effectiveness rather than business transformation.",
+      "apqc_functions": [
+        {
+          "id": "6.3",
+          "name": "Service products after sales",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Health outcome metric, not business transformation evidence - misclassified for tier 1"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1. Ping An demonstrates genuine ecosystem transformation from traditional insurer to multi-platform financial services company. Key evidence: OneConnect B2B platform, Good Doctor healthcare platform, cross-ecosystem customer penetration (74M multi-company customers), and new revenue streams. However, some claims (C3, C14) are tier 1 operational improvements misclassified as transformation."
+}

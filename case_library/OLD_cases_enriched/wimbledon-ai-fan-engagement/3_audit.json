@@ -1,0 +1,145 @@
+{
+  "case_id": "wimbledon-ai-fan-engagement",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of fan engagement functions through chatbots and predictions, which is replicable across sports/entertainment venues",
+      "evidence_quality_assessment": "Named organization (Wimbledon) but lacks specific metrics on engagement improvement or operational efficiency gains",
+      "apqc_functions": [
+        {
+          "id": "3.3",
+          "name": "Develop and manage marketing plans",
+          "confidence": "high"
+        },
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear functional optimization but needs quantified impact metrics"
+    },
+    {
+      "claim_id": "C2",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Too vague - doesn't specify what functions are being optimized or how",
+      "evidence_quality_assessment": "Generic statement without specific organization, metrics, or measurable improvements",
+      "apqc_functions": [],
+      "notes": "Lacks substance for meaningful assessment - no specific process or improvement described"
+    },
+    {
+      "claim_id": "C3",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Clear optimization of security monitoring function - provides previously unavailable information for player protection, replicable across sports organizations",
+      "evidence_quality_assessment": "Named organization (Wimbledon), specific capability described (social media monitoring), traceable source",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "12.4",
+          "name": "Manage legal and ethical issues",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Solid capability case - enhances existing security function with new data sources"
+    },
+    {
+      "claim_id": "C4",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Optimizes security response process by enabling proactive rather than reactive approach, pattern applicable to other organizations managing public figures",
+      "evidence_quality_assessment": "Named organization, specific process improvement described (proactive vs reactive security), authoritative source",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Clear process optimization with operational improvement described"
+    },
+    {
+      "claim_id": "C5",
+      "status": "APPROVED",
+      "strategic_fit_assessment": "Demonstrates optimization of threat detection function with specific scope and results, replicable pattern for organizations monitoring online abuse",
+      "evidence_quality_assessment": "Named organization, highly specific metrics (1.6M posts, 19K comments, 454 players, 546 offensive posts, 438 accounts), credible study methodology",
+      "apqc_functions": [
+        {
+          "id": "11.1",
+          "name": "Manage enterprise risk",
+          "confidence": "high"
+        },
+        {
+          "id": "8.3",
+          "name": "Develop and manage IT resilience and risk",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Excellent evidence quality with quantified results demonstrating functional capability"
+    },
+    {
+      "claim_id": "C6",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "General industry statistic, not describing AI optimization of any specific function",
+      "evidence_quality_assessment": "No specific organization or AI implementation described - just industry context",
+      "apqc_functions": [],
+      "notes": "Background information, not an AI capability case"
+    },
+    {
+      "claim_id": "C7",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of customer service and brand management functions through sentiment analysis, replicable pattern",
+      "evidence_quality_assessment": "Generic description without named organization or specific metrics, though process improvement is clearly described",
+      "apqc_functions": [
+        {
+          "id": "6.2",
+          "name": "Plan and manage customer service contacts",
+          "confidence": "high"
+        },
+        {
+          "id": "12.5",
+          "name": "Manage public relations program",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear functional optimization but lacks organizational attribution and quantified results"
+    },
+    {
+      "claim_id": "C8",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes optimization of crisis management function with 24/7 capability enhancement, replicable across organizations",
+      "evidence_quality_assessment": "Clear capability described but no named organization or specific implementation metrics",
+      "apqc_functions": [
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "high"
+        },
+        {
+          "id": "12.5",
+          "name": "Manage public relations program",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "Functional improvement clearly described but needs organizational context and metrics"
+    },
+    {
+      "claim_id": "C9",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "Vague capability statement without specific function or process optimization described",
+      "evidence_quality_assessment": "Generic statement with qualifier about limitations, no organization or specific implementation",
+      "apqc_functions": [],
+      "notes": "Too generic - doesn't describe specific functional optimization or measurable improvement"
+    }
+  ],
+  "tier_verification": "Correctly classified as tier 1 - focuses on optimizing existing functions (fan engagement, security monitoring, crisis management) rather than creating new business models"
+}

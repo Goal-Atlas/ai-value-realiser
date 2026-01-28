@@ -1,0 +1,53 @@
+{
+  "case_id": "netflix-personalization-algorithms",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Netflix serves over 57 million members with personalized recommendations",
+      "quote": "at Netflix we use personalization extensively and treat every situation as an opportunity to present the right content to each of our over 57 million members"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "The homepage's primary function is to help members easily find content they will enjoy",
+      "quote": "The primary function of the homepage is to help each member easily find something to watch that they will enjoy"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Personalization addresses the challenge of having more content than can be displayed on a single page",
+      "quote": "A problem we face is that our catalog contains many more videos than can be displayed on a single page and each member comes with their own unique set of interests"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "The architecture supports rapid innovation and experimentation",
+      "quote": "This flexibility supports agile innovation. At Netflix we take advantage of this to support rapid experimentation"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S5",
+      "claim": "Netflix operates over 100 million different personalized products, one for each member",
+      "quote": "This is yet another way Netflix differs from traditional media offerings: we don't have one product but over a 100 million different products with one for each of our members with personalized recommendations and personalized visuals"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S5",
+      "claim": "Personalized artwork helps titles put their best foot forward for every member and improves member experience",
+      "quote": "Overall, by personalizing artwork we help each title put its best foot forward for every member and thus improve our member experience"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S5",
+      "claim": "Personalized artwork acts as a gateway to help members discover content by providing visual evidence of relevance",
+      "quote": "If the artwork representing a title captures something compelling to you, then it acts as a gateway into that title and gives you some visual 'evidence' for why the title might be good for you"
+    },
+    {
+      "claim_id": "C8",
+      "source_id": "S5",
+      "claim": "Netflix's recommendation system goal is to get the right titles in front of members at the right time",
+      "quote": "For many years, the main goal of the Netflix personalized recommendation system has been to get the right titles in front each of our members at the right time"
+    }
+  ]
+}

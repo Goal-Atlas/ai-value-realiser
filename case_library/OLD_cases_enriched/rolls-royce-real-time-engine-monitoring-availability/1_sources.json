@@ -1,0 +1,35 @@
+{
+  "case_id": "rolls-royce-real-time-engine-monitoring-availability",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "How Big Data Drives Success At Rolls-Royce",
+      "url": "https://www.forbes.com/sites/bernardmarr/2015/06/01/how-big-data-drives-success-at-rolls-royce/",
+      "doc_type": "News Article"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case study: IFS and Rolls-Royce connect the automated data pipeline",
+      "url": "https://www.plantservices.com/technology/artificial-intelligence/article/33015653/case-study-ifs-and-rolls-royce-connect-the-automated-data-pipeline",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Case Study: Rolls-Royce and QOCO - working together for PLM",
+      "url": "https://www.qoco.aero/case-studies/case-study-rolls-royce-and-qoco-working-together-for-plm",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S4",
+      "title": "Rolls Royce's Use of Digital Twin Technology Case Study",
+      "url": "https://ismguide.com/rolls-royce-use-of-digital-twin-technology-case-study/",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S5",
+      "title": "Rolls-Royce is driving the progress of the business aviation market",
+      "url": "https://www.worldfinance.com/markets/rolls-royce-is-driving-the-progress-of-the-business-aviation-market",
+      "doc_type": "News Article"
+    }
+  ]
+}

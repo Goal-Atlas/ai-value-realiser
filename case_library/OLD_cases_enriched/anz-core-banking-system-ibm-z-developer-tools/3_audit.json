@@ -1,0 +1,53 @@
+{
+  "case_id": "anz-core-banking-system-ibm-z-developer-tools",
+  "tier": "capability",
+  "audited_claims": [
+    {
+      "claim_id": "C1",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "This describes optimization of existing IT infrastructure functions (backup and disaster recovery), which is clearly functional optimization. The pattern is replicable across financial institutions with similar mainframe environments.",
+      "evidence_quality_assessment": "Named organization (ANZ) with specific functional improvements claimed (timelier backups, faster DR). However, no quantified metrics provided - lacks specific timeframes, percentage improvements, or measurable performance gains.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "high"
+        }
+      ],
+      "notes": "Clear infrastructure optimization case but lacks quantified evidence of improvement. 'Timelier' and 'faster' are qualitative without baseline or target metrics."
+    },
+    {
+      "claim_id": "C2",
+      "status": "NEEDS_REVIEW",
+      "strategic_fit_assessment": "Describes infrastructure capability building rather than optimization of existing processes. This is more about capacity expansion than efficiency improvement of current operations.",
+      "evidence_quality_assessment": "Named organization with specific technical implementation (mirrored IBM zSystems). However, this describes what was built rather than performance improvement achieved.",
+      "apqc_functions": [
+        {
+          "id": "8.4",
+          "name": "Manage information",
+          "confidence": "high"
+        },
+        {
+          "id": "11.4",
+          "name": "Manage business resiliency",
+          "confidence": "medium"
+        }
+      ],
+      "notes": "This is more of a capability deployment than optimization. Describes infrastructure setup rather than measurable improvement in existing functions."
+    },
+    {
+      "claim_id": "C3",
+      "status": "REJECTED",
+      "strategic_fit_assessment": "This is a contextual statement about customer base size, not a claim about functional optimization or AI-driven improvement.",
+      "evidence_quality_assessment": "While it provides specific customer numbers (8.5 million), this is background information rather than a performance claim requiring audit.",
+      "apqc_functions": [],
+      "notes": "This is contextual information about ANZ's scale, not a claim about process optimization or AI capability. Not relevant for Tier 1 assessment."
+    }
+  ],
+  "tier_verification": "This case appears to be correctly classified as tier 1, focusing on IT infrastructure optimization. However, the claims lack the quantified performance improvements typically expected in strong tier 1 cases. The case describes infrastructure deployment more than optimization outcomes."
+}

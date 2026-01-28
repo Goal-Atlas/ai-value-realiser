@@ -1,0 +1,23 @@
+{
+  "case_id": "helleniq-energy-productivity-boost-email-processing",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "AI-powered success\u2014with more than 1,000 stories of customer transformation and innovation | The Microsoft Cloud Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+      "doc_type": "Blog Post"
+    },
+    {
+      "source_id": "S2",
+      "title": "Case Study: HELLENiQ ENERGY",
+      "url": "https://www.pwc.com/gr/en/publications/helleniq-energy.html",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S3",
+      "title": "Partner Case Study | HELLENiQ ENERGY | Microsoft Community Hub",
+      "url": "https://techcommunity.microsoft.com/blog/partnernews/partner-case-study--helleniq-energy/4459522",
+      "doc_type": "Case Study"
+    }
+  ]
+}

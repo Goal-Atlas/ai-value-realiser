@@ -1,0 +1,47 @@
+{
+  "case_id": "nestle-plan-iq-marketing-mix-modeling",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S1",
+      "claim": "AI reduced forecasting errors by 30%, leading to more accurate inventory management",
+      "quote": "AI reduced forecasting errors by 30%, leading to more accurate inventory management. This improvement minimized supply chain disruptions and enhanced operational efficiency."
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S1",
+      "claim": "Lowered operational costs through enhanced inventory management and reduced storage expenses",
+      "quote": "Lowered operational costs by enhancing inventory management and reducing storage expenses."
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S1",
+      "claim": "Improved supply chain resilience through real-time monitoring and adaptive planning",
+      "quote": "Improved supply chain resilience through real-time monitoring and adaptive planning."
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S1",
+      "claim": "Supported sustainability goals by reducing food waste and optimizing transportation logistics",
+      "quote": "Supported sustainability goals by reducing food waste and optimizing transportation logistics."
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S2",
+      "claim": "Nestl\u00e9 generates over $200 million in business value through marketing initiatives",
+      "quote": "we're talking about generating over $200 million in business value through marketing initiatives that span everything from baby food to pet treats to premium coffee."
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S2",
+      "claim": "300% increase in infant malnutrition cases in regions where Nestl\u00e9 distributed free formula samples",
+      "quote": "In Kenya during the late 1970s, hospitals reported a 300% increase in infant malnutrition cases in regions where Nestl\u00e9 had distributed free formula samples."
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S3",
+      "claim": "Nestl\u00e9 operates in over 190 countries with a workforce of more than 300,000 people",
+      "quote": "Nestl\u00e9 is present in over 190 countries and has a workforce of more than 300,000 people."
+    }
+  ]
+}

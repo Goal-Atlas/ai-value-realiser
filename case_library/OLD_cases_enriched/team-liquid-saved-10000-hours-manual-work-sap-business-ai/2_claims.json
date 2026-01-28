@@ -1,0 +1,47 @@
+{
+  "case_id": "team-liquid-saved-10000-hours-manual-work-sap-business-ai",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "source_id": "S2",
+      "claim": "Manual work that took hours is now available instantly",
+      "quote": "Thanks to the Joule copilot and Joule Agents, what once took hours of manual work is now available instantly, driving our strategies and enhancing team performance"
+    },
+    {
+      "claim_id": "C2",
+      "source_id": "S2",
+      "claim": "Critical information is available within seconds",
+      "quote": "Joule helps users instantly access game statistics, player performance trends and strategic comparisons, making critical information available within seconds"
+    },
+    {
+      "claim_id": "C3",
+      "source_id": "S2",
+      "claim": "Eliminates need for manual data retrieval",
+      "quote": "This shift eliminates the need for manual data retrieval, empowering diverse users to make data-driven decisions at game speed"
+    },
+    {
+      "claim_id": "C4",
+      "source_id": "S3",
+      "claim": "Match preparation time reduced from four days to one hour",
+      "quote": "With SAP BTP, Milanov explained, typical preparation time for a match is down from four days to one hour"
+    },
+    {
+      "claim_id": "C5",
+      "source_id": "S3",
+      "claim": "1% performance improvement could mean $50 million in prize money",
+      "quote": "knowing that even achieving a narrow edge, improving performance by only 1%, for example, could mean an extra $50 million USD in prize money"
+    },
+    {
+      "claim_id": "C6",
+      "source_id": "S4",
+      "claim": "Team Liquid has won more than $43 million in prize money and 120 major titles",
+      "quote": "Since its founding in 2000, Team Liquid has won more than $43 million in prize money and 120 major titles and counting across the 15 esports games in which it competes"
+    },
+    {
+      "claim_id": "C7",
+      "source_id": "S4",
+      "claim": "Processing 50,000 data points per match across 20,000 games daily",
+      "quote": "The average esports game, we're taking 50,000 data points from each match and we're talking 20,000 games a day"
+    }
+  ]
+}

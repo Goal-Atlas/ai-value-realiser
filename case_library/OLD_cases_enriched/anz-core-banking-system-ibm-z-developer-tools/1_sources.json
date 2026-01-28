@@ -1,0 +1,17 @@
+{
+  "case_id": "anz-core-banking-system-ibm-z-developer-tools",
+  "sources": [
+    {
+      "source_id": "S1",
+      "title": "IBM Case Study: Australia and New Zealand Banking Group Limited \u2013 ANZ transforms mainframe environment with highly flexible and mirrored IBM zSystems",
+      "url": "https://www.casestudies.com/company/ibm/case-study/anz-transforms-mainframe-environment-with-highly-flexible-and-mirrored-ibm-zsystems",
+      "doc_type": "Case Study"
+    },
+    {
+      "source_id": "S2",
+      "title": "Banking on mainframe-led digital transformation for financial services",
+      "url": "https://www.ibm.com/blog/banking-on-mainframe-led-digital-transformation-for-financial-services/",
+      "doc_type": "Blog Post"
+    }
+  ]
+}
