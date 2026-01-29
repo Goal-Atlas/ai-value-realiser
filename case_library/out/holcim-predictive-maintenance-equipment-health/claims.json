@@ -1,0 +1,468 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "7-minute reduction in concrete delivery time",
+      "claim_description": "Holcim reduced concrete delivery times by 7 minutes per load using HERE's real-time smart navigation and location intelligence on AWS, improving efficiency and reducing wastage of time-sensitive concrete.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "With 6.4 million loads delivered globally, and a 7-minute cut in delivery time, Holcim is delivering stellar customer service while paving the way for a cleaner future.",
+      "quote_location": "Outcome section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The delivery time reduction is directly attributed to HERE's location technology and real-time smart navigation built on AWS, which optimized routing and provided real-time visibility.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "800,000 hours saved across 200,000 job sites",
+      "claim_description": "Holcim saved over 800,000 hours across 200,000 job sites globally through optimized routing and real-time navigation enabled by HERE location services on AWS.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Using HERE solutions on Amazon Web Services (AWS), Holcim has benefited from global availability and resilience, saving over 800,000 hours across 200,000 job sites and delivering 6.4 million loads of concrete on time.",
+      "quote_location": "Overview section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time savings are directly attributed to HERE solutions on AWS that provided smart routing, real-time visibility, and navigation optimization for concrete deliveries.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "800000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "6.4 million loads delivered on time",
+      "claim_description": "Holcim successfully delivered 6.4 million loads of concrete on time globally using the ConcreteDirect app powered by HERE location technology and AWS infrastructure.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Using HERE solutions on Amazon Web Services (AWS), Holcim has benefited from global availability and resilience, saving over 800,000 hours across 200,000 job sites and delivering 6.4 million loads of concrete on time.",
+      "quote_location": "Overview section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "On-time delivery performance is directly enabled by HERE's real-time smart navigation and location intelligence on AWS, addressing the time-sensitive nature of concrete with 90-minute shelf life.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "6400000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "500,000 touchless deliveries during COVID-19 pandemic",
+      "claim_description": "Between March and October 2020, Holcim completed nearly 500,000 touchless customer deliveries using the ConcreteDirect app, maintaining construction activity safely during the pandemic.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The digitization was particularly useful at the height of the COVID-19 pandemic. The app kept construction activity going with nearly 500,000 touchless customer deliveries between March and October 2020 without compromising the need for social distancing.",
+      "quote_location": "Outcome section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The ConcreteDirect app's digital features enabled touchless deliveries through real-time tracking, transparent communication, and electronic ticket generation, directly supporting pandemic safety requirements.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "500000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Elimination of seven paper ticket copies per delivery",
+      "claim_description": "ConcreteDirect replaced seven copies of paper tickets with automatically generated electronic tickets, advancing sustainability and streamlining last-mile delivery processes.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The app has streamlined last-mile delivery and advanced sustainability by replacing seven copies of paper tickets with electronic ones. These are automatically generated and emailed to the customer once the delivery truck leaves the gates.",
+      "quote_location": "Solution section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The automated generation and digital distribution of electronic tickets is directly enabled by the ConcreteDirect app's integration with HERE location services and AWS infrastructure.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Real-time visibility and two-way communication for order fulfillment",
+      "claim_description": "ConcreteDirect provides customers with clear visibility and direct communication channels for every phase of order fulfillment, from booking to real-time delivery truck tracking.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "ConcreteDirect has addressed both the perishable nature of concrete and Holcim's sustainability commitment by leveraging real-time process visibility and direct, transparent two-way communication with customers.",
+      "quote_location": "Solution section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Real-time visibility and communication capabilities are directly enabled by HERE's location technology integrated into the ConcreteDirect app, running on AWS managed services.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Construction and building materials sector",
+      "claim_description": "Holcim operates as a global leader in innovative and sustainable building solutions, delivering hundreds of millions of tons of concrete to construction projects globally.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Holcim is a global leader in innovative and sustainable construction solutions. Driven by its purpose to build progress for people and the planet, its 60,000 employees are on a mission to decarbonize building.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "Global operations across 60 countries",
+      "claim_description": "Holcim operates in approximately 60 countries with 60,000 employees, delivering hundreds of millions of tons of concrete globally.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "When you add in Holcim's presence in about 60 countries, the complexity of delivery planning skyrockets.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "strategic_intent",
+      "claim_title": "2050 net-zero target with 24% reduction in transportation emissions by 2030",
+      "claim_description": "Holcim has committed to a 2050 net-zero target including reducing downstream transportation emissions by 24 percent by 2030 through optimizing routes and loads.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Holcim's 2050 net-zero target includes reducing downstream transportation emissions by 24 percent by 2030 by optimizing routes and loads.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Transportation and logistics operations",
+      "claim_description": "Holcim spends billions of dollars annually on logistics, transporting hundreds of millions of tons of product to construction sites with time-sensitive delivery requirements.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "At Holcim, we spend billions of dollars on logistics every year, transporting hundreds of million tons of product to construction sites.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.2",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "COVID-19 pandemic period (March-October 2020)",
+      "claim_description": "The ConcreteDirect app was particularly valuable during the COVID-19 pandemic, enabling touchless deliveries between March and October 2020.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The digitization was particularly useful at the height of the COVID-19 pandemic. The app kept construction activity going with nearly 500,000 touchless customer deliveries between March and October 2020.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Digital transformation initiative led by Chief Digital Officer",
+      "claim_description": "Holcim has a Digital Development team and Chief Digital Officer (Philipp Leutiger) driving the shift from product-oriented to process innovation and data-driven cloud operations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Philipp Leutiger, chief digital officer at Holcim, summed it up, 'Being on time within minutes is a key ingredient for efficient and sustainable construction of the future.'",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "Time-sensitive concrete delivery with 90-minute shelf life",
+      "claim_description": "Concrete has a shelf life of 90 minutes, making timely delivery critical. Even a minute over that timeframe can ruin an otherwise good load.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Delivery is challenging for a time-sensitive product like concrete, with a shelf life of 90 minutes\u2014even a minute over that can ruin an otherwise good load.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Customer relationship management and service delivery",
+      "claim_description": "ConcreteDirect digitized the customer experience with booking, tracking, real-time status updates, and direct communication channels throughout order fulfillment.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The customer has clear visibility and a direct communication channel for every phase of their order fulfilment\u2014from booking to tracking the real-time status of a delivery truck.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.5",
+      "apqc_name": "Develop and Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

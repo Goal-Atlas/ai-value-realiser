@@ -1,0 +1,362 @@
+{
+  "case_id": "pepsico-computer-vision-shelf-inventory-optimization",
+  "build_started": "2026-01-29T11:03:46.685958",
+  "build_completed": "2026-01-29T11:03:50.286606",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "PepsiCo Computer Vision and AI-Powered Retail Operations",
+      "PepsiCo Computer Vision and AI-Powered Retail Operations"
+    ],
+    "results_considered": 4,
+    "urls_ranked": [
+      {
+        "url": "https://www.griddynamics.com/blog/pepsico-shelf-intelligence",
+        "rank": 1
+      },
+      {
+        "url": "https://www.supplychaindive.com/news/pepsico-data-sales-product-mix-shelf-space-optimization/607774/",
+        "rank": 2
+      },
+      {
+        "url": "https://www.couchbase.com/blog/pepsicos-journey-to-inventory-management-modernization/",
+        "rank": 3
+      },
+      {
+        "url": "https://www.joneselitelogistics.com/blog/how-is-pepsi-transforming-logistics-and-supply-chain-tech/",
+        "rank": 4
+      }
+    ],
+    "urls_selected": [
+      "https://www.griddynamics.com/blog/pepsico-shelf-intelligence",
+      "https://www.supplychaindive.com/news/pepsico-data-sales-product-mix-shelf-space-optimization/607774/",
+      "https://www.couchbase.com/blog/pepsicos-journey-to-inventory-management-modernization/",
+      "https://www.joneselitelogistics.com/blog/how-is-pepsi-transforming-logistics-and-supply-chain-tech/"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.griddynamics.com/blog/pepsico-shelf-intelligence",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4221,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.supplychaindive.com/news/pepsico-data-sales-product-mix-shelf-space-optimization/607774/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4107,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.couchbase.com/blog/pepsicos-journey-to-inventory-management-modernization/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.joneselitelogistics.com/blog/how-is-pepsi-transforming-logistics-and-supply-chain-tech/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 10774,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-3-7-sonnet-20250219",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 10,
+    "context_claims_count": 12,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 1,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3345,
+        "char_offset_end": 3485,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4381,
+        "char_offset_end": 4536,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4537,
+        "char_offset_end": 4665,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6247,
+        "char_offset_end": 6384,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6386,
+        "char_offset_end": 6488,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S4",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 6864,
+        "char_offset_end": 7036,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-008",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3209,
+        "char_offset_end": 3358,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-009",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3209,
+        "char_offset_end": 3358,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-010",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1073,
+        "char_offset_end": 1249,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-011",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2422,
+        "char_offset_end": 2637,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 675,
+        "char_offset_end": 837,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 78,
+        "char_offset_end": 346,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 195,
+        "char_offset_end": 374,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1222,
+        "char_offset_end": 1339,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 354,
+        "char_offset_end": 475,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1016,
+        "char_offset_end": 1122,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 206,
+        "char_offset_end": 483,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 78,
+        "char_offset_end": 233,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1128,
+        "char_offset_end": 1294,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2287,
+        "char_offset_end": 2417,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1598,
+        "char_offset_end": 1760,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 838,
+        "char_offset_end": 999,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

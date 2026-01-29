@@ -1,0 +1,812 @@
+{
+  "accenture-reduced-it-demand-citizen-dev-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:41:55.487296+00:00"
+  },
+  "accenture-retail-marketing-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:42:28.737504+00:00"
+  },
+  "access-holdings-plc-reduced-coding-time-chatbot-development": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:42:52.960319+00:00"
+  },
+  "acentra-health-medscribe-azure-openai-documentation": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:42:54.752439+00:00"
+  },
+  "adobe-firefly-genai-instant-generation-creativity": {
+    "status": "failed",
+    "completed_at": "2026-01-29T08:49:01.188985+00:00",
+    "error": "Invalid JSON from LLM (after 3 retries). Error: Unterminated string starting at: line 569 column 23 (char 31364). JSON snippet around error: ...s with varying features and generative credits.\",\n      \"source_ids\": [\"S5\"],\n      \"source_quote\": \"Adobe Firefly is free to use, with paid plans that unlock the full power of creative AI for images,..."
+  },
+  "advanced-it-boosted-sales-marketing-efficiency-copilot": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:50:20.378828+00:00"
+  },
+  "air-france-klm-content-velocity-localization": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:51:39.686784+00:00"
+  },
+  "airbus-ai-aircraft-structure-design-supply-chain": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:52:50.661660+00:00"
+  },
+  "airbus-skywise-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:54:15.396267+00:00"
+  },
+  "al-ghurair-iron-and-steel-reduced-production-planning-cycle-from-15-mins-to-\\<5-mins;-automated-400-calcs": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:54:15.398204+00:00"
+  },
+  "allpay-developer-productivity-github-copilot": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:55:29.209930+00:00"
+  },
+  "amazon-supply-chain-inventory-forecasting": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:57:04.205791+00:00"
+  },
+  "anz-core-banking-system-ibm-z-developer-tools": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:57:47.249576+00:00"
+  },
+  "aon-managed-fully-remote-financial-close-workday": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:58:06.820765+00:00"
+  },
+  "apex-fintech-solutions-reduced-security-threat-detection-turnaround-time-by-75-percent": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:59:10.817313+00:00"
+  },
+  "arup-face-check-azure-ai-enhances-security-solutions": {
+    "status": "done",
+    "completed_at": "2026-01-29T08:59:40.363216+00:00"
+  },
+  "arup-face-check-azure-ai-security": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:01:01.329074+00:00"
+  },
+  "asos-ai-virtual-stylist-customer-engagement": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:02:19.497754+00:00"
+  },
+  "astrazeneca-optimized-clinical-trial-design": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:03:27.941167+00:00"
+  },
+  "at\\&t-decreased-fraud-attacks-by-80%-using-databricks-for-network-data-analysis": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:03:27.943605+00:00"
+  },
+  "autonomyworks-error-reduction-cost-savings": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:03:39.886800+00:00"
+  },
+  "axa-unified-200tb-data-personalization": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:04:17.459216+00:00"
+  },
+  "aztec-group-copilot-productivity-pilot": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:05:41.045366+00:00"
+  },
+  "bader-sultan-copilot-ai-adoption": {
+    "status": "failed",
+    "completed_at": "2026-01-29T09:10:02.262094+00:00",
+    "error": "Invalid JSON from LLM (after 3 retries). Error: Expecting property name enclosed in double quotes: line 606 column 28 (char 29935). JSON snippet around error: ...gs uses Microsoft 365 Copilot for code writing and chatbot development\",\n      \"source_ids\": [\"S2\"],..."
+  },
+  "banco-do-brasil-ai-governance-framework-credit-fraud-compliance": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:11:05.552927+00:00"
+  },
+  "baptist-care-copilot-saves-employees-time-to-focus-more-on-patient-care": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:12:33.544830+00:00"
+  },
+  "bayer-ai-expert-systems-scale-agronomic-expertise-farmers-frontline": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:13:00.389253+00:00"
+  },
+  "bbva-digital-customer-centricity": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:14:36.202238+00:00"
+  },
+  "best-buy-genai-support": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:15:35.674257+00:00"
+  },
+  "bitazza-scaled-broker-platform-crypto-adoption-google-cloud-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:16:50.568723+00:00"
+  },
+  "bkw-media-inquiries-edison-ai-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:17:34.272246+00:00"
+  },
+  "blablacar-braze-action-paths": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:18:35.795311+00:00"
+  },
+  "bmw-generative-design-vehicle-components-weight-efficiency": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:20:13.115874+00:00"
+  },
+  "bny-ai-for-everyone-strategy": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:21:20.184733+00:00"
+  },
+  "bricorama-paint-advisor": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:22:27.837183+00:00"
+  },
+  "bridgewater-associates-artificial-investor": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:23:34.132370+00:00"
+  },
+  "bright-money-ai-debt-reduction-credit-building": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:23:50.689329+00:00"
+  },
+  "brisbane-catholic-ed.-copilot-saves-educators-9": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:23:50.692984+00:00"
+  },
+  "burberry-optimized-production-schedules-raw-material-waste-reduction": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:25:05.862643+00:00"
+  },
+  "buzzfeed-ai-content-pivot": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:26:46.967526+00:00"
+  },
+  "c2i-genomics-ai-genomic-blood-cancer-detection": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:27:42.836402+00:00"
+  },
+  "camping-world-modernized-contact-centers": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:28:20.818213+00:00"
+  },
+  "canon-135-bots-invoice-automation": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:29:07.435204+00:00"
+  },
+  "canva-integrated-veo-3-text-to-video-creation": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:29:56.102515+00:00"
+  },
+  "carmax-ai-vehicle-inspection": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:30:49.596628+00:00"
+  },
+  "carvana-ai-conversation-analysis-visibility": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:32:45.782301+00:00"
+  },
+  "citi-wealth-account-opening-automation": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:33:41.058681+00:00"
+  },
+  "city-of-helsinki-virtual-assistants-citizen-support": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:34:34.592192+00:00"
+  },
+  "clearwater-analytics-ai-platform-business-growth": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:36:04.004420+00:00"
+  },
+  "coca-cola-(cona)-ai-recruiting-tools-streamline-hiring,-identifying-top-talent-faster": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:36:04.007245+00:00"
+  },
+  "commonwealth-bank-australia-enterprise-ai-fluency-genai-tools": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:37:56.707501+00:00"
+  },
+  "crediclub-audit-automation-savings": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:38:42.495866+00:00"
+  },
+  "dbs-bank-reduced-call-handling-times-ai-assistant": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:40:39.217685+00:00"
+  },
+  "deloitte-ai-consulting-services": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:42:13.454550+00:00"
+  },
+  "dentsu-60-bots-automation-timesheets-invoicing": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:43:12.348512+00:00"
+  },
+  "deutsche-bank-ai-research-tool-report-creation-time-reduction": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:45:16.258696+00:00"
+  },
+  "duke-energy-ai-renewable-forecasting-grid-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:46:24.769735+00:00"
+  },
+  "e.on-cut-contract-terminations-by-50%-using-churn-prediction-models": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:46:24.771908+00:00"
+  },
+  "echostar-(hughes)-12-ai-apps-save-35,000-work-hours;-boost-productivity-by-25%": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:46:24.773687+00:00"
+  },
+  "endex-openai-financial-model-reconciliation": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:47:01.699445+00:00"
+  },
+  "estee-lauder-voice-enabled-makeup-assistant-accessibility": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:47:45.469069+00:00"
+  },
+  "etsy-gemini-customer-support-analysis": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:48:53.458992+00:00"
+  },
+  "eversana-ai-agency-platform-revolutionizes-pharma-marketing-efficiency": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:49:29.802246+00:00"
+  },
+  "experian-automated-code-transformation": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:50:16.896527+00:00"
+  },
+  "exscientia-precision-drug-design": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:51:30.953954+00:00"
+  },
+  "farm-credit-canada-copilot-time-savings": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:52:51.351282+00:00"
+  },
+  "fc-bayern-munich-ai-job-descriptions-hiring": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:52:51.355518+00:00"
+  },
+  "ford-ai-enhances-adas-safety-features-and-optimizes-manufacturing-robotics": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:53:38.393588+00:00"
+  },
+  "frosta-automated-invoice-processing": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:53:38.398421+00:00"
+  },
+  "general-mills-ai-supply-chain-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:54:19.450232+00:00"
+  },
+  "georgia-tech-stonecrest-asset-management": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:56:21.585933+00:00"
+  },
+  "global-biopharma-streamlined-career-paths-workday-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:56:21.588020+00:00"
+  },
+  "globo-hyper-personalized-recommendations-doubled-click-through-play-rate": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:58:01.951909+00:00"
+  },
+  "grupo-falabella-salesforce-agentforce-order-support": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:58:01.954273+00:00"
+  },
+  "gucci-ai-youth-strategy-inventory": {
+    "status": "done",
+    "completed_at": "2026-01-29T09:59:16.526690+00:00"
+  },
+  "heidi-health-ai-medical-scribe-admin-simplification": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:00:28.060211+00:00"
+  },
+  "heineken-usa-partnered-with-palantir-to-optimize-sales-and-supply-chain-operations": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:00:28.063331+00:00"
+  },
+  "helleniq-energy-productivity-boost-email-processing": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:01:32.861741+00:00"
+  },
+  "holcim-predictive-maintenance-equipment-health": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:02:16.313193+00:00"
+  },
+  "hong-leong-bank-improved-digital-banking-experience-and-employee-workflows-using-gemini-models": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:02:58.259670+00:00"
+  },
+  "humana-conversational-ai-reduced-costly-pre-service-calls": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:03:54.380474+00:00"
+  },
+  "ihg-ai-self-service-upselling": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:05:31.027688+00:00"
+  },
+  "ikea-reskilling-pivot-billie": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:06:17.011540+00:00"
+  },
+  "intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:07:48.387045+00:00"
+  },
+  "ipg-agentic-systems-for-commerce": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:08:52.753359+00:00"
+  },
+  "jetbrains-ai-assistant-developer-productivity": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:10:36.624284+00:00"
+  },
+  "jk-cement-ltd-automated-purchase-processes-freeing-teams-for-strategic-sourcing": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:10:36.627181+00:00"
+  },
+  "john-deere-equipment-as-a-service": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:11:26.295565+00:00"
+  },
+  "johnson-controls-automates-invoice-processing": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:13:30.352747+00:00"
+  },
+  "jp-morgan-chase-persado-ai-copywriting": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:14:13.019070+00:00"
+  },
+  "karaca-smec-catalog-segmentation": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:14:42.166769+00:00"
+  },
+  "klap-ai-video-platform-turns-hours-of-editing-into-minutes-for-creators": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:16:25.683598+00:00"
+  },
+  "klarna-ai-customer-service-automation": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:16:27.561701+00:00"
+  },
+  "komatsu-autonomous-haulage-system": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:17:31.513491+00:00"
+  },
+  "korn-ferry-ai-hr-impact-workforce-agility": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:18:39.887862+00:00"
+  },
+  "kraft-heinz-ai-ketchup-campaign": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:20:02.640110+00:00"
+  },
+  "kraft-heinz-reduced-marketing-campaign-creation-time-8-weeks-to-8-hours": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:21:13.116805+00:00"
+  },
+  "lemonade-ai-first-insurer": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:22:56.151975+00:00"
+  },
+  "loop-earplugs-unified-data-accelerates-decisions-drives-measurable-revenue-growth": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:23:59.287468+00:00"
+  },
+  "loreal-genai-creative-concept-generation": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:26:38.584718+00:00"
+  },
+  "lowes-ai-search-inventory-management": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:27:56.596319+00:00"
+  },
+  "lumen-technologies-sales-summarization": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:29:46.973325+00:00"
+  },
+  "marriott-bonvoy-ai-personalization": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:31:54.533407+00:00"
+  },
+  "mayo-clinic-ai-scheduling-surgical-throughput": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:32:35.734610+00:00"
+  },
+  "mckinsey-ai-transformation-consulting": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:38:13.068519+00:00"
+  },
+  "meditech-saved-7-hours-employee-week-admin-tasks-gemini": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:38:53.426446+00:00"
+  },
+  "mercedes-benz-optimized-car-production-efficiency-supply-chain-databricks": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:40:22.279097+00:00"
+  },
+  "millennium-bcp-boosted-digital-sales-conversion-rates-by-2": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:41:20.801334+00:00"
+  },
+  "minijob-zentrale-augmenting-editorial-workflow-using-ibm-watson": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:41:20.803521+00:00"
+  },
+  "moderna-ai-platform-accelerated-mrna-therapeutic-design-and-vaccine-development": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:42:20.894461+00:00"
+  },
+  "moloco-ghost-bidding-incrementality-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:45:02.290035+00:00"
+  },
+  "morgan-stanley-ai-assistant-financial-advisors": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:46:17.693358+00:00"
+  },
+  "nasa-satellite-data-analysis-crop-yield-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:47:27.942377+00:00"
+  },
+  "nationwide-reduced-customer-letter-writing-time-by-66%-(45-mins-to-10-15-mins)-using-copilot": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:47:27.951221+00:00"
+  },
+  "natura-revolutionized-testing-substances-google-cloud-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:48:45.805735+00:00"
+  },
+  "nestle-generative-ai-personalized-marketing-content-local-markets": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:49:35.865317+00:00"
+  },
+  "nestle-plan-iq-marketing-mix-modeling": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:50:40.261051+00:00"
+  },
+  "netflix-personalization-algorithms": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:51:22.171510+00:00"
+  },
+  "nfl-players-association-ai-video-review-safety-violations": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:52:28.565831+00:00"
+  },
+  "nokia-gemini-coding-tool-app-development": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:52:28.881160+00:00"
+  },
+  "nubank-digital-banking-efficiency": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:55:30.125794+00:00"
+  },
+  "ocado-osp-platform-licensing": {
+    "status": "done",
+    "completed_at": "2026-01-29T10:59:12.112856+00:00"
+  },
+  "omega-healthcare-productivity-automation": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:01:16.743143+00:00"
+  },
+  "omnicom-artbotai-generative-engine-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:02:04.554398+00:00"
+  },
+  "one.nz-fabric-real-time-analytics-cuts-customer-inquiry-response-time-by-\\~50%": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:02:04.556942+00:00"
+  },
+  "panasonic-energy-palantir-battery-production-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:02:33.386687+00:00"
+  },
+  "pandora-uses-\"agentforce\"-to-make-online-shoppers-feel-like-they-are-getting-personalized-service": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:02:33.389817+00:00"
+  },
+  "pearson-personalizes-learning-journeys-salesforce-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:03:46.685575+00:00"
+  },
+  "pepsico-computer-vision-shelf-inventory-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:05:10.283379+00:00"
+  },
+  "pfizer-rd-cost-avoidance-ai-modeling": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:06:39.340408+00:00"
+  },
+  "philips-scaled-ai-literacy-70k-employees-health-tech-innovation": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:07:32.923107+00:00"
+  },
+  "ping-an-insurance-ecosystem-integration": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:09:18.460612+00:00"
+  },
+  "pockyt-github-copilot-expected-to-boost-productivity-up-to-500%-in-sdlc": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:09:18.463014+00:00"
+  },
+  "providence-ai-patient-message-routing": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:10:43.332337+00:00"
+  },
+  "publicis-groupe-coreai-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:11:59.420587+00:00"
+  },
+  "pwc-embeds-ai-into-consulting-to-drive-efficiency-and-client-innovation": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:13:29.099337+00:00"
+  },
+  "ramp-scaled-finance-automation-platform-to-unicorn-status-using-serverless-ai-architecture": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:14:42.004470+00:00"
+  },
+  "recordsure-cut-production-costs-by-25%-and-reduced-new-product-launch-time-to-2-weeks-using-azure-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:14:42.006642+00:00"
+  },
+  "recursion-pharmaceuticals-recursion-os-drug-discovery": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:16:38.106424+00:00"
+  },
+  "relativity-space-3d-printed-rockets": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:18:07.031545+00:00"
+  },
+  "reveel-120-faster-analytics-dwh-modernization-aws-databricks": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:18:07.263762+00:00"
+  },
+  "rio-tinto-mine-of-the-future": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:20:59.038867+00:00"
+  },
+  "roche-accelerated-drug-discovery-target-identification": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:22:06.253008+00:00"
+  },
+  "rolls-royce-real-time-engine-monitoring-availability": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:25:51.531649+00:00"
+  },
+  "salesforce-ai-crm-platform-einstein": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:27:15.242695+00:00"
+  },
+  "salesforce-einstein-internal-portal": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:28:03.410762+00:00"
+  },
+  "scale-ai-data-infrastructure-utility": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:29:07.754040+00:00"
+  },
+  "scania-accelerating-work-across-global-workforce-using-openai-tools": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:30:09.384917+00:00"
+  },
+  "scottish-government-ibm-solutions-better-services-value": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:31:11.477881+00:00"
+  },
+  "scuderia-ferrari-ai-driven-platform-engages-millions-of-fans-with-personalized-content": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:32:57.634786+00:00"
+  },
+  "seon-3x-growth-scaling-real-time-ai-fraud-prevention": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:34:32.777616+00:00"
+  },
+  "servicenow-ai-headcount-savings-100m-2025": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:36:09.042707+00:00"
+  },
+  "shell-co2-emissions-reduction-asset-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:36:09.045359+00:00"
+  },
+  "sicredi-improved-customer-service-operations-through-watsonx-portfolio": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:36:09.047619+00:00"
+  },
+  "siemens-ai-predictive-maintenance-equipment-failures": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:36:49.170191+00:00"
+  },
+  "siemens-healthineers-ai-rad-companion": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:37:28.171684+00:00"
+  },
+  "sift-lab-unifies-data-drive-revenue-growth-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:38:21.566573+00:00"
+  },
+  "sikshana-foundation-reduced-lesson-planning-time": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:39:00.412713+00:00"
+  },
+  "silver-egg-tech-revitalized-hiring-processes-using-ibm-watson": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:39:00.418740+00:00"
+  },
+  "solutionhealth-ambient-ai-documentation-reduction": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:40:34.757879+00:00"
+  },
+  "spotify-ai-dj-engagement": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:42:20.951275+00:00"
+  },
+  "starbucks-deep-brew-personalization-roi-engagement": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:43:17.916408+00:00"
+  },
+  "state-bank-of-india-customers-first-platform-ai-transaction-analysis": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:43:22.782912+00:00"
+  },
+  "state-of-oregon-ois-automated-observability-improved-payment-application-reliability": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:43:22.786046+00:00"
+  },
+  "stitch-fix-ai-driven-personalization-drives-core-business-growth-and-high-customer-retention": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:45:18.387957+00:00"
+  },
+  "super-pharm-vertex-ai-inventory-accuracy": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:46:19.586646+00:00"
+  },
+  "talentbridge-reduced-worker-placement-time-compliance-accuracy": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:46:19.589386+00:00"
+  },
+  "tata-tea-ai-verification-climate-campaigns": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:48:52.062918+00:00"
+  },
+  "team-liquid-saved-10000-hours-manual-work-sap-business-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:49:46.291323+00:00"
+  },
+  "texas-rangers-databricks-player-performance-analysis": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:51:31.966489+00:00"
+  },
+  "thermo-fisher-ai-productivity-scientific-work": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:53:13.558128+00:00"
+  },
+  "thomson-reuters-cocounsel-legal-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:57:04.096756+00:00"
+  },
+  "tii-trains-open-source-llms-google-cloud-efficiency": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:57:52.924605+00:00"
+  },
+  "tql-automation-scale-growth-service-levels": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:58:48.955394+00:00"
+  },
+  "tupras-employees-save-hour-daily-copilot-it-efficiency": {
+    "status": "done",
+    "completed_at": "2026-01-29T11:59:07.979347+00:00"
+  },
+  "uber-projected-22m-savings-via-uipath-automation-of-back-office-tasks": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:00:25.248135+00:00"
+  },
+  "uchicago-medicine-unified-patient-data-scaling": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:01:56.141238+00:00"
+  },
+  "ufc-boosted-fan-engagement-ai-powered-insights-ibm": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:03:15.255254+00:00"
+  },
+  "uhcw-nhs-trust-ai-patient-flow-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:04:10.314050+00:00"
+  },
+  "under-armour-connected-fitness-ecosystem": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:05:33.454218+00:00"
+  },
+  "unilever-ai-product-formulation-rd-acceleration": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:06:25.199347+00:00"
+  },
+  "unilever-ai-recruitment": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:07:21.528310+00:00"
+  },
+  "united-airlines-skywise-implementation": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:07:55.211086+00:00"
+  },
+  "upstart-ai-lending-1600-variables": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:09:47.919842+00:00"
+  },
+  "us-air-force-ai-predictive-maintenance-aircraft-readiness": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:10:47.478582+00:00"
+  },
+  "verizon-ai-optimizes-5g-network-rollout-tower-placement": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:12:03.019985+00:00"
+  },
+  "vertiv-closed-security-investigations-50-faster-google-security-operations": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:12:29.181425+00:00"
+  },
+  "virgin-atlantic-ai-travel-personalization": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:15:22.823750+00:00"
+  },
+  "virgin-australia-databricks-baggage-ml-deployment": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:16:21.582002+00:00"
+  },
+  "volvo-group-azure-ai-transport-solutions": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:16:42.182234+00:00"
+  },
+  "walmart-supply-chain-ai-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:18:33.221884+00:00"
+  },
+  "washington-dc-(octo)-streamlined-it-ops-resulted-in-30%-cost-savings-and-20%-higher-csat": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:18:33.226424+00:00"
+  },
+  "wayfair-vertex-ai-product-attributes-4x-faster": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:20:14.825617+00:00"
+  },
+  "waymo-commercial-robotaxis": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:21:52.007306+00:00"
+  },
+  "wells-fargo-customer-decision-hub": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:22:50.634227+00:00"
+  },
+  "wendys-qscc-palantir-supply-chain-optimization": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:23:19.510349+00:00"
+  },
+  "western-sugar-automated-supplier-invoice-processing-sap-ai": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:23:19.584065+00:00"
+  },
+  "wimbledon-ai-fan-engagement": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:24:14.406089+00:00"
+  },
+  "wood-plc-time-to-hire-dropped-from-45": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:24:14.408891+00:00"
+  },
+  "world-food-programme-ai-logistics-aid-delivery": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:25:29.655696+00:00"
+  },
+  "wpp-wpp-open-platform": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:27:02.162863+00:00"
+  },
+  "zurich-insurance-automated-claims-data-extraction": {
+    "status": "done",
+    "completed_at": "2026-01-29T12:28:34.288651+00:00"
+  }
+}

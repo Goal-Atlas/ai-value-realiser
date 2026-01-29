@@ -1,0 +1,892 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Revenue increase of over 20% from new mobile app",
+      "claim_description": "IHG's redesigned mobile app achieved revenue growth exceeding 20% compared to pre-pandemic metrics as of September 2022, following launch in May 2022.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "As of September 2022\u2014compared to pre-pandemic metrics\u2014revenue, usage and downloads are all up more than 20% and growing.",
+      "quote_location": "Results section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "The app includes AI-powered features like personalized home screens and digital concierge, but the revenue lift is attributed to the overall app redesign and improved user experience.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Mobile app usage increased over 20%",
+      "claim_description": "The redesigned IHG One Rewards mobile app saw usage increase by more than 20% compared to pre-pandemic levels as of September 2022.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "As of September 2022\u2014compared to pre-pandemic metrics\u2014revenue, usage and downloads are all up more than 20% and growing.",
+      "quote_location": "Results section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Usage growth driven by improved UX and personalization features including AI-powered elements like digital concierge and personalized recommendations.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Mobile app downloads increased over 20%",
+      "claim_description": "Downloads of the IHG One Rewards mobile app increased by more than 20% compared to pre-pandemic metrics as of September 2022.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "As of September 2022\u2014compared to pre-pandemic metrics\u2014revenue, usage and downloads are all up more than 20% and growing.",
+      "quote_location": "Results section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Download growth attributed to enhanced app features including AI-powered personalization and improved user experience.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "4.9-star app rating making it top-rated travel app",
+      "claim_description": "The IHG One Rewards app achieved a 4.9-star rating in the iOS app store, positioning it as a top-rated travel app with customers describing it as easy to navigate.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "And as a testament to usability, it has a 4.9-star rating in the iOS app store, making it a top-rated travel app. Customer reviews describe the app as 'easy to navigate' with a 'stunning new design.'",
+      "quote_location": "Results section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "High rating reflects overall app quality including AI-powered personalization features, digital concierge, and improved user experience.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "4.9",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Near-perfect crash-free app performance",
+      "claim_description": "The redesigned IHG mobile app achieved near-perfect crash-free performance, contributing to improved user experience and reliability.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The app is also faster and has near-perfect, crash-free performance.",
+      "quote_location": "Results section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Performance improvement primarily due to infrastructure modernization, though AI features benefit from the stable platform.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "GenAI travel planner enables personalized destination discovery",
+      "claim_description": "IHG's GenAI-powered travel planner helps guests discover destinations across 6,000+ hotels in 100+ countries, answering nuanced queries about dining, amenities, and local events.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our customized travel planner will use GenAI to help people discover destinations among our more than 6,000 IHG hotels across 19 brands in over 100 countries",
+      "quote_location": "Quote from Jolie Fleming, Chief Product & Technology Officer",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The travel planner capability is explicitly powered by GenAI using Vertex AI and Google's Gemini models to provide personalized recommendations.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI-powered travel planner simplifies trip planning and booking",
+      "claim_description": "The GenAI travel planner enables guests to build full itineraries and book hotels in a few taps, making trip planning easier and more interactive.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Soon, guests will use the IHG One Rewards mobile app as a true mobile travel companion to build a full itinerary and book hotels in a few taps.",
+      "quote_location": "Quote from Jolie Fleming",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The simplified booking process is directly enabled by GenAI-powered travel planning capabilities using Vertex AI and Gemini models.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Enhanced self-service options through AI capabilities",
+      "claim_description": "Genesys AI capabilities enable IHG to enhance self-service options in contact centers, optimizing operations and creating more seamless guest interactions.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Genesys is enabling IHG to optimize operations, enhance self-service options and create more seamless guest interactions.",
+      "quote_location": "Modernization section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Self-service enhancement is explicitly attributed to next-generation AI capabilities through the Genesys Cloud platform.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Zero downtime migration of thousands of agents and phone numbers",
+      "claim_description": "IHG executed one of its largest customer experience center transformations, migrating thousands of agents and toll-free numbers across eight global sites without any downtime.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Recently, IHG executed one of its largest-ever customer experience center transformations, migrating thousands of guest services agents and thousands of toll-free numbers across eight global sites\u2014 without any downtime.",
+      "quote_location": "Implementation section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Migration success enabled by Genesys Cloud platform which includes AI capabilities, but the zero-downtime achievement is primarily an infrastructure accomplishment.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Faster guest response times through intelligent routing",
+      "claim_description": "Genesys Cloud's intelligent routing capabilities help IHG guests get answers faster, improving response times across contact center operations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Behind the scenes, an enormous network of people, platforms and phone lines came together to ensure guests get answers faster than they can say, 'Late checkout, please.'",
+      "quote_location": "Implementation section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Faster response times directly attributed to intelligent routing capabilities, which are AI-powered features of the Genesys Cloud platform.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "Mobile app became fastest-growing booking channel",
+      "claim_description": "IHG's mobile app has become the company's fastest-growing booking channel following investments in personalization and AI-driven features.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The company has invested heavily in its IHG One Rewards mobile app, which has become its fastest-growing booking channel.",
+      "quote_location": "Technology initiatives section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Growth driven by multiple factors including AI-powered personalization features, but also broader app improvements and user experience enhancements.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Increased hotel revenue from upselling through personalization",
+      "claim_description": "IHG's technological advancements including personalized booking experiences enable hotels to see increased revenue from upselling opportunities.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "These technological advancements are benefiting both guests and hoteliers. Guests enjoy a more personalized and seamless travel experience, while hotels see increased revenue from upselling and enhanced guest satisfaction.",
+      "quote_location": "Benefits section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Revenue increase from upselling enabled by personalized booking platform and AI-driven recommendations, though part of broader technology platform improvements.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "IHG operates 6,000+ hotels across 19 brands in 100+ countries",
+      "claim_description": "IHG Hotels & Resorts is one of the world's leading hotel companies with more than 6,000 hotels across 19 brands in over 100 countries.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "IHG Hotels & Resorts [LON:IHG, NYSE:IHG (ADRs)], one of the world's leading hotel companies",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "IHG employs approximately 345,000 people globally",
+      "claim_description": "Approximately 345,000 people work across IHG's hotels and corporate offices globally.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Approximately 345,000 people work across IHG's hotels and corporate offices globally.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Hospitality sector rated as having best customer service",
+      "claim_description": "56% of respondents in a Genesys study rated Hospitality and Travel as having the best customer service among industries.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "A recent Genesys study revealed that 56% of respondents rated Hospitality and Travel as having the best customer service.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "GenAI travel planner launched in second half of 2024",
+      "claim_description": "IHG's generative AI-powered travel planning capability launched in the second half of 2024 within the IHG One Rewards mobile app.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "a suite of new features that will launch in the second half of 2024, creating a more dynamic digital guest experience",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Google Cloud became IHG's cloud provider in 2022",
+      "claim_description": "Google Cloud became IHG's cloud provider in 2022, when IHG migrated components of its data to BigQuery.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Google Cloud became IHG's cloud provider in 2022, when IHG migrated components of its data to BigQuery, a fully managed, serverless data warehouse.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "New mobile app fully launched in May 2022",
+      "claim_description": "IHG fully launched the new IHG One Rewards App in late May 2022 at its Americas Owners Conference in Las Vegas.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By late May 2022, IHG fully launched the new IHG One Rewards App at its Americas Owners Conference In Las Vegas.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Genesys Cloud implementation announced May 2025",
+      "claim_description": "Genesys announced IHG's implementation of Genesys Cloud platform for global call center operations on May 14, 2025.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "San Francisco, May 14, 2025 \u2013 Genesys\u00ae, a global cloud leader in AI-Powered Experience Orchestration, announced that the Genesys Cloud\u2122 platform is helping IHG Hotels & Resorts",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "Focus on growing customer loyalty and engagement",
+      "claim_description": "Investments in the IHG One Rewards mobile app and technology are critical parts of IHG's efforts to grow customer loyalty and engagement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Investments in the IHG One Rewards mobile app and technology to support IHG's loyalty program are critical parts of IHG's efforts to grow customer loyalty and engagement",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Commitment to enhancing guest experience through technology",
+      "claim_description": "IHG's decision to implement advanced technology platforms was driven by commitment to enhancing guest experience and future-proofing capabilities.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "IHG's decision to implement Genesys Cloud was driven by our commitment to enhancing the guest experience through cutting-edge technology and future-proofing our contact center capabilities",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "Customer service and support operations",
+      "claim_description": "IHG operates global call center operations with thousands of guest services agents across eight global sites handling reservations and customer care.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "IHG executed one of its largest-ever customer experience center transformations, migrating thousands of guest services agents and thousands of toll-free numbers across eight global sites",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10.0",
+      "apqc_name": "Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "Digital booking and reservation management",
+      "claim_description": "IHG operates digital booking platforms including mobile app, brand websites, and guest reservation systems for managing hotel bookings.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "source_quote": "The new app is sleek and seamless, providing an end-to-end personalized experience for booking, check-in, IHG One Rewards Loyalty Program benefit management",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "Loyalty program management",
+      "claim_description": "IHG operates IHG One Rewards, one of the world's largest hotel loyalty programs, managing member benefits, points, and milestone rewards.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "With a family of 19 hotel brands and IHG One Rewards, one of the world's largest hotel loyalty programmes",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.5",
+      "apqc_name": "Manage Customer Relationships",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "scale",
+      "claim_title": "Over $300 million invested in technology platforms",
+      "claim_description": "IHG has invested over $300 million in recent years in its technology platforms including guest reservation system, brand websites, and cloud-based data analytics.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Beyond the mobile app, IHG has invested over $300 million in recent years in its technology platforms, including its guest reservation system, brand websites, and cloud-based data analytics capabilities.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "scale",
+      "claim_title": "Mobile app supports 18 languages across 17 brands",
+      "claim_description": "The IHG One Rewards mobile app needed to be translated into 18 languages and work across IHG's 17 global brands and 6,000+ hotels.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Plus, the new app needed to work with both iOS and Android, be translated into 18 languages and work across IHG's 17 global brands and 6,000+ hotels.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "sectoral",
+      "claim_title": "Travel decision fatigue affects 61% of Australian travelers",
+      "claim_description": "IHG research found that 61% of Australian travelers feel overwhelmed by important decisions, with 41% citing choosing a holiday destination as a top stressor.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The research found that 61% of Aussie travelers feel overwhelmed by important decisions, with 41% citing choosing a holiday destination as one of their top stressors.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "products_services",
+      "claim_title": "IHG operates 19 hotel brands across luxury to essentials segments",
+      "claim_description": "IHG's portfolio includes 19 brands spanning Luxury & Lifestyle, Premium, Essentials, Suites, and Exclusive Partners segments.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Luxury & Lifestyle: Six Senses Hotels Resorts Spas, Regent Hotels & Resorts, InterContinental Hotels & Resorts, Vignette Collection, Kimpton Hotels & Restaurants, Hotel Indigo - Premium: voco hotels, HUALUXE Hotels & Resorts, Crowne Plaza Hotels & Resorts, EVEN Hotels",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

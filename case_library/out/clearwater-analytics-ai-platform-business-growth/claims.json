@@ -1,0 +1,865 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Clearwater-GPT to deliver productivity gains and cost reductions",
+      "claim_description": "Clearwater-GPT promises to enable significant productivity gains, cost reductions, and competitive advantage for clients through generative AI applications that accelerate decision-making and help take advantage of market opportunities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Clearwater-GPT promises to be an extraordinary breakthrough for our clients that will enable significant productivity gains, cost reductions, and an enviable competitive advantage.",
+      "quote_location": "CEO statement in press release",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CEO explicitly attributes productivity gains and cost reductions to Clearwater-GPT generative AI technology",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Clearwater-GPT drives operational improvements and faster customer request handling",
+      "claim_description": "Clearwater-GPT is being used by employees to drive operational improvements and handle customer requests faster across business functions, modernizing client experience and reducing company costs.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Clearwater-GPT is already being used by our employees to drive operational improvements and handle customer requests faster across business functions modernizing the client experience and reducing our own costs.",
+      "quote_location": "CTO statement in press release",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CTO directly states Clearwater-GPT is being used to drive operational improvements and handle requests faster",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "faster",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Clearwater-GPT to expedite client onboarding",
+      "claim_description": "Implementation and service teams plan to use Clearwater-GPT to expedite client onboarding, ensuring seamless experience and faster track to production.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The implementation and service teams at Clearwater plan to use Clearwater-GPT to expedite client onboarding, ensuring a seamless experience for clients and a faster track to production.",
+      "quote_location": "Clearwater Operational Advancements section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Explicitly states teams plan to use Clearwater-GPT to expedite onboarding",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Clearwater-GPT to increase auto-reconciliation percentage meaningfully",
+      "claim_description": "Clearwater-GPT aims to meaningfully increase the percentage of auto-reconciliation and deliver intraday reconciliation processing, improving capacity to serve clients.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Additionally, the tool will aim to increase the percentage of auto-reconciliation meaningfully and deliver on intraday reconciliation processing.",
+      "quote_location": "Clearwater Operational Advancements section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Tool explicitly aims to increase auto-reconciliation percentage",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "$75k annual AWS hosting cost savings from Atlassian Cloud migration",
+      "claim_description": "Clearwater Analytics saved $75,000 per year on AWS hosting costs by migrating to Atlassian Cloud Premium from Data Center.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "saving $75k per year on hosting costs by migrating to Atlassian Cloud Premium",
+      "quote_location": "Title and Impact section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Savings from cloud migration, not AI-specific, but part of broader technology modernization enabling AI capabilities",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "75000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Atlassian Cloud automation saves huge time through ticket creation/elimination",
+      "claim_description": "Moving to Jira Service Management cloud and building automation to create or eliminate tickets has led to huge time savings for Clearwater.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Moving into Jira Service Management cloud and building out a lot of automation to create or even eliminate tickets has been a huge time savings too.",
+      "quote_location": "Erica Larson quote",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Automation features enable efficiency but not explicitly AI-driven; supports AI infrastructure",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "huge",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "3 days per week engineering effort saved through AWS preventive controls",
+      "claim_description": "Clearwater saved 3 days of engineering effort per week by using preventive controls on AWS from the start, avoiding time loss from tracing and fixing noncompliant resources.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Using the preventive controls on AWS from the start to save 3 days of engineering effort per week, avoiding time loss resulting from tracing and fixing noncompliant resources.",
+      "quote_location": "Solution section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "AWS governance controls save time but not AI-specific; infrastructure enables AI development",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "200% increase in resource management capacity on AWS",
+      "claim_description": "Using AWS Organizations, Control Tower, and CloudFormation, Clearwater can manage up to 200% more resources than it could on premises.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Using AWS Organizations, AWS Control Tower, and AWS CloudFormation, Clearwater can manage up to 200 percent more resources than it could on premises.",
+      "quote_location": "Solution section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Cloud infrastructure capacity increase enables AI development but not directly AI-driven",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "200",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "AWS sandbox access reduced from 2 weeks to 5 minutes",
+      "claim_description": "Developers can access AWS resources in 5 minutes in sandbox environment, and it takes 2 hours instead of 2 weeks to spin up an AWS account for projects.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Now, developers can access AWS resources in 5 minutes in a sandbox environment, and it takes 2 hours instead of 2 weeks to spin up an AWS account set for projects.",
+      "quote_location": "Solution section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Infrastructure automation enables faster development including AI projects but not AI-specific",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "5",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "22% ARR growth year-over-year in Q2 2024",
+      "claim_description": "Annualized Recurring Revenue reached $427.2M as of June 30, 2024, an increase of 22.2% from $349.5M as of June 30, 2023.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "ARR grew 22% year on year",
+      "quote_location": "CEO statement and Key Metrics Summary",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "CEO mentions generative AI investments driving revenue growth; ARR growth partially attributable to AI capabilities",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "22",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "35% Adjusted EBITDA growth year-over-year in Q2 2024",
+      "claim_description": "Adjusted EBITDA for Q2 2024 was $33.4M, an increase of 34.7% from $24.8M in Q2 2023, with margin increasing 370 basis points to 31.3%.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "adjusted EBITDA grew 35%",
+      "quote_location": "CEO statement and Financial Results Summary",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Growth driven by platform efficiency and innovation including AI investments mentioned by CEO",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "35",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "117% free cash flow growth year-over-year in Q2 2024",
+      "claim_description": "Free cash flows for Q2 2024 were $42.4M, an increase of 116.9% from $19.6M in Q2 2023.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "our free cash flows grew by 117% compared to the previous year",
+      "quote_location": "CEO statement and Financial Results Summary",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "CEO links operational efficiency improvements including AI investments to financial performance",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "117",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-013",
+      "claim_title": "Generative AI investments to drive responsiveness, data quality, and revenue growth",
+      "claim_description": "Clearwater continues to make meaningful investments in generative AI to drive responsiveness and completeness to customer requests, improve data quality, and drive revenue growth.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "we continue to make meaningful investments in generative AI to drive responsiveness and completeness to customer requests, improve data quality and drive revenue growth.",
+      "quote_location": "CEO statement",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CEO explicitly states generative AI investments drive responsiveness, data quality, and revenue growth",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Financial services sector - investment management",
+      "claim_description": "Clearwater Analytics operates in the financial services sector, specifically providing investment management, accounting, reporting, and analytics solutions.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "source_quote": "Clearwater Analytics (NYSE: CWAN), a leading provider of SaaS-based investment management, accounting, reporting, and analytics solutions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "Over $6.4 trillion in assets under management",
+      "claim_description": "Clearwater's platform processes data for over $6.4 trillion in assets, serving over 1,000 companies globally.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "source_quote": "more than $6.4 trillion in assets spanning traditional and alternative asset types",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Public company listed on NYSE",
+      "claim_description": "Clearwater Analytics is a publicly traded company on the New York Stock Exchange under ticker CWAN, having gone public in 2021.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "source_quote": "Clearwater Analytics (NYSE: CWAN)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "Clearwater-GPT announced July 2023",
+      "claim_description": "Clearwater-GPT was announced on July 25, 2023, with expected availability to select customers in second half of 2023.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BOISE, Idaho \u2014 July 25, 2023 \u2014 Clearwater Analytics (NYSE: CWAN)...announced the upcoming launch of Clearwater-GPT",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "products_services",
+      "claim_title": "SaaS-based investment management platform",
+      "claim_description": "Clearwater provides a single instance, multi-tenant SaaS platform for investment management, accounting, reporting, analytics, compliance, and risk management.",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S4"
+      ],
+      "source_quote": "a global, industry-leading SaaS solution, automates the entire investment lifecycle. With a single instance, multi-tenant architecture",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Over 1,700 employees globally",
+      "claim_description": "Clearwater Analytics has over 1,700 employees, with over 500 in R&D department.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We have over 1,700 employees now",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "AWS migration completed in 2023",
+      "claim_description": "Clearwater migrated to AWS in 2023 after a 10-month process to support rapid growth and global expansion.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By migrating to AWS in 2023, Clearwater achieved the ability to scale up and down as needed",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "Global expansion focus on Europe",
+      "claim_description": "Clearwater is planning to scale across geographic regions with focus on portfolio expansion in Europe.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Now that Clearwater has gone public, it is looking to scale across geographic regions by focusing on portfolio expansion in Europe.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "Investment accounting and reporting function",
+      "claim_description": "Core business function is investment accounting, reconciliation, and regulatory reporting for institutional investors.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "investment management, accounting, reporting, and analytics solutions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.0",
+      "apqc_name": "Manage Financial Resources",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "Q2 2024 financial results reported July 2024",
+      "claim_description": "Second quarter 2024 financial results were announced on July 31, 2024, showing strong growth metrics.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "BOISE, Idaho, July 31, 2024 /PRNewswire/ -- Clearwater Analytics Holdings, Inc....today announced its financial results for the quarter ended June 30, 2024.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "strategic_intent",
+      "claim_title": "Multi-product company strategy with cross-sell focus",
+      "claim_description": "Clearwater is pursuing a multi-product strategy including PRISM, JUMP OMS/PMS, and Stable Value solutions with focus on cross-sell and upsell.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Clearwater Analytics continued on its journey towards being a multi-product company and successfully drove cross-sell and upsell in the second quarter.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "IT and software development operations",
+      "claim_description": "Clearwater has significant IT and software engineering operations supporting platform development and client services.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "Our 500+ person R&D Department",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10.0",
+      "apqc_name": "Manage Information Technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

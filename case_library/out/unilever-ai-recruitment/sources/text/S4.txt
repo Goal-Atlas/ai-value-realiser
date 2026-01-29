@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/lovable-uploads/fa1b25cc-0e98-4a46-8667-1fd5cd0011c0.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Recruiter Lab - Find the Perfect AI Tool for Your Recruiting Stack</title>
+    
+    <!-- Performance optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="/lovable-uploads/18965502-4c39-462d-ba33-02172d5ad1e0.png" as="image" type="image/png" />
+    <link rel="preload" href="/lovable-uploads/fa1b25cc-0e98-4a46-8667-1fd5cd0011c0.png" as="image" type="image/png" />
+    <link rel="preload" href="/placeholder.svg" as="image" type="image/svg+xml" />
+    
+    <!-- Primary Meta Tags -->
+    <meta name="description" content="Discover and compare top AI recruiting tools to streamline your hiring process. Join thousands of recruiters making better hiring decisions." />
+    <meta name="keywords" content="AI recruiting tools, AI for recruiters, recruiting technology, hiring tools, AI job search, recruitment automation" />
+    <meta name="author" content="AI Recruiter Lab" />
+    
+    <!-- Canonical URL - Fixed to use only one canonical URL -->
+    <link rel="canonical" href="https://airecruiterlab.com/" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://airecruiterlab.com/" />
+    <meta property="og:title" content="AI Recruiter Lab - Find the Perfect AI Tool for Your Recruiting Stack" />
+    <meta property="og:description" content="Discover and compare top AI recruiting tools to streamline your hiring process. Join thousands of recruiters making better hiring decisions." />
+    <meta property="og:image" content="https://airecruiterlab.com/og-image.png" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://airecruiterlab.com/" />
+    <meta property="twitter:title" content="AI Recruiter Lab - Find the Perfect AI Tool for Your Recruiting Stack" />
+    <meta property="twitter:description" content="Discover and compare top AI recruiting tools to streamline your hiring process. Join thousands of recruiters making better hiring decisions." />
+    <meta property="twitter:image" content="https://airecruiterlab.com/og-image.png" />
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom Styles for Sticky Navigation -->
+    <style>
+      .sticky-active {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        transition: all 0.3s ease;
+        animation: slideDown 0.3s ease forwards;
+        background: rgba(23, 22, 43, 0.95);
+        -webkit-backdrop-filter: blur(12px);
+                backdrop-filter: blur(12px);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        padding: 1rem;
+      }
+      
+      @keyframes slideDown {
+        from {
+          transform: translateY(-100%);
+        }
+        to {
+          transform: translateY(0);
+        }
+      }
+
+      #filterBar {
+        transition: all 0.3s ease;
+      }
+      
+      /* Apply content-visibility to improve paint time */
+      .lazy-load {
+        content-visibility: auto;
+        contain-intrinsic-size: 600px;
+      }
+
+      /* Prevent layout shifts */
+      img {
+        height: auto;
+        max-width: 100%;
+      }
+
+      /* Size placeholder for images to prevent layout shifts */
+      .img-placeholder {
+        position: relative;
+        overflow: hidden;
+        background-color: #f0f0f0;
+      }
+    </style>
+    
+    <!-- Structured Data / Schema.org -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AI Recruiter Lab",
+        "url": "https://airecruiterlab.com/",
+        "description": "Discover and compare top AI recruiting tools to streamline your hiring process.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://airecruiterlab.com?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L6FKVLXVYJ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-L6FKVLXVYJ');
+    </script>
+    <script type="module" crossorigin src="/assets/index-W7o0bvrJ.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Bl_wwa-m.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
+  </body>
+</html>

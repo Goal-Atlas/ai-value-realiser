@@ -1,0 +1,21 @@
+AI use case study: Dentsu x Microsoft
+Posted on Thursday 13 November 2025
+Dentsu transformed media planning by embedding an AI copilot into their workflow, reducing time-to-insight by 90% and unlocking faster, smarter, and more creative campaign decisions
+Dentsu, one of the world’s largest media agencies, faced a growing challenge: media planning was becoming increasingly complex, fragmented, and slow. Teams were spending weeks manually analysing data across disparate systems, delaying campaign activation and limiting agility. In a fast-moving media landscape, this lag time was a liability. The opportunity was clear—use AI to streamline planning, accelerate insights, and empower teams to make faster, smarter decisions.
+Goal
+Dentsu aimed to dramatically reduce the time it took to generate actionable insights for media planning. The goal was to empower planners with real-time intelligence, improve operational efficiency, and enable faster campaign activation. By embedding AI into their workflow, they sought to democratise access to analytics, reduce reliance on specialist teams, and unlock more time for strategic creativity and client engagement.
+Solution
+Dentsu partnered with Microsoft to build a predictive analytics copilot using Azure Kubernetes Service, Azure OpenAI, and Azure AI Foundry. This AI-powered assistant was embedded directly into their planning systems, enabling users to ask natural language questions like “What’s the optimal budget allocation?” or “Which channels are underperforming?” and receive instant, data-driven answers. The copilot interpreted complex media metrics, modelled client data, and delivered insights in minutes. This solution replaced manual analysis with conversational intelligence, streamlining workflows and accelerating decision-making. It also ensured responsible AI use, with governance and privacy built into the Azure platform.
+Process
+The first step was identifying the bottlenecks in Dentsu’s planning workflow and aligning on a shared vision for transformation. Microsoft and Dentsu co-developed the solution architecture, integrating Azure AI services into existing systems. Expertise was needed across data science, media strategy, and engineering to ensure the copilot could interpret diverse datasets and deliver relevant insights. A cross-functional team collaborated to train the AI models, define governance protocols, and embed the assistant into planners’ daily tools—ensuring adoption was seamless and intuitive.
+Outcome
+The impact was immediate and measurable. Dentsu achieved a 90% reduction in time-to-insight, turning weeks of manual analysis into minutes of conversational intelligence. Campaign activation became faster, operational costs dropped, and planners were freed to focus on strategic work. The solution also democratised access to analytics, enabling broader teams to self-serve insights without relying on data specialists. This shift not only improved efficiency but also enhanced creativity and responsiveness—critical in a media environment where relevance is measured in hours, not days.
+Learnings
+One of the key learnings was the importance of embedding AI into existing workflows rather than introducing standalone tools. Adoption was highest when the copilot felt like a natural extension of planners’ daily routines. Another insight was the value of conversational interfaces—natural language queries lowered the barrier to entry and made advanced analytics accessible to non-technical users. Governance was also critical; building on Azure ensured that privacy, security, and bias monitoring were baked in from the start. Finally, success depended on cross-functional collaboration. Data scientists, engineers, and media strategists had to work together to ensure the AI delivered relevant, trustworthy insights. For others looking to do something similar, start with a clear use case, build with the end user in mind, and prioritise responsible AI from day one.
+Topics
+Related content
+AI use case study: RIU x Making Science
+Learn moreAI use case study: Microsoft x St Johns ambulance
+Learn more
+Fast forward to 2030 with Futurescape
+An in-depth exploration of the attitudes, innovations and media shifts that will shape the years ahead and redefine how we advertise by the turn of the decade

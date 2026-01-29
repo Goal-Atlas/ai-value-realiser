@@ -1,0 +1,781 @@
+---
+case_id: morgan-stanley-ai-assistant-financial-advisors
+organisation: Morgan Stanley
+title: AI Assistant for Financial Advisors
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-train...
+  url: https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.investmentnews.com/fintech/morgan-stanleys-open-ai-powered-solution-...
+  url: https://www.investmentnews.com/fintech/morgan-stanleys-open-ai-powered-solution-for-advisors-has-expanded/254880
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://aiexpert.network/ai-at-morgan-stanley-2025/
+  url: https://aiexpert.network/ai-at-morgan-stanley-2025/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.thedailyupside.com/technology/artificial-intelligence/how-morgan-sta...
+  url: https://www.thedailyupside.com/technology/artificial-intelligence/how-morgan-stanleys-ai-helped-close-100k-new-clients-this-year/
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://illuminateai.co.uk/experience/the-morgan-stanley-case-study/
+  url: https://illuminateai.co.uk/experience/the-morgan-stanley-case-study/
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 98% adoption rate of AI Assistant by financial advisors
+  claim_description: Morgan Stanley's AI @ Morgan Stanley Assistant achieved 98% adoption
+    among its financial advisors, demonstrating high user acceptance of the generative
+    AI tool.
+  source_ids:
+  - S2
+  source_quote: The use of the AI @ Morgan Stanley Assistant has reached 98%, the
+    firm says
+  quote_location: Mid-article
+  ai_attribution: direct
+  attribution_evidence: The 98% adoption rate directly measures usage of the AI Assistant
+    tool itself.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '98'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 100,000 successful referrals doubled through AI matching
+  claim_description: Morgan Stanley's AI-powered 'human referrals' program doubled
+    successful prospect-to-advisor matches to over 100,000 year-to-date, improving
+    client acquisition efficiency.
+  source_ids:
+  - S4
+  source_quote: Successful referrals have now doubled at the firm to over 100,000
+    year-to-date, Yeshaya said.
+  quote_location: Mid-article
+  ai_attribution: direct
+  attribution_evidence: AI matching program directly responsible for doubling referrals
+    through automated prospect-advisor pairing.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - automation
+  outcome:
+  - business_growth
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '100000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: $64 billion in net new assets in Q3 attributed to AI tools
+  claim_description: Morgan Stanley reported almost $64 billion in net new assets
+    in Q3, representing a 76% increase over previous quarter and 80% year-over-year,
+    attributed largely to AI initiatives.
+  source_ids:
+  - S4
+  source_quote: The Wall Street investment bank reported record revenue and profits
+    in its wealth management unit last week, racking up almost $64 billion in new
+    assets in the third quarter alone...Executives have said it's due in large part
+    to new AI tech.
+  quote_location: Opening paragraphs
+  ai_attribution: contributing
+  attribution_evidence: Executives attribute growth in large part to AI, but other
+    factors likely contribute to asset growth.
+  verification_status: needs_review
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - revenue_lift
+  - business_growth
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '64000000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: 30 minutes saved per client meeting with Debrief tool
+  claim_description: Morgan Stanley's AI Debrief tool, which automates meeting notes
+    and follow-ups, saves approximately 30 minutes per client meeting for financial
+    advisors.
+  source_ids:
+  - S4
+  source_quote: A Morgan Stanley financial advisor in Houston, cited in a press release,
+    said Debrief freed up about half an hour of time per client meeting.
+  quote_location: End of article
+  ai_attribution: direct
+  attribution_evidence: Time savings directly result from AI Debrief tool automating
+    note-taking and follow-up tasks.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '30'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Record $6 trillion in client assets supported by AI tools
+  claim_description: Morgan Stanley grew client assets to a record $6 trillion, with
+    AI tools like Debrief contributing by freeing advisor time for client acquisition
+    and relationship building.
+  source_ids:
+  - S4
+  source_quote: That extra time has helped Morgan Stanley grow client assets to a
+    record $6 trillion.
+  quote_location: End of article
+  ai_attribution: contributing
+  attribution_evidence: AI tools contributed by freeing advisor time, but asset growth
+    involves multiple factors including market conditions.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - business_growth
+  - revenue_lift
+  cognitive_depth: generative
+  metric_raw:
+    value: '6000000000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: 300 financial advisors successfully piloted GPT-4 system
+  claim_description: Morgan Stanley conducted a large-scale test with 300 financial
+    advisors using GPT-4 fine-tuned on 100,000 internal documents to answer investment,
+    business, and process questions.
+  source_ids:
+  - S1
+  source_quote: In a large-scale test of the use case, 300 Morgan Stanley FAs are
+    trying it out when they have questions on these types of topics. When they get
+    an answer they can give it a thumbs up or down, or give more detailed feedback
+    if needed. Thus far they like it.
+  quote_location: Mid-article
+  ai_attribution: direct
+  attribution_evidence: The pilot directly tested GPT-4 system with FAs, measuring
+    their usage and satisfaction.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '300'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: GPT-4 fine-tuned on 100,000 internal documents for knowledge access
+  claim_description: Morgan Stanley fine-tuned GPT-4 on over 100,000 internal documents
+    covering investment recommendations, business questions, and processes to provide
+    FAs with instant access to firm knowledge.
+  source_ids:
+  - S1
+  source_quote: It has identified content in over 100,000 of its own documents on
+    which its over 16,000 financial advisors (FAs) might have questions...It has 'fine-tune
+    trained' GPT-4 on these issues with the 100,000 documents as a training corpus.
+  quote_location: Early section
+  ai_attribution: direct
+  attribution_evidence: The system directly uses GPT-4 trained on these documents
+    to answer FA questions.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Automated meeting summaries and action items with Debrief
+  claim_description: AI @ Morgan Stanley Debrief automatically generates meeting summaries,
+    surfaces action items, and saves notes to Salesforce, streamlining post-meeting
+    workflows for advisors.
+  source_ids:
+  - S2
+  source_quote: AI @ Morgan Stanley Debrief enables generation of notes of client
+    meetings on behalf of financial advisors, subject to client approval, and the
+    surfacing of action items. It automatically generates a summary of the meeting
+    which can be emailed if required and saves a note into Salesforce.
+  quote_location: Mid-article
+  ai_attribution: direct
+  attribution_evidence: AI Debrief directly performs the automation of note-taking,
+    summary generation, and CRM integration.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Morgan Stanley began exploring generative AI in late 2021
+  claim_description: Morgan Stanley started discussions with OpenAI about applying
+    generative models approximately 18 months before March 2023, around late 2021.
+  source_ids:
+  - S1
+  source_quote: The wealth management organization there has been discussing with
+    OpenAI how best to apply generative models for a year and a half or so.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: temporal
+  claim_title: Became first wealth management OpenAI strategic partner in March 2023
+  claim_description: Morgan Stanley became the first wealth management firm to become
+    a strategic partner of OpenAI in March 2023.
+  source_ids:
+  - S2
+  source_quote: Morgan Stanley became the first wealth management firm to become a
+    strategic partner of Open AI in March 2023
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: Full rollout of AI Assistant completed six months after March 2023
+  claim_description: Morgan Stanley fully rolled out its AI @ Morgan Stanley Assistant
+    approximately six months after becoming an OpenAI partner, around September 2023.
+  source_ids:
+  - S2
+  source_quote: Morgan Stanley became the first wealth management firm to become a
+    strategic partner of Open AI in March 2023 and six months later fully rolled out
+    is AI @ Morgan Stanley Assistant
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: Debrief rollout completed in June 2024
+  claim_description: Morgan Stanley finished the rollout of its Debrief meeting automation
+    tool in June 2024.
+  source_ids:
+  - S4
+  source_quote: Morgan Stanley finished a rollout of Debrief in June
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: Over 16,000 financial advisors serve as primary users
+  claim_description: Morgan Stanley has over 16,000 financial advisors who are the
+    primary users of the AI tools.
+  source_ids:
+  - S1
+  source_quote: It has identified content in over 100,000 of its own documents on
+    which its over 16,000 financial advisors (FAs) might have questions
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: organisational
+  claim_title: Approximately 20,000 advisors benefit from AI initiative
+  claim_description: Morgan Stanley has roughly 20,000 advisors who benefit from the
+    AI @ Morgan Stanley initiative.
+  source_ids:
+  - S4
+  source_quote: is freeing up thousands of hours of time for the firm's roughly 20,000
+    advisors
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: scale
+  claim_title: Over 80,000 employees across 40+ countries
+  claim_description: Morgan Stanley operates with over 80,000 employees and has offices
+    in more than 40 countries globally.
+  source_ids:
+  - S1
+  source_quote: Morgan Stanley has over 80,000 employees and offices in more than
+    40 countries.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: sectoral
+  claim_title: Wealth management and financial services sector
+  claim_description: Morgan Stanley operates in the wealth management and financial
+    services sector, providing investment advice and financial planning services.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Morgan Stanley, which has been thinking for a while about how generative
+    AI systems could help with wealth management.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: functional
+  claim_title: Knowledge management function central to AI success
+  claim_description: Morgan Stanley maintains a disciplined knowledge management process
+    with a single repository for important content managed by a single team, which
+    proved critical for AI implementation.
+  source_ids:
+  - S1
+  source_quote: We have a single repository for important content, managed by a single
+    team. LLMs do not solve the problem of disparate data sources spread across a
+    company.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10018'
+  apqc_name: Manage knowledge and content
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: functional
+  claim_title: Client relationship management and advisory services
+  claim_description: Financial advisors use AI tools to support client relationship
+    management, investment recommendations, and advisory services.
+  source_ids:
+  - S1
+  - S2
+  source_quote: investment recommendations (what is our research organization's view
+    on Alphabet stock and what's the bull and bear case for its future performance?),
+    general business questions (who are the five major competitors to IBM?) and process
+    questions
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: 08046
+  apqc_name: Manage customer relationships
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: organisational
+  claim_title: Jeff McMillan leads AI innovation as firmwide head of AI
+  claim_description: Jeff McMillan serves as head of data and analytics for Wealth
+    Management and was appointed firmwide head of artificial intelligence, leading
+    the AI initiatives.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Morgan Stanley became the first wealth management firm to become a
+    strategic partner of Open AI in March 2023...It also created a new role for its
+    head of analytics, data and innovation, Jeff McMillan, who became its firmwide
+    head of artificial intelligence earlier this year.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: strategic_intent
+  claim_title: Competitive advantage through early AI adoption
+  claim_description: Morgan Stanley pursued early adoption of generative AI to gain
+    competitive advantage in wealth management services.
+  source_ids:
+  - S2
+  source_quote: The use of artificial intelligence is at varying stages in wealth
+    management, but one Wall Street firm has been keen to gain a competitive advantage
+    as an early adopter.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: products_services
+  claim_title: Next Best Action system for personalized investment recommendations
+  claim_description: Morgan Stanley operates a Next Best Action system using machine
+    learning to identify personalized investment ideas and distribute them through
+    CRM systems.
+  source_ids:
+  - S1
+  source_quote: Its 'Next Best Action' system is one of the best in the industry for
+    identifying (with machine learning) personalized investment ideas and distributing
+    (with its CRM system) ideas and messages of interest to particular clients.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: functional
+  claim_title: Compliance and content curation processes
+  claim_description: Morgan Stanley maintains rigorous compliance review processes
+    for investment research and curated content used in AI training.
+  source_ids:
+  - S1
+  source_quote: The documents on which they fine-tune trained the system were carefully
+    curated—not just for this application, but in their normal knowledge management
+    process—and their investment research is reviewed by compliance officers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10885'
+  apqc_name: Manage regulatory compliance
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 8
+    verified: 6
+    needs_review: 2
+    rejected: 0
+    by_attribution:
+      direct: 6
+      contributing: 2
+  context_claims:
+    total: 14
+    verified: 12
+    unverified: 2
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI Assistant for Financial Advisors
+
+## Executive Summary
+
+Morgan Stanley: 98% adoption rate of AI Assistant by financial advisors.
+
+## Key Findings
+
+- **98% adoption rate of AI Assistant by financial advisors** — verified (adoption)
+  - Quote: "The use of the AI @ Morgan Stanley Assistant has reached 98%, the firm says"
+
+- **100,000 successful referrals doubled through AI matching** — verified (outcome)
+  - Quote: "Successful referrals have now doubled at the firm to over 100,000 year-to-date, Yeshaya said."
+
+- **$64 billion in net new assets in Q3 attributed to AI tools** — needs_review (outcome)
+  - Quote: "The Wall Street investment bank reported record revenue and profits in its wealth management unit last week, racking up almost $64 billion in new assets in the third quarter alone...Executives have sa..."
+
+- **30 minutes saved per client meeting with Debrief tool** — verified (outcome)
+  - Quote: "A Morgan Stanley financial advisor in Houston, cited in a press release, said Debrief freed up about half an hour of time per client meeting."
+
+- **Record $6 trillion in client assets supported by AI tools** — verified (outcome)
+  - Quote: "That extra time has helped Morgan Stanley grow client assets to a record $6 trillion."
+
+- **300 financial advisors successfully piloted GPT-4 system** — verified (adoption)
+  - Quote: "In a large-scale test of the use case, 300 Morgan Stanley FAs are trying it out when they have questions on these types of topics. When they get an answer they can give it a thumbs up or down, or give..."
+
+- **GPT-4 fine-tuned on 100,000 internal documents for knowledge access** — needs_review (method)
+  - Quote: "It has identified content in over 100,000 of its own documents on which its over 16,000 financial advisors (FAs) might have questions...It has 'fine-tune trained' GPT-4 on these issues with the 100,00..."
+
+- **Automated meeting summaries and action items with Debrief** — verified (method)
+  - Quote: "AI @ Morgan Stanley Debrief enables generation of notes of client meetings on behalf of financial advisors, subject to client approval, and the surfacing of action items. It automatically generates a ..."
+
+## Sources
+
+- **S1**: https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/
+- **S2**: https://www.investmentnews.com/fintech/morgan-stanleys-open-ai-powered-solution-for-advisors-has-expanded/254880
+- **S3**: https://aiexpert.network/ai-at-morgan-stanley-2025/
+- **S4**: https://www.thedailyupside.com/technology/artificial-intelligence/how-morgan-stanleys-ai-helped-close-100k-new-clients-this-year/
+- **S5**: https://illuminateai.co.uk/experience/the-morgan-stanley-case-study/

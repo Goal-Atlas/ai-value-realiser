@@ -1,0 +1,5 @@
+RSNA 2018 in Chicago: South Hall, Booth #4136
+* AI-Rad Companion Chest CT is currently under development. It is not for sale in the U.S. Its future availability cannot be guaranteed.
+** teamplay is not yet commercially available in all countries. Due to regulatory reasons, its future availability cannot be guaranteed. Please contact your local Siemens organization for further details.
+McDonald RJ, Schwartz KM, Eckel LJ, et al. The effects of changes in utilization and technological advancements of cross-sectional imaging on radiologist workload. Acad Radiol. 2015; 22(9):1191–8.
+Branch CR, Charleston SC, Rapaka S, et al. Artificial Intelligence Based Aortic Diameter Quantification on Routine Unenhanced Chest CT. Scientific Session at RSNA 2018. Chicago, USA. Wednesday, Nov 28, 2018.

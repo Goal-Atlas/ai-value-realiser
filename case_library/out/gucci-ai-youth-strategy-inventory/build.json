@@ -1,0 +1,412 @@
+{
+  "case_id": "gucci-ai-youth-strategy-inventory",
+  "build_started": "2026-01-29T09:58:01.954514",
+  "build_completed": "2026-01-29T09:58:04.329251",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Gucci AI-Powered Design Process Optimization",
+      "Gucci AI-Powered Design Process Optimization"
+    ],
+    "results_considered": 4,
+    "urls_ranked": [
+      {
+        "url": "https://digitaldefynd.com/IQ/ways-gucci-using-ai/",
+        "rank": 1
+      },
+      {
+        "url": "https://www.51insights.xyz/p/case-study-guccis-web3-playbook",
+        "rank": 2
+      },
+      {
+        "url": "https://www.latterly.org/gucci-marketing-strategy/",
+        "rank": 3
+      },
+      {
+        "url": "https://www.g-co.agency/insights/gucci-advertising-strategy-case-study",
+        "rank": 4
+      }
+    ],
+    "urls_selected": [
+      "https://digitaldefynd.com/IQ/ways-gucci-using-ai/",
+      "https://www.51insights.xyz/p/case-study-guccis-web3-playbook",
+      "https://www.latterly.org/gucci-marketing-strategy/",
+      "https://www.g-co.agency/insights/gucci-advertising-strategy-case-study"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://digitaldefynd.com/IQ/ways-gucci-using-ai/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 33343,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.51insights.xyz/p/case-study-guccis-web3-playbook",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 8725,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.latterly.org/gucci-marketing-strategy/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 40303,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.g-co.agency/insights/gucci-advertising-strategy-case-study",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 17686,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4-turbo",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 8,
+    "context_claims_count": 14,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2289,
+        "char_offset_end": 2451,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 8197,
+        "char_offset_end": 8350,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 8351,
+        "char_offset_end": 8493,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6343,
+        "char_offset_end": 6543,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2972,
+        "char_offset_end": 3201,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 7701,
+        "char_offset_end": 7905,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 7264,
+        "char_offset_end": 7461,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1206,
+        "char_offset_end": 1295,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 634,
+        "char_offset_end": 779,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4190,
+        "char_offset_end": 4329,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2031,
+        "char_offset_end": 2106,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5902,
+        "char_offset_end": 6036,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 9898,
+        "char_offset_end": 10000,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2813,
+        "char_offset_end": 2928,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2035,
+        "char_offset_end": 2143,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S3",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 527,
+        "char_offset_end": 618,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 680,
+        "char_offset_end": 803,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3296,
+        "char_offset_end": 3388,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S3",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 639,
+        "char_offset_end": 765,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-013",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 7267,
+        "char_offset_end": 7370,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-014",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2139,
+        "char_offset_end": 2284,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

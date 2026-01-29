@@ -1,0 +1,476 @@
+{
+  "case_id": "canva-integrated-veo-3-text-to-video-creation",
+  "build_started": "2026-01-29T09:29:07.437974",
+  "build_completed": "2026-01-29T09:29:12.195346",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Canva AI-powered text-to-video generation integration",
+      "Canva AI-powered text-to-video generation integration"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://www.cnbctv18.com/technology/canva-google-veo-3-model-text-to-video-feature-ws-l-19623141.htm",
+        "rank": 1
+      },
+      {
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/googles-veo-3-comes-to-canva-allows-users-to-generate-8-second-video-clips-using/articleshow/121936408.cms",
+        "rank": 2
+      },
+      {
+        "url": "https://tech.yahoo.com/ai/articles/google-veo-3-video-model-193226592.html",
+        "rank": 3
+      },
+      {
+        "url": "https://aragonresearch.com/google-veo-3-canva-marketing-generative-video/",
+        "rank": 4
+      },
+      {
+        "url": "https://itwire.com/business-it-news/business-intelligence/itwire-google-s-veo-3-comes-to-canva-introducing-create-a-video-clip.html",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://www.cnbctv18.com/technology/canva-google-veo-3-model-text-to-video-feature-ws-l-19623141.htm",
+      "https://timesofindia.indiatimes.com/technology/tech-news/googles-veo-3-comes-to-canva-allows-users-to-generate-8-second-video-clips-using/articleshow/121936408.cms",
+      "https://tech.yahoo.com/ai/articles/google-veo-3-video-model-193226592.html",
+      "https://aragonresearch.com/google-veo-3-canva-marketing-generative-video/",
+      "https://itwire.com/business-it-news/business-intelligence/itwire-google-s-veo-3-comes-to-canva-introducing-create-a-video-clip.html"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.cnbctv18.com/technology/canva-google-veo-3-model-text-to-video-feature-ws-l-19623141.htm",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 3474,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/googles-veo-3-comes-to-canva-allows-users-to-generate-8-second-video-clips-using/articleshow/121936408.cms",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 2681,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://tech.yahoo.com/ai/articles/google-veo-3-video-model-193226592.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 2613,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://aragonresearch.com/google-veo-3-canva-marketing-generative-video/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://itwire.com/business-it-news/business-intelligence/itwire-google-s-veo-3-comes-to-canva-introducing-create-a-video-clip.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 2102,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 5,
+    "context_claims_count": 10,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-001",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 110,
+        "char_offset_end": 245,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-001",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-001",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 414,
+        "char_offset_end": 532,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1067,
+        "char_offset_end": 1225,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 296,
+        "char_offset_end": 388,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 907,
+        "char_offset_end": 1067,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 642,
+        "char_offset_end": 756,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 757,
+        "char_offset_end": 863,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1076,
+        "char_offset_end": 1247,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 364,
+        "char_offset_end": 413,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1237,
+        "char_offset_end": 1444,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 931,
+        "char_offset_end": 1066,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1960,
+        "char_offset_end": 2101,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 338,
+        "char_offset_end": 549,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

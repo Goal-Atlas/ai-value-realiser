@@ -1,0 +1,347 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "AI-driven automated method building for mass spectrometry",
+      "claim_description": "PRM Conductor software uses automated intelligence to build highly effective targeted acquisition methods from discovery data, eliminating manual optimization and improving productivity in method development for biomarker verification.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "PRM Conductor aids in the generation of targeted-MS2 and MS3 assays...Precursors are filtered by whether they have at least a certain number of qualifying transitions, typically three for peptides and two for small molecules.",
+      "quote_location": "How AI speeds method creation and optimization section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The software explicitly uses automated intelligence to filter transitions, create assays with visualization, and export instrument methods based on user-defined templates.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Automated collision energy optimization eliminates manual calibration",
+      "claim_description": "Normalized Collision Energy (NCE) automatically compensates for mass dependency and estimates collision energies, bypassing the need for per-transition optimization required by triple quadrupole mass spectrometers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "NCE bypasses the need for optimization per precursor-to-product ion transition performed by a triple quadrupole mass spectrometer which takes much longer to perform, multiplies the experimental cost due to replicate injections",
+      "quote_location": "How AI speeds method creation and optimization section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "NCE uses automated intelligence to estimate collision energies without manual optimization, directly reducing time and experimental costs.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Dynamic AGC expands quantitation dynamic range",
+      "claim_description": "Dynamic automated gain control maintains constant ion count and high data quality by regulating charges/ions per spectrum, expanding dynamic range from base three orders of magnitude by multiplying it with gate linearity range.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the ability to vary the injection time expands the dynamic range of quantitation, from a base range given by just the storage and detector saturation limits and multiplies it by the gate linearity range",
+      "quote_location": "How AI streamlines data acquisition section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The system uses automated intelligence to regulate ion accumulation in real-time, directly improving data quality and expanding measurement range.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Adaptive RT eliminates missing data and sample re-runs",
+      "claim_description": "Adaptive RT dynamically manages PRM acquisition by updating methods in real-time to adjust for LC perturbations, nearly eliminating risk of missing data and the need for costly sample re-runs.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Adaptive RT, dynamically manages PRM acquisition, which means you'll nearly eliminate the risk of missing data while maximizing target capacity. Missing data requires you to re-run samples, costing time and money.",
+      "quote_location": "How AI streamlines data acquisition section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The system continuously updates and modifies methods autonomously to manage unexpected variations, directly preventing data loss and re-runs.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI-driven workflow improves lab productivity and turnaround times",
+      "claim_description": "Stellar MS software leverages automated intelligence to boost laboratory productivity, capacity, and reputation for high-quality data with faster turnaround times across the entire discovery-to-validation workflow.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Stellar MS software leverage automated intelligence to boost laboratory productivity, capacity, and lab reputation for high-quality data with faster turnaround times.",
+      "quote_location": "Finally: automated intelligence without the drawbacks section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly attributes productivity improvements, increased capacity, and faster turnaround to the automated intelligence capabilities of the Stellar MS software.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Life sciences and clinical research sector",
+      "claim_description": "Thermo Fisher operates in life sciences, specifically serving clinical and translational researchers performing biomarker verification and discovery-to-validation workflows.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This idea is especially true for clinical and translational researchers who perform biomarker verification.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Research and development function",
+      "claim_description": "The AI application supports scientific research activities, specifically method development, data acquisition, and data processing for mass spectrometry experiments.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the Stellar mass spectrometer uses AI to transform the process of building methods, data acquisition management and data processing for interpretation and planning next steps",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10219",
+      "apqc_name": "Perform research and development",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "products_services",
+      "claim_title": "Stellar mass spectrometer with automated intelligence",
+      "claim_description": "Thermo Scientific Stellar mass spectrometer is a first-of-its-kind instrument designed for highly multiplexed targeted quantitation with integrated automated intelligence capabilities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the Thermo Scientific Stellar mass spectrometer (MS)\u2014which uses AI to transform the process of building methods, data acquisition management and data processing",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Addressing technology gap in discovery-to-validation workflow",
+      "claim_description": "The AI solution addresses a historical limitation where no single-vendor solutions offered excellent performance for both discovery and targeted verification, impacting researcher productivity.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Until recently, there were no single-vendor solutions that offered excellent performance for both discovery and targeted verification. This was a serious limitation that impacted how much researchers could rely on AI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "Thermo Fisher Scientific as instrument manufacturer",
+      "claim_description": "Thermo Fisher Scientific manufactures scientific instruments and software for research laboratories, specifically mass spectrometry systems and analytical tools.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "For more information, explore the Stellar MS web page or reach out to your Thermo Fisher Scientific sales representative.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Recent introduction of automated intelligence capability",
+      "claim_description": "The automated intelligence capabilities on Stellar MS represent a recent advancement, with the technology being newly available as of the blog post publication.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With the advent of automated intelligence available on Stellar MS to build targeted methods and manage data acquisition, it's a whole new ball game.",
+      "verification_status": "verified",
+      "verification_confidence": "medium",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

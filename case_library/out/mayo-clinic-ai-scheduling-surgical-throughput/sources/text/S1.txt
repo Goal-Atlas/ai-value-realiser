@@ -1,0 +1,31 @@
+At Mayo Clinic, the complexity of healthcare schedules necessitates innovative solutions that optimize resource utilization, reduce costs, and enhance patient care.
+< Back to blog
+Transforming Cardiac Surgery Scheduling at Mayo Clinic With Opmed.ai
+< Back to blog
+Opmed.ai engages in several pivotal projects with Mayo Clinic, three of which are highlighted below:
+- Predicting Case Length: We utilize AI to deliver accurate predictions of the duration for each surgical case, significantly enhancing scheduling precision.
+- Scheduling Cases: By leveraging AI and network science, we analyze and organize the sequence of surgeries to maximize operating room (OR) utilization, reduce patient wait times, and minimize potential delays and cancellations, ensuring timely care for more patients.
+- Staff Rostering: We develop sophisticated tools to navigate the complex preferences and requirements of staff scheduling. This approach ensures that the hospital’s operational needs are harmoniously aligned with staff well-being, leading to optimal staffing solutions.
+These initiatives are strategically designed to improve hospital operations and patient outcomes. This case study will focus specifically on our project aimed at refining the prediction of case lengths for cardiac surgeries. Targeting this crucial aspect allows us to provide Mayo Clinic with essential data that aids in meticulous planning and resource allocation, enabling highly skilled cardiac specialists to efficiently plan their life-saving efforts.
+Accurately estimating the duration of medical procedures, particularly complex heart-related cases, represents a significant challenge. These procedures often involve multiple simultaneous interventions and are influenced by a range of factors, such as the specifics of each procedure, the expertise of the caregiver, and the patient's clinical history. Despite the high level of skill among Mayo Clinic's cardiac specialists, providing precise estimations remains a formidable task.
+The Challenge of Traditional Estimations
+In cardiac surgery, traditional time estimates tend to be conservative. This cautious approach is justified, as underestimating the duration of a cardiac procedure can lead to significant operational disruptions, including cascading delays and unplanned staff overtime.
+However, the downside to routinely overestimating how long procedures will take is significant: it limits how many surgeries can be scheduled, which is especially problematic given the urgent nature of life-saving cardiac care.
+Opmed.ai’s Solution: An AI-Driven Approach
+Precise Predictions of Case Durations
+Opmed.ai has pioneered an AI model that delivers precise predictions of case durations, customized for the specific demands of heart-related procedures at Mayo Clinic. In controlled tests, our AI model significantly surpassed traditional estimation methods, reducing the Mean Absolute Error (MAE) from 60 minutes per case to just 34 minutes.
+User-Friendly Web Application
+We have developed a user-friendly web application, customized specifically for the needs of the cardiac surgery schedulers at Mayo Clinic. This platform simplifies access to our predictive tools, seamlessly integrating into the hospital’s scheduling and decision-making processes.
+- Easy Access to Predictive Tools
+- Integration with Existing Systems and Workflows
+- Customization for Specific Needs
+Results: The Impact of Precise Case Duration Predictions
+Our AI model not only refines duration predictions for individual cardiac procedures but also accurately estimates the daily workloads of specific cardiac care providers. It aligns predictions closely with actual procedure times, minimizing wasted operating room (OR) time. This increased efficiency saves over 200 OR hours annually per operating room, boosting the capacity for more life-saving cardiac surgeries.
+- Increased Surgical Capacity
+- Improved Operational Efficiency
+- Enhanced Patient Outcomes
+- Cost Efficiency
+Future Developments
+Looking ahead, we are working towards enabling Mayo Clinic to use our platform for scheduling cases and allocating resources. Alongside accurate case length prediction, our platform aims to streamline the scheduling process. By considering both staff and equipment constraints, Opmed.ai hopes to deliver an AI-optimized schedule tailored specifically to the needs of Mayo Clinic's cardiac care services. This initiative is part of a broader effort to extend our technological advancements to other critical areas within the hospital, demonstrating our comprehensive approach to healthcare optimization.
+The Bottom Line
+The integration of Opmed.ai's AI model extends beyond mere predictions; it acts as a transformative tool that boosts service efficiency and enhances patient care in cardiac surgery at Mayo Clinic. Equipped with advanced technology, the hospital’s expert cardiac specialists can better utilize their capacity and expand their vital life-saving efforts. This case study highlights the effectiveness of Opmed.ai's AI model in refining surgical scheduling and its significant potential to improve patient outcomes by optimizing cardiac healthcare delivery. Moreover, this project serves as a clear demonstration of our capabilities, and we are excited to bring similar value to the other projects on which we collaborate with Mayo Clinic, ensuring our innovations continue to drive substantial improvements across various departments.

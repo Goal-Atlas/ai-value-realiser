@@ -1,0 +1,49 @@
+From a deepfake of Elon Musk becoming “the Internet’s biggest scammer” to one employee being duped into transferring over USD $25M, we expose five of the most notable cases of AI deepfake fraud (or attempted fraud) from 2024.
+With each passing day, AI deepfakes are becoming more sophisticated and easier to access, causing cases of AI deepfake fraud to proliferate.
+More than 1 in 4 executives revealed that their organizations had experienced one or more deepfake incidents Source: Deloitte
+In a 2024 poll carried out by Deloitte, 25.9% of executives revealed that their organizations had experienced one or more deepfake incidents targeting financial and accounting data in the 12 months prior, while 50% of all respondents said that they expected a rise in attacks over the following 12 months.
+Just last month, the Financial Crimes Enforcement Network (FinCEN) issued an alert, FIN-2024-Alert004, to help financial institutions identify fraud schemes that use deepfake media created with generative artificial intelligence (GenAI) tools.
+FinCEN wrote that it had “observed an increase in suspicious activity reporting by financial institutions describing the suspected use of deepfake media in fraud schemes targeting their institutions and customers” beginning in 2023 and continuing into 2024.
+Deloitte’s Center for Financial Services predicts that GenAI could enable fraud losses to reach US$40 billion in the United States by 2027.
+Over 2024, cases of AI deepfake fraud or attempted fraud have made headlines in the press and resulted in millions of dollars in losses for the unluckier targets, underscoring the threat this technology poses to organizations and individuals when effective security is not in place.
+Below, we expose the five most notable cases that made headlines in 2024. If you’re still unsure what deepfakes are and how they work, click here to read a previous article that will answer all your questions.
+This year, AI-powered videos posing as genuine footage of Elon Musk have been going viral online. In August 2024, The New York Times dubbed deepfake “Musk” “the Internet’s biggest scammer”.
+Steve Beauchamp, an 82-year-old retiree, told the New York Times that he drained his retirement fund and invested USD $690,000 in such a scam over the course of several weeks, convinced that a video he had seen of Musk was real. His money soon vanished without trace.
+“I mean, the picture of him — it was him,” Steve Beauchamp told The New York Times when describing the deepfake video he had seen of Elon Musk.
+“Now, whether it was A.I. making him say the things that he was saying, I really don’t know. But as far as the picture, if somebody had said, ‘Pick him out of a lineup,’ that’s him,” said Beauchamp.
+Click here to accept marketing cookies and load the video.
+“Looked just like Elon Musk, sounded just like Elon Musk and I thought it was him,” Heidi Swan told CBS News in a November 2024 report, describing an ad she saw on Facebook and TikTok that tricked her into sending scammers USD $10,000.
+“They still look like Elon Musk. They still sound like Elon Musk,” she told the news publication after rewatching the same videos that had deceived her, despite having since learned that they were fake.
+Only 61% of participants could tell the difference between AI-generated people and real ones. Source: *University of Waterloo
+Just this week, another scam involving a deepfake Elon Musk announcing a USD $20M cryptocurrency giveaway has made headlines. Publications around the world have been warning readers that it is fake.
+The British engineering company Arup was the victim of a deepfake fraud at the beginning of 2024, which resulted in a total loss of over USD $25M.
+During a video conference call attended by deepfakes impersonating the company’s Chief Financial Officer and other employees, a member of staff was duped into making 15 transactions totaling HK $200M (almost USD $26M) to five Hong Kong bank accounts.
+The Arup global chief information officer at the time, Rob Greig, told The Guardian:
+“Like many other businesses around the globe, our operations are subject to regular attacks, including invoice fraud, phishing scams, WhatsApp voice spoofing and deepfakes. What we have seen is that the number and sophistication of these attacks has been rising sharply in recent months.”
+The case of an Ai-generated robocall impersonating Joe Biden and encouraging Democrats not to vote in the New Hampshire Democratic primary in January is just one of countless examples of deepfakes being used to commit election fraud.
+In response, there has been an ongoing push for governments to regulate the use of such technology in political campaigns, given how susceptible voters are to misinformation. In the USA, the advocacy group Public Citizen called on the Federal Election Commission (FEC) to regulate the use of AI in campaign ads.
+“The political deepfake moment is here,” the Public Citizen president, Robert Weissman, said in a press release. “Policymakers must rush to put in place protections or we’re facing electoral chaos.”
+“The New Hampshire deepfake is a reminder of the many ways that deepfakes can sow confusion and perpetuate fraud,” said Weissman.
+However, in September 2024, *the FEC responded by announcing that they would forgo new rulemaking on AI**, citing a lack of authority to limit or prohibit the use of the developing technology in federal elections.
+In August 2024, Reuters reported that Lingo Telecom, the voice service provider that distributed the artificial intelligence-generated robocalls through “spoofed” phone numbers, agreed to pay a USD $1M fine for its role in the Joe Biden deepfake scam.
+An AI-manipulated audio clip in which a school principal was heard making derogatory, racist, and antisemitic remarks went viral online in January, resulting in him being put on paid administrative leave pending an investigation. One version of the clip accumulated almost two million views within hours of it being published, the BBC reported.
+Principal Eric Eiswert’s reputation took a hit and he soon began receiving abusive messages and death threats. However, despite members of the community and people at the school believing the recording was genuine, in April, Baltimore Police Chief Robert McCullough confirmed they had “conclusive evidence that the recording was not authentic”.
+Investigators traced the email that was used to send the AI-manipulated clip to three teachers back to 31-year-old Dazhon Darien, the school’s athletics director, who had been under investigation by Principal Eiswert over an alleged theft of almost USD $2000 from the school.
+Due to “work performance challenges”, Darien’s contract was likely not to be renewed and thus the police’s theory is that Darien had created the deepfake recording to discredit the principal before the athletics director lost his job.
+Mark Read, CEO of WPP, the world’s biggest advertising group, was the target of an elaborate deepfake scam that used an artificial intelligence voice clone and YouTube footage, reported The Guardian.
+Using a publicly available image of Read, cybercriminals created a WhatsApp account to set up a Microsoft Teams meeting that appeared to be with Read and another senior WPP executive to an attempt solicit money and personal details from an “agency leader” by asking them to set up a new business.
+During the meeting, the fraudsters used a voice clone and YouTube footage of the executive and impersonated Read using the meeting’s chat window.
+“Fortunately the attackers were not successful,” Read wrote in an email sent to staff and obtained by The Guardian. “We all need to be vigilant to the techniques that go beyond emails to take advantage of virtual meetings, AI and deepfakes.”
+Our Liveness Detection Technology ensures that the person being verified is a live person in 40 milliseconds.
+How?
+Incode’s multi-prong approach to identify verification detects and prevents sophisticated deepfake fraud attempts by…
+1.Preventing injection attacks:
+Incode stops fraud at the root. Our SDK or native mobile mini apps prevent device emulation and virtual cameras before the capture process even starts.
+2. Detecting deepfake fraud attempts:
+AI detects deepfake signals that include blurriness around face, unusual iris presentation, subtle biometric cues, light reflection, texture anomalies and more.
+3. Verifying against the Government System of Record (GSOR):
+Partnerships with government identity issuers enable deterministic verifications for unrivaled accuracy and reliability that nearly eliminates fraud.
+4.Continuous R&D for AI fraud detection:
+An in-house team uses in the wild and test data for continuous AI / ML training that produces battle-tested deepfake detection against sophisticated fraud vectors.
+Learn more about Liveness Detection.
+Discover more articles, news and trends.

@@ -1,0 +1,32 @@
+Streaming has officially taken over the living room, and advertisers are racing to claim their share of attention. Connected TV isn’t just an alternative to mobile anymore, it’s shaping up to be one of the most efficient performance channels of 2025. What strategies are essential to drive meaningful results with CTV?
+For the third installment of Airbridge’s CTV Insights series, we sat down with Moloco, the AI-powered performance advertising platform fueling growth for businesses of all sizes and industries. As CTV rises as a key driver of successful mobile app marketing, Hyejeong Lee, Head of CTV Partnerships at Moloco, shared must-know insights on how to turn CTV into real performance. Let’s dive in.
+With global streaming adoption on the rise and more success stories emerging, the CTV ad market is experiencing steep growth in 2025.
+User attention is shifting rapidly to CTV. YouTube’s CTV viewership has already surpassed mobile, underscoring this trend. The main benefits of CTV as a channel include:
+Gaming apps, especially mid-core, casino, and sports betting, show particularly strong results. Apps with streaming, short-form video, e-commerce, or web conversion goals (like site visits and pre-registrations) are also gaining traction.
+In general, apps that already perform well on mobile programmatic channels tend to adapt quickly and succeed with CTV advertising.
+Moloco CTV is built on their deep learning engine, enabling optimization beyond exposure and reach toward down-funnel performance metrics such as installs, in-app actions, purchases, and revenue. Marketers can also carry over insights and targeting strategies from mobile campaigns directly into CTV, driving greater efficiency across both UA and re-engagement.
+Moloco’s machine learning engine dynamically adjusts bids based on an advertiser’s KPIs to maximize performance.
+Currently, they offer an app install optimization model, with the ability to optimize funnel KPIs such as in-app actions, purchases, and ROAS. They are also expanding to optimization for purchases and ROAS in the near future.
+Thanks to their integration with Airbridge, advertisers can leverage postbacks in CTV, unlocking performance optimization at the same level as mobile DSPs. This makes it possible not only for mobile apps but also for today’s rising PC and console game publishers to run install-based campaigns with true performance goals. Few solutions currently provide this level of deep funnel optimization.
+Most of the strong results come from in-stream video ads within AVOD, FAST, and live TV content. These formats are non-skippable, with completion rates as high as 93–96%.
+YouTube’s CTV viewership has already surpassed mobile, making CTV a must-consider channel for digital marketers.
+Compared to mobile and web, CTV ads deliver higher immersion and lighter ad load. Unlike linear TV, they also support real-time optimization and creative A/B testing. Campaigns can run flexibly with reasonable budgets, without the need for long-term upfront commitments. Advertisers can upload video assets directly on the Moloco platform and track performance through MMP integrations.
+Moloco offers a wide range of targeting features, including:
+As the Moloco Household Identity Graph continues to evolve, cross-device and cross-platform optimization will only become more powerful.
+Through integration with Airbridge, advertisers can measure CTV-driven installs, in-app actions, and lower-funnel KPIs within a unified attribution framework.
+They can also leverage features like incrementality testing and ghost bidding to analyze CTV’s contribution to marketing performance with precision.
+Together with Airbridge, they are building a high-performance CTV advertising ecosystem.
+Many advertisers are building new success stories through Moloco CTV.
+For instance, Krafton leveraged Moloco CTV to support the launch of “Cookie Run India” in the Indian market. They used CTV for upper- and mid-funnel reach, while mobile DSPs captured lower-funnel conversions, driving significant growth.
+A leading sports betting app achieved strong results with geo-targeted campaigns and CTV’s clean ad environment. During a major sports season, they achieved strong conversion efficiency, demonstrating how scalable and performance-driven CTV has become.
+A leading Chinese game publisher also ran UA campaigns for PC/console titles with Moloco CTV, reaching high-value users at highly efficient costs.
+Start by extending the audiences that already perform well on mobile DSPs into CTV. In premium environments like the living room, you’ll gain higher attention and stronger engagement.
+Don’t stop at awareness, but rather optimize for lower-funnel outcomes such as installs, in-app actions, and purchases
+It’s also critical to integrate with an MMP like Airbridge to accurately track CTV’s contribution.
+Above all, don’t treat CTV as a “branding-only” channel. See it as a natural extension of your mobile UA strategy.
+PC and console platforms often face limited conversion paths and are less familiar with performance-driven UA. Moloco is extending its proven mobile expertise into the PC and console space.
+While still early, they are already preparing major promotions with partners and look forward to sharing more success stories soon.
+At Moloco, their focus is on driving direct response performance through CTV. They are extending their proven machine learning capabilities from mobile DSPs into CTV, helping advertisers achieve measurable results.
+Their goal is to build a performance-driven CTV ecosystem where both supply and demand can thrive.
+Many mobile marketers still think CTV is too complex or difficult to measure. But with a platform like Moloco, launching a campaign is as straightforward as activating one on Facebook Ads or Google Ads, but with higher engagement rates and lower competition.
+Want to hear more insights from the teams leading the CTV ad industry? Click the links below to explore the rest of the Airbridge CTV interview series.

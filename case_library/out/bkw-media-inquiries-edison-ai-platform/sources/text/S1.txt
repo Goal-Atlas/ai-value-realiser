@@ -1,0 +1,3 @@
+BKW was looking for a secure, scalable solution to embed AI systematically, tap effectively into internal data and responsibly introduce staff to new technologies.
+The Edison platform was based on Microsoft Azure, combining semantic search functionality with Generative AI and analyzing internal content in context while new areas of application are being added all the time.
+Within two months of roll-out, 8% of staff were already actively using Edison, so a foundation has been laid for the ongoing expansion of AI, with more than 40 potential use cases documented.

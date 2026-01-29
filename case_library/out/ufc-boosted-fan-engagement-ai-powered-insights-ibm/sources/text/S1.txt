@@ -1,0 +1,17 @@
+UFC and IBM reveal AI-powered 'In-Fight Insights' technology ahead of Madison Square Garden event
+The latest technology in this partnership is set to debut at UFC 322
+Ahead of UFC 322 at Madison Square Garden, the premier mixed martial arts promotion and IBM announced the next phase of their technological partnership.
+IBM and UFC have introduced "In-Fight Insights," an AI-driven live alert platform that monitors and reports in real time when notable milestones, streaks and records occur during UFC events.
+"In-Fight Insights" is set to debut at UFC 322, which will feature multiple title fights, including a welterweight main event between champion Jack Della Maddalena and Islam Makhachev on Saturday in New York City.
+CLICK HERE FOR MORE SPORTS COVERAGE ON FOXBUSINESS.COM
+As the official AI partner of UFC, this new technology taps into more than 13.2 million UFC data points from over 20 years of fights, as well as data from more than 2,400 current and former UFC athletes. This helps elevate the viewing experience for both hardcore and casual fans alike.
+"UFC Insights Engine built with IBM Watson is a complex AI package that goes deep to unearth new, real-time insights for fans in seconds," said Alon Cohen, executive vice president of innovation for TKO. "Anyone who uses AI tools knows they are normally able to go deep or fast, but not both. In collaborating with IBM for these new in-fight stats, though, we have optimized Insights Engine to accomplish both — a true game-changer."
+UFC, IBM TEAM UP TO DEVELOP ENHANCED FIGHT ANALYSIS ENGINE USING WATSONX
+As Cohen noted, this new technology is part of the UFC Insights Engine built with IBM watsonx. It’s the most advanced evolution of the system to date and the first live in-fight integration since the IBM-UFC partnership launched one year ago.
+Not only will "In-Fight Insights" help fans, but it will also be a tool for broadcasters, giving them immediate contextual understanding to share during fights. Insights will be integrated into the broadcast feed, allowing UFC and IBM to deliver a new level of in-the-moment intelligence to commentators, production teams, and fans alike.
+"The launch of In-Fight Insights is the latest example of how AI is really changing the game for the live sports viewing experience for fans around the world," said Jonathan Adashek, senior vice president of marketing and communications for IBM, in a statement. "It’s a testament to the commitment of UFC to always think outside the octagon to best capture the enormous storytelling potential and human element of the action going on inside the cage."
+UFC and IBM have been working together since November 2024, establishing a foundation for the UFC Insights Engine while aggregating and analyzing the organization’s extensive library of fight data to create a more personalized and data-driven fan experience.
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+"In-Fight Insights" is the latest advancement in a broader effort to scale the Insights Engine across all UFC platforms, including social media channels, in-venue activations, and pre-event programming.
+As the sport continues to grow globally, UFC and IBM are bringing fans closer to the octagon and its athletes through AI and data.
+Follow Fox News Digital’s sports coverage on X and subscribe to the Fox News Sports Huddle newsletter.

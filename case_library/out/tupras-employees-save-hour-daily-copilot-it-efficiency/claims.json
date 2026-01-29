@@ -1,0 +1,187 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "T\u00fcpra\u015f employees save more than an hour daily with Microsoft 365 Copilot",
+      "claim_description": "T\u00fcpra\u015f implemented Microsoft 365 Copilot to streamline daily tasks through enhanced collaboration and productivity applications, resulting in employees saving more than an hour daily.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "T\u00fcpra\u015f prioritized Microsoft 365 Copilot for AI-powered insights and automation, streamlining employees' daily tasks through enhanced functions in collaboration and productivity applications. It estimates that employees save more than an hour daily",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The time savings are explicitly attributed to Microsoft 365 Copilot's AI-powered insights and automation capabilities that streamline daily tasks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "1",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "T\u00fcpra\u015f achieves IT resource efficiency gains with Microsoft 365 Copilot",
+      "claim_description": "In addition to employee time savings, T\u00fcpra\u015f reported IT resource efficiency gains from implementing Microsoft 365 Copilot.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "It estimates that employees save more than an hour daily while also seeing IT resource efficiency gains.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "IT resource efficiency gains are directly attributed to the implementation of Microsoft 365 Copilot alongside employee productivity improvements.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "T\u00fcpra\u015f operates in the energy and resources sector",
+      "claim_description": "T\u00fcpra\u015f is categorized under energy and resources industry in the source document.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Energy and resources - T\u00fcpra\u015f prioritized Microsoft 365 Copilot",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "products_services",
+      "claim_title": "T\u00fcpra\u015f implemented Microsoft 365 Copilot",
+      "claim_description": "T\u00fcpra\u015f prioritized and deployed Microsoft 365 Copilot for AI-powered insights and automation across collaboration and productivity applications.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "T\u00fcpra\u015f prioritized Microsoft 365 Copilot for AI-powered insights and automation, streamlining employees' daily tasks through enhanced functions in collaboration and productivity applications.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "T\u00fcpra\u015f applied AI to enhance collaboration and productivity functions",
+      "claim_description": "The AI implementation focused on streamlining daily tasks through enhanced collaboration and productivity applications.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "streamlining employees' daily tasks through enhanced functions in collaboration and productivity applications",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10880",
+      "apqc_name": "Manage employee productivity and engagement",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "T\u00fcpra\u015f aims to enrich employee experiences through AI",
+      "claim_description": "The implementation aligns with the strategic goal of enriching employee experiences by automating repetitive tasks and enabling focus on more valuable work.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Enriching employee experiences: Using AI to streamline or automate repetitive, mundane tasks can allow your employees to dive into more complex, creative, and ultimately more valuable work.",
+      "verification_status": "inferred",
+      "verification_confidence": "high",
+      "inferred_from": "T\u00fcpra\u015f case is listed under the 'Enriching employee experiences' category and demonstrates automation of daily tasks",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

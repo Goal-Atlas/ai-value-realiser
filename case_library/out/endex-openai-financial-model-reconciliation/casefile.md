@@ -1,0 +1,455 @@
+---
+case_id: endex-openai-financial-model-reconciliation
+organisation: Endex
+title: Financial Model Reconciliation and Analysis
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://enterpriseaiexecutive.ai/p/19-must-read-agentic-ai-case-studies
+  url: https://enterpriseaiexecutive.ai/p/19-must-read-agentic-ai-case-studies
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.youtube.com/watch?v=8QtENKjoCK4
+  url: https://www.youtube.com/watch?v=8QtENKjoCK4
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.thehomebase.ai/companies/endex
+  url: https://www.thehomebase.ai/companies/endex
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 3x faster intelligence for multi-step financial workflows
+  claim_description: OpenAI o3-mini enables Endex to achieve 3x faster intelligence,
+    enabling multi-step workflows like automating financial model reconciliation.
+  source_ids:
+  - S1
+  source_quote: With OpenAI o3-mini, Endex gains 3x faster intelligence, enabling
+    multi-step workflows like automating financial model reconciliation.
+  quote_location: OpenAI case study section
+  ai_attribution: direct
+  attribution_evidence: The speed improvement is directly attributed to OpenAI o3-mini
+    integration, enabling specific workflow automation.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '3'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Simplified workflow without sacrificing accuracy
+  claim_description: Endex previously used complex prompts, chained completions, and
+    verification steps. With OpenAI o1, the workflow is now simpler without sacrificing
+    accuracy.
+  source_ids:
+  - S1
+  source_quote: Endex previously used complex prompts, chained completions, and verification
+    steps. With OpenAI o1, it's now simpler without sacrificing accuracy.
+  quote_location: OpenAI case study section
+  ai_attribution: direct
+  attribution_evidence: OpenAI o1 directly enables workflow simplification while maintaining
+    accuracy levels.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Automated discrepancy identification in financial data
+  claim_description: Endex identifies discrepancies in financial data, flagging restatements
+    and inconsistencies with citations, freeing analysts time for decisions.
+  source_ids:
+  - S1
+  source_quote: Endex identifies discrepancies in financial data, flagging restatements
+    and inconsistencies with citations, freeing analysts time for decisions.
+  quote_location: OpenAI case study section
+  ai_attribution: direct
+  attribution_evidence: AI directly performs discrepancy identification and flagging,
+    enabling analysts to focus on higher-value work.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Enhanced analysis through vision capabilities
+  claim_description: OpenAI's o1 vision capabilities allow Endex to process investor
+    presentations, internal decks, Excel models, and 8-Ks, enhancing analysis.
+  source_ids:
+  - S1
+  source_quote: OpenAI's o1 vision capabilities allow Endex to process investor presentations,
+    internal decks, Excel models, and 8-Ks, enhancing analysis.
+  quote_location: OpenAI case study section
+  ai_attribution: direct
+  attribution_evidence: Vision capabilities directly enable processing of diverse
+    document types that were previously difficult to analyze.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - augmentation
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Automated detailed report generation
+  claim_description: Endex automates detailed reports, reducing manual financial analysis,
+    letting professionals focus on strategy instead of data formatting.
+  source_ids:
+  - S1
+  source_quote: Endex automates detailed reports, reducing manual financial analysis,
+    letting professionals focus on strategy instead of data formatting.
+  quote_location: OpenAI case study section
+  ai_attribution: direct
+  attribution_evidence: AI directly automates report generation, shifting human effort
+    from manual tasks to strategic work.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Endex is a financial analyst AI agent company
+  claim_description: Endex is a company developing a financial analyst AI agent that
+    integrates with Excel.
+  source_ids:
+  - S1
+  - S3
+  source_quote: OpenAI published a case study on its work with Endex, a company developing
+    a financial analyst AI agent.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Finance and investment sector focus
+  claim_description: Endex serves finance professionals in investment banking, private
+    equity, asset management, and hedge funds.
+  source_ids:
+  - S3
+  source_quote: This isn't general-purpose AI trying to do finance—it's purpose-built
+    for investment banking, private equity, and asset management teams.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: functional
+  claim_title: Financial analysis and modeling function
+  claim_description: Endex operates in financial analysis, modeling, and reconciliation
+    workflows.
+  source_ids:
+  - S1
+  - S3
+  source_quote: With OpenAI o3-mini, Endex gains 3x faster intelligence, enabling
+    multi-step workflows like automating financial model reconciliation.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '8.2'
+  apqc_name: Manage financial reporting
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: Founded in 2022
+  claim_description: Endex was founded in 2022 by Tarun Amasa and Kevin Yang.
+  source_ids:
+  - S3
+  source_quote: Founded in 2022 by Tarun Amasa and Kevin Yang, this New York startup
+    has cracked something that thousands of finance professionals deal with daily
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: OpenAI Startup Fund backed with $14M
+  claim_description: Endex received $14 million backing from OpenAI Startup Fund.
+  source_ids:
+  - S3
+  source_quote: The $14 million OpenAI Startup Fund backing shows serious confidence
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: products_services
+  claim_title: Excel-native AI add-in
+  claim_description: Endex embeds AI directly within Excel as an add-in, integrating
+    with existing workflows rather than requiring a new platform.
+  source_ids:
+  - S3
+  source_quote: Instead of building yet another standalone financial platform, Endex
+    went native—embedding AI directly into Excel as an add-in.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: organisational
+  claim_title: SOC 2, GDPR, CCPA compliance
+  claim_description: Endex maintains compliance with SOC 2, GDPR, and CCPA for data
+    security and privacy.
+  source_ids:
+  - S3
+  source_quote: It shows in the polish and security compliance (SOC 2, GDPR, CCPA).
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: strategic_intent
+  claim_title: Transform Excel into intelligent partner
+  claim_description: Endex envisions transforming Excel from a manual spreadsheet
+    into an intelligent, adaptive partner for decision-making and analysis.
+  source_ids:
+  - S3
+  source_quote: Endex envisions a future where financial intelligence is seamlessly
+    integrated into the daily tools that professionals trust, transforming Excel from
+    a manual spreadsheet into an intelligent, adaptive partner
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 5
+    verified: 5
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 5
+  context_claims:
+    total: 8
+    verified: 8
+    unverified: 0
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: true
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Financial Model Reconciliation and Analysis
+
+## Executive Summary
+
+Endex: 3x faster intelligence for multi-step financial workflows.
+
+## Key Findings
+
+- **3x faster intelligence for multi-step financial workflows** — verified (outcome)
+  - Quote: "With OpenAI o3-mini, Endex gains 3x faster intelligence, enabling multi-step workflows like automating financial model reconciliation."
+
+- **Simplified workflow without sacrificing accuracy** — verified (method)
+  - Quote: "Endex previously used complex prompts, chained completions, and verification steps. With OpenAI o1, it's now simpler without sacrificing accuracy."
+
+- **Automated discrepancy identification in financial data** — verified (method)
+  - Quote: "Endex identifies discrepancies in financial data, flagging restatements and inconsistencies with citations, freeing analysts time for decisions."
+
+- **Enhanced analysis through vision capabilities** — verified (method)
+  - Quote: "OpenAI's o1 vision capabilities allow Endex to process investor presentations, internal decks, Excel models, and 8-Ks, enhancing analysis."
+
+- **Automated detailed report generation** — verified (method)
+  - Quote: "Endex automates detailed reports, reducing manual financial analysis, letting professionals focus on strategy instead of data formatting."
+
+## Sources
+
+- **S1**: https://enterpriseaiexecutive.ai/p/19-must-read-agentic-ai-case-studies
+- **S2**: https://www.youtube.com/watch?v=8QtENKjoCK4
+- **S3**: https://www.thehomebase.ai/companies/endex

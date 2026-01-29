@@ -1,0 +1,707 @@
+---
+case_id: nasa-satellite-data-analysis-crop-yield-optimization
+organisation: NASA
+title: Satellite Data Analysis for Crop Yield Optimization
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.earthdata.nasa.gov/news/feature-articles/satellites-help-improve-cro...
+  url: https://www.earthdata.nasa.gov/news/feature-articles/satellites-help-improve-crop-yields-india
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://science.nasa.gov/missions/landsat/improving-crop-yield-predictions-with-...
+  url: https://science.nasa.gov/missions/landsat/improving-crop-yield-predictions-with-satellite-assist/
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.nasa.gov/missions/satellites-track-status-of-nations-food-supply/
+  url: https://www.nasa.gov/missions/satellites-track-status-of-nations-food-supply/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.foxbusiness.com/economy/how-nasa-scientists-use-satellite-data-to-he...
+  url: https://www.foxbusiness.com/economy/how-nasa-scientists-use-satellite-data-to-help-farmers
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Improved corn yield predictions through ML model with satellite data
+  claim_description: Machine learning model combining remote sensing imagery, green
+    chlorophyll vegetation index, and cumulative crop drought index significantly
+    improved corn yield predictions, with earliest predictions substantially outperforming
+    previous methods.
+  source_ids:
+  - S2
+  source_quote: by including the crop drought index and the green chlorophyll vegetation
+    index in crop yield predictions, predictions could be improved substantially.
+    In fact, their earliest predictions significantly outperformed previous ones.
+  quote_location: Mid-document
+  ai_attribution: direct
+  attribution_evidence: Machine learning model directly processes satellite data to
+    generate improved yield predictions
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Satellite data enables validation of crop statistics during abnormal
+    seasons
+  claim_description: Landsat 8 satellite data provided robust and independent validation
+    of USDA crop statistics during abnormal growing seasons and natural disasters,
+    filling gaps in ground survey data when farmers couldn't report planted acreage.
+  source_ids:
+  - S3
+  source_quote: During abnormal growing seasons or natural disasters, satellites shine.
+    Landsat is a robust and independent way to validate what our statistics are telling
+    us.
+  quote_location: Early document
+  ai_attribution: contributing
+  attribution_evidence: Satellite data contributes to validation process alongside
+    traditional survey methods
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Satellite imagery identified flood-impacted cropland and planted fields
+  claim_description: In Missouri with 10% of cropland underwater, satellite imagery
+    helped NASS officials identify which fields were most impacted by floods and which
+    had crops, filling gaps in regional data not captured by state-level surveys.
+  source_ids:
+  - S3
+  source_quote: Satellites helped us fill in the gaps and show what is going on in
+    every region of the state. The surveys work well at providing estimates for the
+    state as a whole but are not designed to capture what is happening in specific
+    regions.
+  quote_location: Mid-document
+  ai_attribution: direct
+  attribution_evidence: Satellite imagery directly provided regional crop and flood
+    impact data
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '10'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Satellite data enabled revision of June crop production estimates
+  claim_description: USDA used satellite data to revise June production estimates
+    in July when farmers couldn't report seeded acreage due to delayed field drying,
+    improving accuracy of national crop statistics.
+  source_ids:
+  - S3
+  source_quote: In June, several farmers could not report the amount of acres seeded
+    to Garino's office. They, were waiting for their fields to dry. In July, the USDA
+    used satellites data to help them revise June production estimates.
+  quote_location: Mid-document
+  ai_attribution: direct
+  attribution_evidence: Satellite data directly enabled production estimate revisions
+    when ground data unavailable
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Satellite-based soil erosion analysis estimated $3B in farmer losses
+  claim_description: Combining topographic data and satellite imagery, researchers
+    estimated one-third of Corn Belt farmland lost topsoil, leading to approximately
+    $3 billion in losses for farmers, enabling targeted conservation efforts.
+  source_ids:
+  - S4
+  source_quote: the group estimated that around one-third of the region's farmland
+    had completely lost its topsoil, leading to up to $3 billion in losses for farmers.
+  quote_location: Mid-document
+  ai_attribution: direct
+  attribution_evidence: Satellite imagery analysis directly enabled soil loss estimation
+    and financial impact quantification
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: diagnostic
+  metric_raw:
+    value: '3000000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Satellite data provides customized field prescriptions for farmers
+  claim_description: Satellite data enables understanding of field conditions and
+    history to provide customized prescriptions for farmers on when to plant, apply
+    fertilizers, and manage cover crops, supporting informed decision-making.
+  source_ids:
+  - S4
+  source_quote: Satellite data helps us understand the field's conditions and history,
+    and provide a customized 'prescription
+  quote_location: End of document
+  ai_attribution: direct
+  attribution_evidence: Satellite data directly enables customized field-level recommendations
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Remote sensing enables farm-level agricultural monitoring in India
+  claim_description: Remote sensing provides essential monitoring capability for small
+    farms (<2 hectares) in India where census data at state/national level masks important
+    heterogeneity, enabling investigation of sustainable crop yield improvements.
+  source_ids:
+  - S1
+  source_quote: Remote sensing provides an essential vantage point for monitoring
+    agriculture in India and investigating ways to sustainably improve crop yields.
+  quote_location: Early document
+  ai_attribution: direct
+  attribution_evidence: Remote sensing directly enables farm-level monitoring not
+    possible with census data
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Subfield-level analysis improves yield prediction accuracy and precision
+  claim_description: Using subfield-level analysis with remote sensing and crop models
+    provides more accurate and precise yield predictions compared to traditional large-scale
+    methods, enabling better resource management and decision-making.
+  source_ids:
+  - S2
+  source_quote: Basso believes that using subfield-level analysis is a promising way
+    to ensure accurate and precise yield predictions and that decisions would be better
+    made off of real-time data as opposed to historical guidelines.
+  quote_location: Late document
+  ai_attribution: direct
+  attribution_evidence: Subfield-level analysis using remote sensing directly improves
+    prediction accuracy
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: sectoral
+  claim_title: Agricultural sector in India
+  claim_description: Croplands cover over half of India's land area, and the agricultural
+    sector employs about 590 million people. Many farms are small (less than 2 hectares).
+  source_ids:
+  - S1
+  source_quote: Croplands cover over half of India's land area, and the agricultural
+    sector employs about 590 million people in the country.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: organisational
+  claim_title: University of Michigan agricultural research
+  claim_description: Dr. Meha Jain, assistant professor in the School for Environment
+    and Sustainability at the University of Michigan, uses remote sensing to research
+    agriculture in India.
+  source_ids:
+  - S1
+  source_quote: Dr. Meha Jain, assistant professor in the School for Environment and
+    Sustainability at the University of Michigan, uses remote sensing to research
+    agriculture in India.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: organisational
+  claim_title: Michigan State University crop yield research
+  claim_description: MSU Foundation Professor Bruno Basso and graduate student Guanyuan
+    Shuai conducted research on improving corn yield predictions using satellite data
+    and machine learning.
+  source_ids:
+  - S2
+  source_quote: The new research, conducted by MSU Foundation Professor in the departments
+    of Earth and Environmental Sciences and Plant, Soil and Microbial Sciences Bruno
+    Basso and his graduate student Guanyuan Shuai
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: scale
+  claim_title: Multi-state corn field study scale
+  claim_description: Research studied 352 fields of varying sizes across Michigan,
+    Indiana, Illinois and Iowa, collecting climate, soil data and more than 2,500
+    yield maps.
+  source_ids:
+  - S2
+  source_quote: Basso and Shuai began their research by studying 352 fields of varying
+    sizes in Michigan, Indiana, Illinois and Iowa, collecting climate, soil data and
+    more than 2,500 yield maps.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: temporal
+  claim_title: 2019 Midwest flooding and delayed harvest
+  claim_description: September rains made late harvest later in 2019. Heavy spring
+    rains flooded millions of acres around Mississippi, Wisconsin and Missouri rivers.
+    Some farmers started three weeks behind schedule.
+  source_ids:
+  - S3
+  source_quote: September rains made a late harvest even later. Heavy spring rains
+    flooded millions of acres of cropland around the Mississippi, Wisconsin and Missouri
+    rivers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: organisational
+  claim_title: USDA NASS Cropland Data Layer Program
+  claim_description: Since 2009, NASS has drawn on Landsat data to monitor dozens
+    of crops including corn, wheat, soy and cotton in the lower 48 states as part
+    of NASS's Cropland Data Layer program.
+  source_ids:
+  - S3
+  source_quote: Since 2009, NASS has drawn on Landsat data to monitor dozens of crops,
+    including corn, wheat, soy and cotton in the lower 48 states as part of NASS's
+    Cropland Data Layer program.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Agricultural monitoring and statistics
+  claim_description: NASS field officials visit farms and measure acreage and condition
+    of planted fields throughout growing season. NASS receives crop acreage data from
+    Farm Service Agency.
+  source_ids:
+  - S3
+  source_quote: Across the country, NASS field officials visit farms, and measure
+    acreage and condition of planted fields throughout the growing season.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10.0'
+  apqc_name: Manage Enterprise Risk, Compliance, Remediation, and Resiliency
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: products_services
+  claim_title: CropScape website for cropland data access
+  claim_description: NASS publishes final Cropland Data layer in January and makes
+    data available through CropScape website. Disaster managers and resource managers
+    use historic data for various purposes.
+  source_ids:
+  - S3
+  source_quote: NASS will publish the final Cropland Data layer in January 2020 and
+    makes the data available to everyone through the CropScape website.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: sectoral
+  claim_title: US Corn Belt soil erosion context
+  claim_description: US loses five tons of soil per acre annually - 10 times the rate
+    at which it forms. No-till acres represent 21% of US farmland. Cover crops used
+    on 3.4% of cropland in 2017, marking 50% increase since 2012.
+  source_ids:
+  - S4
+  source_quote: The U.S. loses five tons of soil per acre annually – 10 times the
+    rate at which it forms
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: strategic_intent
+  claim_title: Conservation practices to address climate change
+  claim_description: Farmers implement practices like cover crops and no-till planting
+    to boost soil health and control erosion. Adoption is difficult and expensive,
+    requiring management of new crops alongside primary crops.
+  source_ids:
+  - S4
+  source_quote: Adopting techniques is a difficult and expensive ask for the farmers
+    who have to manage new crops in addition to primary crops all while dealing with
+    the impact of climate-fueled, rising erosion rates.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: organisational
+  claim_title: NASA Harvest partnership program
+  claim_description: NASA Harvest partners with organizations like Illinois Corn Growers
+    Association to support farmers in adopting conservation practices using satellite
+    data insights.
+  source_ids:
+  - S4
+  source_quote: Laura Gentry, director of water quality research at the Illinois Corn
+    Growers Association and NASA Harvest partner
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: temporal
+  claim_title: Landsat 8 launch and European Copernicus partnership
+  claim_description: Landsat 8 launched in 2013. Partnerships between USGS and European
+    Copernicus constellation provide additional Landsat-like imagery for free, improving
+    real-time crop monitoring.
+  source_ids:
+  - S3
+  source_quote: In addition to Landsat 8, launched in 2013, partnerships between the
+    USGS and the European Copernicus constellation provides even more Landsat-like
+    imagery for free.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 8
+    verified: 6
+    needs_review: 2
+    rejected: 0
+    by_attribution:
+      direct: 7
+      contributing: 1
+  context_claims:
+    total: 12
+    verified: 12
+    unverified: 0
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: true
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Satellite Data Analysis for Crop Yield Optimization
+
+## Executive Summary
+
+NASA: Improved corn yield predictions through ML model with satellite data.
+
+## Key Findings
+
+- **Improved corn yield predictions through ML model with satellite data** — verified (method)
+  - Quote: "by including the crop drought index and the green chlorophyll vegetation index in crop yield predictions, predictions could be improved substantially. In fact, their earliest predictions significantly..."
+
+- **Satellite data enables validation of crop statistics during abnormal seasons** — needs_review (method)
+  - Quote: "During abnormal growing seasons or natural disasters, satellites shine. Landsat is a robust and independent way to validate what our statistics are telling us."
+
+- **Satellite imagery identified flood-impacted cropland and planted fields** — needs_review (adoption)
+  - Quote: "Satellites helped us fill in the gaps and show what is going on in every region of the state. The surveys work well at providing estimates for the state as a whole but are not designed to capture what..."
+
+- **Satellite data enabled revision of June crop production estimates** — verified (method)
+  - Quote: "In June, several farmers could not report the amount of acres seeded to Garino's office. They, were waiting for their fields to dry. In July, the USDA used satellites data to help them revise June pro..."
+
+- **Satellite-based soil erosion analysis estimated $3B in farmer losses** — verified (outcome)
+  - Quote: "the group estimated that around one-third of the region's farmland had completely lost its topsoil, leading to up to $3 billion in losses for farmers."
+
+- **Satellite data provides customized field prescriptions for farmers** — verified (method)
+  - Quote: "Satellite data helps us understand the field's conditions and history, and provide a customized 'prescription"
+
+- **Remote sensing enables farm-level agricultural monitoring in India** — verified (method)
+  - Quote: "Remote sensing provides an essential vantage point for monitoring agriculture in India and investigating ways to sustainably improve crop yields."
+
+- **Subfield-level analysis improves yield prediction accuracy and precision** — verified (method)
+  - Quote: "Basso believes that using subfield-level analysis is a promising way to ensure accurate and precise yield predictions and that decisions would be better made off of real-time data as opposed to histor..."
+
+## Sources
+
+- **S1**: https://www.earthdata.nasa.gov/news/feature-articles/satellites-help-improve-crop-yields-india
+- **S2**: https://science.nasa.gov/missions/landsat/improving-crop-yield-predictions-with-satellite-assist/
+- **S3**: https://www.nasa.gov/missions/satellites-track-status-of-nations-food-supply/
+- **S4**: https://www.foxbusiness.com/economy/how-nasa-scientists-use-satellite-data-to-help-farmers

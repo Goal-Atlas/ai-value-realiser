@@ -1,0 +1,633 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Visual Scout doubles conversion rate for engaged users",
+      "claim_description": "Lowe's ChatGPT-powered assistant 'Mylow' and Visual Scout interactive product discovery tool delivered double the conversion rate among users who engaged with the AI-powered features.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Already live online and in-app, Mylow has delivered double the conversion rate among users, surfacing not just on-brand product picks but also DIY tutorials and how-to guides.",
+      "quote_location": "S3, section on Lowe's AI Tool",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The conversion rate improvement is directly attributed to the AI-powered assistant Mylow and Visual Scout tool usage",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "2",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Visual Scout achieves 180ms 99th percentile response time",
+      "claim_description": "Visual Scout's vector search and feature store implementation delivers low-latency responses with 99th percentile response times of approximately 180 milliseconds, enabling smooth user experience.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The 99th percentile response times of approximately 180 milliseconds align with our performance expectations, and ensures a smooth and responsive user experience.",
+      "quote_location": "S2, section on Low latency serving with Vertex AI",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Response time is directly measured from the AI-powered Visual Scout system using Vertex AI Vector Search and Feature Store",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "180",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Visual Scout enables interactive product discovery experience",
+      "claim_description": "Visual Scout provides an interactive, gamified shopping experience where customers iteratively refine product recommendations through like/dislike feedback, dynamically updating a panel of 10 items in real-time.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Visual Scout dynamically updates the panel, with items that reflect customer style and design preferences...As the service updates in real time, Visual Scout provides an engaging and gamified shopping experience.",
+      "quote_location": "S2, introduction and How Visual Scout Works sections",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The interactive discovery capability is entirely enabled by AI-powered visual similarity search and real-time recommendation updates",
+      "verification_status": "needs_review",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "AI digital companion helps store associates answer customer questions faster",
+      "claim_description": "Lowe's piloted an associate-facing AI digital companion app that helps workers answer complex home improvement questions more efficiently by providing project guidance and product recommendations.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The app lets associates ask questions about customers' home improvement projects and provides information on both the necessary steps and any products they might need.",
+      "quote_location": "S4, section on technology enhancements",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The efficiency improvement in answering questions is directly enabled by the AI-powered digital companion providing instant information",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "MyLowe's Rewards members spend 50% more than non-members",
+      "claim_description": "Members of MyLowe's Rewards loyalty program spend nearly 50% more than non-members with a notable increase in repeat shopping rates, supporting the expansion to pro contractors.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Members of MyLowe's Rewards program spend nearly 50% more than non-members with a 'notable increase in repeat shopping rates,' according to SVP and Chief Marketing Officer Jen Wilson.",
+      "quote_location": "S4, section on loyalty program",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "While the loyalty program benefits from AI-powered personalization mentioned elsewhere, this metric reflects broader loyalty program impact",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Customer service score increased 6% from 2018 to 2024",
+      "claim_description": "Since CEO Marvin Ellison joined in 2018, Lowe's customer service score increased 6% in Q3 2024 compared to Q3 2018, coinciding with technology and CX investments.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Since Ellison joined Lowe's in 2018, its customer service score increased 6% in Q3 2024 compared to Q3 2018, according to the investor day presentation.",
+      "quote_location": "S4, Dive Insight section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AI tools are part of broader CX transformation; improvement reflects multiple initiatives including but not limited to AI implementations",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "6",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Professional contractor sales share grew from 19% to 30%",
+      "claim_description": "The share of sales from professional contractors grew from 19% in 2019 to 30% in Q3 2024, supported by CX upgrades and technology investments targeting this segment.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The share of sales from professional contractors \u2014 the target of many CX upgrades \u2014 grew from 19% in 2019 to 30% in the latest quarter.",
+      "quote_location": "S4, Dive Insight section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Pro contractor growth is attributed to CX upgrades including AI tools, but represents broader strategic initiatives beyond AI alone",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "11",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Lowe's operates in home improvement retail sector",
+      "claim_description": "Lowe's is a major home improvement retailer competing with Home Depot, together accounting for 25% of the combined professional and DIY home improvement market.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Together, Lowe's and Home Depot account for a quarter of the combined professional and DIY home improvement market, according to Lowe's President and CEO Marvin Ellison.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "Lowe's serves both DIY consumers and professional contractors",
+      "claim_description": "Lowe's customer base includes both DIY (do-it-yourself) consumers and professional contractors, with distinct experiences and loyalty programs for each segment.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "We're confident that there is still a great deal of opportunity for us to grow market share with both pro and DIY customers by building loyalty with our current customers.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Visual Scout supports ecommerce product discovery",
+      "claim_description": "Visual Scout is deployed on lowes.com and mobile application to enhance online product discovery and browsing experience for customers exploring product catalogs.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "we introduced Visual Scout \u2014 an interactive way to explore the product catalog and quickly find products of interest on lowes.com.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.4",
+      "apqc_name": "Develop and Manage Marketing",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "products_services",
+      "claim_title": "Visual Scout uses computer vision and vector embeddings",
+      "claim_description": "Visual Scout technology is based on computer vision models that generate image embeddings, stored and searched using Vertex AI Vector Search and Feature Store for visual similarity matching.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Batch processing jobs that compute embeddings for new items by feeding an item's image to a computer vision model as a prediction request; the predicted values are the image's embedding representation.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "products_services",
+      "claim_title": "Lowe's uses Google Cloud Platform for AI infrastructure",
+      "claim_description": "Lowe's AI solutions are built on Google Cloud services including Vertex AI, Dataproc, BigQuery, and Google Kubernetes Engine for model deployment and serving.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Visual Scout is supported by several Google Cloud services: Dataproc, Vertex AI Model Registry, Vertex AI Feature Store, Vertex AI Vector Search, BigQuery, Google Kubernetes Engine.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "MyLowe's Pro Rewards relaunch planned for early 2025",
+      "claim_description": "Lowe's announced plans to relaunch its MVP Pro Rewards loyalty program as MyLowe's Pro Rewards in early 2025 during its 2024 analyst and investor day.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The retailer will relaunch its MVP Pro Rewards loyalty program as MyLowe's Pro Rewards in early 2025, according to an investor day press release.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "strategic_intent",
+      "claim_title": "Lowe's aims to create friction-free shopping experience",
+      "claim_description": "Lowe's strategic focus is on building loyalty and winning customers through a friction-free shopping experience that combines in-store and online channels using AI solutions.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "winning new customers looking for a friction-free shopping experience within home improvement...Lowe's intends to combine the in-store and online experiences through the use of AI solutions.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "AI assistant supports in-store associate customer service",
+      "claim_description": "Lowe's is piloting an associate-facing AI digital companion to help store workers answer complex home improvement questions and recommend products to customers.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The company is piloting an associate-facing digital companion that can help workers answer customer questions faster and more efficiently.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "6.2",
+      "apqc_name": "Develop and Counsel Employees",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "scale",
+      "claim_title": "Visual Scout performs billion-scale vector search",
+      "claim_description": "Vertex AI Vector Search provides efficient vector similarity search and retrieval from a billion-scale vector database to support Visual Scout's product recommendations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Vertex AI Vector Search is a managed service providing efficient vector similarity search and retrieval from a billion-scale vector database.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "Marvin Ellison joined Lowe's as CEO in 2018",
+      "claim_description": "Current Lowe's President and CEO Marvin Ellison joined the company in 2018, initiating a period of technology and customer experience transformation.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Since Ellison joined Lowe's in 2018, its customer service score increased 6% in Q3 2024 compared to Q3 2018.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "products_services",
+      "claim_title": "Mylow is ChatGPT-powered shopping assistant",
+      "claim_description": "Lowe's deployed 'Mylow', a ChatGPT-powered AI assistant available online and in-app that provides product recommendations, DIY tutorials, and how-to guides.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Lowe's ChatGPT-powered assistant, 'Mylow.' Already live online and in-app, Mylow has delivered double the conversion rate among users, surfacing not just on-brand product picks but also DIY tutorials.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "products_services",
+      "claim_title": "Future plans include image-based product search",
+      "claim_description": "Lowe's plans to expand AI capabilities in 2026 to allow shoppers to snap photos of products and receive recommendations, extending visual search beyond current text-based interactions.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "In 2026, shoppers may be snapping pics of their outdated fixtures and getting instant product matches and installation advice.",
+      "verification_status": "unverified",
+      "verification_confidence": "medium",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "organisational",
+      "claim_title": "Lowe's launched third-party marketplace in 2024",
+      "claim_description": "Lowe's launched a third-party marketplace and plans to enable store associates to search for and sell items from this marketplace using AI-powered tools.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "letting store associates search for and sell items from Lowe's third-party marketplace, which launched Wednesday.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "GenAI enables faster and more complete answers to agronomy questions",
+      "claim_description": "Generative AI trained on agronomic and product knowledge empowers Bayer employees to answer agronomy and product questions faster and more completely than ever before, reducing reliance on years of specialized expertise or reference manuals.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We are confident we can train GenAI models on our agronomic and product knowledge and empower our people to answer a vast majority of agronomy and product questions faster and more completely than ever before.",
+      "quote_location": "Statement by Dan Kurdys, Global Business Lead, GenAI at BCS",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GenAI models directly trained on agronomic knowledge enable faster and more complete answers, explicitly stated as the mechanism for improvement.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "GenAI facilitates easy retrieval and accessibility of agronomic knowledge",
+      "claim_description": "GenAI has organized agronomic knowledge to make retrieval easy and accessible, addressing the challenge of convenient synthesis of knowledge to specific needs for agronomists and farmers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "GenAI has helped organize the agronomic knowledge in a way that makes retrieval easy and accessible.",
+      "quote_location": "Main body text",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GenAI is explicitly credited with organizing knowledge for easy retrieval, directly enabling improved access to information.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "GenAI revolutionizes customer service delivery in agriculture",
+      "claim_description": "GenAI can revolutionize how Bayer serves customers by building institutional knowledge and making highly technical information readily available to employees, partners and customers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This can revolutionize the way we serve our customers, allowing us to both build our institutional knowledge and make highly technical information readily available to our employees, partners and customers.",
+      "quote_location": "Statement by Dan Kurdys",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GenAI is identified as the transformative technology that enables revolutionary changes in customer service delivery and knowledge accessibility.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Bayer Crop Science operates globally with field teams and distribution partners",
+      "claim_description": "BCS provides comprehensive customer service through field teams and distribution partners, helping farmers make informed decisions through expert advice on product features, performance and use.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BCS provides comprehensive customer service through its field teams and distribution partners, helping farmers make more informed decisions through expert advice on product features, performance and use.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "products_services",
+      "claim_title": "Bayer Crop Science offers seeds, traits, crop protection, and digital solutions",
+      "claim_description": "BCS offerings consist of a vast array of seeds and traits, crop protection products, and digital solutions for agriculture.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Offerings consist of a vast array of seeds and traits, crop protection products, and digital solutions for agriculture.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Bayer operates in agriculture sector serving farmers worldwide",
+      "claim_description": "Bayer Crop Science serves farmers globally, providing agronomic expertise and acting as a trusted advisor for agricultural decisions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We recognize that AI holds tremendous potential to assist our agronomists to positively impact farmers worldwide",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "GenAI application supports customer service and support functions",
+      "claim_description": "The GenAI initiative focuses on enhancing customer service delivery by providing agronomic advisors with faster access to specialized knowledge to answer farmer questions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Farmers turn to us, as a trusted advisor, to help them answer questions. Typically, accurate answers require years of specialized expertise or consulting reference manuals",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Strategic intent to scale agronomic expertise through AI",
+      "claim_description": "BCS is determined to unlock the potential of generative AI to expedite provision of specialized agronomic information to advisors and farmers, addressing knowledge synthesis challenges.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In relentless pursuit to expedite the provision of this highly specialized information to its agronomic advisors and subsequently farmers, BCS is determined to unlock the potential of generative AI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Global scale of agronomic knowledge and operations",
+      "claim_description": "Bayer has tremendous depth and breadth of agronomic knowledge as a company, but faced challenges in convenient synthesis of that knowledge to specific needs.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "As a company, we have tremendous depth and breadth of agronomic knowledge, but convenient synthesis of that knowledge to specific needs has been a challenge.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

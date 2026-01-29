@@ -1,0 +1,964 @@
+---
+case_id: intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities
+organisation: Intercom
+title: AI Customer Service Agent Performance Claims
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.intercom.com/blog/announcing-fin-ai-copilot/
+  url: https://www.intercom.com/blog/announcing-fin-ai-copilot/
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/
+  url: https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.intercom.com/blog/whats-new-with-fin-3/
+  url: https://www.intercom.com/blog/whats-new-with-fin-3/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.intercom.com/blog/headlines-from-pioneer-2025/
+  url: https://www.intercom.com/blog/headlines-from-pioneer-2025/
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-...
+  url: https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Fin AI Agent resolved over 8 million customer queries
+  claim_description: Fin AI Agent has helped customers with more than 8 million queries
+    since launch, demonstrating significant adoption and scale in customer service
+    automation.
+  source_ids:
+  - S1
+  source_quote: it has already helped customers with more than 8 million queries
+  quote_location: Second paragraph
+  ai_attribution: direct
+  attribution_evidence: The claim explicitly states Fin AI Agent directly helped customers
+    with queries, with no other systems mentioned as contributing to this outcome.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '8000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Fin AI Agent resolves up to 80% of conversations instantly
+  claim_description: Fin AI Agent achieves resolution rates of up to 80% of customer
+    conversations, providing immediate automated support without human intervention.
+  source_ids:
+  - S1
+  source_quote: resolves up to 80% of conversations instantly
+  quote_location: Second paragraph
+  ai_attribution: direct
+  attribution_evidence: The resolution rate is directly attributed to Fin AI Agent's
+    capability to handle customer conversations autonomously.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '80'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: AI Copilot increased agent efficiency by 31% at Lightspeed
+  claim_description: Lightspeed, an early tester of AI Copilot, experienced a 31%
+    increase in agent efficiency by using the AI assistant to help agents find answers
+    faster.
+  source_ids:
+  - S1
+  source_quote: One of our early testers, Lightspeed, has already seen a 31% increase
+    in agent efficiency with AI Copilot.
+  quote_location: 'Section: A personal AI assistant for every agent'
+  ai_attribution: direct
+  attribution_evidence: The efficiency gain is directly attributed to the use of AI
+    Copilot, which provides agents with instant answers from multiple content sources.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '31'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Fin 2 achieved 51% average resolution rate across customers
+  claim_description: Customers using Fin 2 see an average resolution rate of 51%,
+    with an accuracy rate of 99.9%, demonstrating improved performance over the initial
+    version.
+  source_ids:
+  - S2
+  source_quote: customers using Fin 2 see an average resolution rate of 51%, with
+    an accuracy rate of 99.9%
+  quote_location: 'Section: The best AI agent just got better'
+  ai_attribution: direct
+  attribution_evidence: The resolution and accuracy rates are directly attributed
+    to Fin 2's capabilities in handling customer service queries autonomously.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '51'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Fin 2 achieved 99.9% accuracy rate
+  claim_description: Fin 2 demonstrates exceptional accuracy with a 99.9% accuracy
+    rate in resolving customer queries, ensuring high-quality automated support.
+  source_ids:
+  - S2
+  source_quote: customers using Fin 2 see an average resolution rate of 51%, with
+    an accuracy rate of 99.9%
+  quote_location: 'Section: The best AI agent just got better'
+  ai_attribution: direct
+  attribution_evidence: The accuracy rate is directly measured from Fin 2's performance
+    in providing correct answers to customer queries.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '99.9'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Over 20% of customers achieve above 80% resolution rate with Fin 2
+  claim_description: More than 20% of Intercom's customers using Fin 2 are achieving
+    resolution rates exceeding 80%, demonstrating high performance for optimized implementations.
+  source_ids:
+  - S3
+  source_quote: Over 20% of our customers are getting above 80%
+  quote_location: 'Section: The evolution of Fin'
+  ai_attribution: direct
+  attribution_evidence: The high resolution rates are directly attributed to Fin 2's
+    capabilities when properly configured and optimized by customers.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '80'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Fin 2 average resolution rate climbed to 66% across 6,000+ customers
+  claim_description: Since Fin 2 launch, the average resolution rate has increased
+    to 66% across Intercom's customer base of over 6,000 customers.
+  source_ids:
+  - S3
+  source_quote: Since we launched Fin 2, its average resolution rate has continued
+    to climb to 66% across our 6,000+ customers.
+  quote_location: 'Section: The evolution of Fin'
+  ai_attribution: direct
+  attribution_evidence: The resolution rate improvement is directly attributed to
+    Fin 2's enhanced capabilities and continuous optimization.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '66'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Fin handled 14 million customer support requests
+  claim_description: By October 2024, Fin AI Agent had handled 14 million customer
+    support requests, demonstrating significant scale and adoption.
+  source_ids:
+  - S5
+  source_quote: The first iteration of Fin, released in March 2023, has already handled
+    14 million customer support requests
+  quote_location: Second paragraph
+  ai_attribution: direct
+  attribution_evidence: The 14 million requests were directly handled by Fin AI Agent
+    without human intervention.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '14000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: Fin saved 1.2 million hours for support teams
+  claim_description: Fin AI Agent saved support teams a total of 1.2 million hours
+    by automating customer support requests that would otherwise require human handling.
+  source_ids:
+  - S5
+  source_quote: saved 1.2 million hours for support teams
+  quote_location: Second paragraph
+  ai_attribution: direct
+  attribution_evidence: The time savings are directly attributed to Fin's automation
+    of support requests, eliminating the need for human agent involvement.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - cost_reduction
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '1200000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Fin resolved 50% of customer requests on average
+  claim_description: The first iteration of Fin AI Agent resolved an average of 50%
+    of customer requests, establishing a baseline for automated customer service performance.
+  source_ids:
+  - S5
+  source_quote: resolved 50 percent of customer requests on average
+  quote_location: Second paragraph
+  ai_attribution: direct
+  attribution_evidence: The resolution rate is directly attributed to Fin's ability
+    to autonomously handle customer requests without human intervention.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-011
+  claim_title: Two specialists enable 50 FTE worth of coverage at Anthropic
+  claim_description: At Anthropic, two AI specialists (systems/automation and knowledge/content)
+    enable almost 50 full-time employees' worth of customer support coverage using
+    Fin.
+  source_ids:
+  - S4
+  source_quote: We're a lean but focused team of two specialists. What's really cool
+    is that those two specialists actually enable almost 50 full-time employees' worth
+    of coverage in our volume.
+  quote_location: 'Section: We got a look at what AI transformation looks like inside
+    Anthropic'
+  ai_attribution: direct
+  attribution_evidence: The workforce efficiency is directly attributed to Fin AI
+    Agent managed by two specialists, replacing the need for 50 FTEs.
+  verification_status: needs_review
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - cost_reduction
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-012
+  claim_title: Fin initially answered over 25% of customer questions with minimal
+    optimization
+  claim_description: When first launched, Fin AI Agent could answer over 25% of customer
+    questions using only existing help center content with little optimization.
+  source_ids:
+  - S2
+  source_quote: just using a company's existing help center content with little optimization,
+    it could answer over 25% of customer questions
+  quote_location: 'Section: The best AI agent just got better'
+  ai_attribution: direct
+  attribution_evidence: The 25% resolution rate is directly attributed to Fin's capability
+    to leverage existing content without additional configuration.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '25'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Fin AI Agent launched in March 2023
+  claim_description: Intercom launched the first version of Fin AI Agent in March
+    2023, marking the first AI-powered agent designed specifically for customer service.
+  source_ids:
+  - S2
+  - S5
+  source_quote: When we launched Fin AI Agent in March 2023, it was the first AI-powered
+    agent designed specifically for customer service.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: temporal
+  claim_title: AI Copilot announced in 2024
+  claim_description: Intercom announced Fin AI Copilot as a companion product to Fin
+    AI Agent to assist human agents with complex queries.
+  source_ids:
+  - S1
+  source_quote: When we launched our groundbreaking Fin AI Agent last year, it set
+    the standard for generative AI customer service experiences
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: Fin 2 launched in October 2024
+  claim_description: Intercom released Fin 2, the second generation of its AI agent,
+    in October 2024 with enhanced capabilities.
+  source_ids:
+  - S5
+  source_quote: Intercom today launched Fin 2, the latest version of its artificial
+    intelligence agent for customer service.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: Fin 3 announced at Pioneer 2025
+  claim_description: Intercom announced Fin 3 at their Pioneer 2025 summit, introducing
+    capabilities for handling complex, multi-step queries.
+  source_ids:
+  - S3
+  - S4
+  source_quote: 'At Pioneer 2025, our Chief Product Officer Paul Adams announced Fin
+    3: the best AI Agent for resolving deep, complex queries across every channel.'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: Intercom has over 6,000 customers using Fin
+  claim_description: Intercom's customer base using Fin AI Agent exceeds 6,000 organizations
+    as of the Fin 2 launch period.
+  source_ids:
+  - S3
+  source_quote: its average resolution rate has continued to climb to 66% across our
+    6,000+ customers
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: sectoral
+  claim_title: Intercom operates in customer service software industry
+  claim_description: Intercom provides AI-powered customer service platform solutions
+    for businesses across various industries.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Intercom is leading the industry into a new era of AI-first Customer
+    Service
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Fin supports customer service operations
+  claim_description: Fin AI Agent is designed to handle customer service and support
+    functions, including query resolution and customer assistance.
+  source_ids:
+  - S1
+  - S2
+  - S3
+  source_quote: it was the first AI-powered agent designed specifically for customer
+    service
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10004'
+  apqc_name: Deliver Service to Customer
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: products_services
+  claim_title: Fin supports 45 languages
+  claim_description: Fin AI Agent and AI Copilot provide multilingual support across
+    45 languages including Arabic, French, and Japanese.
+  source_ids:
+  - S1
+  - S2
+  source_quote: AI Copilot can also provide multilingual support in the same 45 languages
+    as Fin AI Agent – from Arabic, to French, to Japanese, and more.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: Fin operates across multiple channels
+  claim_description: Fin AI Agent works across multiple customer service channels
+    including chat, email, WhatsApp, Voice, Slack, and Discord.
+  source_ids:
+  - S2
+  - S3
+  source_quote: Fin is omnichannel, working equally well across chat, email, WhatsApp,
+    and more.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: strategic_intent
+  claim_title: Intercom's mission is to make internet business personal
+  claim_description: Intercom's core mission is to make internet business personal
+    by enabling concierge-level service for every customer.
+  source_ids:
+  - S4
+  source_quote: Since the beginning of Intercom, our mission has been to make internet
+    business personal.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: strategic_intent
+  claim_title: Vision for unified Customer Agent across entire customer journey
+  claim_description: Intercom's strategic vision is to evolve Fin into a unified Customer
+    Agent capable of handling the entire customer experience beyond just support.
+  source_ids:
+  - S4
+  source_quote: Fin will not be just the world's best Customer Service Agent. It will
+    be the world's best Customer Agent, capable of handling the entire customer experience.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: organisational
+  claim_title: Lightspeed is an early tester of AI Copilot
+  claim_description: Lightspeed participated as an early tester of Intercom's AI Copilot
+    feature.
+  source_ids:
+  - S1
+  source_quote: One of our early testers, Lightspeed, has already seen a 31% increase
+    in agent efficiency with AI Copilot.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: organisational
+  claim_title: Anthropic uses Fin for customer support operations
+  claim_description: Anthropic, the AI company, uses Intercom's Fin AI Agent for their
+    customer support operations.
+  source_ids:
+  - S4
+  source_quote: Isabel Larrow, Product Support Operations Lead at Anthropic, took
+    to the stage with our VP of Customer Success and Solutions Junan Pang
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: products_services
+  claim_title: Fin pricing model is $0.99 per resolution
+  claim_description: Intercom charges $0.99 per resolution for Fin AI Agent, only
+    charging when Fin successfully resolves a customer query.
+  source_ids:
+  - S2
+  source_quote: The same as it always did – $0.99 cents per resolution. We only charge
+    you if Fin delivers a resolution.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: organisational
+  claim_title: Multiple enterprise customers use Fin
+  claim_description: Intercom's Fin is used by various enterprise customers including
+    Toast, Crypto.com, Gamma, Rocket Money, Nuuly, AppFolio, and Deliverect.
+  source_ids:
+  - S1
+  - S4
+  source_quote: We heard from companies like Anthropic, Gamma, Toast, Crypto.com,
+    and more about how they've transformed their support operations with AI.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 12
+    verified: 11
+    needs_review: 1
+    rejected: 0
+    by_attribution:
+      direct: 12
+  context_claims:
+    total: 15
+    verified: 15
+    unverified: 0
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: true
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI Customer Service Agent Performance Claims
+
+## Executive Summary
+
+Intercom: Fin AI Agent resolved over 8 million customer queries.
+
+## Key Findings
+
+- **Fin AI Agent resolved over 8 million customer queries** — verified (adoption)
+  - Quote: "it has already helped customers with more than 8 million queries"
+
+- **Fin AI Agent resolves up to 80% of conversations instantly** — verified (outcome)
+  - Quote: "resolves up to 80% of conversations instantly"
+
+- **AI Copilot increased agent efficiency by 31% at Lightspeed** — verified (outcome)
+  - Quote: "One of our early testers, Lightspeed, has already seen a 31% increase in agent efficiency with AI Copilot."
+
+- **Fin 2 achieved 51% average resolution rate across customers** — verified (outcome)
+  - Quote: "customers using Fin 2 see an average resolution rate of 51%, with an accuracy rate of 99.9%"
+
+- **Fin 2 achieved 99.9% accuracy rate** — verified (outcome)
+  - Quote: "customers using Fin 2 see an average resolution rate of 51%, with an accuracy rate of 99.9%"
+
+- **Over 20% of customers achieve above 80% resolution rate with Fin 2** — verified (outcome)
+  - Quote: "Over 20% of our customers are getting above 80%"
+
+- **Fin 2 average resolution rate climbed to 66% across 6,000+ customers** — verified (outcome)
+  - Quote: "Since we launched Fin 2, its average resolution rate has continued to climb to 66% across our 6,000+ customers."
+
+- **Fin handled 14 million customer support requests** — verified (adoption)
+  - Quote: "The first iteration of Fin, released in March 2023, has already handled 14 million customer support requests"
+
+- **Fin saved 1.2 million hours for support teams** — verified (outcome)
+  - Quote: "saved 1.2 million hours for support teams"
+
+- **Fin resolved 50% of customer requests on average** — verified (outcome)
+  - Quote: "resolved 50 percent of customer requests on average"
+
+- **Two specialists enable 50 FTE worth of coverage at Anthropic** — needs_review (outcome)
+  - Quote: "We're a lean but focused team of two specialists. What's really cool is that those two specialists actually enable almost 50 full-time employees' worth of coverage in our volume."
+
+- **Fin initially answered over 25% of customer questions with minimal optimization** — verified (outcome)
+  - Quote: "just using a company's existing help center content with little optimization, it could answer over 25% of customer questions"
+
+## Sources
+
+- **S1**: https://www.intercom.com/blog/announcing-fin-ai-copilot/
+- **S2**: https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/
+- **S3**: https://www.intercom.com/blog/whats-new-with-fin-3/
+- **S4**: https://www.intercom.com/blog/headlines-from-pioneer-2025/
+- **S5**: https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx

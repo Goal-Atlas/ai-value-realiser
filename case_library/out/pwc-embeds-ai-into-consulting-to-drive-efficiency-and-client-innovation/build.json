@@ -1,0 +1,396 @@
+{
+  "case_id": "pwc-embeds-ai-into-consulting-to-drive-efficiency-and-client-innovation",
+  "build_started": "2026-01-29T11:11:59.420968",
+  "build_completed": "2026-01-29T11:12:01.638272",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "PwC AI Integration in Consulting Operations",
+      "PwC AI Integration in Consulting Operations"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://www.pwc.com/us/en/library/case-studies/business-services-transformation-pwc.html",
+        "rank": 1
+      },
+      {
+        "url": "https://www.strat-bridge.com/insights/pwcs-results-2025/",
+        "rank": 2
+      },
+      {
+        "url": "https://www.pwc.com/us/en/technology/alliances/amazon-web-services/ai-solutions.html",
+        "rank": 3
+      },
+      {
+        "url": "https://emerj.com/ai-at-pwc-two-use-cases/",
+        "rank": 4
+      },
+      {
+        "url": "https://www.pwc.com/m1/en/media-centre/articles/harnessing-ai-and-data-for-sustainable-business.html",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://www.pwc.com/us/en/library/case-studies/business-services-transformation-pwc.html",
+      "https://www.strat-bridge.com/insights/pwcs-results-2025/",
+      "https://www.pwc.com/us/en/technology/alliances/amazon-web-services/ai-solutions.html",
+      "https://emerj.com/ai-at-pwc-two-use-cases/",
+      "https://www.pwc.com/m1/en/media-centre/articles/harnessing-ai-and-data-for-sustainable-business.html"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.pwc.com/us/en/library/case-studies/business-services-transformation-pwc.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 290,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.strat-bridge.com/insights/pwcs-results-2025/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4790,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.pwc.com/us/en/technology/alliances/amazon-web-services/ai-solutions.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 5014,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://emerj.com/ai-at-pwc-two-use-cases/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://www.pwc.com/m1/en/media-centre/articles/harnessing-ai-and-data-for-sustainable-business.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 9915,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 8,
+    "context_claims_count": 15,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 964,
+        "char_offset_end": 1135,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S3",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 456,
+        "char_offset_end": 635,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 636,
+        "char_offset_end": 743,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3695,
+        "char_offset_end": 3795,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-008",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4052,
+        "char_offset_end": 4248,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 185,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 336,
+        "char_offset_end": 434,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1283,
+        "char_offset_end": 1533,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S3",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1315,
+        "char_offset_end": 1488,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S3",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 3063,
+        "char_offset_end": 3314,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4052,
+        "char_offset_end": 4248,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2169,
+        "char_offset_end": 2477,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-013",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2216,
+        "char_offset_end": 2377,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-014",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-015",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1605,
+        "char_offset_end": 1872,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

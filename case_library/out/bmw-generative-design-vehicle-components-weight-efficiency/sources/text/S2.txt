@@ -1,0 +1,25 @@
+PressClub Global · Article.
+Industrial-scale 3D printing continues to advance at BMW Group
+Thu Dec 10 11:00:00 CET 2020 Press Release
++++ 3D-printed parts for exclusive small series production +++ Systematic integration of additive manufacturing into development and production +++ Generative design in component development +++ Artificial intelligence screens components for additive manufacturability +++
+Press Contact.
+Carolin Seidel
+BMW Group
+Tel: +49-151-601-90340
+send an e-mail
+Author.
+Carolin Seidel
+BMW Group
+This article in other PressClubs
+Munich. The BMW Group is taking the next step in the systematic integration of additive manufacturing. The aim is to scale additive manufacturing up to industrial levels and firmly establish it in various areas – primarily vehicle development and production – to positive economic effect. The BMW Group benefits fully from the advantages of the technology, which offers fast availability of components, flexible component design, and the ability to manufacture parts without elaborate tools.
+Daniel Schäfer, Senior Vice President for Production Integration and Pilot Plant at the BMW Group: “Processes such as additive manufacturing help us to speed up development cycles and get our vehicles to series maturity faster. 3D printing also shortens the production times of components while meeting rigorous quality requirements.”
+3D-printed components for small series production
+Since the middle of this year, the BMW Group has been additively manufacturing metal and polymer parts for Rolls-Royce Motor Cars. They are made at various points in the process chain and different sites across the global production network.
+The components concerned are for the vehicle body and passenger cell, and are highly functional and rigid. The process for manufacturing them was developed and prepared for application in automotive production by the BMW Group, at the company’s own Additive Manufacturing Campus, which also produces polymer parts by multi-jet fusion and selective laser sintering.
+At BMW Group Plant Landshut metal parts are currently made by laser beam melting. In production, the metal 3D-printed components are fitted to car bodies in an almost entirely automated process. Polymer components from the Additive Manufacturing Campus and the metal substrate for the trim panel are fitted in the automobiles.
+Component development through generative design
+The degree to which additive manufacturing can be used in parts production was ascertained in the early stages of the vehicle development. Engineers as well as production and materials experts examined hundreds of components, focusing throughout on the economic benefits of the new technology, and on the weight and geometry advantages compared with conventionally manufactured parts. Components were selected for 3D printing based on a series of criteria and requirements, which were defined and translated into “machine language” with the help of data scientists. This marked the start of a new AI system enabling the BMW Group to identify faster and earlier on which components could potentially be produced by 3D printing.
+Parts that had previously been virtually impossible to realise are engineered by generative design, which uses computer algorithms for rapid component development. Together, experts and computers create parts that make the best possible use of materials in production. Many potential applications are only possible at all thanks to generative design, and 3D printing technologies are particularly suitable for creating their complex forms and structures, which were previously impossible to produce with conventional tools.
+For the BMW Group, generative design resulted in topology-optimised solutions, where form and function have been significantly enhanced. The components are around 50 percent lighter than comparable conventional components and make the best possible use of the space available, as is the case with the damper for the rear lid.
+Additive Manufacturing Campus
+Since June the BMW Group has pooled its entire technology expertise at the Additive Manufacturing Campus just outside Munich. The new campus also provides training for associates from around the world to use the new technologies, and is the home of prototype component production. At the moment the centre of excellence has up to 80 associates and already operates about 50 metal and polymer processing systems. A further 50-plus systems are operating at other production sites around the world.

@@ -1,0 +1,526 @@
+---
+case_id: anz-core-banking-system-ibm-z-developer-tools
+organisation: Australia and New Zealand Banking Group Limited (ANZ)
+title: Core Banking System Modernization with IBM Z Developer Tools
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.casestudies.com/company/ibm/case-study/anz-transforms-mainframe-envi...
+  url: https://www.casestudies.com/company/ibm/case-study/anz-transforms-mainframe-environment-with-highly-flexible-and-mirrored-ibm-zsystems
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.ibm.com/think/topics/mainframe-for-banking
+  url: https://www.ibm.com/think/topics/mainframe-for-banking
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: ANZ achieved improved system availability through mirrored IBM zSystems
+  claim_description: ANZ built inter-site resiliency capacity with mirrored IBM zSystems
+    servers using HyperSwap function, enabling multi-target storage swaps without
+    outages and providing modern disaster recovery posture for business continuity.
+  source_ids:
+  - S2
+  source_quote: They built out an inter-site resiliency capacity, running mirrored
+    IBM zSystems servers using their HyperSwap function to enable multi-target storage
+    swaps without requiring outages
+  quote_location: ANZ use case section
+  ai_attribution: contextual
+  attribution_evidence: The value is derived from infrastructure modernization and
+    system architecture improvements, not AI technology directly.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Atruvia improved mainframe workload performance by 3X through Java
+    refactoring
+  claim_description: Atruvia refactored 85% of core banking transactions by writing
+    RESTful services in Java alongside existing COBOL, building new functionality
+    while improving mainframe workload performance by 3X.
+  source_ids:
+  - S2
+  source_quote: By gradually replacing 85% of their core banking transactions with
+    modern Java, they were able to build new functionality for bank customers, while
+    improving performance of workloads on the mainframe by 3X.
+  quote_location: Atruvia AG use case section
+  ai_attribution: contextual
+  attribution_evidence: Performance improvement from code refactoring and modernization,
+    not AI-specific technology.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '3'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Garanti BBVA reduced compliance report runtime from 2 days to 1 minute
+  claim_description: Garanti BBVA deployed IBM Db2 Analytics Accelerator for z/OS
+    to accelerate query workloads and reduce mainframe CPU consumption. A compliance
+    report that took two days now runs in one minute.
+  source_ids:
+  - S2
+  source_quote: The separation of analytics workloads from the concerns and costs
+    of the mainframe production environment allows Garanti to run more than 300 analytics
+    batch jobs every night, and a compliance report that used to take two days to
+    run now only takes one minute.
+  quote_location: Garanti BBVA use case section
+  ai_attribution: contributing
+  attribution_evidence: Analytics acceleration technology contributes to dramatic
+    performance improvement in analytical query processing.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '2880'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Danske Bank reduced time-to-market by 50% through DevOps transformation
+  claim_description: Danske Bank brought nearly 1,000 mainframe developers into DevOps
+    transformation using IBM ADFz, integrating COBOL and PL/1 code into CI/CD pipelines.
+    The bank now brings new offerings to market in half the time.
+  source_ids:
+  - S2
+  source_quote: Danske Bank decided to bring nearly 1,000 internal mainframe developers
+    into a firm-wide DevOps transformation movement, using the IBM Application Delivery
+    Foundation for z/OS (ADFz) as a platform for feature development, debugging, testing
+    and release management. The bank can now bring new offerings to market in half
+    the time it used to take.
+  quote_location: Danske Bank use case section
+  ai_attribution: contextual
+  attribution_evidence: Value derived from DevOps tooling and process transformation,
+    not AI technology.
+  verification_status: needs_review
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Garanti BBVA runs 300+ analytics batch jobs nightly with accelerated
+    platform
+  claim_description: Garanti BBVA's deployment of IBM Db2 Analytics Accelerator enables
+    running more than 300 analytics batch jobs every night while reducing mainframe
+    CPU consumption.
+  source_ids:
+  - S2
+  source_quote: The separation of analytics workloads from the concerns and costs
+    of the mainframe production environment allows Garanti to run more than 300 analytics
+    batch jobs every night
+  quote_location: Garanti BBVA use case section
+  ai_attribution: contributing
+  attribution_evidence: Analytics acceleration technology enables increased analytical
+    workload capacity.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '300'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: ANZ is a top-five bank in Australia
+  claim_description: ANZ is one of the top five banks in Australia serving more than
+    8.5 million customers.
+  source_ids:
+  - S2
+  source_quote: ANZ, a top-five bank in Australia, sought to increase its capacity
+    for timelier mainframe backups and faster DR performance to ensure high availability
+    for its more than 8.5 million customers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: ANZ operates in the banking and financial services sector
+  claim_description: ANZ is a banking institution providing financial services to
+    millions of customers.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Australia and New Zealand Banking Group Limited
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: scale
+  claim_title: ANZ serves more than 8.5 million customers
+  claim_description: ANZ has a customer base exceeding 8.5 million individuals.
+  source_ids:
+  - S2
+  source_quote: ANZ, a top-five bank in Australia, sought to increase its capacity
+    for timelier mainframe backups and faster DR performance to ensure high availability
+    for its more than 8.5 million customers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: strategic_intent
+  claim_title: ANZ sought to improve disaster recovery and business continuity
+  claim_description: ANZ's strategic objective was to increase capacity for timelier
+    mainframe backups and faster disaster recovery performance to ensure high availability
+    and business continuity.
+  source_ids:
+  - S2
+  source_quote: ANZ, a top-five bank in Australia, sought to increase its capacity
+    for timelier mainframe backups and faster DR performance to ensure high availability
+    for its more than 8.5 million customers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: functional
+  claim_title: ANZ modernized IT infrastructure and disaster recovery capabilities
+  claim_description: ANZ implemented mirrored IBM zSystems infrastructure with HyperSwap
+    functionality for improved disaster recovery and system availability.
+  source_ids:
+  - S2
+  source_quote: They built out an inter-site resiliency capacity, running mirrored
+    IBM zSystems servers using their HyperSwap function to enable multi-target storage
+    swaps without requiring outages
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10961'
+  apqc_name: Manage IT infrastructure
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: organisational
+  claim_title: Atruvia AG is a leading banking service technology vendor
+  claim_description: Atruvia AG is one of the world's leading banking service technology
+    vendors, with more than 800 banks relying on their services for nearly 100 billion
+    annual transactions.
+  source_ids:
+  - S2
+  source_quote: Atruvia AG is one of the world's leading banking service technology
+    vendors. More than 800 banks rely on their innovative services for nearly 100
+    billion annual transactions, supported by eight IBM z15 systems running in four
+    data centers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: organisational
+  claim_title: Garanti BBVA is Turkey's second-largest bank
+  claim_description: Garanti BBVA holds the position as the second-largest bank in
+    Turkey.
+  source_ids:
+  - S2
+  source_quote: Garanti BBVA, Turkey's second-largest bank, deployed IBM Db2 Analytics
+    Accelerator for z/OS
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: scale
+  claim_title: Danske Bank has nearly 1,000 internal mainframe developers
+  claim_description: Danske Bank employs approximately 1,000 mainframe developers
+    internally.
+  source_ids:
+  - S2
+  source_quote: Danske Bank decided to bring nearly 1,000 internal mainframe developers
+    into a firm-wide DevOps transformation movement
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: ANZ used IBM zSystems with HyperSwap functionality
+  claim_description: ANZ deployed mirrored IBM zSystems servers with HyperSwap function
+    to enable multi-target storage swaps without outages.
+  source_ids:
+  - S2
+  source_quote: They built out an inter-site resiliency capacity, running mirrored
+    IBM zSystems servers using their HyperSwap function to enable multi-target storage
+    swaps without requiring outages
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: temporal
+  claim_title: Banking industry faces modernization challenges from legacy mainframe
+    systems
+  claim_description: Banks operate mainframes as systems of record from before internet,
+    cloud computing, and mobile apps, creating significant modernization challenges
+    and technical debt.
+  source_ids:
+  - S2
+  source_quote: Before the internet and cloud computing, and before smartphones and
+    mobile apps, banks were shuttling payments through massive electronic settlement
+    gateways and operating mainframes as systems of record.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 5
+    verified: 4
+    needs_review: 1
+    rejected: 0
+    by_attribution:
+      contextual: 3
+      contributing: 2
+  context_claims:
+    total: 10
+    verified: 10
+    unverified: 0
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: true
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Core Banking System Modernization with IBM Z Developer Tools
+
+## Executive Summary
+
+Australia and New Zealand Banking Group Limited (ANZ): ANZ achieved improved system availability through mirrored IBM zSystems.
+
+## Key Findings
+
+- **ANZ achieved improved system availability through mirrored IBM zSystems** — verified (method)
+  - Quote: "They built out an inter-site resiliency capacity, running mirrored IBM zSystems servers using their HyperSwap function to enable multi-target storage swaps without requiring outages"
+
+- **Atruvia improved mainframe workload performance by 3X through Java refactoring** — verified (outcome)
+  - Quote: "By gradually replacing 85% of their core banking transactions with modern Java, they were able to build new functionality for bank customers, while improving performance of workloads on the mainframe ..."
+
+- **Garanti BBVA reduced compliance report runtime from 2 days to 1 minute** — verified (outcome)
+  - Quote: "The separation of analytics workloads from the concerns and costs of the mainframe production environment allows Garanti to run more than 300 analytics batch jobs every night, and a compliance report ..."
+
+- **Danske Bank reduced time-to-market by 50% through DevOps transformation** — needs_review (outcome)
+  - Quote: "Danske Bank decided to bring nearly 1,000 internal mainframe developers into a firm-wide DevOps transformation movement, using the IBM Application Delivery Foundation for z/OS (ADFz) as a platform for..."
+
+- **Garanti BBVA runs 300+ analytics batch jobs nightly with accelerated platform** — verified (adoption)
+  - Quote: "The separation of analytics workloads from the concerns and costs of the mainframe production environment allows Garanti to run more than 300 analytics batch jobs every night"
+
+## Sources
+
+- **S1**: https://www.casestudies.com/company/ibm/case-study/anz-transforms-mainframe-environment-with-highly-flexible-and-mirrored-ibm-zsystems
+- **S2**: https://www.ibm.com/think/topics/mainframe-for-banking

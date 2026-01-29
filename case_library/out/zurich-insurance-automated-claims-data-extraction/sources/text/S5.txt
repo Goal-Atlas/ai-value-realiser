@@ -1,0 +1,18 @@
+Between February and March 2018, Zurich launched a six-week trial period for a sophisticated chatbot programme. Their mission? To allow customers notify Zurich of a claim efficiently, intuitively and quickly.
+Zurich Insurance could only provide open office hours for their customers to report their claim, which was increasing operational costs plus time waiting on hold for customers. The team at Zurich wanted to test their customers’ appetite for a 24/7 solution for their digital native customers.
+Zurich and Spixii worked closely together in a series of collaborative workshops. These aligned cultures, company objectives and a rapid pace of working. In just one day, the teams iterated the chatbot conversation five times through vigorous user testing and customer feedback.
+These sessions embedded customer feedback, empathy and behavioural analysis early on in the process to truly return the human to the conversation. For Rob Brewer, Zurich’s Service Design Executive, “Spixii’s approach of validating user testing was really interesting and fresh - a very different way of working. I can’t remember achieving as much as we did in six hours! It really set the chatbot up for release”.
+Using Spixii’s trademark methodology, Zara was designed in one week, then built and implemented within 2 weeks.
+The name Zara (Zurich Automated Response Agent) was selected after an internal competition to name the prototype chatbot. She was then put through her paces by Zurich employees, ensuring the tone of voice and language was on-brand and resulted in great digital customer service.
+Zara works on first notification of non-emergency Home and Motor claims. The day of her launch coincided with the arrival of the ‘Beast of the East’, resulting in a surge in claims. Zara was able to help customers quickly log their first notification of a claim at a time that suited them, despite the high number of calls. She gathers enough information at any hour, seven days a week, to pass onto a human handler.
+Ultimately, with Zara’s support Zurich can now process the claim within three working hours, compared to the previous targeted 24 hours.
+In the first 6 weeks, Zara received 765 customer interactions (20% of the reported claims volume) and received a great feedback from both customers and Claims Handler.
+A claims team manager based in Zurich’s First Notice of Loss (FNOL) Centre in Glasgow was “hugely impressed” by the solution. There was also a good pickup from both insurance and insurtech media, including The Insurance Times and Insurance Business. Here are the results:
+Claim requests managed
+Time saving
+NPS
+Zara helped customers make claims at any time of the day. So far, around 60% of claims were made outside of office hours via Zara. This was Zurich’s first business unit (BU) to launch a chatbot offering for their customers. There are currently 5 in development with different IT partners in Switzerland, Italy, Germany, Brazil and Spain.
+So stay tuned!
+Alexander Last, Continuous Improvement Consultant of Zurich UK
+David Nichols, UK Chief Claims Officer
+Discuss your business needs with the Spixii team and discover how the Spixii CPA Platform can help you accelerate the automation of your high-value processes.

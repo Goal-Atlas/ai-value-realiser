@@ -1,0 +1,48 @@
+Digital
+The Social Security Programme – approach to integrated assurance
+February 5, 2025 by Stewart Hamilton No Comments | Category Digital Assurance Office, Digital Scotland
+Guest blog from Lois MacFadyen, Head of the Digital Assurance Office.
+The Social Security Programme was set up to build and implement the new Social Security System in Scotland, making arrangements for the delivery of 17 benefits. The design and development work on the first end to end service started in October 2017 and the implementation and transition phase of the Social Security Programme will complete in 2025. The Programme has received a range of independent assurance, including through the Technology Assurance Framework (TAF).
+The Social Security Programme Assurance Team have published a detailed case study and delivered an event describing their approach to assurance and lessons learned (see further information below). This blog draws from these to describe the approach taken to assurance by the Programme and reflections from the Digital Assurance Office (DAO).
+Context
+The Social Security Programme has had a range of independent assurance. Since 2017 this has included:
+- 6 Gateway Reviews
+- 28 major digital project reviews
+- 16 desk based reviews from the DAO to provide assurance on interim releases or to review artefacts that were finalised after completion of a Digital Standard assessment or a Go-Live review
+- 46 Digital Standard assessments (the Programme was assessed against the Digital First Service Standard (DFSS) and Digital Scotland Service Standard which refreshed the DFSS in 2021)
+The Programme is the largest delivery programme and transfer of powers under devolution. When reading this blog, bear the size of the programme in mind, the lessons apply to all projects but the approach needed for assurance will depend on the size of the programme/project being delivered.
+Assurance – key activities
+A dedicated assurance team was set up as part of the Programme Management Office (PMO). The main responsibilities of the Assurance Team are to:
+- develop and maintain the Programme Integrated Assurance and Approvals Strategy and underpinning Integrated Assurance and Approvals Plan (IAAP)
+- liaise with DAO and the Portfolio, Programme and Project Assurance Hub (PPPA) to support independent assurance
+- engage with delivery teams to co-ordinate and support assurance activities, for example collating documentation, providing guidance and coordinating action planning in response to recommendations
+The Assurance Team work closely with internal stakeholders to raise awareness of assurance requirements, maintain a good knowledge of current and emerging projects and to embed assurance activities within key project artefacts.
+The Assurance Team and Social Security Scotland’s Corporate Assurance team jointly manage the integrated assurance forum which brings together key assurance interests from the Programme, Social Security Scotland, The Chief Digital Office (CDO) and the SG Directorate for Internal Audit and Assurance (DIAA) (Internal Audit, the DAO and the Portfolio, PPPA). The forum share knowledge of ongoing assurance activity, provide an opportunity to discuss and find solutions to relevant issues and give a joined up opportunity to ensure adequate and proportionate assurance coverage.
+Social Security Programme assurance team – reflections and lessons learned
+The approach to assurance evolved over time. At the early stages the focus was on mandatory assurance requirements, but over time this moved to a proportionate risk based approach. This has been enabled by projects in the programme building on platforms and processes that were developed and assured previously, meaning assurance could focus on areas where there were significant changes to approach.
+Reflections and lessons learned from the Assurance Team:
+- consider whether the size of your programme or project requires a specific assurance function, or if not how assurance will be managed
+- maintain and use an Integrated Assurance and Approvals Plan (IAAP), it enables you to ensure you are covering all assurance requirements in a joined up way
+- get buy in from the Senior Responsible Owner and ensure they understand assurance requirements
+- make sure that appropriate consideration has been given to assurance in project plans and is built into planning and governance arrangements
+- maintain regular engagement with teams on the lead up to assurance assessments to make sure everything is on track
+- build an awareness of the need for and value of assurance, and that the process is supportive, not an exam
+Reflections from the Digital Assurance Office
+Independent and objective assurance provides an external view and helps programmes and projects to avoid common problems and supports the early identification of risks. The DAO has worked closely with the Programme and can see journey the programme has gone through to get to the mature delivery practices in place today. The strong ethos in the programme around continuous improvement and lessons learned has meant that the recommendations from assurance have been actively progressed.
+The scale and complexity of the Programme has required the application of the TAF to be tailored to support its delivery approach and to avoid duplication of assurance activities. The Programme Assurance Team and DAO have worked closely over the years to develop and design approaches that meet the mandatory nature of the assurance requirements and to provide focussed assurance support at the Programme’s request. The Programme’s openness and transparency enabled mature discussions about risk and assurance requirements. Even when assurance is not taking place on a particular service or produce, the Programme Assurance Team keeps the DAO informed about progress, supporting the DAO’s overall understanding of the Programme.
+There is a relationship between the recommendations made and the delivery practices put in place which have supported successful delivery practices. For example the approach to establishing pre-determined criteria across a range of areas (e.g. go-live) was a common recommendation in early reviews. Across a range of areas the Programme now has clarity of what good looks like which provides a framework against which to manage delivery.
+The maturing delivery practices in the Programme, which supported progressively stronger assurance outcomes, enabled the DAO to work with the Programme to take a risk based approach to assurance. This allowed the number of assurance reviews to be minimised whilst ensuring an appropriate level of independent assurance was maintained.
+Based on the experiences of other projects receiving assurance, as well as the hints and tips identified by the Assurance Team above, the DAO would also encourage projects to:
+- consider fully what independent assurance is needed and when (this will go beyond assurance provided by DIAA and could include e.g. security accreditation) – include assurance in delivery plans and use the IAAP to help co-ordinate and plan out assurance activities
+- the more you put into assurance the more you will get out, tailor the reviews to meet the specific needs of the project or programme, see independent assurance as an opportunity
+- actively use the major digital project review gate checklists to understand readiness for the review and prepare ahead of each review
+- plan for the work involved in preparing for the review and responding to it – put in place effective tracking and reporting of assurance actions and take action in a timely way
+- work closely with your DAO engagement manager who will support you through your assurance journey
+Find out more
+For more information about this case study contact ssdassurance@gov.scot.
+The Technology Assurance Framework (TAF) is designed to help prevent digital projects from failing for common reasons, improve delivery and ensure that the lessons learned from previous experience are reflected and embedded in future practice. The DAO are working with organisations to share information which might help others deliver digital projects and we have been publishing our insights and case studies on our digital blog. If you want to get involved contact us at DigitalAssurance@gov.scot. Read our other case studies with Registers of Scotland, Historic Environment Scotland and National Records of Scotland on how they got the most from assurance.
+The Social Security Programme: Our Story Team are capturing and disseminating knowledge, capabilities and lessons learned from the Social Security Programme. You can access their resources on Pathways. The Our Story Team ran a workshop on assurance management and published a detailed case study on the work of the assurance team.
+The Scottish Digital Academy is the public sector centre of expertise for digital capability and can provide information, advice and guidance on developing digital, data and technology skills to support transformation.
+For expert guidance on delivering a digital project visit the Digital Scotland Service Manual.
+For further information and signposting to advice and support on programme and project management contact the Programme and Project Management Centre for Expertise. The Scottish Government programme and project management principles are available and apply to any project of any size.
+Tags: Continuous Improvement, Digital Assurance Office, Major digital project reviews, Social Security Scotland, Technology Assurance Framework

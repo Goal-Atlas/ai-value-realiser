@@ -1,0 +1,53 @@
+allpay has been at the forefront of payment system innovation since its founding in 1994. By 2019, the team recognised that its existing IT infrastructure would not support future growth plans. Seizing this opportunity for modernisation, the IT team began planning a migration from its existing on-premises and colocation setup to Microsoft Azure.
+“We planned a twin-track cloud migration,” says Nick Woolley, IT Director at allpay. “We initiated greenfield cloud-native development in Azure while preparing to migrate our existing application stack, allowing us to bypass the constraints and expense of our existing datacentre.”
+As a financial services provider, compliance, security, and data governance were key considerations when choosing Azure. The benefits of UK data residency, Azure’s extensive tooling, and seamless integration with Microsoft toolsets were also important factors.
+“Migrating to Azure positions us to capitalise on Microsoft’s portfolio enhancements as we progress,” Nick Woolley explains.
+At the same time as getting codes out the door faster, GitHub Copilot is helping us to raise the quality of code, testing, and applications.
+Nick Woolley, IT Director, allpay
+Streamlining software development with AI
+The latest addition to allpay’s cutting-edge toolset is GitHub Copilot.
+GitHub Copilot is an AI coding assistant that helps engineers and developers to write code faster and with less effort so they can redirect their energies to problem solving and collaboration.
+“We are a regulated organisation, so our adoption of Microsoft Copilot and GitHub Copilot makes sense from a data security point of view,” states Adam Wheater, Principal Development Chapter Lead at allpay.
+“People were beginning to explore ChatGPT and we wanted to ensure that we eliminated such shadow AI,” he explains. “It made sense for us to move towards Copilot because the data is then protected within our existing Microsoft tenancy.”
+Different, faster ways to solve problems
+“GitHub Copilot is great because it recommends things you potentially haven’t thought about,” says Adam Wheater. “The people who are using it are definitely seeing benefit from it.”
+allpay estimates that, overall, the team’s use of GitHub Copilot has increased developer productivity by 10%. However, there are some use cases where the productivity boost is even higher—delivering as much as an 80% time saving.
+“I could have a set of stored procedures created now in five minutes, whereas it might have taken someone an hour to write stored procedures previously,” Adam Wheater explains. “And we can have a depth of service set up in a day, rather than the week it took before.”
+These developments are having a great impact on solution delivery. In combination with some organisational changes, the adoption of GitHub Copilot has driven up delivery volume into production by 25%. Nick Woolley confirms, “In terms of releases out the door, in the nine months of this year to date, we have already delivered more than the 900 delivered in the whole of last year.”
+Support for junior team members
+It is worth noting that allpay has recorded some differences in the acceptance rates of Copilot suggestions. While more experienced developers might not accept all the suggestions, they are incredibly useful for junior members of the team.
+Adam Wheater explains, “Whereas previously people would have got stuck or had to go find help by asking another developer or an online search, now we just ask GitHub Copilot. And immediately we get a response: ‘Did you mean this? Here’s the answer for you already!’ Getting the right answer is pretty nippy now.”
+“It’s like pair programming,” he continues. “Except instead of working with another person, you’re working with Copilot. You get all the collaborative aspects and people are more relaxed. It gives our junior developers the confidence that their codes are going to work.”
+Adam Wheater concludes, “As well as the improvements in different procedures and help standardising, GitHub Copilot has really delivered quality of life changes for the development teams.”
+Making sense of legacy code
+One of the most compelling use cases for GitHub Copilot has been when working with legacy code.
+“Copilot helps people touching legacy code understand it better, especially when the people who originally wrote the code have moved on,” reports Adam Wheater. “You can get GitHub Copilot to explain the legacy code to you. It’s definitely increased efficiency that way.”
+Other important use cases valued by the team include: de-serialising API responses; identifying the causes of errors and exceptions; quickly investigating a class or method; offering alternative coding solutions; unit tests; and general coding suggestions.
+Adam Wheater adds, “Rather than spending a whole day debugging and figuring things out, Copilot makes it more digestible and understandable, so the solution is pretty instant.”
+Driving up quality
+“At the same time as getting codes out the door faster, GitHub Copilot is helping us to raise the quality of code, testing, and applications,” emphasises Nick Woolley.
+“I would say our use of GitHub Copilot encourages more code reviews,” agrees Adrian Michalowski. “GitHub Copilot frees up time for frequent code reviews, ensuring standardisation and significantly improving code quality.”
+“Every developer hates writing unit tests,” confirms Adam Wheater. “It’s a part of the job we don’t enjoy because we want to be making things. Using GitHub Copilot has definitely improved our code coverage and the quality of our tests. Because Copilot has the context of the solution, it is able to generate the tests and suggest different tests and different things to test. That’s been a big benefit.”
+“The amount of time we are spending on rework and defect fixing has dropped,” adds Nick Woolley. “We’re getting fewer incidents.”
+Context is everything
+One of the reasons allpay’s use of GitHub Copilot is so much more powerful than other possible AI solutions is that it is fully integrated into allpay’s existing Integrated Development Environment (IDE).
+“If we were using a different AI, we would have to give it context for it to properly understand what we need,” explains Adam Wheater.
+As well as the improvements in different procedures and help standardising, GitHub Copilot has really delivered quality of life changes for the development teams.
+Adam Wheater, Principal Development Chapter Lead, allpay
+“Because GitHub Copilot is built into the IDE, it has all the pieces already there. It knows all the files its referencing, so we don’t need to fill in the blanks. It understands how we’re piecing things together and it can give better, fuller answers.”
+Developer time is redirected to innovation
+allpay is using the time returned to the business through the productivity gains made by the developer’s use of GitHub Copilot to drive additional quality improvement and innovation.
+Adam Wheater explains, “I’ve been able to focus on different areas. We’ve built a new solution using Azure AI Services that reviews the pull requests (PRs) as well as our code. As well as having Copilot, we’ve now got another layer of AI flagging issues and checking quality as well as the human checks.”
+Some of the newly freed-up time has been redirected to consistency and standardisation efforts.
+“Consistency across 12 or 14 squads is really hard to manage,” admits Nick Woolley. “We actually have time now to work horizontally across the teams to ensure consistency and best practice.”
+An extra tool in allpay’s armoury
+The team at allpay have recorded fantastic results from its enthusiastic adoption of GitHub Copilot, but the technology is just one part of allpay’s considered exploitation of its Microsoft technology stack.
+Nick Woolley advises, “GitHub Copilot is another tool in our armoury which supports us to get incremental changes out faster so we can deliver value to the business faster.”
+“Obviously, we have design principles and a design authority, but we want our people to be problem solvers. Part of that is picking the right tooling,” he says. “Our Microsoft stack gives us options beyond simply looking to code our way out of a problem.”
+Drawing on the breadth of Microsoft solutions
+Nick Wooley explains, “We can use Power Platform for some of our automations. We can use the data warehouse technologies like Azure Data Factory and Azure Data Explorer. Or we can use traditional coding techniques, supported with GitHub Copilot. Our technology choices give us different ways to solve problems and shift into a more creative mindset.”
+“We’ve used Power Platform to automate a lot of the legacy business processes—it’s a quicker way of automating. We’ll also be launching a Chatbot based on Azure OpenAI to help raise support helpdesk tickets. It’s all about modernising the environment and delivering operational efficiencies.”
+“We’re trying to use all the tooling available to us to deliver a better service internally and to our customers. We’re working on automating our daily reports to customers because the more information we can surface with Power BI, the easier it is. And we’re looking at Copilot and how it can help us share the information we have in our SharePoint wikis.”
+“This is an exciting area. Our cyber team is looking at how they can leverage Microsoft Copilot for Security and other AI tools. And we’re all very excited to see what’s next with GitHub Copilot—how can it help us to improve further?”
+GitHub Copilot frees up time for frequent code reviews, ensuring standardisation and significantly improving code quality.
+Adrian Michalowski, Cloud Architect, allpay

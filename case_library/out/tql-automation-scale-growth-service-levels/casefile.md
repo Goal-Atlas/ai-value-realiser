@@ -1,0 +1,541 @@
+---
+case_id: tql-automation-scale-growth-service-levels
+organisation: Total Quality Logistics (TQL)
+title: Automation and AI for Scale, Growth, and Service Levels
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.tql.com/about-us/lifeattql-blog/october-2023/team-rocket-takes-fligh...
+  url: https://www.tql.com/about-us/lifeattql-blog/october-2023/team-rocket-takes-flight-with-it-hackathon-victory
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://insights.btoes.com/total-quality-logistics-2021-award-finalist-case-stud...
+  url: https://insights.btoes.com/total-quality-logistics-2021-award-finalist-case-study-best-achievement-in-operational-excellence-to-deliver-business-transformation
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.cincinnatimagazine.com/article/total-quality-logistics-ships-until-t...
+  url: https://www.cincinnatimagazine.com/article/total-quality-logistics-ships-until-they-drop/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.greatplacetowork.com/certified-company/1100931
+  url: https://www.greatplacetowork.com/certified-company/1100931
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: AI and automation enable focus on service and relationship building
+  claim_description: TQL uses automation and AI tools daily to streamline high volume
+    processes, allowing team members to focus on service, problem-solving and relationship
+    building rather than repetitive tasks.
+  source_ids:
+  - S1
+  source_quote: TQL uses automation and AI tools every day to help streamline high
+    volume processes so our team members can focus on service, problem-solving and
+    relationship building.
+  quote_location: Body paragraph 3
+  ai_attribution: direct
+  attribution_evidence: The source explicitly states that AI and automation tools
+    enable the shift in focus to higher-value activities (service, problem-solving,
+    relationship building).
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: AI hackathon concept applicable to multiple TQL processes
+  claim_description: Team Rocket's winning AI concept from the hackathon can be applied
+    to other TQL processes beyond the original use case, demonstrating scalability
+    and reusability of the AI innovation.
+  source_ids:
+  - S1
+  source_quote: Team Rocket's winning concept can also be applied to other TQL processes.
+  quote_location: Body paragraph 7
+  ai_attribution: direct
+  attribution_evidence: The winning concept is explicitly described as an AI-based
+    solution that has broad applicability across multiple processes.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: TQL achieved remarkable revenue growth from $52M to $3.6B
+  claim_description: TQL grew revenues from $52 million in 2003 to $3.6 billion in
+    2018, representing a 70x growth factor, fueled by hard work and adoption of new
+    technologies including logistics software and mobile apps.
+  source_ids:
+  - S3
+  source_quote: According to company figures, it grew from $52 million in revenues
+    in 2003 to $3.6 billion in 2018, a mind-boggling factor of more than 70 times.
+  quote_location: Mid-article, business growth section
+  ai_attribution: contributing
+  attribution_evidence: Growth attributed to multiple factors including technology
+    adoption. Article mentions TQL as 'industry leader in developing and adopting
+    new technologies' including tracking and communication software.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - automation
+  outcome:
+  - business_growth
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw:
+    value: '3600000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: TQL handled over 1.5 million truckloads in 2018
+  claim_description: In 2018, TQL brokered more than 1.5 million truckloads, demonstrating
+    operational scale enabled by technology platforms including data crunching, tracking,
+    and communication software.
+  source_ids:
+  - S3
+  source_quote: In 2018, TQL was the go-between for more than 1.5 million truckloads
+    carrying nearly everything that touches our lives
+  quote_location: Mid-article, operations section
+  ai_attribution: contributing
+  attribution_evidence: Article states TQL uses 'data crunching, tracking, and communication
+    software' and 'mobile apps' to make the system manageable, contributing to ability
+    to handle this volume.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  - business_growth
+  cognitive_depth: predictive
+  metric_raw:
+    value: '1500000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: TQL ranked second nationally among freight brokerage firms
+  claim_description: Armstrong & Associates ranked TQL second in the nation among
+    freight brokerage firms in 2019, reflecting competitive positioning enabled by
+    technology leadership and operational capabilities.
+  source_ids:
+  - S3
+  source_quote: Armstrong & Associates ranked TQL second in the nation among freight
+    brokerage firms in 2019.
+  quote_location: Mid-article, industry ranking section
+  ai_attribution: contributing
+  attribution_evidence: Ranking achieved in context where article describes TQL as
+    'industry leader in developing and adopting new technologies' including software
+    and mobile apps for logistics management.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - business_growth
+  cognitive_depth: predictive
+  metric_raw:
+    value: '2'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: TQL is the largest privately owned company in Greater Cincinnati
+  claim_description: Total Quality Logistics is headquartered in Clermont County's
+    Union Township and is the largest privately owned company in Greater Cincinnati.
+  source_ids:
+  - S3
+  source_quote: Headquartered in Clermont County's Union Township, TQL is now the
+    largest privately owned company in Greater Cincinnati.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: TQL operates in freight brokerage and logistics industry
+  claim_description: TQL is a freight brokerage firm that matches trucking carriers
+    with shippers, operating in the transportation logistics industry.
+  source_ids:
+  - S3
+  source_quote: Total Quality Logistics, a freight brokerage firm
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: scale
+  claim_title: TQL employed over 5,500 people at 57 offices across 26 states
+  claim_description: At its peak in early 2020, TQL employed more than 5,500 people
+    at 57 offices in 26 states, with nearly 2,000 working in Cincinnati area offices.
+  source_ids:
+  - S3
+  source_quote: At its peak earlier this year, TQL employed more than 5,500 people
+    at 57 offices in 26 states, from Boston to Phoenix and Minneapolis to Ft. Lauderdale.
+    Nearly 2,000 worked in its four Cincinnati area offices.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: TQL founded in 1997
+  claim_description: Total Quality Logistics was launched by Ken Oaks in 1997.
+  source_ids:
+  - S3
+  source_quote: TQL has had a remarkable run since Oaks launched it in 1997.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: strategic_intent
+  claim_title: TQL focuses on being at forefront of AI technology
+  claim_description: TQL aims to be at the forefront of AI technology adoption rather
+    than waiting years to implement, as evidenced by their AI-themed hackathon and
+    daily use of automation tools.
+  source_ids:
+  - S1
+  source_quote: I felt very happy that we were trying to be at the forefront of that
+    technology and not waiting two or three years down the line
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: TQL IT conducts hackathons for innovation
+  claim_description: TQL IT department conducts hackathons where teams ideate, create
+    and present prototypes to leadership. The fall 2023 hackathon featured 8 teams
+    with 64 people from all IT locations competing on AI theme.
+  source_ids:
+  - S1
+  source_quote: Eight teams featuring a combined 64 people from all TQL IT locations
+    competed in the fall Hackathon, a contest designed to ideate, create and present
+    prototypes to leadership to benefit company tech processes.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10880'
+  apqc_name: Manage information technology (IT)
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: organisational
+  claim_title: TQL finalist for 2021 Digital Transformation Award
+  claim_description: Total Quality Logistics was a finalist in the Best Achievement
+    in Operational Excellence to deliver Business Transformation category for the
+    2021 Digital Transformation & Operational Excellence Industry Awards.
+  source_ids:
+  - S2
+  source_quote: Read this article about Total Quality Logistics, Finalist in the Best
+    Achievement in Operational Excellence to deliver Business Transformation, selected
+    by the independent judging panel, for the 2021 Digital Transformation & Operational
+    Excellence Industry Awards program.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: functional
+  claim_title: TQL brokers negotiate rates and track freight shipments
+  claim_description: At TQL, brokers negotiate rates with carriers and shippers, find
+    efficient routes for delivering and picking up loads, and track loads until they
+    reach destinations.
+  source_ids:
+  - S3
+  source_quote: At TQL, brokers negotiate rates with carriers and shippers, find the
+    most efficient 'lanes' or routes for delivering and picking up loads, and track
+    the loads until they reach their destinations.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10225'
+  apqc_name: Manage logistics
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: TQL provides mobile apps for shipment tracking
+  claim_description: TQL has developed mobile apps that allow customers to track their
+    own shipments and interact directly with brokers.
+  source_ids:
+  - S3
+  source_quote: TQL has been an industry leader in developing and adopting those new
+    technologies, including mobile apps that allow customers to track their own shipments
+    and interact directly with brokers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: temporal
+  claim_title: TQL experienced COVID-19 related workforce changes in March 2020
+  claim_description: TQL terminated employees in March 2020, with reports suggesting
+    up to 700 layoffs due to inability to handle remote work on virtual network during
+    pandemic.
+  source_ids:
+  - S3
+  source_quote: TQL terminated 'a number of employees' in March for underperformance,
+    says Tom Millikin, the company's corporate communications manager. But according
+    to Freight Waves, a leading market research and news website for the freight industry,
+    the company laid off as many as 700 workers due to an inability to handle everyone
+    working remotely on its virtual network.
+  verification_status: unverified
+  verification_confidence: medium
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 5
+    verified: 5
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 2
+      contributing: 3
+  context_claims:
+    total: 10
+    verified: 8
+    unverified: 2
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: false
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Automation and AI for Scale, Growth, and Service Levels
+
+## Executive Summary
+
+Total Quality Logistics (TQL): AI and automation enable focus on service and relationship building.
+
+## Key Findings
+
+- **AI and automation enable focus on service and relationship building** — verified (method)
+  - Quote: "TQL uses automation and AI tools every day to help streamline high volume processes so our team members can focus on service, problem-solving and relationship building."
+
+- **AI hackathon concept applicable to multiple TQL processes** — verified (method)
+  - Quote: "Team Rocket's winning concept can also be applied to other TQL processes."
+
+- **TQL achieved remarkable revenue growth from $52M to $3.6B** — verified (outcome)
+  - Quote: "According to company figures, it grew from $52 million in revenues in 2003 to $3.6 billion in 2018, a mind-boggling factor of more than 70 times."
+
+- **TQL handled over 1.5 million truckloads in 2018** — verified (outcome)
+  - Quote: "In 2018, TQL was the go-between for more than 1.5 million truckloads carrying nearly everything that touches our lives"
+
+- **TQL ranked second nationally among freight brokerage firms** — verified (outcome)
+  - Quote: "Armstrong & Associates ranked TQL second in the nation among freight brokerage firms in 2019."
+
+## Sources
+
+- **S1**: https://www.tql.com/about-us/lifeattql-blog/october-2023/team-rocket-takes-flight-with-it-hackathon-victory
+- **S2**: https://insights.btoes.com/total-quality-logistics-2021-award-finalist-case-study-best-achievement-in-operational-excellence-to-deliver-business-transformation
+- **S3**: https://www.cincinnatimagazine.com/article/total-quality-logistics-ships-until-they-drop/
+- **S4**: https://www.greatplacetowork.com/certified-company/1100931

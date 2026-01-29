@@ -1,0 +1,604 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "DB Lumina reduces research report creation time",
+      "claim_description": "Deutsche Bank's AI-powered research agent DB Lumina automates data analysis and streamlines workflows, reducing the time-consuming manual process of creating research reports and notes for analysts.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "creating research reports and notes relies heavily on a foundation of painstaking manual work...this time-consuming process can limit the depth of analysis and the range of topics they can cover.",
+      "quote_location": "Introduction section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "DB Lumina is explicitly described as an AI-powered research agent that automates data analysis and streamlines workflows to reduce manual work in report creation.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "DB Lumina deployed to 5,000 users across Deutsche Bank Research",
+      "claim_description": "DB Lumina went live in September 2024 and is currently used by approximately 5,000 users across Deutsche Bank Research divisions including Investment Bank Origination & Advisory and Fixed Income & Currencies.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Currently, DB Lumina is already in the hands of around 5,000 users across Deutsche Bank Research, specifically in divisions like Investment Bank Origination & Advisory and Fixed Income & Currencies.",
+      "quote_location": "Bringing new benefits to the business section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim directly reports adoption numbers for the AI tool DB Lumina, indicating organizational acceptance and deployment scale.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "5000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Planned expansion to 10,000+ users across Deutsche Bank",
+      "claim_description": "Deutsche Bank plans to expand DB Lumina deployment from the current 5,000 users to more than 10,000 users across the organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We plan to roll it out to more than 10,000 users across",
+      "quote_location": "Bringing new benefits to the business section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The planned expansion demonstrates organizational commitment to scaling the AI tool beyond initial deployment, indicating expected value delivery.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "10000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "AI reduces repetitive banking tasks by 40-60%",
+      "claim_description": "Banks including JPMorgan and Deutsche Bank are reducing repetitive tasks by 40 to 60% through agentic AI tools and internal copilots.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "From JPMorgan's AI pitchbook tools to Deutsche Bank's internal copilots, banks are reducing repetitive tasks by 40 to 60%.",
+      "quote_location": "The AI Edge section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly attributes the 40-60% reduction in repetitive tasks to AI tools and copilots deployed by banks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "40-60",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI enables 10-hour tasks to be completed in 10 seconds",
+      "claim_description": "According to JPMorgan's Co-Head of Investment Banking, AI enables tasks that previously took 10 hours to be completed in 10 seconds.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "AI will enable us to do tasks that take 10 hours in 10 seconds \u2013 Jay Horine, Co-Head of Investment Banking at JPMorgan",
+      "quote_location": "The AI Edge section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The quote directly attributes dramatic time reduction (10 hours to 10 seconds) to AI capabilities in investment banking tasks.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "3600",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Hedge funds achieve 40%+ efficiency gains with AI",
+      "claim_description": "Smaller hedge funds are experiencing efficiency gains of over 40% through AI implementation, representing both productivity improvement and margin expansion.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Even smaller hedge funds are seeing 40%+ efficiency gains, according to Hedgeweek. That's not just productivity, that's margin expansion.",
+      "quote_location": "The AI Edge section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim directly attributes 40%+ efficiency gains to AI implementation in hedge funds, with explicit mention of productivity and margin impact.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "One AI-empowered analyst can do the work of five",
+      "claim_description": "With AI tools, a single analyst can perform the work that previously required five analysts, representing a 5x productivity multiplier.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "One AI-empowered analyst can do the work of five.",
+      "quote_location": "The AI Edge section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly states that AI empowerment enables one analyst to replace five, directly attributing the productivity gain to AI.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "5",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "15-person AI-enabled firm can outperform 50-person team",
+      "claim_description": "With appropriate AI tools, a 15-person firm can achieve performance levels exceeding a traditional 50-person team, representing a 3.3x efficiency advantage.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "With the right AI tools, a 15-person firm can outperform a 50-person team. \u2013 Artis M&A founder",
+      "quote_location": "The Diamond Model section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly attributes the ability of a smaller firm to outperform a larger one to the deployment of AI tools.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "3.3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Deutsche Bank Research is the organizational unit",
+      "claim_description": "DB Lumina was developed for and deployed within Deutsche Bank Research, the research division of Deutsche Bank.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "At Deutsche Bank Research, the core mission of our analysts is delivering original, independent economic and financial analysis.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Financial services sector - investment banking",
+      "claim_description": "The case operates within the financial services sector, specifically investment banking and research divisions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "maintaining the stringent data privacy requirements for the highly regulated financial sector",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Financial research and analysis function",
+      "claim_description": "DB Lumina supports the financial research and analysis function, including creating research reports, analyzing financial statements, and synthesizing market information.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "delivering original, independent economic and financial analysis...creating research reports and notes",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10103",
+      "apqc_name": "Perform financial analysis",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "Development period: 12+ months before September 2024",
+      "claim_description": "DB Lumina was developed over more than 12 months of collaboration before going live in September 2024.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The adoption of the DB Lumina digital assistant by hundreds of research analysts is the culmination of more than 12 months of intense collaboration",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Production deployment: September 2024",
+      "claim_description": "DB Lumina went live in production environment in September 2024.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "eventually going live in September 2024",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Enterprise-scale deployment across multiple divisions",
+      "claim_description": "DB Lumina operates at enterprise scale with 5,000 current users across multiple divisions including Investment Bank Origination & Advisory and Fixed Income & Currencies.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Currently, DB Lumina is already in the hands of around 5,000 users across Deutsche Bank Research, specifically in divisions like Investment Bank Origination & Advisory and Fixed Income & Currencies.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "strategic_intent",
+      "claim_title": "Enhance analyst experience and reduce manual processes",
+      "claim_description": "The strategic goal was to enhance the research analyst experience, reduce reliance on manual processes and outsourcing, and enable faster delivery of insights to market.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our goal was to enhance the research analyst experience and reduce the reliance on manual processes and outsourcing.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "products_services",
+      "claim_title": "DB Lumina: AI-powered research agent with three core features",
+      "claim_description": "DB Lumina is an AI-powered research agent with three key features: Gen AI-powered chat, Prompt templates, and Knowledge (RAG architecture).",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DB Lumina has three key features that transform the research experience for analysts and enhance productivity through advanced technologies.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "Document processing and knowledge management",
+      "claim_description": "DB Lumina performs document ingestion, content summarization, Q&A, and editing functions for research analysts.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DB Lumina was designed to enhance Deutsche Bank Research's productivity by enabling document ingestion, content summarization, Q&A, and editing.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10878",
+      "apqc_name": "Manage enterprise content and knowledge",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "Collaboration with Google Cloud",
+      "claim_description": "Deutsche Bank developed DB Lumina in collaboration with Google Cloud Consulting and deployed it on Google Cloud infrastructure.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We developed an initial pilot for DB Lumina with Google Cloud Consulting...Built on Google Cloud, the architecture leverages the following services",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+The power of mRNA
+Our scientists are developing mRNA medicines to help prevent or treat disease.
+It’s all about proteins
+At Moderna, we are working on developing and testing new mRNA medicines for a wide range of diseases.
+We start with a protein
+All mRNA medicines start with identifying a protein that is designed to prevent or treat a certain disease.
+Then we design the mRNA
+Our scientists design an mRNA that carries instructions for this protein.
+And repeat this process to create other medicines
+To make mRNA vaccines or therapeutics, our scientists create instructions to make different proteins that could help our body fight infections or prevent diseases.
+We have an extensive pipeline
+In addition to mRNA vaccines, Moderna is working on other applications of potential mRNA therapeutics that could help people with cancer, metabolic diseases and more.
+mRNA is a modern approach to medicine
+10+ years
+At Moderna, we’ve been working on mRNA medicines for more than 10 years.
+mRNA expertise
+Our scientists are experts in creating mRNA medicines. They worked very hard to refine our process for making mRNA medicine.
+Rigorous testing
+Like all medicines and medical products, mRNA medicines and vaccines are being rigorously tested in clinical trials for safety and efficacy.
+Innovative medicines
+mRNA products can be created rapidly, which is one of the reasons why mRNA vaccines for the prevention of COVID-19 were created so quickly.
+mRNA is transformational
+With our technology, we are revolutionizing medicine and developing potential mRNA treatments in shorter periods of time for previously untreatable and emerging diseases.
+We can positively impact the lives of millions of people
+Our mRNA platform, with its speed, scale and flexibility, is uniquely suited to tackle current and emerging pathogens that threaten global health.
+mRNA research and innovation
+Our research and design services enable us and our partners to advance new product ideas into development candidates.
+Our infrastructure enables rapid supply of thousands of pre-clinical mRNAs for in vitro and in vivo research to accelerate programs from idea to development candidate designation.
+Our Research Engine
+Our Research Engine combines proprietary digital drug design tools and a highly automated production facility to enable Moderna to advance mRNA vaccines and therapeutics.
+Scientists can select any protein in the human proteome to be engineered or they can design novel proteins. All can be designed to explore previously undiscovered pathways.
+mRNA DESIGN STUDIO™
+Our mRNA DESIGN STUDIO enables rapid design of multiple mRNAs.
+As the DIGITAL BIOTECH COMPANY™, we maximize the utility of mRNA in our proprietary, web-based mRNA DESIGN STUDIO.
+Protein targeting
+Our scientists request mRNAs for a specific protein.
+The protein target is automatically converted to an initial optimized mRNA sequence.
+Using our Sequence Designer module, they can tailor entire mRNAs from the 5’-UTR to the coding region to the 3’-UTR based on our ever-improving proprietary learnings.
+mRNA tailoring
+Our proprietary in-house digital application suite contains a Sequence Designer module to tailor an entire mRNA.
+mRNA DESIGN STUDIO utilizes cloud-based computational capacity to run various algorithms we have developed to design each mRNA sequence.
+Parallel design
+The utility of cloud-based capacity allows us to provide flexible computational capacity on demand.
+This allows the Research Engine to power parallel intake and design of multiple mRNA sequences.
+Automation platforms
+The mRNA DESIGN STUDIO integrates with Moderna’s automation platforms–directing orders through each phase of mRNA synthesis.
+Once the order is placed, Moderna’s high-throughput mRNA pre-clinical production facility manages the manufacturing of mRNA constructs and delivers them in just weeks.
+mRNA early development engine
+Across our internally developed and partnered mRNA programs, we are simultaneously advancing mRNA development candidates for many diseases into and through clinical studies.
+Our services
+Our mRNA EARLY DEVELOPMENT ENGINE™ services combine internal and external capabilities for process development, toxicology studies, global regulatory interactions and clinical study preparation, and execution for our mRNA vaccines and therapeutics.
+These services are designed to deliver many investigational mRNA vaccines and therapeutics to human proof of concept data.

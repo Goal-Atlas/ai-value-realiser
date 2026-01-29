@@ -1,0 +1,1048 @@
+---
+case_id: rio-tinto-mine-of-the-future
+organisation: Rio Tinto
+title: AI-Powered Mining Operations and Automation
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.cat.com/en_US/by-industry/mining/minexpo2024/mine-site-of-the-future...
+  url: https://www.cat.com/en_US/by-industry/mining/minexpo2024/mine-site-of-the-future-rio-tinto.html
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.robotics247.com/article/rio_tinto_opens_gudai_darri_its_most_technol...
+  url: https://www.robotics247.com/article/rio_tinto_opens_gudai_darri_its_most_technologically_advanced_mine
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.itnews.com.au/news/rio-tinto-to-build-new-intelligent-mines-494651
+  url: https://www.itnews.com.au/news/rio-tinto-to-build-new-intelligent-mines-494651
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.arcweb.com/blog/rio-tintos-mine-future-uses-technology-improve-safet...
+  url: https://www.arcweb.com/blog/rio-tintos-mine-future-uses-technology-improve-safety-productivity
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Autonomous haul trucks deployed at Gudai-Darri mine
+  claim_description: Rio Tinto deployed 23 CAT 793F autonomous haul trucks at Gudai-Darri
+    mine, monitored remotely from Operations Centre 1,500 km away in Perth.
+  source_ids:
+  - S2
+  source_quote: The mine feature autonomous 23 CAT 793F autonomous haul trucks and
+    three CAT MD6310 autonomous drills.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Autonomous trucks directly implement AI-driven navigation
+    and decision-making for mining operations
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '23'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Autonomous drills deployed at Gudai-Darri
+  claim_description: Three CAT MD6310 autonomous drills deployed with data-informed
+    modelling to build accurate assessments of ground conditions and improve safety.
+  source_ids:
+  - S2
+  source_quote: three CAT MD6310 autonomous drills...data-informed modelling from
+    the drills helps to build more accurate assessments of existing ground conditions
+    and improve safety.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Autonomous drills use data-informed modelling and machine
+    learning for ground condition assessment
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - risk_avoidance
+  - velocity
+  cognitive_depth: predictive
+  metric_raw:
+    value: '3'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Autonomous water carts with intelligent dust suppression
+  claim_description: Autonomous water cart vehicles with intelligent on-board systems
+    detect dry/dusty conditions and trigger water application, enabling digital tracking
+    of water consumption and waste reduction.
+  source_ids:
+  - S2
+  source_quote: The vehicle's intelligent on-board system detects dry and dusty conditions
+    on site, triggering the application of water to roads to keep them in good condition.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Intelligent system autonomously detects conditions and triggers
+    actions, with digital tracking for optimization
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - cost_reduction
+  - risk_avoidance
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Digital twin of processing plant for monitoring and VR training
+  claim_description: Full digital replica of processing plant allows teams to monitor
+    and respond to real-time data, with same data used for interactive 3D virtual
+    reality training environment.
+  source_ids:
+  - S2
+  source_quote: a full digital replica of the processing plant, which allows teams
+    to monitor and respond to data collected from the plant. The same digital asset
+    data is used to provide a feature rich, interactive 3D environment for virtual
+    reality training.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Digital twin uses real-time data analytics and machine learning
+    for monitoring and training optimization
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: AGVs in warehouse reduce manual handling and improve safety
+  claim_description: Four automatic guided vehicles (AGVs) automate pallet frame handling
+    with laser obstacle scanners and auto-stop functions, reducing manual handling
+    and improving safety.
+  source_ids:
+  - S2
+  source_quote: The heavy mobile equipment (HME) warehouse is the home to four automatic
+    guided vehicles (AGVs) designed to automate the handling of pallet frames. The
+    introduction of AGV's to the warehouse will reduce manual handling and improve
+    safety
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: AGVs use autonomous navigation with obstacle detection for
+    automated material handling
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - risk_avoidance
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '4'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Robotic ore-sampling laboratory deployed
+  claim_description: Robotics deployed for ore sampling laboratory to optimize mine
+    safety and drive productivity at Gudai-Darri.
+  source_ids:
+  - S2
+  source_quote: This includes the use of robotics for the ore sampling laboratory
+    as well as for distribution of parts in the new workshop.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Robotics directly automate ore sampling processes for safety
+    and productivity improvements
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - risk_avoidance
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: $10 million value extracted from lump supply optimization
+  claim_description: Targeted approach using data analytics and real-time visualization
+    to optimize Pilbara Blend lump supply during high premiums extracted approximately
+    $10 million in additional value.
+  source_ids:
+  - S3
+  source_quote: extracting around US$10 million ($13.47 million) of additional value.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Data analytics and real-time visualization directly enabled
+    market-responsive optimization decisions
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '10000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Scheduling time reduced from 3-4 weeks to 48 hours
+  claim_description: Advanced planning system implemented in 2017 reduced scheduling
+    time from 3-4 weeks to 48 hours, enabling response to short-term market signals
+    and maximizing value over volume.
+  source_ids:
+  - S3
+  source_quote: We implemented this system in 2017 and what used to take three-to-four
+    weeks in scheduling can now be done is 48 hours.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Advanced planning system with scenario analysis directly automated
+    and accelerated scheduling processes
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '95.2'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: Machine learning for market prediction and decision-making
+  claim_description: Experimentation with machine learning and predictive analytics
+    to anticipate market conditions and enable better decision-making in sales and
+    marketing operations.
+  source_ids:
+  - S3
+  source_quote: We are currently experimenting with machine learning and predictive
+    analytics to anticipate market conditions and enable better decision making
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Machine learning directly applied to predict market conditions
+    for improved decision-making
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Digital twin for Koodaideri intelligent mine
+  claim_description: Digital twin replica plant collecting data from design through
+    operation, linked to data lake with analytics and machine learning to drive business
+    outcomes with greater accuracy and speed.
+  source_ids:
+  - S3
+  source_quote: We are building a replica digital plant that collects all the data
+    on the plant from design, build, commissioning and operation...coupled with analytics
+    and machine learning, will drive business related outcomes in a shorter time and
+    with greater accuracy.
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Digital twin explicitly uses analytics and machine learning
+    to optimize operations and drive outcomes
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-011
+  claim_title: VR training modules for complex maintenance activities
+  claim_description: Virtual reality modules developed for complex maintenance activities
+    provide highly interactive and engaging training method ensuring better task retention
+    and competency from operators.
+  source_ids:
+  - S3
+  source_quote: a number of virtual reality modules are being developed...This allows
+    a highly interactive and engaging method of training which ensures better task
+    retention and competency from our operators
+  quote_location: mid-document
+  ai_attribution: contributing
+  attribution_evidence: VR training uses digital twin data and simulations, with AI
+    contributing to content generation and adaptation
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  - risk_avoidance
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-012
+  claim_title: Augmented reality for asset health prediction
+  claim_description: Augmented asset health tools using cognitive technology to predict
+    maintenance issues, enabling checking asset condition through augmented reality
+    - next step from predictive maintenance.
+  source_ids:
+  - S3
+  source_quote: trials of augmented asset health tools, which use cognitive technology
+    to predict problems...Imagine predicting a potential maintenance issue and then
+    being able to check on the asset condition through augmented reality.
+  quote_location: late-document
+  ai_attribution: direct
+  attribution_evidence: Cognitive technology directly predicts maintenance issues
+    using AI-driven analysis
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - risk_avoidance
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-013
+  claim_title: AI-driven dynamic scheduling system for intelligent mines
+  claim_description: Future AI system that learns to adapt schedules based on past
+    experience, integrates customer needs, assesses multiple scenarios instantly,
+    and manages unplanned events using market intelligence.
+  source_ids:
+  - S3
+  source_quote: Picture a future dynamic system which learns to adapt and change a
+    schedule based on past experience and lessons learned...A system which has the
+    power to assess multiple scenarios to make a decision instantly.
+  quote_location: late-document
+  ai_attribution: direct
+  attribution_evidence: AI system explicitly learns from experience and makes autonomous
+    decisions for scheduling optimization
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  - revenue_lift
+  cognitive_depth: autonomous
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-014
+  claim_title: Real-time ore tracking using sensors on autonomous trucks
+  claim_description: Autonomous trucks implement real-time ore tracking using sensors
+    to provide live dig face progression data for operational optimization.
+  source_ids:
+  - S2
+  source_quote: The trucks implement real-time ore tracking using sensors to provide
+    live dig face progression
+  quote_location: mid-document
+  ai_attribution: direct
+  attribution_evidence: Sensor data and real-time tracking enable AI-driven operational
+    decisions and optimization
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-015
+  claim_title: Real-time data visualization for mine-to-market agility
+  claim_description: Real-time data visualization supported tighter linkages between
+    Pilbara operations and Singapore sales hub, increasing agility from mine to market.
+  source_ids:
+  - S3
+  source_quote: Real-time data visualisation has supported tighter linkages between
+    our Pilbara operations and our sales and marketing hub in Singapore, increasing
+    our agility from mine to market.
+  quote_location: mid-document
+  ai_attribution: contributing
+  attribution_evidence: Data visualization contributes to decision-making, with underlying
+    analytics and AI enabling agility improvements
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Rio Tinto founded in 1873
+  claim_description: Rio Tinto is a London-based mining company founded in 1873
+  source_ids:
+  - S2
+  source_quote: Rio Tinto was founded in 1873...the London-based company
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Iron ore mining in Pilbara region
+  claim_description: Rio Tinto operates iron ore mines in the Pilbara region of Western
+    Australia
+  source_ids:
+  - S2
+  source_quote: Gudai-Darii, mining company Rio Tinto's most technologically advanced
+    mine, was officially opened today in the Pilbara region of Australia.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: scale
+  claim_title: Gudai-Darri mine capacity and lifespan
+  claim_description: Gudai-Darri mine has expected life of 40+ years with annual capacity
+    of 43 million tons, reaching full capacity in 2023
+  source_ids:
+  - S2
+  source_quote: With an expected life of more than 40 years and an annual capacity
+    of 43 million tons...The mine is expected to reach capacity in 2023.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: Gudai-Darri development timeline
+  claim_description: Gudai-Darri development began in April 2019, with over 14 million
+    work hours culminating in delivery of Rio Tinto's 17th iron ore mine
+  source_ids:
+  - S2
+  source_quote: Since development begun in April 2019, more than 14 million workhours
+    have culminated in the delivery of Rio Tinto's 17th and most technologically advanced
+    iron ore mine in the Pilbara.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: scale
+  claim_title: Employment during construction and operation
+  claim_description: Development supported 3,000+ jobs during construction and design,
+    with operation requiring around 600 permanent roles
+  source_ids:
+  - S2
+  source_quote: Development of the mine supported more than 3,000 jobs during the
+    construction and design phase with the operation requiring around 600 permanent
+    roles.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: scale
+  claim_title: Investment in Western Australia during construction
+  claim_description: A$3.2 billion in goods and services sourced within Western Australia
+    during construction, with A$1.5 billion in contracts to WA-registered businesses
+  source_ids:
+  - S2
+  source_quote: A total of A$3.2 billion ($2.2 billion U.S.) in goods and services
+    were sourced within Western Australia (WA) during the construction phase of the
+    Gudai-Darri Project with contracts valued at A$1.5 billion.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: strategic_intent
+  claim_title: Remote operations center in Perth
+  claim_description: Autonomous assets monitored remotely from Rio Tinto's Operations
+    Centre located 1,500 km away in Perth
+  source_ids:
+  - S2
+  source_quote: These autonomous assets are monitored remotely from Rio Tinto's Operations
+    Centre 1,500 km (932 mi.) away in Perth.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: products_services
+  claim_title: Pilbara Blend iron ore product
+  claim_description: Gudai-Darri will underpin future production of Rio Tinto's Pilbara
+    Blend product, a specific product combining iron ores from across operations
+  source_ids:
+  - S2
+  - S3
+  source_quote: Gudai-Darri will underpin future production of Rio Tinto's Pilbara
+    Blend product.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: temporal
+  claim_title: Mine of the Future program decade old
+  claim_description: Rio Tinto's Mine of the Future program is now decade old, with
+    intelligent mines as likely successor
+  source_ids:
+  - S3
+  source_quote: is the likely successor to Rio Tinto's now decade old 'Mine of the
+    Future' program.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: temporal
+  claim_title: Koodaideri first ore delivery planned for 2021
+  claim_description: Koodaideri, the first intelligent mine, set to deliver first
+    tonnes of ore in 2021 subject to regulatory approvals
+  source_ids:
+  - S3
+  source_quote: The first intelligent mine is set to be Koodaideri, which will deliver
+    its first tonnes of ore in 2021, assuming it meets regulatory approvals.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: strategic_intent
+  claim_title: Over 100 innovation opportunities assessed for Koodaideri
+  claim_description: Rio Tinto assessing over 100 innovation opportunities to make
+    Koodaideri the first intelligent mine
+  source_ids:
+  - S3
+  source_quote: We are assessing over 100 innovation opportunities which will make
+    this our first intelligent mine.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: functional
+  claim_title: Integrated mine-to-market supply chain
+  claim_description: Rio Tinto evolving from traditional push system to market-led
+    supply chain integrating customer orders through to orebody planning
+  source_ids:
+  - S3
+  source_quote: We are now evolving from a traditional push system to a truly market-led
+    supply chain.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '4.0'
+  apqc_name: Deliver Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: organisational
+  claim_title: Sales and marketing hub in Singapore
+  claim_description: Rio Tinto operates sales and marketing hub in Singapore linked
+    to Pilbara operations
+  source_ids:
+  - S3
+  source_quote: Real-time data visualisation has supported tighter linkages between
+    our Pilbara operations and our sales and marketing hub in Singapore
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: temporal
+  claim_title: Advanced planning system implemented in 2017
+  claim_description: Rio Tinto implemented advanced planning system in 2017 that reduced
+    scheduling time from 3-4 weeks to 48 hours
+  source_ids:
+  - S3
+  source_quote: We implemented this system in 2017 and what used to take three-to-four
+    weeks in scheduling can now be done is 48 hours.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: strategic_intent
+  claim_title: Renewable energy at Gudai-Darri
+  claim_description: Solar farm with 83,000 panels will power one-third of Gudai-Darri's
+    operational needs with renewable energy
+  source_ids:
+  - S2
+  source_quote: Once the new solar farm is complete, it will be able to power one-third
+    of Gudai-Darri's operational needs with renewable energy.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 15
+    verified: 10
+    needs_review: 5
+    rejected: 0
+    by_attribution:
+      direct: 13
+      contributing: 2
+  context_claims:
+    total: 15
+    verified: 12
+    unverified: 3
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-Powered Mining Operations and Automation
+
+## Executive Summary
+
+Rio Tinto: Autonomous haul trucks deployed at Gudai-Darri mine.
+
+## Key Findings
+
+- **Autonomous haul trucks deployed at Gudai-Darri mine** — verified (adoption)
+  - Quote: "The mine feature autonomous 23 CAT 793F autonomous haul trucks and three CAT MD6310 autonomous drills."
+
+- **Autonomous drills deployed at Gudai-Darri** — needs_review (adoption)
+  - Quote: "three CAT MD6310 autonomous drills...data-informed modelling from the drills helps to build more accurate assessments of existing ground conditions and improve safety."
+
+- **Autonomous water carts with intelligent dust suppression** — verified (method)
+  - Quote: "The vehicle's intelligent on-board system detects dry and dusty conditions on site, triggering the application of water to roads to keep them in good condition."
+
+- **Digital twin of processing plant for monitoring and VR training** — verified (method)
+  - Quote: "a full digital replica of the processing plant, which allows teams to monitor and respond to data collected from the plant. The same digital asset data is used to provide a feature rich, interactive 3..."
+
+- **AGVs in warehouse reduce manual handling and improve safety** — verified (adoption)
+  - Quote: "The heavy mobile equipment (HME) warehouse is the home to four automatic guided vehicles (AGVs) designed to automate the handling of pallet frames. The introduction of AGV's to the warehouse will redu..."
+
+- **Robotic ore-sampling laboratory deployed** — verified (method)
+  - Quote: "This includes the use of robotics for the ore sampling laboratory as well as for distribution of parts in the new workshop."
+
+- **$10 million value extracted from lump supply optimization** — verified (outcome)
+  - Quote: "extracting around US$10 million ($13.47 million) of additional value."
+
+- **Scheduling time reduced from 3-4 weeks to 48 hours** — verified (outcome)
+  - Quote: "We implemented this system in 2017 and what used to take three-to-four weeks in scheduling can now be done is 48 hours."
+
+- **Machine learning for market prediction and decision-making** — verified (method)
+  - Quote: "We are currently experimenting with machine learning and predictive analytics to anticipate market conditions and enable better decision making"
+
+- **Digital twin for Koodaideri intelligent mine** — needs_review (method)
+  - Quote: "We are building a replica digital plant that collects all the data on the plant from design, build, commissioning and operation...coupled with analytics and machine learning, will drive business relat..."
+
+- **VR training modules for complex maintenance activities** — needs_review (method)
+  - Quote: "a number of virtual reality modules are being developed...This allows a highly interactive and engaging method of training which ensures better task retention and competency from our operators"
+
+- **Augmented reality for asset health prediction** — needs_review (method)
+  - Quote: "trials of augmented asset health tools, which use cognitive technology to predict problems...Imagine predicting a potential maintenance issue and then being able to check on the asset condition throug..."
+
+- **AI-driven dynamic scheduling system for intelligent mines** — needs_review (method)
+  - Quote: "Picture a future dynamic system which learns to adapt and change a schedule based on past experience and lessons learned...A system which has the power to assess multiple scenarios to make a decision ..."
+
+- **Real-time ore tracking using sensors on autonomous trucks** — verified (method)
+  - Quote: "The trucks implement real-time ore tracking using sensors to provide live dig face progression"
+
+- **Real-time data visualization for mine-to-market agility** — verified (method)
+  - Quote: "Real-time data visualisation has supported tighter linkages between our Pilbara operations and our sales and marketing hub in Singapore, increasing our agility from mine to market."
+
+## Sources
+
+- **S1**: https://www.cat.com/en_US/by-industry/mining/minexpo2024/mine-site-of-the-future-rio-tinto.html
+- **S2**: https://www.robotics247.com/article/rio_tinto_opens_gudai_darri_its_most_technologically_advanced_mine
+- **S3**: https://www.itnews.com.au/news/rio-tinto-to-build-new-intelligent-mines-494651
+- **S4**: https://www.arcweb.com/blog/rio-tintos-mine-future-uses-technology-improve-safety-productivity

@@ -1,0 +1,17 @@
+Bring data to your warehouse
+Clean & prepare your data with SQL
+Drag & Drop Your Way to Insights
+Get the data you need, where you need it
+Supercharge Your Applications with embedded dashboards.
+Generate SQl code from natural language prompt
+Data Warehouses
+Supported SQL warehouses
+Snowflake
+Bigquery
+Redshift
+Athena
+Databricks
+MySQL
+Postgres
+SQL Server
+Got a question? Reach out to us!

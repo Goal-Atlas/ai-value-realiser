@@ -1,0 +1,31 @@
+Enterprises are honing their approach to identifying the right AI use cases — and demonstrating the accompanying business value.
+For Kraft Heinz, the success of an initiative is measured by a mix of quantitative and qualitative assessments, according to Pat Nestor, head of decision intelligence products and platforms at the food and beverage giant.
+“On the quantitative side, that’s where the business case assessment comes in,” Nestor told CIO Dive. Teams need to be able to tie use cases to broader business goals, like boosting sales or reducing costs.
+The quantitative assessment is paired with qualitative value, such as impacts on its net promoter score and adoption levels.
+“We measure and track NPS, adoption and engagement scores to provide a healthy feedback loop for us to then refine and evolve,” Nestor said. “That qualitative-quantitative balance is something that we really focus on here.”
+With more C-suite, investor and board-level focus on AI and bigger budgets supporting the efforts, technology leaders are under pressure to get the formula right, from picking a scalable, beneficial use case to tracking its success post-deployment.
+AI project failure rates are up this year as enterprises grapple with a battery of deterrents. Nearly all — 97% — of businesses have struggled to demonstrate generative AI’s business value, according to an Informatica report published in February.
+Successful enterprises often credit use case alignment with broader strategic goals to support project prioritization and taking into consideration available resources and expected timelines.
+“One of the most important things for us, from my vantage point, is that we do not view AI, or particularly generative AI, as a solution in and of itself, but rather as a critical ingredient that can allow us to supercharge a larger program,” Nestor said.
+Before Kraft Heinz chooses where to make a big AI bet, there’s an upfront effort to pressure test use cases. This is also the stage where success criteria are established and mock-ups are created.
+Nestor said teams try to initially answer the following questions:
+- Where does the company want the use case to go?
+- How could it potentially evolve?
+- How will it be measured?
+- How can we evaluate progress along the way?
+“That assessment activity high funnel is critically important so that we have a well-rounded idea and a well-rounded business case before we actually commit material resources,” Nestor said.
+An unsuccessful experiment or pilot phase, however, isn’t the end of the world, according to Nestor. Learning from failure is part of any innovation process.
+“The bottom line is that you have to expect and accept some level of failure,” Nestor said. “You need to have an innovation funnel, not an innovation tunnel.”
+Dipping into AI
+Earlier in the year, Kraft Heinz reorganized its technology governance structure. The company brought data, digital and IT under one global technology umbrella and the company’s global CIO, Corrado Azzarita.
+As part of the restructuring, Nestor was tapped to lead a newly formed decision intelligence products and platforms team, moving from his previous role as global head of product at Kraft Heinz.
+“Fundamentally, that is our data to AI value chain organization, so all facets and sub-teams that sit within that are part of the decision intelligence portfolio,” Nestor said. The team also manages the platforms and products within the domain.
+The reorg coincides with broader strategy shifts as the company grapples with six consecutive quarters of total revenue decline, Food Dive reported last month. Kraft Heinz is eyeing a number of levers to turn around the sales decline, such as unlocking efficiencies and improving productivity.
+To meet those goals, Kraft Heinz leaned into its strategic technology partners, which include Microsoft as part of a digital twin effort in manufacturing and Snowflake for its data management infrastructure and as the foundation platform for its internal AI engine, KHAI.
+KHAI took about 180 days from idea to launch, and is now in the hands of about 13,000 team members globally, according to Nestor. The company wanted to democratize generative AI access without sacrificing security. The AI engine was built internally and architected to provide a “one-way door.”
+“The wealth of information that KHAI is trained on and the underlying LLMs are trained on can still come in, but when our team members interact with the tool and upload Kraft Heinz internal information, it cannot go out,” Nestor said.
+Team members use the platform to analyze and summarize documents or dense industry reports, as well as to optimize and access standard operating procedures on a factory floor. The engine also helped streamline SAP rollouts in China and automate routine financials. Nestor said he has the platform bookmarked in his browser and uses it on a daily basis.
+“It’s really becoming an integral part of a variety of workflows,” Nestor said, adding he expects the number of active users to grow.
+The company expects the capabilities of what used to be referred to colloquially as KraftGPT to be fully integrated into KHAI. The tool is now called PlantChat and is used across the manufacturing ecosystem to assist in strategic decision-making.
+Kraft Heinz has several other AI pursuits by way of its supply chain, including in its pickle-producing process.
+“We believe that each one of these for Kraft Heinz employees has both quantitative and qualitative value,” Nestor said.

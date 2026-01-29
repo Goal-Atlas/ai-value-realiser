@@ -1,0 +1,43 @@
+Client:Uber
+Industry:Transportation & Logistics
+Region:North America
+automations
+in annual savings
+in savings over 3 years
+saved each month
+in one year
+Client Overview
+Uber is a global tech company that connects the physical and digital world to make movement happen at the push of a button for everyone, everywhere.
+Partner
+Uber is expanding rapidly, and that means growing pains. For the last three years, Uber has been working with Accenture to automate business processes using UiPath RPA. Automation has proven to be the best way to streamline operations, coordinate global operations, and ensure regulatory compliance.
+When you are experiencing phenomenal growth, implementing a digital transformation strategy built on automation can help tame a constantly changing infrastructure. Uber has been experiencing exponential growth across the globe. With help from Accenture, Uber has developed a global strategy built around UiPath robotic process automation (RPA) to keep operations in sync.
+One of the biggest challenges for any growing company is containing costs, especially staffing. "How do you contain that cost? How do you bend the labor curve? Automation was top of mind when we thought about that," said Chad Aronson, Global Head of Intelligent Automation for Uber.
+Uber needed automation to reduce the need for additional hiring and normalize global operations. For example, processing invoices in the United States requires different procedures than in other regions such as the UK or China. Automation of business processes was the ideal approach to ensure geographic operations were in sync and senior management could see a snapshot of overall operations. Automation also helps Uber with regulatory compliance, making sure that operations are a closed process that conforms to company standards.
+RPA also helped improve employee satisfaction. When you are experiencing rapid growth and can't find the personnel you need, then existing staff must put in the longer hours. Automation was the best way to address the problem and help employees become more efficient.
+How do you contain that cost? How do you bend the labor curve? Automation was top of mind when we thought about that.
+One of the challenges Accenture faced in automating Uber's operations was the company's internal structure. Uber is still a young and dynamic organization with a very flat organizational structure, so there are multiple autonomous decision-makers. A centralized approach to RPA deployment wouldn't work, so Accenture needed to find a way to coordinate multiple RPA processes.
+RPA development at Uber is a very dynamic process, with business stakeholders in constant communication with developers, making changes on the fly. To ensure success, Accenture uses a value-first approach to RPA development. They must "sell" RPA to stakeholders and clearly define ROI. ROI isn't just measured in dollars but in automation costs as well.
+"It's also helped that we were on the ground floor when the Uber leaders talk about change," said Varun Subramaniam, Manager—Strategy & Consulting, Accenture. "They're thinking about automation when they're thinking about changing their processes."
+Since the RPA development process is so fluid, the Accenture team has had to reexamine its approach to automation opportunity intake. Rather than queuing 100 RPA projects that they may get to in two years, the RPA team refreshes the priority pipeline every quarter or every six months. That way, automation requests in the queue remain fresh and don't become obsolete before they are begun.
+To ensure that bots continue to deliver greater value, Accenture has also adopted an incubation pod approach to develop advanced solutions. Using UiPath as the core automation platform, the Accenture team continues to update automations. They're continually adding new capabilities such as chatbots, optical character recognition (OCR), and machine learning.
+It's also helped that we were on the ground floor when the Uber leaders talk about change. They're thinking about automation when they're thinking about changing their process.
+Varun Subramaniam • Manager—Strategy & Consulting, Accenture
+Like most companies starting their RPA journey, Uber started automating financial processes. In fact, the Accenture team still reports to the CFO. After three years, Uber has more than 100 automations in production, which saves Uber an estimated $10 million per year.
+RPA has become an asset across the organization. For example, Uber Freight billing needed to standardize its vendor billing system. Starting with one customer and one shipper, Uber Freight now handles invoices for nearly 100 customers and shippers.
+"We've been able to automate invoicing for over 80 customers across seven main portals that we use daily, which raises customer satisfaction as well as decreasing errors," said Kasumi Billington, Finance Operations for Uber Freight. "We began managing less than 20% of our invoices through automation two years ago, and now we're able to issue over 70% of our portal invoices monthly. With a reduced number of errors, thanks to automation, team members can now focus on problem-solving rather than just transactional tasks."
+Automated business processes have had a significant impact on Uber's operations and revenue. In London, for example, Uber Freight was at risk of losing their license to operate because they were scaling so fast they were having trouble tracking safety procedures. It took six weeks to build a bot to maintain start to finish tracking of all safety measures to satisfy regulators. If Uber had lost its freight license in London, it'd have a loss of 3% to 4% of the company's total revenue.
+As part of bot deployment, Uber has implemented rigorous security and governance protocols. They also have created dashboards and advanced automation to provide senior management with access to data for ROI analytics. According to Saeed Contractor, Head of Automation Technology for Uber, there have been five basic steps in the Uber technology journey:
+1. Creating bot IDs—The first step was to create bot ID processes that could accommodate unattended single sign-on to the enterprise. The engineering team developed a workaround for two-factor authentication so bots could access the network.
+2. Security and governance—Having opened enterprise access to bots, new governance and security protocols were needed. Uber implemented rules to ensure secure access, such as logging in from recognized production machines, creating a secret log to store bot credentials, and regularly rotating passwords. As part of governance, only authorized users had access to the servers storing bot passwords.
+3. Documentation—To simplify development and maintenance, the center of excellence (CoE) created detailed documentation for the operational team, including security and governance procedures and best practices.
+4. Diagnostic dashboards—They also developed dashboards for health monitoring and triage to identify problems before they become trouble tickets. These empowered the Operations and Support team to identify and correct problems as they arose.
+5. Advanced automation—The system also generates metrics for factors such as throughput and ROI.
+"With all these capabilities in place, we have been able to implement a very agile CoE," said Contractor. "All the principles have been toward extensive communications and making sure we are getting feedback and incorporating that feedback from all stakeholders. As a result, our customer satisfaction has been tremendous."
+And automation at Uber continues to grow thanks to three pillars of success:
+1. Executive sponsorship early in the process.
+2. Having a dedicated intake team to manage processes across all geographies and show Uber what they didn't know about RPA processes.
+3. Uber has a large team that applies three pillars to RPA development-intake, depth testing, and support.
+The teams need to work independently but be synchronized for automation to be successful. They need to be in constant sync to build bots that overcome business challenges and have significant impact.
+All the principles have been toward extensive communications and making sure we are getting feedback and incorporating that feedback from all stakeholders. As a result, our customer satisfaction has been tremendous.
+Saeed Contractor • Head of Automation Technology, Uber
+Speak to our team of knowledgeable experts and learn how you can benefit from agentic automation.

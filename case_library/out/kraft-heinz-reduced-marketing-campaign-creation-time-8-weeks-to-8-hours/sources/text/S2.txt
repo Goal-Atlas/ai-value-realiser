@@ -1,0 +1,24 @@
+How Kraft Heinz Is Using GenAI To Reimagine The Future Of Creative Content
+If you haven’t seen it yet and have 55 seconds to spare, I highly recommend you take a look at Heinz’s “A.I. Ketchup” campaign. By asking Dall-E 2 to generate an image of a ketchup bottle, the firm provided creative and entertaining proof that Heinz is not just another ketchup brand. Ketchup is indeed synonymous with the Heinz brand.
+But Kraft Heinz didn’t stop at marketing campaigns when it comes to using generative AI (genAI) for design and innovation. In a bold move to modernize its internal design processes, Kraft Heinz embraced genAI to scale content creation and personalization. The result? A complete reimagining of how one of the world’s largest food and beverage companies brings its iconic brands to life.
+From Bottlenecks To Breakthroughs: The Creative Challenge
+With over 100 brands and a global footprint, Kraft Heinz faced a familiar but formidable challenge: how to keep packaging and marketing content fresh, personalized, and on brand message — without the long lead times and high costs of traditional agency workflows.
+Justin Thomas, Kraft Heinz’s head of digital experience and growth, described the problem as follows: “How can we leverage AI to create more engaging personalized content at scale, reduce costs and time-to-market for product concepts, and do so while maintaining brand consistency and data security?”
+Enter the TasteMaker, the company’s custom-built retrieval-augmented generation (RAG) engine. Developed in partnership with Apply Digital and powered by Google’s Vertex AI, TasteMaker is more than a tool — it’s an innovation and design engine.
+Examples Of Kraft Heinz Product Content Produced By The TasteMaker RAG Engine
+What Makes TasteMaker A Game Changer?
+- Speed-to-market: Kraft Heinz slashed design timelines for its product content from weeks to hours, reducing time by 8x.
+- Personalization at scale: Whether creating new assets or versioning image, motion, and video creative, TasteMaker enables the generation of content on demand.
+- Brand consistency and data security: By codifying internal brand assets and using a proprietary AI instance, Kraft Heinz ensures that the results are on brand and that its IP remains secured.
+The Playbook: Experiment, Pilot, Expand
+Kraft Heinz didn’t wait for perfection. The team launched fast, starting with four use cases and scaling quickly after early wins, focusing on:
+- Solving real business problems, not just showcasing tech.
+- Getting data AI-ready, from brand IP to consumer insights.
+- Empowering teams, with training, prompt engineering, and hands-on support.
+What’s Next?
+In parallel to deploying the solution across product lines, Justin Thomas and the TasteMaker team have established an ambitious roadmap:
+- Continuous improvement through refining image generation and integrating more proprietary data
+- Adding further capabilities and use cases, such as video generation
+- Moving further down the innovation funnel by adding synthetic users and user testing features
+While the current results and the roadmap are impressive, the real story is the mindset shift. TasteMaker isn’t just a tool; it’s a new way of working and driving creative design.
+Do you want to dive deeper into the details of how a 150-year-old brand is leading the AI-powered future of creativity? Read the full case study to explore how Kraft Heinz is turning generative AI into a competitive advantage.

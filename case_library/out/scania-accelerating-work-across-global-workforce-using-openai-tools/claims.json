@@ -1,0 +1,581 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Improved employee experience through ChatGPT Enterprise deployment",
+      "claim_description": "Enterprise-wide adoption of ChatGPT Enterprise significantly improved employee experience at Scania, enabling employees to work smarter and more efficiently.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This partnership will greatly improve our employees' experience and bring more value to our customers.",
+      "quote_location": "Statement by Sara Forsberg, CTO",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CTO explicitly states the partnership will greatly improve employee experience, with ChatGPT Enterprise deployed enterprise-wide.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Boosted productivity through AI adoption",
+      "claim_description": "OpenAI partnership enables productivity improvements across Scania's workforce through ChatGPT Enterprise deployment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Scania's AI ambitions can boost productivity and innovation, which benefits both their employees and customers.",
+      "quote_location": "Statement by Nicolai Skabo, EMEA Head of Sales at OpenAI",
+      "ai_attribution": "direct",
+      "attribution_evidence": "OpenAI executive directly attributes productivity boost to Scania's AI adoption through ChatGPT Enterprise.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Accelerated developer skill progression from junior to fullstack",
+      "claim_description": "LLM-based AI tools enabled developers to rapidly progress from junior to fullstack engineers, contributing to deployed AI-driven projects impacting hundreds of engineers.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "when we switched tracks to fullstack development and LLM-based applications, we were both juniors within the domain, but it did not take long before we contributed to and deployed AI-driven projects that impact how hundreds of engineers work.",
+      "quote_location": "Introduction by Addi Djikic and Simon Edstr\u00f6m",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Authors explicitly credit AI tools (LLMs) and Mob AI practice for rapid skill development from junior to fullstack, enabling deployment of projects impacting hundreds.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Time savings through automated developer pain point identification",
+      "claim_description": "AI agent that interviews developers and summarizes insights enabled identification of redundant tasks and launch of automations saving developers hours weekly.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We've used this to: Identify redundant manual tasks in build and deploy flows. Prioritise internal tool improvements that actually matter. Launch automations that save developers hours every week.",
+      "quote_location": "Building developer tools with developer feedback section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI agent directly performs developer interviews, identifies pain points, and enables automations that save hours weekly.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": {
+        "value": "hours",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Enhanced code development velocity through Mob AI practice",
+      "claim_description": "Mob AI collaboration method with LLM generates boilerplate code fast, debugs errors, refactors code, and accelerates learning, fundamentally changing how team codes and ships.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It's like pair programming, but your pair is an AI that: Generates boilerplate code fast. Explains complex libraries in plain English. Debugs gnarly runtime errors. Refactors legacy functions with context-aware precision.",
+      "quote_location": "AI as a daily collaborator: Mob AI section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "LLM directly performs code generation, debugging, and refactoring tasks as part of daily development workflow.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Increased customer value through AI-enabled innovation",
+      "claim_description": "ChatGPT Enterprise integration brings more value to customers through improved employee capabilities and innovation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This partnership will greatly improve our employees' experience and bring more value to our customers.",
+      "quote_location": "Statement by Sara Forsberg, CTO",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AI improves employee experience which in turn brings value to customers, making AI a contributing factor rather than direct cause.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "innovation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Scalable developer experience insights collection",
+      "claim_description": "AI agent enables structured collection and summarization of developer experience insights at scale, from five to five thousand developers.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It then summarises those insights, whether you are interviewing five or five thousand people in the organisation, and gives us a structured view of pain points in our developer ecosystem.",
+      "quote_location": "Building developer tools with developer feedback section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI agent directly conducts interviews and summarizes insights at scale, enabling analysis impossible manually.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "ChatGPT Enterprise partnership announced December 2024",
+      "claim_description": "Scania announced collaboration with OpenAI for enterprise-wide ChatGPT Enterprise adoption in December 2024.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "18 DECEMBER 2024",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Sustainable transport industry",
+      "claim_description": "Scania operates in the sustainable transport and automotive industry, manufacturing trucks and transport solutions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We are one of the first sustainable transport companies to partner directly with OpenAI, putting us ahead in using AI in our industry.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Part of TRATON Group",
+      "claim_description": "Scania is part of TRATON Group, with shared strategic objectives including being a Software and Data Leader.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "We aim to be the 'Software and Data Leader' enabler, which is also a part of Scania's strategy, and TRATON Group.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Digital transformation and Software/Data Leader strategy",
+      "claim_description": "Scania's strategic intent includes digital transformation with goal of becoming a Software and Data Leader, with AI as integral enabler.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our alliance with OpenAI marks a significant step in our digital transformation journey, centred around the enterprise-wide adoption of ChatGPT Enterprise.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "scale",
+      "claim_title": "Enterprise-wide ChatGPT deployment",
+      "claim_description": "ChatGPT Enterprise deployed across entire Scania organization, making AI tools available to all employees.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By making AI tools available to everyone in our company, we're helping our employees work smarter and more efficiently.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Research partnership with Stockholm School of Economics",
+      "claim_description": "Scania partnered with Stockholm School of Economics to conduct scientific study quantifying ChatGPT's productivity impact and AI adoption effectiveness.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "To understand the transformative potential of AI adoption, we've partnered with the Stockholm School of Economics to conduct a comprehensive scientific study.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "Software development and engineering function",
+      "claim_description": "AI tools deployed within software development teams, including fullstack development and LLM-based application development.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "When you think about TRATON, you probably imagine trucks and transport solutions. But behind the scenes, there's a growing software movement here",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Develop and Manage Information Technology (IT) Solutions",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Developer-first culture initiative",
+      "claim_description": "Scania/TRATON building developer-first culture with developer experience as first-class priority, supported by AI tools and practices.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It's rare to find a place where developer experience is a first-class priority. At TRATON, in our team, it's not just talk \u2013 we believe it's built into our culture, our tools, and our daily rituals.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "products_services",
+      "claim_title": "Future AI integration in vehicles planned",
+      "claim_description": "Scania plans to integrate OpenAI technology into vehicles to enhance driver experience, improve charging, and enable smarter route planning.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Looking towards the future, Scania envisions integrating OpenAI technology into our vehicles and enhancing the driver experience.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "Mob AI practice blog published September 2025",
+      "claim_description": "Developer blog post about Mob AI practices and developer-first culture published in September 2025.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "8 SEPTEMBER 2025",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "scale",
+      "claim_title": "AI projects impacting hundreds of engineers",
+      "claim_description": "Deployed AI-driven projects impact how hundreds of engineers work within the organization.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "it did not take long before we contributed to and deployed AI-driven projects that impact how hundreds of engineers work.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "organisational",
+      "claim_title": "First sustainable transport company partnering directly with OpenAI",
+      "claim_description": "Scania is one of the first sustainable transport companies to establish direct partnership with OpenAI.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We are one of the first sustainable transport companies to partner directly with OpenAI, putting us ahead in using AI in our industry.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

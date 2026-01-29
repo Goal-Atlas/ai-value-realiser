@@ -1,0 +1,566 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "40% reduction in unplanned asset downtime across 3 counties",
+      "claim_description": "By leveraging predictive analytics through IBM Maximo Application Suite, the initiative achieved a 40% reduction in unplanned asset downtime across three counties in the Stonecrest area.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By leveraging predictive analytics, the initiative achieved a 40% reduction in unplanned asset downtime across three counties.",
+      "quote_location": "Impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Predictive analytics is an AI capability directly responsible for identifying and preventing asset failures before they occur.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "60% decrease in manual field response times",
+      "claim_description": "Smart workflows enabled by watsonx Orchestrate led to a 60% decrease in manual field response times, significantly improving operational agility in asset management and workforce coordination.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Smart workflows enabled by watsonx Orchestrate led to a 60% decrease in manual field response times, significantly improving operational agility.",
+      "quote_location": "Impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "watsonx Orchestrate is an AI-powered automation solution that directly enables smart workflows to reduce manual response times.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "60",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "18% reduction in peak load costs through energy monitoring",
+      "claim_description": "Clean energy monitoring contributed to an 18% reduction in peak load costs, improving energy distribution efficiency and cost management.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Clean energy monitoring contributed to an 18% reduction in peak load costs",
+      "quote_location": "Impact section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Energy monitoring systems typically use AI for optimization, though the specific AI contribution is not explicitly detailed in the source.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "18",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "30% decrease in water waste in agriculture through automation",
+      "claim_description": "Automation in agriculture drove a 30% decrease in water waste, demonstrating environmental and resource efficiency improvements.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "automation in agriculture drove a 30% decrease in water waste",
+      "quote_location": "Impact section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Automation systems in agriculture typically incorporate AI for optimization, though specific AI mechanisms are not detailed in the source.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "30% increase in deployment speed compared to earlier projects",
+      "claim_description": "The initiative delivered a 30% increase in deployment speed compared to previous projects, demonstrating improved project execution velocity.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The initiative also delivered a 30% increase in deployment speed compared to previous projects",
+      "quote_location": "Impact section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Deployment speed improvements are attributed to the overall system including AI components like Maximo and watsonx Orchestrate, though not solely AI-driven.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "$2.3 million cost avoidance over three years with 10x ROI",
+      "claim_description": "The initiative is projected to generate USD 2.3 million in cost avoidance over three years, with a 10x return on investment through predictive maintenance and operational optimization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "it is projected to generate USD 2.3 million in cost avoidance over three years, with a 10x return on investment.",
+      "quote_location": "Impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost avoidance is directly attributed to AI-powered predictive analytics and automation capabilities of Maximo and watsonx Orchestrate.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "2.3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "120 new jobs created in sustainability and smart infrastructure",
+      "claim_description": "Beyond operational gains, the project created 120 new jobs in sustainability and smart infrastructure, empowering local talent and supporting inclusive innovation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the project also created 120 new jobs in sustainability and smart infrastructure, empowering local talent",
+      "quote_location": "Impact section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Job creation is an indirect outcome of the AI-enabled infrastructure project, not directly caused by AI capabilities themselves.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "120",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Georgia Institute of Technology is a top public research university",
+      "claim_description": "Georgia Tech is one of the top public research universities in the US with more than 50,000 students across multiple campuses and distance learning programs.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The Georgia Institute of Technology is one of the top public research universities in the US. It has more than 50,000 students",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Higher education and public sector infrastructure",
+      "claim_description": "The initiative operates at the intersection of higher education, municipal infrastructure, and community development in Stonecrest, Georgia.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This work, piloted in Stonecrest, Georgia, laid the foundation for a collaboration with Georgia Institute of Technology",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "strategic_intent",
+      "claim_title": "Focus on sustainability, workforce development, and community resilience",
+      "claim_description": "The project emphasizes sustainability, workforce development, and community resilience with equitable, long-term impact as core strategic objectives.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The project's emphasis on sustainability, workforce development, and community resilience offers students a meaningful opportunity to apply their skills toward equitable, long-term impact.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Asset management and maintenance operations",
+      "claim_description": "The initiative focuses on asset management, predictive maintenance, and infrastructure optimization across municipal systems.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Georgia Tech partners with Avid Solutions and IBM to revolutionize Stonecrest's asset management, energy distribution and workforce coordination",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10901",
+      "apqc_name": "Manage physical assets",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "Energy distribution and management",
+      "claim_description": "The project addresses energy distribution challenges including peak load management and clean energy monitoring.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "revolutionize Stonecrest's asset management, energy distribution and workforce coordination",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10904",
+      "apqc_name": "Manage environmental health and safety (EHS)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Multi-county deployment across three counties",
+      "claim_description": "The initiative spans three counties in Georgia, representing a regional-scale infrastructure transformation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "40% reduction in unplanned asset downtime across three counties",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Three-year projection period with future expansion planned",
+      "claim_description": "The initiative includes a three-year cost avoidance projection and plans for expansion in 2025 through capstone collaboration with students.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "projected to generate USD 2.3 million in cost avoidance over three years... Avid Solutions and Georgia Tech will deepen their involvement in solutions across the state of Georgia in 2025",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Partnership for Inclusive Innovation (PIN) statewide reach",
+      "claim_description": "PIN has supported 20 communities and activated over 140 technologies statewide across Georgia, providing the broader context for this initiative.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The Partnership for Inclusive Innovation (PIN) is driving applied, community-oriented innovation across Georgia, having supported 20 communities and activated over 140 technologies statewide.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "products_services",
+      "claim_title": "IBM Maximo Application Suite and watsonx Orchestrate deployment",
+      "claim_description": "The initiative deployed IBM Maximo Application Suite for asset management and watsonx Orchestrate for automation, chosen for scalability and interoperability.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The initiative centered on deploying the IBM Maximo Application Suite asset management solution and the IBM watsonx Orchestrate automation solution, chosen for their scalability, interoperability and ability to support public-private integration.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "strategic_intent",
+      "claim_title": "Shift from reactive to predictive governance model",
+      "claim_description": "The transformation represents a strategic shift from reactive to predictive governance, enabling faster, data-driven decisions through intelligent automation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This transformation marks a shift from reactive to predictive governance, where intelligent automation enables faster, data-driven decisions.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

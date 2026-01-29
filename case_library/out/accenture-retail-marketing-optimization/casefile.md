@@ -1,0 +1,425 @@
+---
+case_id: accenture-retail-marketing-optimization
+organisation: Accenture
+title: Retail Marketing Optimization
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.accenture.com/mu-en/services/data-ai
+  url: https://www.accenture.com/mu-en/services/data-ai
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.accenture.com/gb-en/services/data-ai
+  url: https://www.accenture.com/gb-en/services/data-ai
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.accenture.com/us-en/case-studies/interactive/salling-group-grocery-c...
+  url: https://www.accenture.com/us-en/case-studies/interactive/salling-group-grocery-customer-experience
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.accenture.com/in-en/blogs/accenture-india-blog/accenture-india-blog-...
+  url: https://www.accenture.com/in-en/blogs/accenture-india-blog/accenture-india-blog-retail-profitability-race
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Data-driven companies achieve 10-15% more revenue growth
+  claim_description: Organizations that leverage data-driven approaches achieve 10-15%
+    higher revenue growth compared to their industry peers.
+  source_ids:
+  - S1
+  - S2
+  source_quote: 10-15% more revenue growth is achieved by data-driven companies than
+    by their peers
+  quote_location: AI and data now section
+  ai_attribution: contributing
+  attribution_evidence: AI and data capabilities are presented as key enablers of
+    data-driven approaches, though the metric encompasses broader data-driven practices
+    beyond AI alone.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  - business_growth
+  cognitive_depth: descriptive
+  metric_raw:
+    value: 10-15
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Salling Group launched digital delivery service in 10 months
+  claim_description: Accenture helped Salling Group launch a customer-centric grocery
+    delivery service with UX design, journey mapping, and digital touchpoints in just
+    10 months during pandemic.
+  source_ids:
+  - S3
+  source_quote: Salling Group debuted its new business in just 10 months, and pandemic-era
+    customers eagerly embraced the new service.
+  quote_location: Case study body
+  ai_attribution: contextual
+  attribution_evidence: The case focuses on digital transformation and UX design rather
+    than explicit AI capabilities. AI attribution is contextual as modern digital
+    platforms may incorporate AI elements.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '10'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Industrial AI enables predictive workflows and measurable outcomes
+  claim_description: Accenture's Industrial AI breaks data silos, unifies operations,
+    and blends engineering, data science, and AI to enable predictive workflows, agility,
+    and measurable outcomes.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Accenture's Industrial AI breaks data silos, unifies operations, and
+    blends engineering, data science, and AI to enable predictive workflows, agility,
+    and measurable outcomes.
+  quote_location: Industrial AI section
+  ai_attribution: direct
+  attribution_evidence: Explicitly describes AI-driven predictive workflows and operational
+    capabilities as direct outputs of Industrial AI implementation.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Gen AI increases productivity, accuracy, and business context
+  claim_description: Scaling generative AI across functions and refining LLMs with
+    organizational data increases productivity, accuracy, and business context.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Scale across functions and refine LLMs with your data to increase
+    productivity, accuracy, and business context.
+  quote_location: Generative AI section
+  ai_attribution: direct
+  attribution_evidence: Directly attributes productivity, accuracy, and business context
+    improvements to generative AI and LLM refinement.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Accenture provides AI and data services
+  claim_description: Accenture offers comprehensive AI and data services including
+    Industrial AI, Data Services, Generative AI, AI Strategy, Responsible AI, and
+    AI Refinery platform.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Reinvent with AI and data - INDUSTRIAL AI, Data Services, Generative
+    AI, AI Strategy and Value, Responsible AI, Accenture AI Refinery
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Retail sector client - Salling Group
+  claim_description: Salling Group is Denmark's oldest grocery retailer operating
+    Føtex stores, representing the retail and grocery sector.
+  source_ids:
+  - S3
+  source_quote: the nation's oldest grocery retailer, Salling Group, was compelled
+    to launch a digitally enabled home delivery model
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: Pandemic-driven digital transformation
+  claim_description: The Salling Group project was initiated during pandemic restrictions,
+    requiring rapid digital transformation to meet urgent customer needs.
+  source_ids:
+  - S3
+  source_quote: When pandemic restrictions hit Denmark, the nation's oldest grocery
+    retailer, Salling Group, was compelled to launch a digitally enabled home delivery
+    model
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: strategic_intent
+  claim_title: Customer experience at core of digital delivery service
+  claim_description: Salling Group's strategic intent was to put customer experience
+    at the core of their new grocery delivery service, recreating in-person shopping
+    comforts with digital convenience.
+  source_ids:
+  - S3
+  source_quote: Accenture helped Salling Group introduce a grocery delivery service
+    that puts customer experience at the core.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: scale
+  claim_title: Only 9% of companies fully deployed AI use cases
+  claim_description: Market context shows that only 9% of companies have fully deployed
+    an AI use case due to scaling challenges, highlighting the difficulty of AI adoption
+    at scale.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Only 9% of companies have fully deployed an AI use case due to scaling
+    challenges.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: Marketing and customer experience function
+  claim_description: The Salling Group case involves UX design, journey mapping, and
+    customer experience optimization for digital retail touchpoints.
+  source_ids:
+  - S3
+  source_quote: Accenture helped with UX design, journey mapping, and a front-end
+    build for digital touchpoints to create a 'minimal lovable product'
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '3.0'
+  apqc_name: Market and Sell Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: products_services
+  claim_title: Grocery delivery service with digital features
+  claim_description: The service includes website and app with user-friendly shopping
+    lists, recipe curation with ingredient swap suggestions for carbon offset, and
+    refrigerated vehicle delivery.
+  source_ids:
+  - S3
+  source_quote: The website and app went beyond basics to offer user-friendly shopping
+    lists and a recipe curation option capable of suggesting ingredient swaps for
+    carbon offset.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 4
+    verified: 4
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      contributing: 1
+      contextual: 1
+      direct: 2
+  context_claims:
+    total: 7
+    verified: 5
+    unverified: 2
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: false
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Retail Marketing Optimization
+
+## Executive Summary
+
+Accenture: Data-driven companies achieve 10-15% more revenue growth.
+
+## Key Findings
+
+- **Data-driven companies achieve 10-15% more revenue growth** — verified (outcome)
+  - Quote: "10-15% more revenue growth is achieved by data-driven companies than by their peers"
+
+- **Salling Group launched digital delivery service in 10 months** — verified (outcome)
+  - Quote: "Salling Group debuted its new business in just 10 months, and pandemic-era customers eagerly embraced the new service."
+
+- **Industrial AI enables predictive workflows and measurable outcomes** — verified (method)
+  - Quote: "Accenture's Industrial AI breaks data silos, unifies operations, and blends engineering, data science, and AI to enable predictive workflows, agility, and measurable outcomes."
+
+- **Gen AI increases productivity, accuracy, and business context** — verified (method)
+  - Quote: "Scale across functions and refine LLMs with your data to increase productivity, accuracy, and business context."
+
+## Sources
+
+- **S1**: https://www.accenture.com/mu-en/services/data-ai
+- **S2**: https://www.accenture.com/gb-en/services/data-ai
+- **S3**: https://www.accenture.com/us-en/case-studies/interactive/salling-group-grocery-customer-experience
+- **S4**: https://www.accenture.com/in-en/blogs/accenture-india-blog/accenture-india-blog-retail-profitability-race

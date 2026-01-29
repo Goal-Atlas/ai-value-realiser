@@ -1,0 +1,40 @@
+JetBrains AI
+Supercharge your tools with AI-powered features inside many JetBrains products
+Developers save up to 8 hours per week with JetBrains AI Assistant
+AI seems to be popping up everywhere, so it’s no surprise that it has made its way into software development. Fortunately, it’s not here to take over, but to make our lives a whole lot easier and a bit more fun.
+JetBrains joined the AI race on December 6 after the official launch of AI Assistant, which has since become the fastest-growing commercial tool ever in JetBrains’ portfolio. JetBrains AI Assistant is deeply integrated into JetBrains development environments, code editors, and other products. It is currently powered by both OpenAI’s and JetBrains’s models, and the company is working on integrating other LLMs to act as a neutral provider.
+Since the product is new, sent out a survey to get some initial feedback from our early adopters. This survey was conducted and analyzed in collaboration with the JetBrains Market Research & Analytics Team.
+In this article, we will share the promising results of this survey.
+Who participated?
+The survey collected answers from 640 people. Most of them are from the US (16%) and Germany (11%), with other countries making up smaller percentages. The majority of respondents (84%) work as developers or engineers.
+As for employment, 65% have full-time jobs, 16% are self-employed, and 12% work as freelancers.
+When it comes to experience in coding, 59% of respondents have been doing it for over 10 years. Another 20% have 6 to 10 years of experience, 14% have 3 to 5 years, and only 6% are newer, with less than 2 years of coding experience.
+More than half of the people in the survey (56%) had been using the JetBrains AI Assistant for more than a month when they answered the questions.
+How did AI Assistant influence daily work?
+Our world has drastically changed over the past few years, becoming increasingly fast-paced. The clock never seems to stop, and our to-do lists only grow longer. In such a world, maximizing productivity and saving time have never been more crucial. Recognizing this challenge, we introduced AI Assistant.
+Our latest survey highlights AI Assistant’s effect, showing that it’s truly transformed how you handle your daily tasks. Let’s explore the results to see the actual impact it’s had.
+Satisfaction
+75% of users who took our survey are happy with JetBrains AI Assistant. Even better – 25% of them say they’re “very satisfied”. It looks like AI Assistant is really making a difference for a lot of users.
+Saved time
+We had terrific results in this respect. We were thrilled to hear that 91% of respondents had been saving time by using JetBrains AI Assistant.
+A significant 37% noted saving between 1 and 3 hours per week, while an additional 22% saved between 3 and 5 hours. 4% of users (23 people) claimed to free up more than 8 hours per week. That’s an entire working day!
+Interestingly, developers with less than two years of coding experience seem to benefit the most from JetBrains AI Assistant, saving between 3 and 5 hours per week. This demonstrates the remarkable time-saving capabilities of AI Assistant for new developers.
+Productivity
+The survey also shows that JetBrains AI Assistant boosts developer efficiency significantly. 78% of developers find they spend less time on their information searches. Tasks are completed much faster for 71% of them, and 55% are diving into more exciting projects as a result of all the time they’re saving.
+Efficiency
+Moreover, AI Assistant enhances workflows, with 58% of users experiencing easier task completion and reduced mental strain. Almost half of the respondents reported better focus and the ability to achieve a flow state more easily, with those figures at 49% and 46% respectively.
+What are the best AI Assistant features?
+Our survey respondents highlighted these 5 features as the most useful:
+Now let’s see how these features can transform your coding experience!
+AI Chat
+Need to understand a function, complete a task in your preferred language, or debug an issue? AI Chat is ready to assist! It analyzes the context of your project to provide tailored answers.
+Refactoring suggestions
+The AI Actions context menu includes Suggest Refactoring, with AI Assistant uses to propose and explain code improvements. These suggestions can be quickly added into your file as diffs, allowing you to see exactly what will be changed.
+Find problems in selected code
+The Find Problems action gives you tips for how to rearrange code and suggests different ways to improve how it works.
+Explain Code
+No code will be unclear when you use the Explain Code action, which turns any line of your code into easy-to-understand concepts.
+Generate documentation
+Beyond coding, AI Assistant also helps with writing documentation, a vital yet often disliked part of development. Just select Write Documentation from the AI Actions menu, and AI Assistant will create detailed docs for your function or class.
+We would like to thank everyone for participating in this research. We hope we’ve inspired you to try out AI Assistant.
+We are always eager to hear your feedback. If you have any thoughts about our product, share them in the comments to this blog post.

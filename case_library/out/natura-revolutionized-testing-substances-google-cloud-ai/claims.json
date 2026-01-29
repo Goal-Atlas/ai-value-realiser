@@ -1,0 +1,728 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Reduced testing time from days to hours",
+      "claim_description": "Battery of tests on components and essences that previously took days are now performed in hours using Google Cloud Platform. A specific water box model test was reduced from 48 hours to 13 hours.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "A battery of tests on components and essences, something essential for Natura's business, that used to take days are now performed in hours using Google Cloud Platform",
+      "quote_location": "Google Cloud Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Virtual molecule testing using algorithms on GKE directly replaced lab testing, with explicit time reduction metrics attributed to the cloud platform.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "48 to 13",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Reduced time-to-market by one third",
+      "claim_description": "Since Natura started using Google Cloud Platform, it reduced its products' time-to-market by one third, from 1 year to 8 months.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Since Natura started using the platform, it reduced its products' time-to-market by one third, from 1 year to 8 months",
+      "quote_location": "Google Cloud Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time-to-market reduction explicitly attributed to using the platform for virtual testing, enabling faster product development cycles.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "33.3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Spent only 10% of projected investment",
+      "claim_description": "The test project in the cloud's virtual environment meant spending only 10% of the projected investments, allowing Natura to channel resources to other investments.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The test project in the cloud's virtual environment meant spending only 10% of the projected investments",
+      "quote_location": "Google Cloud Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost savings directly attributed to implementing the virtual testing environment on Google Cloud Platform instead of physical infrastructure.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Created much larger test volume than expected",
+      "claim_description": "With a lower cost per test enabled by the cloud platform, the company managed to create a much larger volume of tests than expected.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With a lower cost per test, the company managed to create a much larger volume than expected",
+      "quote_location": "Google Cloud Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Increased test volume directly enabled by lower per-test costs from cloud-based virtual testing infrastructure.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Enabled 200-300 simultaneous processes",
+      "claim_description": "Between 200 and 300 testing processes are carried out simultaneously, which is only possible thanks to the cloud's computer scaling capabilities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "between 200 and 300 processes like this one are carried out simultaneously, which is only possible thanks to the cloud's computer scaling",
+      "quote_location": "Fast Benefits and Profits section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Simultaneous processing capability explicitly attributed to cloud scaling, enabling parallel execution impossible with previous infrastructure.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "200-300",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Eliminated animal and human testing for substance evaluation",
+      "claim_description": "Current methodology looks into components, concentrations and reactions without using skin from a person or animal, simulating impact through virtual molecules in cloud environment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "our current methodology looks into components, concentrations and reactions without using skin from a person or animal, simulating its impact",
+      "quote_location": "Proof of Concept section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Virtual molecule simulation on cloud platform directly replaced in vitro and living being testing methods.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Eliminated 17+ hours of manual work per week in finance",
+      "claim_description": "Finance team used AppSheet to build automated workflow for monthly financial close processes, eliminating more than 17 hours of menial work per week.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "With the new app, the team eliminated more than 17 hours of menial work per week and can now focus on strategic work like forecasting",
+      "quote_location": "The switch to Google Workspace and AppSheet section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Automated workflow built with AppSheet directly eliminated manual work, with explicit time savings attributed to the application.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "17",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Reduced information search time from 30 minutes to 5 minutes",
+      "claim_description": "Knowledge base built with Google Sites reduced the time it takes to find documents from 30 minutes down to five minutes.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "This streamlined workflow has not only accelerated our training but reduced the time it takes to find documents from 30 minutes down to five",
+      "quote_location": "The switch to Google Workspace and AppSheet section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Search time reduction attributed to consolidated knowledge base with searchable content, though AI role is supporting rather than primary mechanism.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "83.3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Achieved 80%+ employee satisfaction rate",
+      "claim_description": "Within the first six months after migration to Google Workspace, 80% of employees who participated in training and development programs reported satisfaction.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Within the first six months after our migration, 80% of employees who participated in the training and development programs reported satisfaction with Workspace",
+      "quote_location": "The switch to Google Workspace and AppSheet section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Satisfaction metric relates to collaboration platform adoption rather than direct AI capability, though platform enables AI features.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "80",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Migrated 900 TB of data in six months",
+      "claim_description": "Successfully migrated 900 TB of data and 20,000+ accounts from legacy solution to Google Workspace in just six months.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We had 20,000 accounts in 14 countries in Latin America and over 900 TB of data to move from legacy solutions...complete the complex transition in just six months",
+      "quote_location": "The switch to Google Workspace and AppSheet section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Migration achievement demonstrates platform capability but not direct AI value creation; contextual to enabling future AI applications.",
+      "verification_status": "needs_review",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "900",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Natura is a 50-year-old Brazilian cosmetics company",
+      "claim_description": "Natura is a Brazilian company established in 1969 devoted to sustainable, natural cosmetics production, with 6,400 collaborators.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Natura is a 50-year-old Brazilian company that serves the cosmetics market with products created from natural substances",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "Part of Natura & Co Group with R$7.7 billion turnover",
+      "claim_description": "Natura is part of the Natura & Co Group, owner of Natura, Aesop and The Body Shop brands. The Group's turnover in 2017 was around R$7.7 billion.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The Group's turnover in 2017 was around R$7.7 billion",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Operates in cosmetics and personal care industry",
+      "claim_description": "Natura serves the cosmetics market with products created from natural substances, especially from the Amazon region.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "serves the cosmetics market with products created from natural substances (especially from the Amazon region)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Committed to sustainability and natural products",
+      "claim_description": "Natura's mission focuses on providing well-being and harmonic relations with nature, with commitment to sustainable sourcing and environmental responsibility.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "providing well-being, harmonic relations of individuals with themselves, with others and with nature",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "Research and development for product testing",
+      "claim_description": "Testing active ingredients and substances is essential for Natura's business, involving component and essence evaluation for product development.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "A battery of tests on components and essences, something essential for Natura's business",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10395",
+      "apqc_name": "Develop and manage products and services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Cloud projects started in 2015",
+      "claim_description": "The company's cloud projects started in 2015 with a view to operating in multiple clouds, with goal to remove own datacenters by 2020.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The company's cloud projects started in 2015 with a view to operating in multiple clouds",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Virtual testing project started April 2018",
+      "claim_description": "Most recent project involving testing active ingredients in virtual environment started in April 2018.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Its most recent project, which started in April this year, involves testing active ingredients",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "scale",
+      "claim_title": "Small test department team",
+      "claim_description": "Test department team consisted of an IT specialist and a biotechnology researcher.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "how small the test department team was: an IT specialist and a biotechnology researcher",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "organisational",
+      "claim_title": "Acquired The Body Shop in 2017",
+      "claim_description": "Natura acquired The Body Shop for 1 billion Euros in June 2017, a British company with presence in 65 countries, 22,000 collaborators and over 3,000 stores.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the acquisition of The Body Shop for 1 billion Euros in June 2017, a British giant with presence in 65 countries",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "scale",
+      "claim_title": "Operates in 14 Latin American countries",
+      "claim_description": "Natura operates in 14 Latin American countries with 20,000 accounts across the region.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We had 20,000 accounts in 14 countries in Latin America",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "Bio-Lake data repository for research",
+      "claim_description": "Created Bio-Lake environment, a biocomputing data repository on Google Cloud Platform where all metrics and data from Natura's researches and business are located.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Bio-Lake environment (a variation of the Data Lake, a data repository in natural format with structured and non-structured information)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10209",
+      "apqc_name": "Manage information technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "strategic_intent",
+      "claim_title": "Goal to become data-driven company",
+      "claim_description": "Vision to be a data-driven company and give everyone access to data needed to innovate and help Natura grow.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We wanted to be a data-driven company and give everyone access to the data they needed to innovate and help Natura grow",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

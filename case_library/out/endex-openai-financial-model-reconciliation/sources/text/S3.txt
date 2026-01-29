@@ -1,0 +1,22 @@
+Endex envisions a future where financial intelligence is seamlessly integrated into the daily tools that professionals trust, transforming Excel from a manual spreadsheet into an intelligent, adaptive partner for decision-making and analysis.
+By embedding advanced AI agents directly within Excel, Endex empowers finance teams to automate complex modeling and data workflows, unlocking new levels of efficiency, insight, and institutional knowledge while maintaining the highest standards of data security and compliance.
+Driven by innovation in AI reasoning and integration, Endex is building a future where finance professionals can focus on strategic thinking and creativity, with technology handling the repetitive, error-prone tasks of data gathering, reconciliation, and reporting.
+Our Review
+We've been watching Endex since their quiet launch, and honestly, it's one of those rare tools that makes us think "why didn't someone build this sooner?" Founded in 2022 by Tarun Amasa and Kevin Yang, this New York startup has cracked something that thousands of finance professionals deal with daily: Excel is everywhere, but it's still painfully manual.
+Instead of building yet another standalone financial platform, Endex went native—embedding AI directly into Excel as an add-in. It's a clever move that respects how finance teams actually work.
+The Magic Lives in Excel
+What impressed us most is how seamlessly Endex integrates into existing workflows. You're not learning a new platform or migrating data—you're just supercharging the Excel you already know. The AI can build three-statement models, pull data from SEC filings and CapIQ, and even generate professional reports in PowerPoint or Word.
+We particularly like their approach to data reconciliation. The system doesn't just grab numbers; it cross-checks sources, surfaces discrepancies, and provides citations for everything. That's the kind of detail that separates a useful tool from a trusted one.
+Built for Real Finance Work
+Endex clearly understands their audience. This isn't general-purpose AI trying to do finance—it's purpose-built for investment banking, private equity, and asset management teams. The platform speaks financial language fluently and integrates with the data sources these professionals use daily.
+Early users from hedge funds are calling it transformative, with some comparing the experience to "seeing ChatGPT for the first time." That's high praise in a notoriously skeptical industry.
+Room to Grow
+The $14 million OpenAI Startup Fund backing shows serious confidence, but Endex still feels early-stage. Charting and visualization features are on the roadmap but not available yet—a notable gap for financial analysis. The invite-only access also means many potential users are still waiting to try it.
+That said, we appreciate their methodical approach. Rather than rushing to market with half-baked features, they spent 2023 quietly refining the product with financial institutions. It shows in the polish and security compliance (SOC 2, GDPR, CCPA).
+Feature
+Automated financial modeling and multi-step analysis
+Data integration from SEC filings, broker estimates, CapIQ, internal files
+Advanced AI reasoning using OpenAI models for precise workflows
+Automated generation of reports, charts, tables, and presentation decks
+Reusable workflow templates for scalability across sectors
+Compliance with SOC 2, GDPR, and CCPA for data security

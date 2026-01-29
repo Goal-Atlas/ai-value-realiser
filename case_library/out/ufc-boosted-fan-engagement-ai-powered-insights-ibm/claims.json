@@ -1,0 +1,652 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "AI-powered platform processes 13.2 million UFC data points from 20+ years",
+      "claim_description": "In-Fight Insights technology taps into more than 13.2 million UFC data points from over 20 years of fights and data from more than 2,400 current and former UFC athletes to elevate viewing experience.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This new technology taps into more than 13.2 million UFC data points from over 20 years of fights, as well as data from more than 2,400 current and former UFC athletes. This helps elevate the viewing experience for both hardcore and casual fans alike.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI technology directly processes and analyzes the data points to generate insights that elevate the viewing experience.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI delivers real-time insights in seconds during live fights",
+      "claim_description": "UFC Insights Engine built with IBM Watson is described as a complex AI package that goes deep to unearth new, real-time insights for fans in seconds, accomplishing both depth and speed simultaneously.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "UFC Insights Engine built with IBM Watson is a complex AI package that goes deep to unearth new, real-time insights for fans in seconds. Anyone who uses AI tools knows they are normally able to go deep or fast, but not both. In collaborating with IBM for these new in-fight stats, though, we have optimized Insights Engine to accomplish both \u2014 a true game-changer.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI system directly generates insights in real-time during fights, with explicit attribution to the AI's capability to deliver both depth and speed.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "seconds",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "AI provides immediate contextual understanding for broadcasters during live fights",
+      "claim_description": "In-Fight Insights serves as a tool for broadcasters, giving them immediate contextual understanding to share during fights, integrated into the broadcast feed for commentators and production teams.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Not only will In-Fight Insights help fans, but it will also be a tool for broadcasters, giving them immediate contextual understanding to share during fights. Insights will be integrated into the broadcast feed, allowing UFC and IBM to deliver a new level of in-the-moment intelligence to commentators, production teams, and fans alike.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI system directly provides immediate contextual understanding and in-the-moment intelligence to broadcasters during live events.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": {
+        "value": "immediate",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "AI transforms manual data analysis into automated real-time insights at 40+ annual events",
+      "claim_description": "UFC historically relied on manual expertise to analyze large volumes of data in a time-consuming approach. IBM's AI platform now transforms this into automated, scalable content for fans across 40+ live events annually.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Historically, it relied on manual expertise and deep institutional knowledge to analyze large volumes of fast-changing, domain-specific data, resulting in a time-consuming approach that limited scale and speed.",
+      "quote_location": "early section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI directly replaces manual processes with automated analysis, explicitly addressing the previous limitations of scale and speed.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI enables instant post-fight summaries and performance breakdowns",
+      "claim_description": "After fights, post-fight summaries and performance breakdowns are generated instantly by the AI platform, making it easy to deliver meaningful insights at speed.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "After the final bell, post-fight summaries and performance breakdowns will be generated instantly, making it easy to deliver meaningful insights at speed.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI system directly generates post-fight content instantly, with explicit attribution to the automated generation capability.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "instant",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "AI monitors and reports real-time milestones, streaks, and records during UFC events",
+      "claim_description": "In-Fight Insights is an AI-driven live alert platform that monitors and reports in real time when notable milestones, streaks and records occur during UFC events.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "IBM and UFC have introduced In-Fight Insights, an AI-driven live alert platform that monitors and reports in real time when notable milestones, streaks and records occur during UFC events.",
+      "quote_location": "early section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI platform directly monitors and reports events in real-time, with explicit description as an AI-driven platform.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI creates data-driven narratives to build anticipation before fights",
+      "claim_description": "Before fights, UFC can craft data-driven narratives that build anticipation and deepen fan connection by turning raw stats into compelling storytelling using the AI platform.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Before the fight, UFC can craft data-driven narratives that build anticipation and deepen fan connection by turning raw stats into compelling storytelling.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI platform directly transforms raw statistics into narratives, enabling the creation of compelling storytelling content.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "innovation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI platform delivers insights across 170+ countries in multiple digital formats",
+      "claim_description": "The UFC Insights Engine reshapes how UFC connects with fans in more than 170 countries with real-time data, stats, and digital experiences across broadcast, social, and in-venue platforms.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "it's about reshaping how UFC connects with fans in more than 170 countries with real-time data, stats, and an increasing number of digital and over-the-top experiences.",
+      "quote_location": "mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI platform directly enables the delivery of real-time data and stats to fans globally across multiple platforms.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "170",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "UFC-IBM partnership launched in November 2024",
+      "claim_description": "UFC and IBM began working together in November 2024, establishing the foundation for the UFC Insights Engine.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "UFC and IBM have been working together since November 2024, establishing a foundation for the UFC Insights Engine while aggregating and analyzing the organization's extensive library of fight data to create a more personalized and data-driven fan experience.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "temporal",
+      "claim_title": "In-Fight Insights debuted at UFC 322 at Madison Square Garden",
+      "claim_description": "The In-Fight Insights technology was set to debut at UFC 322 at Madison Square Garden in New York City.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In-Fight Insights is set to debut at UFC 322, which will feature multiple title fights, including a welterweight main event between champion Jack Della Maddalena and Islam Makhachev on Saturday in New York City.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "IBM is UFC's first official AI partner",
+      "claim_description": "IBM became UFC's global AI partner, marking the first time the MMA promotion has designated a brand into this particular category.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Through a tie-up unveiled today, IBM becomes UFC's global AI partner \u2013 the first time the MMA promotion has put a brand into this particular designation.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "organisational",
+      "claim_title": "UFC is owned by parent company TKO",
+      "claim_description": "UFC operates under parent company TKO, with TKO executives involved in the IBM partnership.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "said Alon Cohen, executive vice president of innovation for TKO.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "sectoral",
+      "claim_title": "UFC operates in mixed martial arts sports entertainment industry",
+      "claim_description": "UFC is described as the premier mixed martial arts promotion and a global sports phenomenon with a 30-year legacy.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "The Ultimate Fighting Championship (UFC) is a global sports phenomenon, captivating millions of fans with its unique blend of intense competition and dynamic storytelling. With a 30-year legacy, UFC has consistently evolved to engage its fans.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "UFC hosts more than 40 live events annually",
+      "claim_description": "UFC produces content for fans across its broadcast, digital, and social platforms at more than 40 live events annually.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "UFC's technology leadership turned to IBM as a strategic partner. The result? The UFC Insights Engine: an AI-powered platform built to transform fight data into real-time analytics, expert insights, and compelling narratives. UFC's problem wasn't the lack of data. It was about finding ways to quickly transform this complex information into unique, engaging, and scalable content for fans across its broadcast, digital, and social platforms at more than 40 live events annually.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "scale",
+      "claim_title": "UFC has data from 2,400+ current and former athletes",
+      "claim_description": "The UFC Insights Engine processes data from more than 2,400 current and former UFC athletes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "as well as data from more than 2,400 current and former UFC athletes.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "products_services",
+      "claim_title": "IBM watsonx platform powers UFC Insights Engine using Granite LLM",
+      "claim_description": "The UFC Insights Engine is built using IBM's watsonx data and AI platform, powered by the Granite large language model.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "source_quote": "Central to this partnership are its capabilities to deliver enterprise-grade AI through the Granite large language model that powers the custom-built UFC Insights Engine.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Partnership aims to revolutionize analytics and information in live sports",
+      "claim_description": "UFC and IBM are pioneering a product to revolutionize analytics and information in live sports, marking a pivotal development for fans worldwide.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Together, we're pioneering a product to revolutionize analytics and information in live sports. This partnership marks a pivotal win, not only for UFC and IBM, but also for fans around the world.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "AI supports marketing and customer experience functions",
+      "claim_description": "The Insights Engine is being scaled across UFC platforms including social media channels, in-venue activations, and pre-event programming to enhance fan engagement and experience.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "In-Fight Insights is the latest advancement in a broader effort to scale the Insights Engine across all UFC platforms, including social media channels, in-venue activations, and pre-event programming.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "AI supports broadcast production and content delivery",
+      "claim_description": "The AI platform integrates with broadcast feeds, pay-per-view broadcasts, and production teams to deliver real-time insights during live events.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "The insights, graphics, and statistics \u2013 which will be IBM-branded \u2013 will be integrated into platforms such as pre-event programming, pay-per-view broadcasts, social media channels, and also in-venue video screens.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.0",
+      "apqc_name": "Manage Information Technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "temporal",
+      "claim_title": "UFC Insights Engine launched in early 2025",
+      "claim_description": "The UFC Insights Engine built with IBM watsonx was set to launch in early 2025, designed in collaboration with the UFC research and development team.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The UFC Insights Engine built with IBM watsonx is set to launch in early 2025, and is being designed in collaboration with the UFC research and development team.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

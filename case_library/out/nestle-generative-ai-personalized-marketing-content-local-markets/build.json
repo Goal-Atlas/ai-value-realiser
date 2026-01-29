@@ -1,0 +1,316 @@
+{
+  "case_id": "nestle-generative-ai-personalized-marketing-content-local-markets",
+  "build_started": "2026-01-29T10:48:45.806161",
+  "build_completed": "2026-01-29T10:48:47.734134",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Nestl\u00e9 Generative AI for Personalized Marketing Content in Local Markets",
+      "Nestl\u00e9 Generative AI for Personalized Marketing Content"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://www.nestle.com/media/news/brands-ai-digital-twins-content-service",
+        "rank": 1
+      },
+      {
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2025/global-cpg-companies-join-generative-agentic-ai-rush/",
+        "rank": 2
+      },
+      {
+        "url": "https://consumergoods.com/nestle-lvmh-loreal-ramp-content-creation-ai-powered-digital-twins",
+        "rank": 3
+      },
+      {
+        "url": "https://aiexpert.network/ai-at-nestle/",
+        "rank": 4
+      },
+      {
+        "url": "https://www.thedrum.com/news/2023/02/15/how-nestl-using-ai-set-creative-rules-its-15000-marketers",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://www.nestle.com/media/news/brands-ai-digital-twins-content-service",
+      "https://www.pymnts.com/news/artificial-intelligence/2025/global-cpg-companies-join-generative-agentic-ai-rush/",
+      "https://consumergoods.com/nestle-lvmh-loreal-ramp-content-creation-ai-powered-digital-twins",
+      "https://aiexpert.network/ai-at-nestle/",
+      "https://www.thedrum.com/news/2023/02/15/how-nestl-using-ai-set-creative-rules-its-15000-marketers"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.nestle.com/media/news/brands-ai-digital-twins-content-service",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2025/global-cpg-companies-join-generative-agentic-ai-rush/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 287,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://consumergoods.com/nestle-lvmh-loreal-ramp-content-creation-ai-powered-digital-twins",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 1179,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://aiexpert.network/ai-at-nestle/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://www.thedrum.com/news/how-nestl-using-ai-set-creative-rules-its-15000-marketers",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 5673,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "nestle-generative-ai-personalized-marketing-content-local-markets",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 6,
+    "context_claims_count": 8,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 1,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4265,
+        "char_offset_end": 4338,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 606,
+        "char_offset_end": 839,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2114,
+        "char_offset_end": 2333,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 3701,
+        "char_offset_end": 3876,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4097,
+        "char_offset_end": 4264,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 606,
+        "char_offset_end": 778,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 972,
+        "char_offset_end": 1191,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 147,
+        "char_offset_end": 316,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 611,
+        "char_offset_end": 778,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 4339,
+        "char_offset_end": 4500,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 854,
+        "char_offset_end": 971,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S5",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 606,
+        "char_offset_end": 839,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4724,
+        "char_offset_end": 4816,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

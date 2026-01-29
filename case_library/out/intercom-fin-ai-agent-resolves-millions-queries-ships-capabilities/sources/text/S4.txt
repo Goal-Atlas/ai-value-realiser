@@ -1,0 +1,47 @@
+Today we hosted Pioneer 2025, our summit for AI customer service leaders.
+Hundreds joined us in person and thousands tuned in virtually to hear about the latest Fin innovations and discuss the state of AI in 2025. I was on the ground in New York and had a fantastic time speaking with customers and industry peers.
+Since the beginning of Intercom, our mission has been to make internet business personal. To do that, you need the tools to give every one of your customers concierge-level service, 24/7. You need to know who they are and what they need, and be able to deliver that to them quickly, efficiently, accurately, and reliably.
+At Pioneer, we shared how we’re going to get you there.
+We announced Fin 3, the most powerful AI Agent for customer service, capable of handling complex queries across every channel. We shared our vision for the future – a single, unified Customer Agent, capable of handling the entire customer experience. We heard from companies like Anthropic, Gamma, Toast, Crypto.com, and more about how they’ve transformed their support operations with AI.
+You can watch the biggest moments from Pioneer 2025 here.
+Let’s break it all down.
+We announced Fin 3
+Our Chief Product Officer Paul Adams announced a big step forward in helping customer service teams deliver concierge-level service to every one of your customers: Fin 3.
+With Fin 3, we’re making significant upgrades to Fin and deep investments in all four stages of the Fin Flywheel:
+- To train Fin, we announced Procedures, enabling it to fully resolve complex queries like damaged order claims or account troubleshooting from start to finish. Natural language instructions can be combined with deterministic controls so Fin follows your policies and takes secure actions in your systems.
+- To test Fin, we announced Simulations, a powerful testing suite to ensure Fin is behaving as expected and catch issues before they reach customers.
+- To better deploy Fin, we extended to more channels – Slack and Discord – and announced big improvements to Voice (with a live demo to showcase what it can do).
+- To help you analyze Fin, we announced upgrades to our Insights product, including CX Score Reasons, a Topic Trends report, and new AI-powered Suggestions capabilities, making it easier than ever to understand Fin’s performance and improve the customer experience.
+All of this means Fin can do much more work for you, resolving more and more complex queries that take your human team so much time.
+We shared our vision for a Customer Agent future
+Our Co-founder and CEO Eoghan McCabe shared our vision for the future of Fin (and the biggest, most audacious goal we’ve set since we first set out to build it).
+Fin will not be just the world’s best Customer Service Agent. It will be the world’s best Customer Agent, capable of handling the entire customer experience.
+The AI Agents of today, like Fin, are capable of handling many different use cases across the entire customer journey: lead qualification, onboarding, support, success, and upsell. That opens the door for the first time to previously unimaginable customer experience; one that’s truly seamless, personal, and concierge-level.
+To do this, we’ll be adding significant new capabilities to Fin:
+- Roles: Fin will have a range of roles (customer service being one) that it can fluidly move between and blend together. Each role will be deeply trained to be a world-class expert at what it does.
+- Goals: Fin will also have goals to pursue. You’ll be able to tell it your objectives and priorities (for your customers, company, revenue) and Fin will pursue them, making appropriate trade-offs between goals as needed.
+- Memory: Fin needs memory that persists and grows over the customer lifecycle, building deep context of who the customer is and what they’re trying to achieve. The customer priorities it learns on day one will be considered in year 10.
+- Knowledge: Fin needs deep knowledge of your business – every product detail, policy, process, your history and plans – to act on a complete view of your customer.
+- Interoperability: Fin needs to be able to interoperate with different tools, systems, and channels.
+This system will be able to do much more than answer questions or complete tasks. It will adapt on the fly and learn to get better, and use all the context it has to efficiently guide each customer to great outcomes.
+We’ll continue to obsess about Fin’s ability to support your customers in their times of need. But the inevitable and exciting future is broader than that: one single, unified Customer Agent capable of handling the entire customer experience.
+We explored the transformations and opportunities ahead
+Our Co-founder and Chief Strategy Officer Des Traynor shared his thoughts on what the future holds for us, our industry, and beyond that.
+He presented three key ideas:
+- AI is a convergent force: It forces things to be similar. The idea that you need a vastly different UI for every product is becoming less true as time goes by. We’re definitely going to see products overlap, merge, or converge, but either way, the landscape is going to change.
+- The transformations will be massive: If products can merge, what does convergence look like for the people that use them? Roles and organizational charts will be heavily impacted by AI. Customer-facing roles will converge – there’ll likely be an AI Agent for resolving all customer queries, and a team of AI-native customer experts who can create and translate a CX strategy.
+- There are huge opportunities for us all ahead: We’re heading into a generalist renaissance, meaning people will have the opportunity to be more effective across a much wider spectrum than they could before. As Des put it, “to prepare yourself for the future, broaden your mandate.”
+AI is collapsing silos and transforming organizations into leaner, tech-enabled systems where a single, intelligent Agent can do the work of many tools and teams. And this really underpins the concept behind our Customer Agent announcement today as well; allowing for a new era of adaptable generalists that are really empowered by AI to drive impact across functions and across roles. It’s enabling businesses to think differently about how they might structure organizations in the future. The implications here are really far reaching.
+We got a look at what AI transformation looks like inside Anthropic
+Isabel Larrow, Product Support Operations Lead at Anthropic, took to the stage with our VP of Customer Success and Solutions Junan Pang to give us an inside look at Anthropic’s support operations.
+They unpacked insights on how to launch and scale an AI Agent, with Isabel sharing lessons learned from their experience evaluating and deploying Fin. They talked about how Anthropic rolled out Fin in a test phase and fast-tracked to optimize for fast feedback, how they scaled rapidly to user segments across their entire customer base, and how they ran a “Fin hackathon” to get the whole support team involved and invested in making Fin better.
+Beyond that, they discussed what it means (and what’s required) to scale AI Agents and achieve meaningful business transformation. Isabel shared a powerful example of what that scale, and its impact, looks like in practice: “We’re a lean but focused team of two specialists,” she explained. “What’s really cool is that those two specialists actually enable almost 50 full-time employees’ worth of coverage in our volume. Those two key roles are a systems and automation specialist, and a knowledge and content manager.”
+That shows just how much organizational and system design is evolving, which Isabel and Junan unpacked alongside the changing economics of customer service and the opportunity to transform the customer experience.
+We had great conversations with our customers and industry peers
+Throughout the day, we held multiple panel sessions and podcast conversations with Fin customers and industry experts about the real-world impact they’re seeing with AI.
+Des sat down with Nick Clark from BCG, Mariana Kushev from Crypto.com, and Jehad Affoneh from Toast for an AI transformation panel. A few themes kept coming up: treat service like a product, give support the skills and ownership to run the AI system, and focus on value creation rather than cost alone.
+Our Senior Director of Customer Solutions Meghan Haenn moderated an AI solutions panel with Michelle McGowan from Rocket Money, Shane McCarthy from [solidcore], and Hilary Dudek from Gamma. They talked in depth about the importance of having a clear business problem to solve with AI (and avoiding “AI for AI’s sake”), managing AI in regulated environments and maintaining customer trust, and their “aha!” moments with Fin.
+In our live podcast studio, I sat down with Natalie Hurst from Nuuly, and my colleague Leanne Harte sat down with Guneet Singh from AppFolio, to discuss how AI is handling complexity we never thought it could, and why it’s a long-overdue promotion for customer service. You’ll be able to listen to those conversations on The Ticket podcast next week.
+Where will we be by next year?
+Today left me energized. AI’s impact is accelerating, way beyond anything we could have imagined when we launched Fin in early 2023.
+If you lead customer service, it’s time to think bigger. The Customer Agent future is coming, and fast. We’re in a unique position to lead AI transformation in our organizations, and as we saw throughout the sessions at Pioneer today, the opportunity ahead is massive.

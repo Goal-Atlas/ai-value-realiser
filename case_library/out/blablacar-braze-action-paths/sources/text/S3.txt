@@ -1,0 +1,58 @@
+AWS Partner Network (APN) Blog
+Transforming the Customer Experience at Speed and Scale with AWS and Braze
+By Jon Hyman, Co-Founder and CTO at Braze
+Braze is a comprehensive customer engagement platform built on Amazon Web Services (AWS) that helps brands bring modern, stream processing, and data-science frameworks to their engagement strategies. In 2019, Braze sent more than 600 billion personalized emails, push notifications, in-app messages, SMS messages, and more to billions of monthly active users.
+Braze’s customer engagement platform is built for today’s on-demand, always-connected customers. We replace decades-old databases and poorly integrated internal and external tools with live views of every customer, highly intuitive customer journey building, in-the-moment campaign optimization, and more.
+When building Braze, we chose AWS primarily because of its elasticity. We cycle through more than 10,000 servers each week; one moment we may have a period of low traffic volume, and the next we need to send 50 million emails. AWS helps us handle that type of dynamism, ensuring we always have the processing power and scale we need.
+The importance of speed at scale cannot be overestimated as consumers’ expectations for on-demand, hyper-personalized communications continue to increase.
+When a minute can make or break an experience, brands need a customer engagement ecosystem that allows them to make virtually instantaneous and meaningful connections with every one of their customers in real-time.
+Named to the Forbes Cloud 100 List each of the past two years, Braze is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in both Retail and Digital Customer Experience.
+To demonstrate how Braze plus AWS equates to real-world success, let’s examine recent campaigns from our customers and the technology that made them possible.
+Burger King: Billions Swerved
+In the highly competitive quick-service restaurant (QSR) landscape, it takes more than a free burger to compel a customer.
+In order to succeed, the best brands are using sophisticated technology ecosystems to facilitate creative ways of capturing consumer attention. In 2019, Burger King made headlines—and increased revenue—with its award-winning Whopper Detour campaign.
+The Campaign
+Playing on a legendary rivalry, Burger King offered one-cent Whoppers to customers, but only if they opened the Burger King app within 600 feet of a McDonald’s. The offer also had to be redeemed within the hour.
+The Technology
+Burger King chose Braze because we have great interoperability with other parts of the marketing technology ecosystem, including: mParticle for customer data management; Branch for deep linking; Amplitude to provide behavioral data analysis; Accuweather for monitoring contextual location conditions; and Radar for location targeting and geofencing. These integrations enable our customers to provide a much richer consumer experience.
+Here’s what that looked like for consumers (and a brief look behind the scenes) of the Whopper Detour:
+- When a customer with the app came within 600 feet of a geofenced McDonald’s, location data infrastructure Radar sent the location data as an event to mParticle, a customer data platform (CDP).
+- This location event was then sent from mParticle to Braze, triggering a push notification followed by an in-app message.
+- After clicking on the push notification, Burger King customers were taken to an order screen, and then directed to the nearest Burger King.
+Once someone entered the geofenced area, the event was sent to one of hundreds of Braze API servers on AWS. On average, Braze receives more than 8 billion API calls each day and processes each request in under 100 milliseconds. That’s because Braze relies on AWS Auto Scaling and Elastic Load Balancing.
+The Braze platform’s processing speed is crucial to the success of this campaign. If we were even a minute late receiving and processing that geofence location, the consumer experience would have been terrible. Part of the excitement is getting the push notification the moment you get close to a McDonald’s.
+The campaign generated 3.2 million new app downloads, which skyrocketed the Burger King app to number one in the App Store, as well as boosting monthly active users (MAUs) by 54 percent. It also drove $15 million in additional revenue from the participating customers.
+Behind the scenes, brands running seamless customer engagement efforts like these can do so with confidence because they’ve invested in modern technology stacks with highly specialized solutions. This hybrid stack built with best-in-class components allowed Burger King to unleash its powerful creativity.
+Overstock: The Power of Cross-Channel Personalization
+Many brands still rely on batch-and-blast messaging that is disconnected from their users’ unique interests and preferences. That’s because many companies struggle to understand an increasing amount of data and personalization at scale. Today’s consumers are quick to abandon companies that spam them.
+That’s the situation Overstock was in when they switched to Braze in 2018.
+The Campaign
+Using Braze, Overstock strategically sent fewer, yet more relevant messages at different stages in the customer lifecycle. When users save but don’t buy an item, for example, that inaction triggers a push notification nudging them to close the deal. Users also receive product alert emails when items they browse drop in price or are almost out of stock.
+By evolving their tactics to a personalized, cross-channel approach with Braze, Overstock achieved a 21 percent conversion rate and 38 percent open rate, which is 3X higher than the industry average. Unique clicks were also 9x higher than industry standards.
+The Technology
+Braze offers a feature for personalized messaging called Connected Content, which allows for retrieving data from first-party and third-party systems immediately before the message is sent. This data can be used as business logic, or as content to further personalize the message.
+Overstock uses Connected Content to retrieve the current price of items in their push notifications to increase the urgency in the nudge to purchase. Similarly, Overstock has set up other triggered updates using Braze, such as when items are about to go out of stock.
+Overstock has a number of internal APIs they exposed to us through the Braze Connected Content feature. Each message Braze sends to Overstock’s consumers first makes a series of API calls to Overstock to include personalized content. This means that each day, Braze makes tens of millions of API calls to Overstock.
+To support that volume at scale, Braze relies on Auto Scaling Groups and AWS Lambda to elastically scale its sending services to achieve high messaging throughput.
+At Braze, we measure scale with speed. No time is this more apparent than on Black Friday, the kick-off to the holiday selling season and critical moment for retail brands like Overstock. On Black Friday in 2019, we sent 561 million emails, 1.4 billion push notifications, and 54.7 million in-app messages while maintaining 100 percent uptime for all of our customers.
+BlaBlaCar: Testing What’s in a Name
+Thankfully, data and testing have long replaced gut intuition and luck. For BlaBlaCar, a carpooling app that operates in 22 countries with 87 million members, the ability to test marketing hypotheses at scale has made a huge impact.
+The Campaign
+BlaBlaCar used Canvas, our customer journey tool, to test if customers were more likely to open emails sent from a real person’s name, and if different types of names resonated more depending on the country.
+Canvas’s drag-and-drop interface enabled BlaBlaCar to build a sophisticated, dynamic campaign with personalized messages across channels, including testing flows at market levels in France and Russia. BlaBlaCar tested perceived masculine names vs. feminine names, as well as a common first name vs. rare name in a given country.
+With Braze Canvas, BlaBlaCar discovered that sending emails from the first names of real people boosted open rates by more than 20 percent in all markets.
+The Technology
+Built with dozens of Redis databases running on Amazon Elastic Compute Cloud (Amazon EC2), Braze Canvas benefits customers through its speed of execution. Similar to the Overstock campaign, this multivariate test required a huge amount of computing power.
+Additionally, BlaBlaCar is hosted on eu-central-1, the AWS datacenter in Frankfurt, Germany. That means 100 percent of BlaBlaCar’s data is stored, processed, and acted on in the European Union. Braze is a global organization built on datacenters all around the world.
+Braze is GDPR-compliant, but beyond that we pride ourselves on being ahead of the curve when it comes to privacy and security. Privacy is good for everybody, and we thoroughly believe raising the bar helps create the safer data world in which we all want to live.
+With our commitment to privacy and sophisticated products like Canvas, Braze enables brands to build dynamic experiences that put the consumer first.
+Summary
+The best consumer experiences are personal, relevant, and happen the moment they’re wanted. Braze is committed to helping our customers create innovative and engaging campaigns that may not have been possible in the past.
+Braze chose AWS in order to architect a data-streaming ecosystem that ensures our customers can reliably build and scale those kinds of memorable experiences, now and in the future, wherever there consumers are found.
+To learn more about how today’s brands achieve success in today’s always-on, mobile-first world, check out our series on creating a vertical stack built on streaming data.
+The content and opinions in this blog are those of the third party author and AWS is not responsible for the content or accuracy of this post.
+Braze – APN Partner Spotlight
+Braze is an AWS Competency Partner that provides brands with built-for-purpose customer engagement capabilities. The Braze platform makes messages feel more like conversations between you and your customers across channels such as push notifications, email, in-app messages, and more..
+Contact Braze | Solution Overview
+*Already worked with Braze? Rate this Partner
+*To review an APN Partner, you must be an AWS customer that has worked with them directly on a project.

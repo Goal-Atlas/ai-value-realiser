@@ -1,0 +1,31 @@
+- Partners›
+- Case Studies
+Holcim Safely Delivers Time-Sensitive Materials 7 Minutes Faster with AWS and HERE
+Holcim engaged AWS Partner HERE to support faster concrete delivery with real-time smart navigation built on robust location intelligence.
+Benefits
+Overview
+Holcim, a global leader in innovative and sustainable building solutions, wanted to reduce concrete delivery times to minimize wastage in line with its focus on sustainability. It engaged AWS Partner HERE Technologies to support time-sensitive deliveries with real-time smart navigation built on robust location services.
+Using HERE solutions on Amazon Web Services (AWS), Holcim has benefited from global availability and resilience, saving over 800,000 hours across 200,000 job sites and delivering 6.4 million loads of concrete on time.
+Opportunity
+Decarbonizing Construction for a Sustainable Future
+Holcim delivers hundreds of millions of tons of concrete to construction projects globally. With a strong commitment to sustainability, the company recognized that it needed to address its delivery processes to meet its sustainability goals. Holcim’s 2050 net-zero target includes reducing downstream transportation emissions by 24 percent by 2030 by optimizing routes and loads.
+Delivery is challenging for a time-sensitive product like concrete, with a shelf life of 90 minutes—even a minute over that can ruin an otherwise good load. Additionally, concrete trucks are vulnerable to routing restrictions because they are heavy. Delays too, need to be built into route planning, and pinpointing the exact delivery spot at a construction site is essential to avoid a time lag. When you add in Holcim’s presence in about 60 countries, the complexity of delivery planning skyrockets.
+Philipp Leutiger, chief digital officer at Holcim, summed it up, “Being on time within minutes is a key ingredient for efficient and sustainable construction of the future. At Holcim, we spend billions of dollars on logistics every year, transporting hundreds of million tons of product to construction sites. Understanding roads, road traffic, and navigation is a key element to making our operations more sustainable and efficient.”
+Solution
+AWS Partner HERE Provides Smart Routing and Navigation with Real-Time Visibility
+The Holcim Digital Development team developed the Holcim ConcreteDirect mobile app, powered by HERE’s location technology and Amazon Web Services (AWS). ConcreteDirect relies on a portfolio of managed AWS services—including Amazon Elastic Compute Cloud (Amazon EC2), Amazon Simple Storage Service (Amazon S3), Amazon RDS PostgreSQL, Amazon ElasticCache for Redis, Elastic Load Balancing (ELB) and Amazon Managed Streaming for Apache Kafka (Amazon MSK)—for its delivery platform.
+The Holcim team was easily able to integrate location data and services in the ConcreteDirect app to digitize the customer experience. From reducing the use of paper order slips, to ensuring safe, touchless deliveries during the COVID-19 pandemic, the app ensured that Holcim continued to support essential construction activity safely and sustainably across the world.
+ConcreteDirect has addressed both the perishable nature of concrete and Holcim’s sustainability commitment by leveraging real-time process visibility and direct, transparent two-way communication with customers. The customer has clear visibility and a direct communication channel for every phase of their order fulfilment—from booking to tracking the real-time status of a delivery truck. The app has streamlined last-mile delivery and advanced sustainability by replacing seven copies of paper tickets with electronic ones. These are automatically generated and emailed to the customer once the delivery truck leaves the gates.
+The collaboration between HERE and AWS has also opened a path to innovation for Holcim, shifting its perspective from a purely product-oriented organization to one that is invested in process innovation. Leutiger elaborated, “With HERE, we have a partner on board who’s able to provide mapping and navigation services across our global footprint, and with AWS, we have the technology components that we need to shift our entire business to the data-driven cloud, allowing us to realize the innovation roadmap we set for ourselves.”
+Outcome
+Holcim Achieved Safer, On-Time Deliveries to Deliver a Better Future
+The richness of HERE’s portfolio has helped Holcim develop an innovative and sustainable delivery process. Leutiger expanded, “Serving our customers’ needs and adhering to service levels has always been central to Holcim, but now, through our partnership with HERE and our ConcreteDirect platform, we’ve been able to take our business-related data and the operating decisions to a whole new level of granularity, which allows us to further improve the way we serve our customers every day.”
+The digitization was particularly useful at the height of the COVID-19 pandemic. The app kept construction activity going with nearly 500,000 touchless customer deliveries between March and October 2020 without compromising the need for social distancing.
+And overall, Holcim continues to improve its operations with the app. Holcim has already saved over 800,000 hours across 200,000 job sites. With 6.4 million loads delivered globally, and a 7-minute cut in delivery time, Holcim is delivering stellar customer service while paving the way for a cleaner future.
+About Holcim
+Holcim is a global leader in innovative and sustainable construction solutions. Driven by its purpose to build progress for people and the planet, its 60,000 employees are on a mission to decarbonize building, while improving living standards for all. The company empowers its customers across all regions to build better with less, with its broad range of low-carbon and circular solutions, from ECOPact to ECOPlanet. With sustainability at the core of its strategy, Holcim is becoming a net-zero company with 1.5°C targets validated by the Science Based Targets initiative (SBTi).
+Being on time within minutes is a key ingredient for efficient and sustainable construction of the future.
+Philip Leutiger
+Chief Digital Officer, HolcimAWS Services Used
+Did you find what you were looking for today?
+Let us know so we can improve the quality of the content on our pages

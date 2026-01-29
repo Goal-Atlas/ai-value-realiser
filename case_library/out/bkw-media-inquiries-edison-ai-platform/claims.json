@@ -1,0 +1,325 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "8% staff adoption within two months of Edison platform rollout",
+      "claim_description": "Within two months of deploying the Edison AI platform, 8% of BKW staff were actively using the system, establishing a foundation for ongoing AI expansion.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Within two months of roll-out, 8% of staff were already actively using Edison, so a foundation has been laid for the ongoing expansion of AI, with more than 40 potential use cases documented.",
+      "quote_location": "S1",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The Edison platform directly enabled staff adoption through its AI-powered semantic search and generative AI capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "8",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "50% faster processing of media inquiries",
+      "claim_description": "The Edison platform enabled BKW to process media inquiries 50% faster by leveraging Azure AI Foundry and Azure OpenAI services for internal data access.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services, to securely and effectively tap into internal data. Within two months of its roll-out, 8% of staff were actively using Edison, media inquiries were processed 50% faster, and more than 40 use cases were documented.",
+      "quote_location": "S2, Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 50% speed improvement is directly attributed to the Edison platform's AI capabilities for accessing and analyzing internal data.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "40+ potential AI use cases documented",
+      "claim_description": "Within two months of Edison platform deployment, BKW documented more than 40 potential use cases, demonstrating scalability and expansion opportunities for AI.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Within two months of roll-out, 8% of staff were already actively using Edison, so a foundation has been laid for the ongoing expansion of AI, with more than 40 potential use cases documented.",
+      "quote_location": "S1",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The Edison platform's successful initial deployment directly led to identification of additional use cases across the organization.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Secure and scalable AI embedding across organization",
+      "claim_description": "BKW successfully embedded AI systematically using the Edison platform built on Azure, enabling secure access to internal data and responsible staff introduction to AI technologies.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BKW was looking for a secure, scalable solution to embed AI systematically, tap effectively into internal data and responsibly introduce staff to new technologies.",
+      "quote_location": "S1",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The Edison platform directly provided the secure, scalable infrastructure needed for systematic AI embedding.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "BKW operates in energy and resources sector",
+      "claim_description": "BKW is an energy company, as evidenced by its inclusion in the Energy and resources section of Microsoft customer stories.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Energy and resources - BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "temporal",
+      "claim_title": "Edison platform rollout completed within two-month timeframe",
+      "claim_description": "The Edison platform was rolled out and achieved measurable adoption and impact within a two-month period.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Within two months of roll-out, 8% of staff were already actively using Edison",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "products_services",
+      "claim_title": "Edison platform combines semantic search with Generative AI",
+      "claim_description": "The Edison platform is built on Microsoft Azure, combining semantic search functionality with Generative AI to analyze internal content in context.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The Edison platform was based on Microsoft Azure, combining semantic search functionality with Generative AI and analyzing internal content in context while new areas of application are being added all the time.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "BKW sought secure, scalable AI solution for systematic embedding",
+      "claim_description": "BKW's strategic intent was to find a secure, scalable solution to embed AI systematically, access internal data effectively, and responsibly introduce staff to new technologies.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BKW was looking for a secure, scalable solution to embed AI systematically, tap effectively into internal data and responsibly introduce staff to new technologies.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "Edison platform supports media inquiry processing function",
+      "claim_description": "The Edison platform is used to process media inquiries, a function related to public relations and communications.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "media inquiries were processed 50% faster",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11.0",
+      "apqc_name": "Manage External Relationships",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "BKW has sufficient staff size for 8% to represent meaningful adoption",
+      "claim_description": "BKW is an organization of sufficient size where 8% staff adoption represents a significant number of users for the Edison platform.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Within two months of roll-out, 8% of staff were already actively using Edison",
+      "verification_status": "inferred",
+      "verification_confidence": "medium",
+      "inferred_from": "The mention of 8% staff adoption suggests a medium to large organization where this percentage represents meaningful scale.",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

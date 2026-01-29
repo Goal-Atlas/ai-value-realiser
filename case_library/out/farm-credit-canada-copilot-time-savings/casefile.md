@@ -1,0 +1,1029 @@
+---
+case_id: farm-credit-canada-copilot-time-savings
+organisation: Farm Credit Canada
+title: Copilot Time Savings
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-succe...
+  url: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Brisbane Catholic Education saves 9.3 hours per week per educator with
+    Copilot
+  claim_description: Educators using Microsoft 365 Copilot and Copilot Studio to develop
+    a generative AI tool for integrating Catholic traditions into classrooms reported
+    saving an average of 9.3 hours per week.
+  source_ids:
+  - S1
+  source_quote: Brisbane Catholic Education equips Microsoft 365 Copilot and utilizes
+    Microsoft Copilot Studio to develop a generative AI tool that helps integrate
+    Catholic traditions and values into the classroom. Educators reported saving an
+    average of 9.3 hours per week.
+  quote_location: Education section
+  ai_attribution: direct
+  attribution_evidence: The time savings are directly attributed to using Microsoft
+    365 Copilot and Copilot Studio for developing the generative AI tool.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '9.3'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: EchoStar Hughes projects 35,000 work hours saved with Azure AI
+  claim_description: EchoStar Hughes leveraged Azure AI Foundry to create 12 production
+    apps for sales auditing, customer retention, and field services automation, projected
+    to save 35,000 work hours.
+  source_ids:
+  - S1
+  source_quote: EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create
+    12 new production apps, including automated sales call auditing, customer retention
+    analysis, and field services process automation. These solutions are projected
+    to save 35,000 work hours and boost productivity by at least 25%.
+  quote_location: Cable and satellite section
+  ai_attribution: direct
+  attribution_evidence: The work hour savings are directly attributed to the 12 production
+    apps created using Azure AI Foundry.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw:
+    value: '35000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: EchoStar Hughes projects 25% productivity boost with Azure AI
+  claim_description: EchoStar Hughes' 12 production apps built with Azure AI Foundry
+    are projected to boost productivity by at least 25%.
+  source_ids:
+  - S1
+  source_quote: EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create
+    12 new production apps, including automated sales call auditing, customer retention
+    analysis, and field services process automation. These solutions are projected
+    to save 35,000 work hours and boost productivity by at least 25%.
+  quote_location: Cable and satellite section
+  ai_attribution: direct
+  attribution_evidence: The productivity boost is directly attributed to the Azure
+    AI Foundry-powered production apps.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw:
+    value: '25'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: BKW processes media inquiries 50% faster with Azure AI platform
+  claim_description: BKW developed Edison platform using Azure AI services. Within
+    two months, media inquiries were processed 50% faster with 8% of staff actively
+    using the platform.
+  source_ids:
+  - S1
+  source_quote: BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry,
+    and Azure OpenAI services, to securely and effectively tap into internal data.
+    Within two months of its roll-out, 8% of staff were actively using Edison, media
+    inquiries were processed 50% faster, and more than 40 use cases were documented.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 50% faster processing of media inquiries is directly attributed
+    to the Edison platform built with Azure AI services.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: BKW achieves 8% staff adoption of Edison AI platform within two months
+  claim_description: Within two months of Edison platform roll-out, 8% of BKW staff
+    were actively using the Azure AI-powered platform for accessing internal data.
+  source_ids:
+  - S1
+  source_quote: BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry,
+    and Azure OpenAI services, to securely and effectively tap into internal data.
+    Within two months of its roll-out, 8% of staff were actively using Edison, media
+    inquiries were processed 50% faster, and more than 40 use cases were documented.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 8% adoption rate is directly attributed to the Edison
+    platform built with Azure AI technologies.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '8'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: HELLENiQ ENERGY achieves 70% productivity boost with Copilot
+  claim_description: HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365
+    Copilot and Copilot Studio, boosting productivity by 70%.
+  source_ids:
+  - S1
+  source_quote: HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot
+    and Copilot Studio to boost its productivity by 70% and reduced email processing
+    time by 64%.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 70% productivity boost is directly attributed to the introduction
+    of Microsoft 365 Copilot and Copilot Studio.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '70'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: HELLENiQ ENERGY reduces email processing time by 64% with Copilot
+  claim_description: HELLENiQ ENERGY reduced email processing time by 64% after introducing
+    Microsoft 365 Copilot and Copilot Studio.
+  source_ids:
+  - S1
+  source_quote: HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot
+    and Copilot Studio to boost its productivity by 70% and reduced email processing
+    time by 64%.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 64% reduction in email processing time is directly attributed
+    to Microsoft 365 Copilot and Copilot Studio.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '64'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Ma'aden saves 2,200 hours monthly with Microsoft 365 Copilot
+  claim_description: Ma'aden used Microsoft 365 Copilot to enhance productivity, saving
+    up to 2,200 hours monthly through more efficient email drafting, document creation,
+    and data analysis.
+  source_ids:
+  - S1
+  source_quote: Ma'aden used Microsoft 365 Copilot to enhance productivity, saving
+    up to 2,200 hours monthly. Tasks like drafting emails, creating documents, and
+    analyzing data become more efficient, helping Ma'aden achieve its growth goals.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 2,200 hours monthly savings are directly attributed to
+    using Microsoft 365 Copilot for various tasks.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '2200'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: MAIRE saves 800+ working hours monthly with Microsoft 365 Copilot
+  claim_description: MAIRE leveraged Microsoft 365 Copilot to automate routine tasks,
+    saving more than 800 working hours per month and freeing up engineers for strategic
+    activities.
+  source_ids:
+  - S1
+  source_quote: MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving
+    more than 800 working hours per month and freeing up engineers and professionals
+    for strategic activities. This supports MAIRE's green energy transition by reducing
+    its carbon footprint.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The 800+ working hours monthly savings are directly attributed
+    to Microsoft 365 Copilot automating routine tasks.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '800'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Tüpraş employees save more than an hour daily with Copilot
+  claim_description: Tüpraş implemented Microsoft 365 Copilot for AI-powered insights
+    and automation, estimating employees save more than an hour daily while also seeing
+    IT resource efficiency gains.
+  source_ids:
+  - S1
+  source_quote: Tüpraş prioritized Microsoft 365 Copilot for AI-powered insights and
+    automation, streamlining employees' daily tasks through enhanced functions in
+    collaboration and productivity applications. It estimates that employees save
+    more than an hour daily while also seeing IT resource efficiency gains.
+  quote_location: Energy and resources section
+  ai_attribution: direct
+  attribution_evidence: The daily hour savings per employee are directly attributed
+    to Microsoft 365 Copilot streamlining daily tasks.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '1'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-011
+  claim_title: Access Holdings reduces code writing time from 8 to 2 hours with Copilot
+  claim_description: Access Holdings Plc adopted Microsoft 365 Copilot, resulting
+    in code writing taking two hours instead of eight.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools. As a result, writing code now takes two hours instead of
+    eight, chatbots launch in 10 days instead of three months, and presentations are
+    prepared in 45 minutes instead of six hours.
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The reduction in code writing time from 8 to 2 hours is directly
+    attributed to Microsoft 365 Copilot.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '75'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-012
+  claim_title: Access Holdings reduces chatbot launch time from 3 months to 10 days
+  claim_description: Access Holdings Plc reduced chatbot launch time from three months
+    to 10 days after adopting Microsoft 365 Copilot.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools. As a result, writing code now takes two hours instead of
+    eight, chatbots launch in 10 days instead of three months, and presentations are
+    prepared in 45 minutes instead of six hours.
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The reduction in chatbot launch time from 3 months to 10 days
+    is directly attributed to Microsoft 365 Copilot.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '89'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-013
+  claim_title: Access Holdings reduces presentation prep time from 6 hours to 45 minutes
+  claim_description: Access Holdings Plc reduced presentation preparation time from
+    six hours to 45 minutes using Microsoft 365 Copilot.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools. As a result, writing code now takes two hours instead of
+    eight, chatbots launch in 10 days instead of three months, and presentations are
+    prepared in 45 minutes instead of six hours.
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The reduction in presentation preparation time from 6 hours
+    to 45 minutes is directly attributed to Microsoft 365 Copilot.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '87.5'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-014
+  claim_title: Allpay increases developer productivity by 10% with GitHub Copilot
+  claim_description: Allpay uses GitHub Copilot to help engineers write code faster,
+    increasing productivity by 10%.
+  source_ids:
+  - S1
+  source_quote: Allpay uses GitHub Copilot to help engineers and developers write
+    code faster and with less effort, increasing productivity by 10% and delivery
+    volume into production by 25%.
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The 10% productivity increase is directly attributed to GitHub
+    Copilot helping engineers write code faster.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '10'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-015
+  claim_title: Allpay increases delivery volume to production by 25% with GitHub Copilot
+  claim_description: Allpay increased delivery volume into production by 25% using
+    GitHub Copilot for faster code development.
+  source_ids:
+  - S1
+  source_quote: Allpay uses GitHub Copilot to help engineers and developers write
+    code faster and with less effort, increasing productivity by 10% and delivery
+    volume into production by 25%.
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The 25% increase in delivery volume is directly attributed
+    to GitHub Copilot enabling faster code writing.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '25'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: sectoral
+  claim_title: Brisbane Catholic Education operates in K-20 education sector
+  claim_description: Brisbane Catholic Education is an educational organization serving
+    K-20 education.
+  source_ids:
+  - S1
+  source_quote: Brisbane Catholic Education equips Microsoft 365 Copilot and utilizes
+    Microsoft Copilot Studio to develop a generative AI tool that helps integrate
+    Catholic traditions and values into the classroom.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: EchoStar Hughes operates in cable and satellite industry
+  claim_description: EchoStar Hughes division operates in the cable and satellite
+    telecommunications sector.
+  source_ids:
+  - S1
+  source_quote: EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create
+    12 new production apps, including automated sales call auditing, customer retention
+    analysis, and field services process automation.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: sectoral
+  claim_title: BKW operates in energy and resources sector
+  claim_description: BKW is an energy and resources company.
+  source_ids:
+  - S1
+  source_quote: BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry,
+    and Azure OpenAI services, to securely and effectively tap into internal data.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: sectoral
+  claim_title: HELLENiQ ENERGY operates in energy sector
+  claim_description: HELLENiQ ENERGY is an energy sector company.
+  source_ids:
+  - S1
+  source_quote: HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot
+    and Copilot Studio to boost its productivity by 70% and reduced email processing
+    time by 64%.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: sectoral
+  claim_title: Ma'aden operates in mining and resources sector
+  claim_description: Ma'aden is a mining and resources company.
+  source_ids:
+  - S1
+  source_quote: Ma'aden used Microsoft 365 Copilot to enhance productivity, saving
+    up to 2,200 hours monthly.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: sectoral
+  claim_title: MAIRE operates in engineering and energy transition sector
+  claim_description: MAIRE is an engineering company supporting green energy transition.
+  source_ids:
+  - S1
+  source_quote: MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving
+    more than 800 working hours per month and freeing up engineers and professionals
+    for strategic activities. This supports MAIRE's green energy transition by reducing
+    its carbon footprint.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: sectoral
+  claim_title: Tüpraş operates in energy and petrochemical sector
+  claim_description: Tüpraş is an energy and petrochemical company.
+  source_ids:
+  - S1
+  source_quote: Tüpraş prioritized Microsoft 365 Copilot for AI-powered insights and
+    automation, streamlining employees' daily tasks through enhanced functions in
+    collaboration and productivity applications.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: sectoral
+  claim_title: Access Holdings Plc operates in financial services sector
+  claim_description: Access Holdings Plc is a financial services organization.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: sectoral
+  claim_title: Allpay operates in financial services sector
+  claim_description: Allpay is a financial services company.
+  source_ids:
+  - S1
+  source_quote: Allpay uses GitHub Copilot to help engineers and developers write
+    code faster and with less effort, increasing productivity by 10% and delivery
+    volume into production by 25%.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: temporal
+  claim_title: BKW Edison platform adoption measured within two months
+  claim_description: BKW measured Edison platform impact within two months of roll-out.
+  source_ids:
+  - S1
+  source_quote: Within two months of its roll-out, 8% of staff were actively using
+    Edison, media inquiries were processed 50% faster, and more than 40 use cases
+    were documented.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: strategic_intent
+  claim_title: MAIRE supports green energy transition with AI
+  claim_description: MAIRE uses AI to support its green energy transition strategy
+    by reducing carbon footprint and freeing engineers for strategic activities.
+  source_ids:
+  - S1
+  source_quote: MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving
+    more than 800 working hours per month and freeing up engineers and professionals
+    for strategic activities. This supports MAIRE's green energy transition by reducing
+    its carbon footprint.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: functional
+  claim_title: EchoStar Hughes applies AI to sales and customer service functions
+  claim_description: EchoStar Hughes uses AI for automated sales call auditing, customer
+    retention analysis, and field services process automation.
+  source_ids:
+  - S1
+  source_quote: EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create
+    12 new production apps, including automated sales call auditing, customer retention
+    analysis, and field services process automation.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '6.0'
+  apqc_name: Develop and Manage Sales
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: functional
+  claim_title: Brisbane Catholic Education applies AI to teaching and curriculum development
+  claim_description: Brisbane Catholic Education uses AI to help integrate Catholic
+    traditions and values into classroom teaching.
+  source_ids:
+  - S1
+  source_quote: Brisbane Catholic Education equips Microsoft 365 Copilot and utilizes
+    Microsoft Copilot Studio to develop a generative AI tool that helps integrate
+    Catholic traditions and values into the classroom.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '11.0'
+  apqc_name: Manage Human Capital
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 15
+    verified: 15
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 15
+  context_claims:
+    total: 13
+    verified: 13
+    unverified: 0
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: true
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Copilot Time Savings
+
+## Executive Summary
+
+Farm Credit Canada: Brisbane Catholic Education saves 9.3 hours per week per educator with Copilot.
+
+## Key Findings
+
+- **Brisbane Catholic Education saves 9.3 hours per week per educator with Copilot** — verified (outcome)
+  - Quote: "Brisbane Catholic Education equips Microsoft 365 Copilot and utilizes Microsoft Copilot Studio to develop a generative AI tool that helps integrate Catholic traditions and values into the classroom. E..."
+
+- **EchoStar Hughes projects 35,000 work hours saved with Azure AI** — verified (outcome)
+  - Quote: "EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create 12 new production apps, including automated sales call auditing, customer retention analysis, and field services process automat..."
+
+- **EchoStar Hughes projects 25% productivity boost with Azure AI** — verified (outcome)
+  - Quote: "EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create 12 new production apps, including automated sales call auditing, customer retention analysis, and field services process automat..."
+
+- **BKW processes media inquiries 50% faster with Azure AI platform** — verified (outcome)
+  - Quote: "BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services, to securely and effectively tap into internal data. Within two months of its roll-out, 8% of staff ..."
+
+- **BKW achieves 8% staff adoption of Edison AI platform within two months** — verified (adoption)
+  - Quote: "BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services, to securely and effectively tap into internal data. Within two months of its roll-out, 8% of staff ..."
+
+- **HELLENiQ ENERGY achieves 70% productivity boost with Copilot** — verified (outcome)
+  - Quote: "HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot and Copilot Studio to boost its productivity by 70% and reduced email processing time by 64%."
+
+- **HELLENiQ ENERGY reduces email processing time by 64% with Copilot** — verified (outcome)
+  - Quote: "HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot and Copilot Studio to boost its productivity by 70% and reduced email processing time by 64%."
+
+- **Ma'aden saves 2,200 hours monthly with Microsoft 365 Copilot** — verified (outcome)
+  - Quote: "Ma'aden used Microsoft 365 Copilot to enhance productivity, saving up to 2,200 hours monthly. Tasks like drafting emails, creating documents, and analyzing data become more efficient, helping Ma'aden ..."
+
+- **MAIRE saves 800+ working hours monthly with Microsoft 365 Copilot** — verified (outcome)
+  - Quote: "MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving more than 800 working hours per month and freeing up engineers and professionals for strategic activities. This supports MAIRE's..."
+
+- **Tüpraş employees save more than an hour daily with Copilot** — verified (outcome)
+  - Quote: "Tüpraş prioritized Microsoft 365 Copilot for AI-powered insights and automation, streamlining employees' daily tasks through enhanced functions in collaboration and productivity applications. It estim..."
+
+- **Access Holdings reduces code writing time from 8 to 2 hours with Copilot** — verified (outcome)
+  - Quote: "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result, writing code now takes two hours instead of eight, chatbots launch in 10 days instead of thr..."
+
+- **Access Holdings reduces chatbot launch time from 3 months to 10 days** — verified (outcome)
+  - Quote: "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result, writing code now takes two hours instead of eight, chatbots launch in 10 days instead of thr..."
+
+- **Access Holdings reduces presentation prep time from 6 hours to 45 minutes** — verified (outcome)
+  - Quote: "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result, writing code now takes two hours instead of eight, chatbots launch in 10 days instead of thr..."
+
+- **Allpay increases developer productivity by 10% with GitHub Copilot** — verified (outcome)
+  - Quote: "Allpay uses GitHub Copilot to help engineers and developers write code faster and with less effort, increasing productivity by 10% and delivery volume into production by 25%."
+
+- **Allpay increases delivery volume to production by 25% with GitHub Copilot** — verified (outcome)
+  - Quote: "Allpay uses GitHub Copilot to help engineers and developers write code faster and with less effort, increasing productivity by 10% and delivery volume into production by 25%."
+
+## Sources
+
+- **S1**: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/

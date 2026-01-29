@@ -1,0 +1,6 @@
+Nestlé, LVMH, L’Oréal Ramp Up Content Creation With AI-Powered Digital Twins
+Consumer Goods’ AI Marketing Push
+Luxury goods company LVMH will also incorporate AI into its content production processes, starting with its wine and spirits division, Moët Hennessy.
+LVMH partnered with content configuration company Grip to develop the technology within NVIDIA’s Omniverse platform, enabling rapid creation of scalable digital marketing assets and experiences.
+Additionally, the partnership with NVIDIA is not only supporting L’Oréal’s investment in AI-powered startup Noli, but it will also help transform its own marketing and advertising content pipelines by using 3D product renderings within its content creation lab CREAITECH. This will allow L’Oréal marketers to generate thousands of unique, on-brand images, videos and text assets for social media, e-commerce content and influencer marketing.
+“AI doesn’t think with the same constraints as a human being. That opens new avenues for creativity,” said Anne Machet, global head of content and entertainment at L’Oréal, in an NVIDIA blog. “Generative AI enables our teams and partner agencies to explore creative possibilities.”

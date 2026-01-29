@@ -1,0 +1,16 @@
+Red Sofa interview | John Torres on how Mercedes-Benz uses data quality to drive AI-powered efficiency
+John Torres took to the Red Sofa at ALSC Digital Strategies Europe to discuss how Mercedes-Benz prioritises data quality as a strategic necessity rather than a supplementary function. By monitoring real-time metrics such as data completeness, transparency, and analysis, the organisation ensures that its processes are precise and aligned with business objectives. This foundational step underpins the integration of AI and analytics across the company’s operations.
+Related video
+-
+Red Sofa | How Schaeffler is driving AI in supply chain digitalisation
+-
+Red Sofa | VW’s Peter Hörndlein on flexible green vehicle logistics
+-
+Red Sofa | GKN’s Chris Payne on data, trust and logistics change
+-
+Red Sofa | Nadine Philipp on decarbonising BMW’s supply chain
+-
+ALSC Europe 2025: Conference Day 2 wrap-up
+Torres said that data quality directly impacts logistics efficiency and customer trust. A robust cross-sectional data strategy not only accelerates logistics processes but also ensures transparency and reliability in vehicle delivery, he said. For customers, this translates into seamless online purchases and confidence that delivery commitments align with reality.
+Data integration benefits extend beyond customer-facing solutions. It optimises production workflows by identifying inefficiencies and enabling data-driven decision-making. This approach allows the company to refine operations and allocate resources more effectively, creating a ripple effect of efficiency throughout the supply chain.
+By embedding data quality and AI solutions into its core strategy, Mercedes-Benz is setting a new benchmark for automotive logistics. The focus on leveraging technology for operational improvements positions the company to adapt to emerging challenges while delivering exceptional customer experiences.

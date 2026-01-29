@@ -1,0 +1,16 @@
+Internet Banking Case Study: Banco do Brasil
+Notes from the RSA Conference - Day 1Welcome to Brazil, whose online banking services and lessons-learned were presented to attendees at the RSA Conference on Tuesday.
+According to Maria Aarao of security vendor Certisign Certificadora Digital, Brazilian banks benefit from a country where Internet usage is high and the government actively supports electronic services - and security. Brazilians vote and pay their income taxes online, and the Internet banking marketplace has existed since 1995. Among the most common services used by commercial and consumer customers today:
+Mobile banking is also a thriving industry, Aarao says, as is ATM usage, where biometrical security is one of the growing authentication methods.
+Among Brazil's top banks, is Banco do Brasil, a 200-year-old bank with $200 billion in assets under management. According to Francimara Viotti, one of Banco do Brasil's top security executives, the bank currently has 6 million Internet banking customers, and 90.7 of the bank's total transactions are conducted electronically - either via the Internet, mobile device or ATM.
+Of course, the bank isn't immune to the security threats that plague all institutions. Since 2002, Banco do Brasil has actively fought phishing, pharming, Trojans and key-loggers, responding with an aggressive incident response team and a client-based browser defense application.
+Listen to our related podcast on Internet Banking and more from the RSA Conference: RSA Day One Podcast
+Viotti sees Internet banking threats growing and evolving, pushing her team to develop new browser-based and biometric security measures. The challenge, she says, is to increase security measures while minimizing the number of devices and activities in the hands of banking customers, who want a simple online banking experience.
+As for lessons learned, Viotti reports one that should be familiar to all banking/security leaders. "User education needs to be improved."
+The Psychology of Social Engineering
+No one is invulnerable to social engineering.
+This was the main point stressed by John O'Leary of O'Leary Management Education in his presentation "Psychology of Social Engineering" at the RSA Conference on Tuesday.
+Through flattery, confidence, name-dropping, intimidation and just sheer perseverance, social engineers will whittle away at human nature until they gain access to the systems and information they crave, O'Leary says. "Social engineers don't need a high response rate," he says. "One works."
+Among the warning signs of a potential social engineer:
+Constant vigilance and quick response are among the best defenses against social engineering, O'Leary says, underscoring the need for managers to use social engineering exercises to hammer home to their employees one core tenet: Stick to the policy - don't deviate for anybody, no matter what they say.
+Among the do's and don'ts O'Leary offers:

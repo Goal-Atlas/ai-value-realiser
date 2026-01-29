@@ -1,0 +1,866 @@
+---
+case_id: ramp-scaled-finance-automation-platform-to-unicorn-status-using-serverless-ai-architecture
+organisation: Ramp
+title: Finance Automation Platform Scaling
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://fintechmagazine.com/news/more-funding-helping-ramp-pick-up-pace
+  url: https://fintechmagazine.com/news/more-funding-helping-ramp-pick-up-pace
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://news.crunchbase.com/fintech/ramp-jolt-ai-acquisition-fintech-ai-ma/
+  url: https://news.crunchbase.com/fintech/ramp-jolt-ai-acquisition-fintech-ai-ma/
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.paymentsdive.com/news/ramp-raises-500m-to-rush-ai/756360/
+  url: https://www.paymentsdive.com/news/ramp-raises-500m-to-rush-ai/756360/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://ramp.com/blog/ai
+  url: https://ramp.com/blog/ai
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://stripe.com/gb/customers/ramp
+  url: https://stripe.com/gb/customers/ramp
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Ramp achieved $22.5 billion valuation through AI-powered finance automation
+  claim_description: Ramp reached a $22.5 billion valuation after raising $700 million
+    in funding to accelerate AI investments in corporate finance automation, positioning
+    itself as a leader in agentic AI for finance operations.
+  source_ids:
+  - S3
+  source_quote: The fresh funding gave Ramp a $22.5 billion valuation.
+  quote_location: paragraph 2
+  ai_attribution: direct
+  attribution_evidence: The valuation is directly tied to AI investments, with CEO
+    stating the raise is to accelerate AI adoption and the company releasing AI-powered
+    autonomous finance agents.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - innovation
+  outcome:
+  - business_growth
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '22.5'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Ramp customers reduce expenses by 3.5% annually using AI-powered platform
+  claim_description: Companies using Ramp's integrated expense management and accounting
+    automation solution achieve an average 3.5% reduction in annual expenses through
+    automated spend optimization and control.
+  source_ids:
+  - S5
+  source_quote: Our service helps the average company cut their expenses by 3.5% per
+    year
+  quote_location: Results section
+  ai_attribution: contributing
+  attribution_evidence: While the platform includes AI capabilities, the 3.5% savings
+    result from the integrated solution including expense management, bill payments,
+    and accounting automation.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - cost_reduction
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '3.5'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Ramp accelerates month-end close processes by 8 days using automation
+  claim_description: Ramp's automated accounting and expense management solution speeds
+    up financial closing and consolidation processes by 8 days per month for average
+    customers.
+  source_ids:
+  - S5
+  source_quote: speed up month-end close processes by 8 days each month
+  quote_location: Results section
+  ai_attribution: contributing
+  attribution_evidence: The acceleration is achieved through accounting automation
+    and streamlined processes, which include AI capabilities as part of the integrated
+    platform.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: '8'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: 1,000+ finance teams reclaim 4-5 hours weekly using Ramp Policy Agent
+  claim_description: Over 1,000 finance teams using Ramp's AI Policy Agent automate
+    expense reviews, saving 4-5 hours per week previously spent on manual review processes.
+  source_ids:
+  - S4
+  source_quote: More than 1,000 finance teams now use the Ramp Policy Agent, reclaiming
+    4-5 hours per week from manual reviews
+  quote_location: Article summary
+  ai_attribution: direct
+  attribution_evidence: The time savings are explicitly attributed to the AI Policy
+    Agent automating expense reviews that were previously manual.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw:
+    value: 4-5
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Ramp Policy Agent catches 7x more out-of-policy spend than manual reviews
+  claim_description: The AI-powered Policy Agent identifies seven times more policy
+    violations and out-of-policy spending compared to traditional manual expense review
+    processes.
+  source_ids:
+  - S4
+  source_quote: catching 7x more out-of-policy spend
+  quote_location: Article summary
+  ai_attribution: direct
+  attribution_evidence: The improved detection is directly attributed to the AI Policy
+    Agent's capabilities versus manual review methods.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: predictive
+  metric_raw:
+    value: '7'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: 1,000+ teams adopted Ramp's AI Policy Agent for expense automation
+  claim_description: More than 1,000 finance teams have adopted Ramp's AI Policy Agent
+    to automate expense review processes, demonstrating significant market adoption
+    of the AI capability.
+  source_ids:
+  - S4
+  source_quote: More than 1,000 finance teams now use the Ramp Policy Agent
+  quote_location: Article summary
+  ai_attribution: direct
+  attribution_evidence: The adoption metric specifically refers to the AI Policy Agent,
+    a direct AI capability.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - business_growth
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '1000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Ramp reduces manual expense approval process from 14 minutes to automated
+  claim_description: AI agents eliminate the traditional 14-minute, $20 manual approval
+    process for individual expenses, automating busywork across thousands of monthly
+    transactions.
+  source_ids:
+  - S3
+  source_quote: The manual process requires 14 minutes and $20 of human intervention
+    cost for questions, approvals, audits and coding of the coffee expense.
+  quote_location: paragraph 12
+  ai_attribution: direct
+  attribution_evidence: CEO explicitly describes AI agents assuming the busywork of
+    finance functions, eliminating the manual 14-minute process.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '14'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Ramp raised $1.9 billion in venture funding since 2019
+  claim_description: Ramp secured $1.9 billion in total venture funding since its
+    2019 establishment, with $700 million raised in two months specifically for AI
+    investments in corporate finance automation.
+  source_ids:
+  - S3
+  source_quote: Ramp has raised $1.9 billion in venture funding since it was established
+    in 2019
+  quote_location: paragraph 8
+  ai_attribution: contributing
+  attribution_evidence: While total funding includes pre-AI investments, the recent
+    $700M was explicitly for AI capabilities, and investor statements cite AI leadership
+    as key to investment.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  outcome:
+  - business_growth
+  cognitive_depth: autonomous
+  metric_raw:
+    value: '1.9'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: Ramp processes billions of dollars in purchases annually on AI-powered
+    platform
+  claim_description: Ramp's platform, built on Stripe Issuing and enhanced with AI
+    capabilities, powers billions of dollars in corporate purchases each year across
+    over 100 countries.
+  source_ids:
+  - S5
+  source_quote: power billions of dollars of purchases each year
+  quote_location: Results section
+  ai_attribution: contributing
+  attribution_evidence: The platform includes AI-powered expense management and automation
+    capabilities that contribute to processing this transaction volume.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - business_growth
+  cognitive_depth: prescriptive
+  metric_raw:
+    value: billions
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Ramp AI agents enable real-world policy enforcement and fraud detection
+  claim_description: Ramp's autonomous AI agents, released in July, are built specifically
+    for real-world policy enforcement, fraud detection, and policy improvement in
+    corporate finance operations.
+  source_ids:
+  - S3
+  source_quote: The bots are built for real-world policy enforcement, fraud detection,
+    and policy improvement
+  quote_location: paragraph 6
+  ai_attribution: direct
+  attribution_evidence: The capabilities are explicitly described as built into AI-powered
+    autonomous finance agents.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  outcome:
+  - risk_avoidance
+  cognitive_depth: autonomous
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Ramp founded in 2019
+  claim_description: Ramp was established in 2019 as a corporate finance automation
+    startup.
+  source_ids:
+  - S3
+  source_quote: Ramp has raised $1.9 billion in venture funding since it was established
+    in 2019
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: temporal
+  claim_title: Ramp released first AI-powered autonomous finance agents in July 2024
+  claim_description: The company launched its initial AI-powered autonomous finance
+    agents in July, marking entry into agentic AI for finance.
+  source_ids:
+  - S3
+  source_quote: The company released its first AI-powered autonomous finance agents
+    in July.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: Ramp raised $700 million in less than two months for AI investments
+  claim_description: Ramp raised $200 million followed by $500 million within 45 days,
+    totaling $700 million specifically for AI acceleration.
+  source_ids:
+  - S3
+  source_quote: AI robots are coming for expense accounts – and fintech startup Ramp
+    has raised $700 million in less than two months to help speed the adoption of
+    automation tools in corporate finances.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: organisational
+  claim_title: Ramp headquartered in New York
+  claim_description: Ramp is based in New York City.
+  source_ids:
+  - S3
+  source_quote: New York-based Ramp
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: Eric Glyman is co-founder and CEO of Ramp
+  claim_description: Eric Glyman serves as co-founder and Chief Executive Officer
+    of Ramp.
+  source_ids:
+  - S3
+  source_quote: Ramp's co-founder and CEO, Eric Glyman
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: sectoral
+  claim_title: Ramp operates in fintech sector
+  claim_description: Ramp is a fintech startup focused on corporate finance automation
+    and expense management.
+  source_ids:
+  - S3
+  source_quote: fintech startup Ramp
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Ramp provides expense management capabilities
+  claim_description: Ramp offers corporate clients tools for expense management, including
+    corporate cards and spend analysis.
+  source_ids:
+  - S3
+  source_quote: offers corporate clients tools that handle tasks such as expense management,
+    accounting, travel and procurement along with corporate cards and software to
+    analyze and optimize corporate spending
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10404'
+  apqc_name: Manage travel and entertainment (T&E)
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: functional
+  claim_title: Ramp provides accounting automation
+  claim_description: Ramp offers accounting automation capabilities including month-end
+    close processes and financial consolidation.
+  source_ids:
+  - S5
+  source_quote: integrated expense management, bill payments, and accounting automation
+    solution
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10401'
+  apqc_name: Perform general accounting and reporting
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: functional
+  claim_title: Ramp provides procurement capabilities
+  claim_description: Ramp offers procurement tools and workflows for corporate purchasing
+    and vendor management.
+  source_ids:
+  - S3
+  source_quote: offers corporate clients tools that handle tasks such as expense management,
+    accounting, travel and procurement
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10440'
+  apqc_name: Manage procurement
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: strategic_intent
+  claim_title: Ramp aims to lead in agentic AI for finance
+  claim_description: Ramp's strategic intent is to lead the market in agentic AI and
+    set the standard for AI-powered finance operations.
+  source_ids:
+  - S3
+  source_quote: We believe Ramp is leading in agentic AI and setting the standard
+    for what AI-powered finance can look like in the coming years
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: products_services
+  claim_title: Ramp offers corporate card issuing services
+  claim_description: Ramp provides branded corporate purchasing cards with global
+    distribution capabilities across over 100 countries.
+  source_ids:
+  - S5
+  source_quote: we're able to ship custom-printed, high-quality metal cards with short
+    delivery timelines to over 100 countries
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: scale
+  claim_title: Ramp serves businesses of all sizes globally
+  claim_description: Ramp's platform serves corporate clients ranging from small businesses
+    to large enterprises across over 100 countries.
+  source_ids:
+  - S5
+  source_quote: Ramp wanted to give businesses of all sizes a better corporate card
+    experience
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: organisational
+  claim_title: Ramp competes with Airbase, BILL, and Brex
+  claim_description: Ramp's competitive landscape includes fintech companies Airbase,
+    BILL, and Brex in the corporate finance automation space.
+  source_ids:
+  - S3
+  source_quote: New York-based Ramp – like rivals that include Airbase, BILL and Brex
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: organisational
+  claim_title: Iconiq Capital led Ramp's $500M funding round
+  claim_description: Investment firm Iconiq Capital led Ramp's $500 million funding
+    round, with participation from GV, T. Rowe Price, and Emerson Collective.
+  source_ids:
+  - S3
+  source_quote: Investment firm Iconiq Capital led the funding round, along with the
+    firms that invested in June and seven new investors that included Emerson Collective...GV
+    (Google Ventures); and T. Rowe Price Associates.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: products_services
+  claim_title: Ramp built on Stripe Issuing infrastructure
+  claim_description: Ramp's card issuing and payment infrastructure is built on Stripe
+    Issuing platform.
+  source_ids:
+  - S5
+  source_quote: With Stripe Issuing, Ramp lets businesses quickly issue branded purchasing
+    cards across the globe
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 10
+    verified: 9
+    needs_review: 1
+    rejected: 0
+    by_attribution:
+      direct: 6
+      contributing: 4
+  context_claims:
+    total: 15
+    verified: 14
+    unverified: 1
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Finance Automation Platform Scaling
+
+## Executive Summary
+
+Ramp: Ramp achieved $22.5 billion valuation through AI-powered finance automation.
+
+## Key Findings
+
+- **Ramp achieved $22.5 billion valuation through AI-powered finance automation** — verified (outcome)
+  - Quote: "The fresh funding gave Ramp a $22.5 billion valuation."
+
+- **Ramp customers reduce expenses by 3.5% annually using AI-powered platform** — verified (outcome)
+  - Quote: "Our service helps the average company cut their expenses by 3.5% per year"
+
+- **Ramp accelerates month-end close processes by 8 days using automation** — verified (outcome)
+  - Quote: "speed up month-end close processes by 8 days each month"
+
+- **1,000+ finance teams reclaim 4-5 hours weekly using Ramp Policy Agent** — verified (outcome)
+  - Quote: "More than 1,000 finance teams now use the Ramp Policy Agent, reclaiming 4-5 hours per week from manual reviews"
+
+- **Ramp Policy Agent catches 7x more out-of-policy spend than manual reviews** — verified (outcome)
+  - Quote: "catching 7x more out-of-policy spend"
+
+- **1,000+ teams adopted Ramp's AI Policy Agent for expense automation** — verified (adoption)
+  - Quote: "More than 1,000 finance teams now use the Ramp Policy Agent"
+
+- **Ramp reduces manual expense approval process from 14 minutes to automated** — verified (outcome)
+  - Quote: "The manual process requires 14 minutes and $20 of human intervention cost for questions, approvals, audits and coding of the coffee expense."
+
+- **Ramp raised $1.9 billion in venture funding since 2019** — verified (outcome)
+  - Quote: "Ramp has raised $1.9 billion in venture funding since it was established in 2019"
+
+- **Ramp processes billions of dollars in purchases annually on AI-powered platform** — verified (outcome)
+  - Quote: "power billions of dollars of purchases each year"
+
+- **Ramp AI agents enable real-world policy enforcement and fraud detection** — needs_review (method)
+  - Quote: "The bots are built for real-world policy enforcement, fraud detection, and policy improvement"
+
+## Sources
+
+- **S1**: https://fintechmagazine.com/news/more-funding-helping-ramp-pick-up-pace
+- **S2**: https://news.crunchbase.com/fintech/ramp-jolt-ai-acquisition-fintech-ai-ma/
+- **S3**: https://www.paymentsdive.com/news/ramp-raises-500m-to-rush-ai/756360/
+- **S4**: https://ramp.com/blog/ai
+- **S5**: https://stripe.com/gb/customers/ramp

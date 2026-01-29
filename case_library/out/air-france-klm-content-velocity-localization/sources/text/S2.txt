@@ -1,0 +1,60 @@
+How 100-year-old Air France-KLM saved $600,000/year and brought innovation to aviation with Atlassian Cloud Premium
+Migrating to Atlassian cloud was best for our community. We had a vision of supporting users with the most up-to-date versions, features and functionalities only available on cloud, like AI.
+Jordy Essed
+DevNet Team Product Owner, Air France-KLM, Air France
+- $600k
+- Annual savings by migrating to Atlassian cloud
+About Air France
+Challenge: Air France-KLM wanted to shift resources from tool maintenance to innovation, and help teams across the organization collaborate and deliver more efficiently.
+Solution: Air France-KLM migrated from OpenStack and Atlassian Data Center to Atlassian Cloud Premium.
+Impact: By migrating to Atlassian Cloud Premium, Air France-KLM eliminated downtime, maintenance, and server costs, while supporting compliance and providing a better user experience.
+The road to aviation wasn't paved by the Wright brothers alone. In the early 1900s, when blimps were all the rage, KLM left helium behind to reach new heights (and distances) with one of the first non-airship airlines. Over 100 years later, the company holds two impressive titles: the oldest airline in Europe and a leader in the competitive, fast-changing aviation industry.
+When KLM merged with Air France to become Air France-KLM, the two aviation leaders came together to provide the best service in the industry for three core enterprises: passenger travel, cargo, and engineering and maintenance. They deliver on that promise thanks to their focus on customer loyalty and their culture of innovation.
+Over the years, Air France-KLM has been among the first to implement countless aviation advancements, from the latest sustainable biofuels and aircrafts like the Dreamliner, to cutting-edge operational tools and in-flight entertainment like personal virtual reality headsets.
+To keep up with these advancements and maintain their position as an industry leader, Air France-KLM modernized their development practices using Atlassian tools for collaboration and delivery. Since migrating from Atlassian Data Center to Atlassian Cloud Premium, the airline is saving over $600,000 every year, freeing up thousands of hours every day, and providing even better support for employees and customers.
+Other teams often come to us, asking to upgrade to Atlassian cloud because they see how it could improve their life and deliver a better experience. Now, we have more non-developer users on Atlassian than developers.
+Nathan Wattimena
+Scrum Master - RTE Next Generation Data Center Air France-KLM
+A cloud migration paves the (run)way for the future of aviation
+Air France-KLM’s investment in collaborative, efficient technology began in the late 90s and early 2000s, with Jira for issue tracking and Confluence for IT knowledge management. When the airline began adopting more modern practices in the 2010s, including agile and DevOps, teams expanded their use of Atlassian tools to support their work.
+As their Atlassian user base grew and their needs became more complex, Air France-KLM’s forward-looking IT team noticed several opportunities for improvement. Their goal was simple: Help teams across the organization collaborate and deliver more efficiently.
+One obstacle in meeting this goal was OpenStack, the platform Air France-KLM used to run their Atlassian Data Center instances. “We were losing a lot of time and resources just keeping the platform alive, not even adding functionalities,” explains Manager of IT Operations Mohamed Haddadi. “There weren't enough engineers left who were knowledgeable about OpenStack, and it didn’t offer 90% of the integrations we needed.”
+At the same time, Air France-KLM was making an organizational shift to cloud technology. Migrating from Atlassian Data Center to Cloud was the obvious path forward. “We had a vision of supporting our users, developers, and product owners – anyone who uses Jira and Confluence – with the most up-to-date versions of those tools. There’s a whole list of valuable functionalities and use cases, like AI features, which are only available on Atlassian cloud,” says Jordy Essed, a product owner for Air France-KLM’s DevNet team, which manages the company’s Atlassian toolstack and continuous improvement/continuous delivery (CI/CD) pipeline.
+The team also appreciated that working on the Atlassian cloud platform would ensure compliance with strict GDPR regulations. “Security and compliance were big reasons to choose Atlassian over a smaller company,” Mohamed says.
+Finally, migrating to the cloud would help Air France-KLM attract top talent. “In the past five years, we've really focused on delivering value by delivering software,” says Nathan Wattimena, a former product owner for the DevNet team, who’s now Scrum Master for the company’s Next Generation Data Center. “That meant hiring more DevOps engineers and creating more complex, collaborative workflows between dev and operations teams.”
+Jordy adds, “The new generation of potential employees want to work with the latest and newest. Compared to Data Center, Jira and Confluence Cloud have features and functionalities, like AI, that make us an attractive workplace. Overall, we knew migrating to Atlassian cloud would be best for our community of engineers, developers, and employees.”
+The new generation of potential employees want to work with the latest and greatest. Compared to Data Center, Jira and Confluence Cloud have features and functionalities, like AI, that make us an attractive workplace.
+Jordy Essed
+DevNet Team Product OwnerAir France-KLM
+Soaring to new heights while saving $600,000 and hundreds of thousands of hours each year
+As the company began planning their migration, Air France-KLM turned to solution partner Eficode for assistance. Eficode completed a thorough pre-migration assessment, then helped the IT team set up a staging environment and use the Jira Cloud and Confluence Cloud Migration Assistant Marketplace apps to guide the process. Anytime questions or challenges arose, Eficode and Atlassian were there for support.
+Since completing the migration to Atlassian Cloud Premium, Air France-KLM is already flying toward their goals. “It's amazing: The migration process took only six months, and we're seeing benefits a few months later,” says Mohamed. “Atlassian cloud wasn't the cheapest option, but we’re looking five years forward and beyond.”
+$600,000 per year saved instantly
+On Atlassian Data Center, Air France-KLM used 60 servers to run Jira and Confluence, each costing $10,000 per year to maintain. Migrating to Atlassian cloud immediately reduced annual costs by $600,000.
+More than 48 hours of downtime eliminated per month
+Atlassian cloud has also eliminated days’ worth of downtime previously required to maintain and run backups for Jira and Confluence Data Center. “There were scenarios where we’d upgraded to a newer version, but then Jira would re-index, which created at least 12 hours of downtime every three months,” says Mohamed.
+More flexible licensing tiers on Atlassian cloud also help Air France-KLM reduce downtime. Now, the team has time to buy more seats or free up unused accounts when they hit their limit. To make the process even faster, Mohamed’s team built an automation rule to find and remove dormant accounts.
+Gaining back up to 2,500 hours each day and “many possibilities” with platform flexibility
+Finally, the migration has greatly improved productivity and the work experience for teams across the organization by empowering them to use Jira and Confluence in the ways that work best for them.
+“On Data Center, the user doesn't have a lot of flexibility in how they configure their layout,” Mohamed explains. “Now on Cloud, there are many possibilities to create an overview or layout the way that they want. It’s also less work for us as admins to configure these things for the user.”
+One feature that Mohamed especially loves: the intuitive Jira and Confluence Cloud mobile apps. “Before, it wasn’t easy to access Jira and Confluence when you shut down your laptop,” he says. “For me, it was quite hard to use my phone to check tasks or comment. Now it’s easy.”
+This ease of use adds up to huge gains across such a large company. “Even if these changes save each user 5-15 minutes a day, when multiplied by 10,000 people, that’s a lot of productivity gains,” says Mohamed.
+Connecting teams across the organization – and passengers around the world – with one unified system of work
+As IT has invested in creating one system of work that connects Air France-KLM’s teams, more employees have adopted Atlassian tools. More than 20 technical and business teams, from Flight Operations to HR to Security, now collaborate on Air France-KLM’s Atlassian cloud platform.
+“Other teams often come to us asking to upgrade to Atlassian cloud because they see how it could improve their life and deliver a better experience for the end user,” Nathan says. “Now, we have more non-developer users on the platform than developers.”
+Groups like HR and Marketing use Confluence to organize and document their work, and the Digital Content Team uses Jira to track copy requests for the company blog. As new features have been released, Air France-KLM has been early adopters and found new opportunities to centralize even more, such as when they replaced Miro with Confluence whiteboards.
+“We eat our own dog food,” Architect and Team Lead Joel Tomasoa explains. “All our Atlassian tools are integrated, with each other and external tools like Github. We can easily reference Confluence pages in Jira, or vice versa.”
+With an up-to-date, integrated solution, teams of all types and levels are better equipped to streamline their daily work, collaborate with each other, and elevate service even further – while growing Air France-KLM at breakneck speed. “It’s very important that our airplanes depart without delay,” Mohamed says. “The better integrated our applications are, the faster response times and fewer blocking points we have, the more we improve day-to-day operations and customer satisfaction.”
+A modern, connected platform for another century of aviation excellence
+Air France-KLM’s commitment to customer service has been steadfast for more than 100 years. After 20+ years of success with Atlassian tools, the airline is flying to the next level with cloud and committing to maintain their momentum far into the future.
+In the business world, longevity only comes with willingness to innovate and change. As they look to the next century and beyond, Air France-KLM is equipped to collaborate effortlessly, operate more efficiently, and keep making aviation history.
+About Air France
+- Industry
+- Aviation
+- Number of users
+- 10,000+
+- Location
+- Europe, Middle East, & Africa
+Solution Partner
+Eficode
+Check these out

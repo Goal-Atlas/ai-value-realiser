@@ -1,0 +1,19 @@
+Getty Images/iStockphoto
+DBS rolls out GenAI assistant for customer service teams
+The CSO Assistant was built entirely in-house and uses a large language model tailored to local languages
+Some 500 customer service officers (CSOs) at Singapore’s DBS Bank will soon be able to tap a generative AI (GenAI)-powered virtual assistant later this year to improve workflows and better serve customers.
+The virtual assistant, dubbed CSO Assistant, was built entirely in-house by the bank’s AI engineers, integrating a large language model (LLM) tailored to local languages and parlance with voice telephony and speech recognition capabilities.
+It can transcribe customer queries in real-time and search the bank’s knowledgebase to retrieve query-specific information, enabling CSOs to assist customers more effectively. After each call, it can also provide call summaries and pre-fill service request fields.
+DBS started piloting the use of CSO Assistant in October 2023 and, based on the data it collected during the pilot, it found that the tool has been able to achieve a transcription accuracy of nearly 100%. When fully deployed, it is expected to reduce call handling time by up to 20%.
+Close to 90% of CSOs involved in the pilot reported that the virtual assistant had a positive impact on their workflow and expressed confidence in leveraging it in the longer term.
+Nimish Panchmatia, chief data and transformation officer at DBS, said the bank sees GenAI as a co-pilot to “supercharge” employees, with a focus on driving efficiency gains and quality improvement.
+“CSO Assistant is a prime example of how we leverage GenAI innovatively to remove toil in the way we work, which in turn enables our people to enhance customer journeys and deliver differentiated customer outcomes.
+“In developing CSO Assistant, we took a measured approach by stress-testing it against our responsible data use frameworks, and iteratively enhancing it based on feedback received during the pilot,” he added.
+Indumathi Kunasegaran, a DBS employee who leads a team of CSOs and helps train other CSOs at the bank, said CSO Assistant has eliminated repetitive tasks and freed up bandwidth for her team to engage customers more deeply and efficiently.
+The tool, which will be rolled out to other markets over the next 12 months starting with Taiwan and Hong Kong, is one of many GenAI use cases that DBS is implementing.
+The bank, Southeast Asia’s biggest lender, has also deployed DBS-GPT, an employee-facing version of ChatGPT, to help employees with content generation and writing tasks. It is currently available to more than 25,000 DBS employees.
+Read more about AI in APAC
+- DBS Bank’s AI Industrialisation Programme has been instrumental in industrialising the use of data and AI across its business, resulting in over S$370m of incremental economic benefits.
+- Snowflake’s regional leader Sanjay Deshmukh outlines how the company is helping customers to tackle the security, skills and cost challenges of AI implementations.
+- Malaysian startup Aerodyne is running its drone platform on AWS to expand its footprint globally and support a variety of use cases, from agriculture seeding to cellular tower maintenance.
+- The Australian government is experimenting with AI use cases in a safe environment while it figures out ways to harness the technology to benefit citizens and businesses.

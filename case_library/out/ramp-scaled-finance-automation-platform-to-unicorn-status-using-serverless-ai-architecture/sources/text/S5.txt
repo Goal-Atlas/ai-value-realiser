@@ -1,0 +1,7 @@
+Challenge
+Ramp wanted to give businesses of all sizes a better corporate card experience, with fast and easy card issuing, tighter control over purchases, and simplified accounting and expense management. It also wanted to be the first to market with one-click purchasing approvals and denials so businesses could easily trim spending.
+Solution
+With Stripe Issuing, Ramp lets businesses quickly issue branded purchasing cards across the globe while gaining more visibility into and control over expenses and more streamlined accounting processes.
+Results
+Stripe Issuing forms the foundation of Ramp’s integrated expense management, bill payments, and accounting automation solution, which has helped its customers cut expenses and speed up month-end financial closing and consolidation processes.
+With Stripe’s platform, we’re able to ship custom-printed, high-quality metal cards with short delivery timelines to over 100 countries and power billions of dollars of purchases each year. Our service helps the average company cut their expenses by 3.5% per year and speed up month-end close processes by 8 days each month.

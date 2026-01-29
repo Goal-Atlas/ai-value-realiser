@@ -1,0 +1,428 @@
+{
+  "case_id": "virgin-australia-databricks-baggage-ml-deployment",
+  "build_started": "2026-01-29T12:15:22.824628",
+  "build_completed": "2026-01-29T12:15:24.032666",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Virgin Australia Airlines Data Platform Migration and ML Model Deployment",
+      "Virgin Australia Airlines Data Platform Migration and ML Model"
+    ],
+    "results_considered": 3,
+    "urls_ranked": [
+      {
+        "url": "https://www.databricks.com/blog/pushing-boundaries-innovation-data-and-ai-announcing-2024-finalists-databricks-data-team",
+        "rank": 1
+      },
+      {
+        "url": "https://www.databricks.com/blog/announcing-winners-2024-databricks-data-team-awards",
+        "rank": 2
+      },
+      {
+        "url": "https://aws.amazon.com/solutions/case-studies/virgin-australia-case-study/",
+        "rank": 3
+      }
+    ],
+    "urls_selected": [
+      "https://www.databricks.com/blog/pushing-boundaries-innovation-data-and-ai-announcing-2024-finalists-databricks-data-team",
+      "https://www.databricks.com/blog/announcing-winners-2024-databricks-data-team-awards",
+      "https://aws.amazon.com/solutions/case-studies/virgin-australia-case-study/"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.databricks.com/blog/pushing-boundaries-innovation-data-and-ai-announcing-2024-finalists-databricks-data-team",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 7055,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.databricks.com/blog/announcing-winners-2024-databricks-data-team-awards",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 11130,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://aws.amazon.com/solutions/case-studies/virgin-australia-case-study/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 6874,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-3-opus",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 8,
+    "context_claims_count": 12,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6279,
+        "char_offset_end": 6356,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-001",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1366,
+        "char_offset_end": 1443,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6358,
+        "char_offset_end": 6394,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1445,
+        "char_offset_end": 1481,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6400,
+        "char_offset_end": 6463,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1487,
+        "char_offset_end": 1550,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6508,
+        "char_offset_end": 6558,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1595,
+        "char_offset_end": 1645,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6563,
+        "char_offset_end": 6618,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1650,
+        "char_offset_end": 1705,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5364,
+        "char_offset_end": 5407,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5012,
+        "char_offset_end": 5179,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-008",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5261,
+        "char_offset_end": 5359,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 724,
+        "char_offset_end": 900,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5396,
+        "char_offset_end": 5421,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 510,
+        "char_offset_end": 535,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1240,
+        "char_offset_end": 1305,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2262,
+        "char_offset_end": 2342,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5600,
+        "char_offset_end": 5774,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 537,
+        "char_offset_end": 700,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6111,
+        "char_offset_end": 6252,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1198,
+        "char_offset_end": 1339,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 5871,
+        "char_offset_end": 6019,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 958,
+        "char_offset_end": 1106,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4712,
+        "char_offset_end": 4783,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 906,
+        "char_offset_end": 950,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1302,
+        "char_offset_end": 1488,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1021,
+        "char_offset_end": 1096,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

@@ -1,0 +1,222 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Arup developed Face Check using Azure AI Services for biometric security",
+      "claim_description": "Arup Group utilized Microsoft Entra Verified ID and Azure AI Services to develop Face Check, enabling employees to register photos for high-confidence biometric assurance in remote or face-to-face transactions, deepening defense and security layers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Arup Group utilized Microsoft Entra Verified ID, and other security solutions to develop Face Check, powered by Azure AI Services. Employees register a photo to maintain high-confidence biometric assurance for quality and audit purposes.",
+      "quote_location": "Architecture and engineering section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Azure AI Services directly powers the Face Check solution, providing the biometric assurance capability.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "augmentation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Arup operates in architecture and engineering sector",
+      "claim_description": "Arup Group is identified as operating within the architecture and engineering industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Architecture and engineering - Arup Group utilized Microsoft Entra Verified ID",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "strategic_intent",
+      "claim_title": "Arup aims to deepen defense and security layers",
+      "claim_description": "The Face Check solution was developed to deepen layers of defense and security for quality and audit purposes in both remote and face-to-face transactions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "to maintain high-confidence biometric assurance for quality and audit purposes, whether it's a remote or face-to-face transaction, to deepen their layers of defense and security.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Face Check supports security and identity verification functions",
+      "claim_description": "The Face Check solution provides biometric identity verification for employees to support security, quality assurance, and audit processes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Employees register a photo to maintain high-confidence biometric assurance for quality and audit purposes",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10923",
+      "apqc_name": "Manage physical security",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "products_services",
+      "claim_title": "Face Check is a biometric security solution",
+      "claim_description": "Face Check is a security product that uses biometric photo registration powered by Azure AI Services to provide identity assurance.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Arup Group utilized Microsoft Entra Verified ID, and other security solutions to develop Face Check, powered by Azure AI Services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "sectoral",
+      "claim_title": "Deepfake fraud poses significant threat to financial services",
+      "claim_description": "Financial services sector faces escalating deepfake fraud with $900M in losses since 2019, $410M in H1 2025 alone, and 780% increase in incidents in European financial sector.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "losses linked to deepfake-enabled scams have reached almost $900 million since 2019. In the first half of 2025 alone, financial institutions lost $410 million",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Arup experienced $25M deepfake fraud incident",
+      "claim_description": "Arup was victim of deepfake fraud where employee was duped during video conference with deepfakes of CFO and other employees, resulting in 15 transactions totaling HK$200M (USD$25M+) to five Hong Kong bank accounts.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "The British engineering company Arup was the victim of a deepfake fraud at the beginning of 2024, which resulted in a total loss of over USD $25M.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Arup deepfake fraud occurred in early 2024",
+      "claim_description": "The deepfake fraud incident at Arup took place at the beginning of 2024.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "The British engineering company Arup was the victim of a deepfake fraud at the beginning of 2024",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

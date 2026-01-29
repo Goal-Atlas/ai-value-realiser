@@ -1,0 +1,861 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Accenture developers retain 88% of GitHub Copilot suggested code",
+      "claim_description": "Accenture developers retain over 88% of code suggested by GitHub Copilot as part of their solutions, demonstrating high acceptance and utility of AI-generated code.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Accenture is one example, its developers now retain over 88% of the code suggested by GitHub Copilot as part of their solutions.",
+      "quote_location": "GitHub Copilot section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures the retention rate of AI-generated code suggestions from GitHub Copilot.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "88",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Accenture achieved 84% increase in successful builds with GitHub Copilot",
+      "claim_description": "Accenture recognized an 84% increase in successful builds with GitHub Copilot's assistance, indicating improved code quality and development efficiency.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "They recognized an 84% increase in successful builds with Copilot's help",
+      "quote_location": "GitHub Copilot section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The increase in successful builds is directly attributed to GitHub Copilot's assistance in code development.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "84",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "67% of Accenture developers use GitHub Copilot at least five days per week",
+      "claim_description": "67% of Accenture developers used GitHub Copilot at least five days a week, demonstrating high adoption and regular usage patterns.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "67% used the tool at least five days a week",
+      "quote_location": "GitHub Copilot section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures the frequency of GitHub Copilot usage among developers.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "67",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "BNY's Eliza platform supports over 40 AI solutions across operations",
+      "claim_description": "BNY's enterprise AI platform Eliza currently supports over 40 AI solutions, touching almost every part of the bank's operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BNY, America's oldest bank, is driving innovation at the intersection of technology and financial services by harnessing AI solutions like GitHub Copilot and Microsoft 365 Copilot to help transform operations and company culture.",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Eliza is explicitly described as an enterprise AI platform supporting multiple AI solutions across the organization.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Over 50% of BNY employees regularly use Eliza virtual assistant",
+      "claim_description": "Every BNY employee has access to the Eliza virtual assistant, with more than 50% using it regularly, demonstrating widespread adoption.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Every bank employee has access to the Eliza virtual assistant, with more than 50% using it regularly and 15% of those proficient enough to build agents of their own.",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures employee adoption and usage of the Eliza AI virtual assistant.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "15% of BNY employees proficient enough to build their own AI agents",
+      "claim_description": "15% of BNY employees who use Eliza are proficient enough to build agents of their own, indicating advanced AI literacy and capability development.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Every bank employee has access to the Eliza virtual assistant, with more than 50% using it regularly and 15% of those proficient enough to build agents of their own.",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric measures employee capability to independently create AI agents using the platform.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "15",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Over 80% of BNY developers rely on GitHub Copilot daily",
+      "claim_description": "Having introduced GitHub Copilot in 2024, over 80% of BNY's developer community now relies on it daily, increasing the speed of code development.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Having introduced GitHub Copilot in 2024, over 80% of their developer community now relies on it daily, increasing the speed of code development.",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures daily adoption of GitHub Copilot among developers with stated impact on development speed.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "80",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "BNY AI enables predictive trade analytics for early settlement risk identification",
+      "claim_description": "AI powers predictive trade analytics that enable BNY clients to identify settlement risks early and mitigate late settlements.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "powering predictive trade analytics that enable clients to identify settlement risks early and mitigate late settlements",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI is explicitly stated as powering the predictive analytics capability for risk identification.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "BNY AI detects anomalies in securities services business",
+      "claim_description": "AI is used to detect anomalies in BNY's securities services business, enhancing risk management and operational integrity.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The impact of AI can be seen across the organization, from detecting anomalies in their securities services business",
+      "quote_location": "BNY section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI is explicitly stated as the technology enabling anomaly detection in securities services.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Nasdaq Boardvantage AI saves customers over 100 hours annually",
+      "claim_description": "The integration of AI in Nasdaq Boardvantage enables customers to potentially save more than 100 hours of manual work each year through automated document management and summarization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The integration of AI not only enables customers to potentially save more than 100 hours of manual work each year",
+      "quote_location": "Nasdaq section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered automation in document management and summarization directly enables the time savings.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "Nasdaq Boardvantage AI achieves 91-97% accuracy in summarization",
+      "claim_description": "Nasdaq Boardvantage AI-powered summarization delivers accuracy range of 91% to 97%, allowing users to deliver high-quality outputs that exceed generic summarization models.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "it's accuracy range of 91% to 97% allows users to deliver high-quality outputs that exceed generic summarization models",
+      "quote_location": "Nasdaq section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The accuracy metric directly measures the performance of AI-powered summarization functionality.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "91-97",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Over 70,000 organizations use GitHub Copilot",
+      "claim_description": "Over 70,000 organizations are using GitHub Copilot today to supercharge the productivity of their developers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Over 70,000 organizations are using GitHub Copilot today to supercharge the productivity of their developers.",
+      "quote_location": "GitHub Copilot section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures organizational adoption of GitHub Copilot for developer productivity enhancement.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "70000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "BNY is America's oldest bank",
+      "claim_description": "BNY is identified as America's oldest bank, providing historical context for its AI transformation journey.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BNY, America's oldest bank, is driving innovation at the intersection of technology and financial services",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "BNY operates in financial services and banking sector",
+      "claim_description": "BNY operates at the intersection of technology and financial services, specifically in banking.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BNY, America's oldest bank, is driving innovation at the intersection of technology and financial services",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "BNY introduced GitHub Copilot in 2024",
+      "claim_description": "BNY introduced GitHub Copilot to its developer community in 2024.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Having introduced GitHub Copilot in 2024, over 80% of their developer community now relies on it daily",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "products_services",
+      "claim_title": "BNY Eliza platform built with OpenAI GPT-4",
+      "claim_description": "BNY's enterprise AI platform Eliza leverages advanced large language models including OpenAI's GPT-4.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Built with responsible AI guardrails, Eliza leverages advanced large language models including OpenAI's GPT-4",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "BNY built Eliza with responsible AI guardrails",
+      "claim_description": "BNY's Eliza platform was built with responsible AI guardrails as a core design principle.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Built with responsible AI guardrails, Eliza leverages advanced large language models including OpenAI's GPT-4",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Accenture is a GitHub Copilot customer",
+      "claim_description": "Accenture is identified as an organization using GitHub Copilot for software development.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Accenture is one example, its developers now retain over 88% of the code suggested by GitHub Copilot",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "organisational",
+      "claim_title": "AvePoint is a global leader in data security, governance, and resilience",
+      "claim_description": "AvePoint is positioned as a global leader in data security, governance, and resilience solutions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "As a global leader in data security, governance, and resilience, AvePoint has embraced AI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "sectoral",
+      "claim_title": "Nasdaq operates over 130 markets globally",
+      "claim_description": "Nasdaq is a global technology-driven financial powerhouse, operating over 130 markets.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Nasdaq is a global technology-driven financial powerhouse, operating over 130 markets",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "sectoral",
+      "claim_title": "FM is one of the world's leading commercial property insurers",
+      "claim_description": "FM is positioned as one of the world's leading commercial property insurers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "At FM, one of the world's leading commercial property insurers",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "FM has been working with predictive analytics and AI for over 15 years",
+      "claim_description": "FM has been working with predictive analytics and AI for over 15 years, predating recent generative AI developments.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "While the company has been working with predictive analytics and AI for over 15 years, the advent of ChatGPT and tools like Microsoft Copilot was transformative.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "BNY uses AI in securities services operations",
+      "claim_description": "BNY applies AI for anomaly detection in its securities services business operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "from detecting anomalies in their securities services business",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10517",
+      "apqc_name": "Manage securities and investments",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "Nasdaq applies AI to corporate governance solutions",
+      "claim_description": "Nasdaq integrates AI into its corporate governance solutions, specifically the Boardvantage platform for board management.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "One area of focus is reshaping corporate governance with its industry leading Nasdaq Boardvantage\u00ae solution.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10018",
+      "apqc_name": "Manage enterprise risk",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "functional",
+      "claim_title": "FM applies AI to risk assessment and management",
+      "claim_description": "FM uses AI for risk assessment, hazard identification, and preventative measures in commercial property insurance.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Engineers combine data from decades of expertise evaluating sites, with predictive analytics and other AI-powered tools in Azure, to analyze thousands of locations worldwide.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10018",
+      "apqc_name": "Manage enterprise risk",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "functional",
+      "claim_title": "AvePoint uses AI in software development lifecycle",
+      "claim_description": "AvePoint leverages AI, specifically GitHub Copilot, to accelerate its software development lifecycle and reduce time to market.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By utilizing GitHub Copilot, the company has accelerated its development lifecycle, reducing time to market for new features",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10387",
+      "apqc_name": "Manage product and service portfolio",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

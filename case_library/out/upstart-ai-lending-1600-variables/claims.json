@@ -1,0 +1,1005 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Approval rates nearly doubled overnight with first AI model on proprietary data",
+      "claim_description": "When Upstart first trained an AI model on its own proprietary data (rather than publicly available datasets), approval rates for personal loans nearly doubled immediately.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The breakthrough came with the first experiment training a model on Upstart's own data. 'Overnight our approval rates nearly doubled \u2026 and over time it became clear we were actually moving the needle in improving access to credit,' he said.",
+      "quote_location": "Mid-article, section 'A Breakthrough with Big Data'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The approval rate increase is explicitly attributed to training the AI model on Upstart's proprietary data, with the executive stating it happened 'overnight' upon first experiment.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "nearly doubled",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "27% more borrowers approved compared to traditional credit models",
+      "claim_description": "Upstart's AI models approved 27% more borrowers (620,000+ total) for $7.8B in personal loans compared to what traditional credit models would have approved, according to CFPB study.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "More than 620,000 of them were approved by Upstart's models to get a total $7.8 billion in personal loans so far, about 27 percent more than would've been approved by traditional credit models, at interest rates 16 percent below average, according to a study from the U.S. Consumer Financial Protection Bureau.",
+      "quote_location": "Mid-article, section 'Riding the Virtuous Cycle of AI'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The CFPB study directly compares Upstart's AI models to traditional credit models, attributing the 27% increase in approvals specifically to the AI approach.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "27",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "16% lower interest rates offered to approved borrowers",
+      "claim_description": "Borrowers approved through Upstart's AI models received interest rates 16% below average compared to traditional credit models, per CFPB study.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "More than 620,000 of them were approved by Upstart's models to get a total $7.8 billion in personal loans so far, about 27 percent more than would've been approved by traditional credit models, at interest rates 16 percent below average, according to a study from the U.S. Consumer Financial Protection Bureau.",
+      "quote_location": "Mid-article, section 'Riding the Virtuous Cycle of AI'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The CFPB study directly attributes the 16% lower interest rates to Upstart's AI models compared to traditional methods.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "16",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "5x reduction in model testing time using GPUs vs CPUs",
+      "claim_description": "Upstart reduced the time to run model comparisons from over a day on CPUs to approximately 5 hours by porting the work to GPUs, a 5x speedup.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "At one point, these comparisons took more than a day to run on a CPU, but our research found we could cut that down by a factor of five by porting the work to GPUs",
+      "quote_location": "Section 'GPUs Slash Test Time'",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "GPUs are infrastructure that enables faster AI model testing, contributing to but not directly creating the value. The AI models themselves generate the business value.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "5",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Model training and evaluation reduced from days to hours",
+      "claim_description": "Upstart reduced the time to train and evaluate new machine learning models from multiple days to just a few hours through GPU acceleration.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "These days, Upstart trains and evaluates new machine-learning models in a few hours instead of days.",
+      "quote_location": "Section 'GPUs Slash Test Time'",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "GPU infrastructure enables faster model development cycles, contributing to AI capability but not directly creating business outcomes.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "days to hours",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "90%+ of loans fully automated with no human intervention",
+      "claim_description": "More than 90% of Upstart loans are fully automated end-to-end with no human involvement required, up from 73% two years prior.",
+      "source_ids": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "source_quote": "More than 90% of loans are fully automated, with no human intervention by Upstart.",
+      "quote_location": "S2: About Upstart section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The automation is explicitly attributed to AI models making credit decisions without human intervention, as stated across multiple sources.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "velocity"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "90",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI models analyze 1,600 variables for credit decisions",
+      "claim_description": "Upstart's AI models track and analyze as many as 1,600 variables across millions of transactions to assess creditworthiness.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "The models track as many as 1,600 variables across data from millions of transactions.",
+      "quote_location": "S1: Section 'GPUs Slash Test Time'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 1,600 variables are explicitly part of the AI models' analytical capability, directly enabling credit assessment.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "101% more applicants approved than traditional methods",
+      "claim_description": "Upstart's AI models approve 101% more loan applicants compared to traditional credit scoring methods while maintaining risk standards.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Upstart approves 101 percent more applicants than traditional methods, also extending 38 percent lower APRs to qualified individuals",
+      "quote_location": "Section 'How Upstart drives positive change for borrowers'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The approval increase is directly attributed to AI models' superior risk assessment compared to traditional methods.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "101",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "38% lower APRs extended to qualified borrowers",
+      "claim_description": "Upstart's AI models enable the company to extend APRs that are 38% lower to qualified individuals compared to traditional methods.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Upstart approves 101 percent more applicants than traditional methods, also extending 38 percent lower APRs to qualified individuals",
+      "quote_location": "Section 'How Upstart drives positive change for borrowers'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The lower APRs are directly attributed to AI models' more accurate risk assessment enabling better pricing.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "38",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "3-6x better risk separation than traditional methods",
+      "claim_description": "Upstart's AI models separate credit risk 3-6 times better than traditional underwriting methods by analyzing vast datasets.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "By using vast datasets, Upstart's models separate risk 3-6x better than traditional methods.",
+      "quote_location": "Section 'Better risk assessment'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The superior risk separation is directly attributed to AI models' ability to analyze vast datasets more effectively than traditional methods.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "3-6",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "AI model analyzes 2,500+ variables across 82M repayment events",
+      "claim_description": "Upstart's personal loan underwriting model analyzes relationships between more than 2,500 variables trained on 82 million monthly borrower repayment events.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "our sophisticated personal loan underwriting model teases out the relationships between more than 2,500 variables trained on 82 million monthly borrower repayment events",
+      "quote_location": "Section 'Better risk assessment'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The variable analysis and training on repayment events is explicitly part of the AI model's core capability.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Loan decisions rendered in seconds with same/next day funding",
+      "claim_description": "Upstart's AI enables loan decisions to be made in seconds with funds distributed to borrowers within the same or next day.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "With loan decisions rendered in seconds and funds distributed to borrowers within the same or next day, Upstart delivers an experience akin to the experience consumers expect from their everyday providers like Amazon and Uber.",
+      "quote_location": "Section 'Faster decisions and funding'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The speed of decision-making is directly attributed to AI automation enabling instant credit assessment.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "seconds",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-013",
+      "claim_title": "Nearly $40B in loans facilitated to 3M+ consumers over 10 years",
+      "claim_description": "Over ten years, Upstart has facilitated nearly $40 billion in loans for its lending partners to over 3 million American consumers using AI-driven underwriting.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Over ten years, Upstart has facilitated nearly $40B in loans for its lending partners to over 3 million American consumers, showcasing how AI and ML can reshape underwriting for the better.",
+      "quote_location": "Introduction section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The loan facilitation is explicitly attributed to AI and ML reshaping underwriting, as stated in the source.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-014",
+      "claim_title": "31% increase in loan transactions quarter-over-quarter",
+      "claim_description": "Upstart saw a 31% increase in loan transactions in Q2 2024, reaching approximately 144,000 loans with over 89,000 new borrowers.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Moreover, UPST saw a 31% increase in loan transactions, reaching about 144,000 loans and welcoming over 89,000 new borrowers.",
+      "quote_location": "Section 'Navigating Financial Waters With AI-Driven Precision'",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "While AI models enable the lending, the 31% increase is a business growth metric influenced by multiple factors including market conditions, not solely AI performance.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "31",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-015",
+      "claim_title": "M18 model generates 1M predictions per applicant (6x increase)",
+      "claim_description": "Upstart's new M18 credit pricing model generates approximately 1 million predictions for each applicant, six times more than its previous model.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By generating about 1 million predictions for each applicant (six times more than its previous model), M18 aims to fine-tune accuracy and enhance the loan approval process.",
+      "quote_location": "Section 'Navigating Financial Waters With AI-Driven Precision'",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The increased prediction volume is a direct capability of the M18 AI model, explicitly designed to improve accuracy.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Company founded in 2012",
+      "claim_description": "Upstart was founded in 2012 as an AI-powered lending marketplace.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "Founded in 2012, Upstart's platform includes personal loans, automotive retail and refinance loans, home equity lines of credit, and small-dollar 'relief' loans.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "temporal",
+      "claim_title": "IPO completed in December 2020",
+      "claim_description": "Upstart went public with an IPO in December 2020 amid the global pandemic.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Going public amid a global pandemic 'was a very surreal and exciting experience and a nice milestone validating years of work we've put in, but were still early in this company's lifecycle'",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Headquarters in San Mateo, California",
+      "claim_description": "Upstart is based in San Mateo, California.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Upstart is based in",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "organisational",
+      "claim_title": "Second R&D office in Columbus, Ohio with 250+ employees",
+      "claim_description": "Upstart established a second R&D location in Columbus, Ohio, which has grown to nearly 250 people (primarily in AI, software engineering, and operations) with plans to reach 500.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Columbus exceeded expectations even for a bullish Schneider. What was going to be a 140-person office in a few years has already hit nearly 250 people primarily in AI, software engineering and operations with plans to double to 500 soon.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "sectoral",
+      "claim_title": "Financial services - consumer lending marketplace",
+      "claim_description": "Upstart operates as an AI lending marketplace in the financial services sector, connecting consumers with banks and credit unions.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Upstart (NASDAQ: UPST) is the leading AI lending marketplace, connecting millions of consumers to more than 100 banks and credit unions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "products_services",
+      "claim_title": "Multiple loan product offerings",
+      "claim_description": "Upstart's platform includes personal loans, automotive retail and refinance loans, home equity lines of credit (HELOCs), and small-dollar 'relief' loans.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "Upstart's platform includes personal loans, automotive retail and refinance loans, home equity lines of credit, and small-dollar 'relief' loans.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "scale",
+      "claim_title": "Partners with 100+ banks and credit unions",
+      "claim_description": "Upstart connects consumers to more than 100 banks and credit unions that leverage its AI models and cloud applications.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "Upstart (NASDAQ: UPST) is the leading AI lending marketplace, connecting millions of consumers to more than 100 banks and credit unions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Credit risk assessment and underwriting function",
+      "claim_description": "Upstart's AI models perform credit risk assessment and loan underwriting, replacing traditional credit scoring methods.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "The AI models he helped create as vice president of machine learning for Upstart are approving more personal loans at lower interest rates than the rules traditional banks use to gauge credit worthiness.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10404",
+      "apqc_name": "Manage credit and collections",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Mission to expand access to affordable credit",
+      "claim_description": "Upstart's core mission is to expand access to affordable credit by enhancing underwriting using AI to assess creditworthiness more accurately than traditional methods.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "At the core of Upstart's mission is a desire to expand access to affordable credit by enhancing underwriting using the power of AI.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "Publicly traded on NASDAQ under ticker UPST",
+      "claim_description": "Upstart is a publicly traded company listed on NASDAQ with ticker symbol UPST.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "Upstart (NASDAQ: UPST) is the leading AI lending marketplace",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "temporal",
+      "claim_title": "Auto loans launched in September 2020",
+      "claim_description": "Upstart began offering auto loans in September 2020 as a product expansion.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "For example, the company started offering auto loans in September.",
+      "verification_status": "verified",
+      "verification_confidence": "medium",
+      "inferred_from": "Context suggests September 2020 based on IPO timing in December 2020",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "scale",
+      "claim_title": "Market capitalization of $3.06 billion",
+      "claim_description": "As of the publication date, Upstart had a market capitalization of approximately $3.06 billion.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Upstart's relatively modest market cap of $3.06 billion leaves room for significant growth if its technology continues to prove itself.",
+      "verification_status": "verified",
+      "verification_confidence": "medium",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "functional",
+      "claim_title": "Fair lending compliance and testing program",
+      "claim_description": "Upstart developed a Fair Lending Testing Program alongside the CFPB to ensure ethical and equitable lending practices, with each new model undergoing rigorous fair lending testing.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Upstart developed a Fair Lending Testing Program alongside the Consumer Finance Protection Bureau (CFPB) to meet the highest testing standards and ensure ethical and equitable lending practices.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10901",
+      "apqc_name": "Manage regulatory compliance",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "temporal",
+      "claim_title": "Revenue growth of 264% year-over-year in 2021",
+      "claim_description": "In 2021, Upstart achieved 264% year-over-year revenue growth with net income of $135.44 million, reaching stock price high of $390 in October 2021.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "In 2021, the company's revenue was up 264% year-over-year, with a net income of $135.44 million. The stock hit an all-time high of $390 in October 2021.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

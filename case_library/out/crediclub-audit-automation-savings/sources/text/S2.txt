@@ -1,0 +1,3 @@
+Crediclub's growth required a more agile infrastructure, with lower latency, lower operating cost and compliance with local regulations.
+Crediclub adopted a hybrid architecture connected to Microsoft Azure, including a private SASE network and compute services in the Central Mexico region.
+Latency was reduced by 90%, throughput capacity was doubled, and $20,000 to $30,000 was saved per month in operational costs.

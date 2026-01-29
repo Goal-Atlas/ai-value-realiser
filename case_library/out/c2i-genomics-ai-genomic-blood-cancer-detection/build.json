@@ -1,0 +1,336 @@
+{
+  "case_id": "c2i-genomics-ai-genomic-blood-cancer-detection",
+  "build_started": "2026-01-29T09:26:46.967879",
+  "build_completed": "2026-01-29T09:26:52.696816",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "C2i Genomics AI-Powered Genomic Blood Cancer Detection",
+      "C2i Genomics AI-Powered Genomic Blood Cancer Detection"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://premierinc.com/newsroom/premier-in-the-news/c2i-genomics-and-premier-team-up-to-bring-ai-powered-personalized-cancer-detection-and-treatment-monitoring-to-u-s-healthcare-providers",
+        "rank": 1
+      },
+      {
+        "url": "https://www.fiercebiotech.com/medtech/c2i-genomics-lands-100m-series-b-to-scale-up-software-detects-tiny-traces-cancer-a-single",
+        "rank": 2
+      },
+      {
+        "url": "https://www.genomeweb.com/business-news/c2i-genomics-teams-premier-ai-driven-minimal-residual-disease-detection",
+        "rank": 3
+      },
+      {
+        "url": "https://cancerletter.com/free/20230811_10e/",
+        "rank": 4
+      },
+      {
+        "url": "https://twistbiosciences.gcs-web.com/news-releases/news-release-details/c2i-genomics-partners-twist-bioscience-launch-reference",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://premierinc.com/newsroom/premier-in-the-news/c2i-genomics-and-premier-team-up-to-bring-ai-powered-personalized-cancer-detection-and-treatment-monitoring-to-u-s-healthcare-providers",
+      "https://www.fiercebiotech.com/medtech/c2i-genomics-lands-100m-series-b-to-scale-up-software-detects-tiny-traces-cancer-a-single",
+      "https://www.genomeweb.com/business-news/c2i-genomics-teams-premier-ai-driven-minimal-residual-disease-detection",
+      "https://cancerletter.com/free/20230811_10e/",
+      "https://twistbiosciences.gcs-web.com/news-releases/news-release-details/c2i-genomics-partners-twist-bioscience-launch-reference"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://premierinc.com/newsroom/premier-in-the-news/c2i-genomics-and-premier-team-up-to-bring-ai-powered-personalized-cancer-detection-and-treatment-monitoring-to-u-s-healthcare-providers",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 3053,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.fiercebiotech.com/medtech/c2i-genomics-lands-100m-series-b-to-scale-up-software-detects-tiny-traces-cancer-a-single",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.genomeweb.com/business-news/c2i-genomics-teams-premier-ai-driven-minimal-residual-disease-detection",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://cancerletter.com/free/20230811_10e/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 1336,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://twistbiosciences.gcs-web.com/news-releases/news-release-details/c2i-genomics-partners-twist-bioscience-launch-reference",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4656,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 4,
+    "context_claims_count": 10,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1305,
+        "char_offset_end": 1521,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-001",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1522,
+        "char_offset_end": 1697,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 279,
+        "char_offset_end": 512,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S4",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 513,
+        "char_offset_end": 867,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 142,
+        "char_offset_end": 271,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 259,
+        "char_offset_end": 331,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 141,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 620,
+        "char_offset_end": 972,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2061,
+        "char_offset_end": 2220,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 427,
+        "char_offset_end": 606,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 620,
+        "char_offset_end": 740,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 149,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

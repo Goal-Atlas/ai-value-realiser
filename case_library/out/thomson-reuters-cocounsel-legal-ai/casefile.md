@@ -1,0 +1,1114 @@
+---
+case_id: thomson-reuters-cocounsel-legal-ai
+organisation: Thomson Reuters
+title: AI-Powered Legal Assistant for Document Review and Research
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://legal.thomsonreuters.com/en/insights/case-studies/turbocharging-legal-ta...
+  url: https://legal.thomsonreuters.com/en/insights/case-studies/turbocharging-legal-tasks-with-cocounsel-generative-ai
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://legal.thomsonreuters.com/en/insights/case-studies/legal-aid-society-of-s...
+  url: https://legal.thomsonreuters.com/en/insights/case-studies/legal-aid-society-of-san-bernardino-doubles-hotline-calls-with-cocounsel
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://tax.thomsonreuters.com/en/insights/case-studies/thomson-reuters-cocounse...
+  url: https://tax.thomsonreuters.com/en/insights/case-studies/thomson-reuters-cocounsel-at-plante-moran
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.thomsonreuters.com/en-us/posts/innovation/cocounsel-monthly-insider-...
+  url: https://www.thomsonreuters.com/en-us/posts/innovation/cocounsel-monthly-insider-sharpening-your-competitive-edge-oct-2025/
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://venturebeat.com/infrastructure/thomson-reuters-unveils-cocounsel-leverag...
+  url: https://venturebeat.com/infrastructure/thomson-reuters-unveils-cocounsel-leveraging-generative-ai-for-legal-professionals
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 2x increase in urgent hotline case handling capacity
+  claim_description: Legal Aid Society of San Bernardino doubled the number of urgent
+    cases (such as eviction cases) they could address through their hotline using
+    CoCounsel AI assistant.
+  source_ids:
+  - S2
+  source_quote: With CoCounsel, Legal Aid Society of San Bernardino staff has been
+    able to address 2x as many of the urgent cases—such as those concerning eviction—that
+    come through the hotline.
+  quote_location: What to know section
+  ai_attribution: direct
+  attribution_evidence: The claim explicitly states the 2x increase was achieved 'with
+    CoCounsel' and describes how the AI tool enabled staff to handle more calls by
+    providing quick, reliable legal research during calls.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - velocity
+  - business_growth
+  cognitive_depth: generative
+  metric_raw:
+    value: '2'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 20% increase in case onboarding capacity
+  claim_description: Legal Aid Society of San Bernardino onboarded 20% more cases
+    overall using CoCounsel, moving beyond advice to full client representation for
+    longer-term, complex cases.
+  source_ids:
+  - S2
+  source_quote: And they've been able to onboard 20% more cases overall, going beyond
+    simply providing advice to truly advocating for their clients, representing them
+    for longer-term, more complex cases.
+  quote_location: What to know section
+  ai_attribution: direct
+  attribution_evidence: The increase in case onboarding is directly attributed to
+    CoCounsel capabilities in the same sentence structure describing outcomes achieved
+    'with CoCounsel'.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - business_growth
+  cognitive_depth: generative
+  metric_raw:
+    value: '20'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: 90% faster response to opposing counsel demands
+  claim_description: Legal Aid Society achieved 90% faster turnaround in responding
+    to opposing counsel demands using CoCounsel for document review, summarization,
+    and drafting responses.
+  source_ids:
+  - S2
+  source_quote: Being able to do more thorough work more quickly means the people
+    they serve get badly needed resources, safety, and assistance sooner, for instance
+    responding up to 90% faster to opposing counsel demands
+  quote_location: What to know section
+  ai_attribution: direct
+  attribution_evidence: The 90% faster response is explicitly linked to CoCounsel's
+    ability to quickly review and summarize documents and draft responses, as detailed
+    in the Solution section.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '90'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: 50% time savings in case analysis
+  claim_description: Attorney saved 50% of time in case analysis by using CoCounsel
+    to identify and highlight critical information in case histories and medical records.
+  source_ids:
+  - S2
+  source_quote: In a recent case, it easily saved me 50% of time I would have had
+    to spend, by pointing out the particular highlights in the history that I needed
+    to focus on
+  quote_location: Outcome section, Armstrong quote
+  ai_attribution: direct
+  attribution_evidence: Deputy Director Armstrong directly attributes the 50% time
+    savings to CoCounsel's ability to highlight critical information, eliminating
+    manual review time.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: diagnostic
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: 450% increase in user base adoption
+  claim_description: Plante Moran scaled their CoCounsel user base by 450% following
+    initial pilot, demonstrating successful organizational adoption and integration
+    into audit processes.
+  source_ids:
+  - S3
+  source_quote: Since adopting CoCounsel, Plante Moran has scaled its user base 450%,
+    showcasing exceptional innovation in adoption techniques, upskilling, and AI usage
+    to make processes faster than ever
+  quote_location: Looking ahead section
+  ai_attribution: contextual
+  attribution_evidence: This measures adoption rate rather than direct business outcome,
+    though it indicates organizational confidence in the tool's value based on pilot
+    results.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - business_growth
+  cognitive_depth: generative
+  metric_raw:
+    value: '450'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: 96% user agreement on tool usefulness
+  claim_description: In Plante Moran's pilot with 140+ participants, 96% of respondents
+    strongly agreed or agreed that CoCounsel is a useful tool for practice staff members.
+  source_ids:
+  - S3
+  source_quote: Nearly all respondents (96%) either strongly agreed or agreed that
+    CoCounsel is a useful tool for practice staff members.
+  quote_location: Key outcomes section
+  ai_attribution: contextual
+  attribution_evidence: This is a user satisfaction metric indicating perceived value
+    rather than direct business outcome, though it supports adoption decisions.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '96'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: 91% faster research compared to traditional methods
+  claim_description: 91% of Plante Moran pilot respondents reported that CoCounsel
+    was faster than traditional methods of research and finding answers.
+  source_ids:
+  - S3
+  source_quote: A large majority of respondents (91%) reported that CoCounsel was
+    faster than traditional methods of research and finding answers.
+  quote_location: Key outcomes section
+  ai_attribution: direct
+  attribution_evidence: Users directly compared CoCounsel speed to traditional research
+    methods, attributing faster performance to the AI tool.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '91'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: 62% reported significant efficiency improvements in technical research
+  claim_description: 62% of Plante Moran pilot respondents reported significant efficiency
+    and time savings improvements during technical research using CoCounsel.
+  source_ids:
+  - S3
+  source_quote: Significant efficiency and time savings improvements during technical
+    research were reported by 62% of respondents using CoCounsel.
+  quote_location: Key outcomes section
+  ai_attribution: direct
+  attribution_evidence: Respondents directly attributed efficiency and time savings
+    improvements to their use of CoCounsel for technical research tasks.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '62'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: M&A due diligence completed by intern without lawyer assistance
+  claim_description: Century Communities used CoCounsel to summarize 87 land contracts
+    for M&A due diligence, enabling a summer law student intern to complete the project
+    independently without lawyer help.
+  source_ids:
+  - S1
+  source_quote: This approach was so successful that the project was completed by
+    a summer law student intern without any help from the lawyers.
+  quote_location: Swift summaries and contract review section
+  ai_attribution: direct
+  attribution_evidence: The ability for an intern to complete complex M&A due diligence
+    independently is directly attributed to CoCounsel's document summarization capabilities.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Reduced reliance on outside counsel
+  claim_description: Century Communities reduced need to ask outside counsel for advice
+    by using CoCounsel with Practical Law and Westlaw to answer questions in unfamiliar
+    legal areas.
+  source_ids:
+  - S1
+  source_quote: In both cases, this reduces the need to ask outside counsel for advice.
+  quote_location: Clever drafting and easy answers section
+  ai_attribution: direct
+  attribution_evidence: The document explicitly states that using CoCounsel tools
+    reduces the need for outside counsel, directly attributing cost avoidance to the
+    AI solution.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-011
+  claim_title: Legal research answers delivered in minutes or seconds
+  claim_description: CoCounsel returns legal research answers in minutes or sometimes
+    seconds, compared to traditional research methods that would take significantly
+    longer.
+  source_ids:
+  - S2
+  source_quote: Plus, CoCounsel can return these legal research answers in minutes
+    — sometimes seconds.
+  quote_location: Solution section
+  ai_attribution: direct
+  attribution_evidence: The speed improvement is directly attributed to CoCounsel's
+    capabilities, contrasting with traditional research timeframes.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-012
+  claim_title: Time added back to lawyers' day through automated first-pass review
+  claim_description: CoCounsel performs first-pass summarization and review of documents,
+    allowing lawyers to focus on specific sections and adding time back to their day.
+  source_ids:
+  - S1
+  source_quote: If you're not spending your time reading stuff with a fine-tooth comb
+    and you let it take the first shot at summarizing or reviewing, then you can focus
+    on the exact sections you need to focus on. It adds time back to your day.
+  quote_location: An invaluable assistant section, Coleman quote
+  ai_attribution: direct
+  attribution_evidence: General Counsel Coleman directly attributes time savings to
+    CoCounsel's ability to perform initial document review, freeing lawyers for higher-value
+    work.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-013
+  claim_title: Faster email review in litigation without manual reading of 10,000
+    emails
+  claim_description: Outside counsel used CoCounsel to review emails on a litigation
+    case, significantly accelerating the process without needing someone to manually
+    read through 10,000 emails.
+  source_ids:
+  - S1
+  source_quote: He was telling me how much faster that process went without needing
+    somebody to go through and read 10,000 emails
+  quote_location: An invaluable assistant section
+  ai_attribution: direct
+  attribution_evidence: The faster litigation email review process is directly attributed
+    to CoCounsel eliminating the need for manual review of thousands of emails.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-014
+  claim_title: Rapid timeline creation from social media and text messages
+  claim_description: CoCounsel created timelines of threatening social media posts
+    and text messages in minutes for domestic violence restraining order petitions,
+    understanding implied threats and tone.
+  source_ids:
+  - S2
+  source_quote: CoCounsel was able to do this in minutes because it understands language
+    that implies a threat, understands tone, and can discern what's valuable to highlight.
+  quote_location: Solution section
+  ai_attribution: direct
+  attribution_evidence: The ability to create threat timelines in minutes is directly
+    attributed to CoCounsel's natural language understanding and analytical capabilities.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-015
+  claim_title: 77% increased confidence in using generative AI tools
+  claim_description: After using CoCounsel, 77% of Plante Moran pilot respondents
+    felt more confident using generative AI tools in their work.
+  source_ids:
+  - S3
+  source_quote: After using CoCounsel, 77% of respondents felt more confident using
+    generative AI tools.
+  quote_location: Key outcomes section
+  ai_attribution: direct
+  attribution_evidence: The increased confidence in AI tools is directly attributed
+    to experience with CoCounsel, indicating successful change management and skill
+    development.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '77'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Century Communities is a leading U.S. housebuilder with 1,800 employees
+  claim_description: Established in 2002, Century Communities operates across the
+    U.S. with approximately 1,800 employees and a 17-person legal team.
+  source_ids:
+  - S1
+  source_quote: Established in 2002, leading U.S. housebuilder Century Communities
+    is based in Colorado but operates across the U.S. and has around 1,800 employees.
+    Its 17-strong innovative legal team
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Real estate and construction industry
+  claim_description: Century Communities operates in the residential construction
+    and real estate development sector as a housebuilder.
+  source_ids:
+  - S1
+  source_quote: leading U.S. housebuilder Century Communities
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: functional
+  claim_title: Legal department contract management and M&A due diligence
+  claim_description: Century Communities legal team handles contract lifecycle management,
+    M&A transactions, land contracts, and general legal operations.
+  source_ids:
+  - S1
+  source_quote: it was also using Thomson Reuters HighQ for contract lifecycle management,
+    including automated contract creation
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10423'
+  apqc_name: Manage legal and regulatory compliance
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: organisational
+  claim_title: Legal Aid Society of San Bernardino serves vulnerable communities
+  claim_description: Nonprofit founded in 1958 with 45-member team providing pro bono
+    legal services in Riverside and San Bernardino counties, serving 22,000+ people
+    in 8,000+ households in 2024.
+  source_ids:
+  - S2
+  source_quote: In 2024 alone, this small, 45-member team provided critical-level
+    services to more than 22,000 people in more than 8,000 households.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: sectoral
+  claim_title: Legal aid and nonprofit social services sector
+  claim_description: Legal Aid Society operates in the nonprofit legal services sector,
+    focusing on access to justice for vulnerable populations.
+  source_ids:
+  - S2
+  source_quote: Nonprofit Legal Aid Society of San Bernardino offers pro bono legal
+    services
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: scale
+  claim_title: Legal Aid hotline receives 27,000 annual calls with limited staff
+  claim_description: Hotline receives nearly 27,000 calls yearly, each requiring 30-60
+    minutes, handled by only 2 paralegals and 2-3 attorneys. Almost 16,000 calls go
+    unanswered due to resource constraints.
+  source_ids:
+  - S2
+  source_quote: Their legal advice hotline receives nearly 27,000 calls every year
+    — each requiring at least 30 minutes and sometimes up to an hour — handled by
+    only two paralegals and two to three attorneys. Unfortunately, due to these resource
+    constraints, almost 16,000 calls go unanswered.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Legal advice hotline and case intake operations
+  claim_description: Legal Aid Society operates a hotline for legal advice on eviction,
+    domestic violence, debt, guardianship, and homelessness prevention, with case
+    intake and triage functions.
+  source_ids:
+  - S2
+  source_quote: To serve more of those in their community requiring help with problems
+    such as domestic violence, homelessness prevention, and guardianship
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10423'
+  apqc_name: Manage legal and regulatory compliance
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: organisational
+  claim_title: Plante Moran is a top-10 U.S. accounting firm with 3,800+ professionals
+  claim_description: Among the nation's largest audit, tax, consulting, and wealth
+    management firms with over 3,800 professionals and 100 years in business, serving
+    multiple industries.
+  source_ids:
+  - S3
+  source_quote: Plante Moran is among the nation's largest audit, tax, consulting,
+    and wealth management firms and provides a full line of services to organizations
+    in the following industries
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: sectoral
+  claim_title: Professional services - accounting and audit
+  claim_description: Plante Moran operates in the professional services sector, specifically
+    providing audit, tax, consulting, and wealth management services.
+  source_ids:
+  - S3
+  source_quote: Plante Moran is among the nation's largest audit, tax, consulting,
+    and wealth management firms
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: functional
+  claim_title: Audit practice with technical research requirements
+  claim_description: Plante Moran's audit practice requires extensive technical research,
+    compliance verification, and document processing across various client engagements.
+  source_ids:
+  - S3
+  source_quote: CoCounsel's integration enhances Plante Moran's audit technology,
+    tools, processes, and efficiencies
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10418'
+  apqc_name: Manage internal controls
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: scale
+  claim_title: 140+ participants in CoCounsel pilot program
+  claim_description: Plante Moran conducted a pilot program with over 140 participants
+    who provided feedback on CoCounsel effectiveness before firm-wide adoption.
+  source_ids:
+  - S3
+  source_quote: in an internal survey with Plante Moran's 140+ pilot program participants,
+    who provided honest and anonymous feedback about their experience
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: strategic_intent
+  claim_title: Strategic focus on AI adoption and technological leadership
+  claim_description: Plante Moran prioritized AI integration to streamline research,
+    ensure quality, stay ahead of technological advancements, and position as industry
+    leaders in AI adoption.
+  source_ids:
+  - S3
+  source_quote: Thomson Reuters CoCounsel was piloted as a solution to streamline
+    research, ensure quality, and stay ahead of technological advancements. This initiative
+    positions them as leaders in leveraging AI to drive business outcomes.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: temporal
+  claim_title: 2024 implementation and scaling period
+  claim_description: Legal Aid Society served 22,000+ people in 2024 and received
+    nearly 27,000 hotline calls in 2024, indicating active CoCounsel usage during
+    this period.
+  source_ids:
+  - S2
+  source_quote: In 2024 alone, this small, 45-member team provided critical-level
+    services to more than 22,000 people
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: products_services
+  claim_title: CoCounsel Core, Westlaw Precision, and Practical Law integration
+  claim_description: 'Thomson Reuters CoCounsel includes multiple integrated products:
+    CoCounsel Core, Westlaw Precision with CoCounsel, Practical Law, and CoCounsel
+    Drafting for comprehensive legal AI assistance.'
+  source_ids:
+  - S1
+  source_quote: using generative artificial intelligence (GenAI) solutions from Thomson
+    Reuters CoCounsel, including CoCounsel Core,, Westlaw Precision with CoCounsel,
+    Practical Law, and CoCounsel Drafting
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: strategic_intent
+  claim_title: Priority on efficiency gains from trusted AI provider
+  claim_description: Century Communities prioritized efficiency gains and selected
+    CoCounsel based on existing trust relationship with Thomson Reuters and natural
+    progression from existing tools.
+  source_ids:
+  - S1
+  source_quote: When selecting AI-based tools for the legal department, Century Communities
+    prioritized efficiency gains from a trusted provider. The company had been using
+    Westlaw and Practical Law solutions for many years
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-016
+  context_type: organisational
+  claim_title: Legal Aid serves predominantly Latino and immigrant communities
+  claim_description: Service area is approximately 50% Latino, with 25% born outside
+    the U.S. and 30% from limited-English-proficiency households, with high need for
+    eviction, debt, and domestic violence assistance.
+  source_ids:
+  - S2
+  source_quote: Home to a population that's around 50% Latino — with 25% born outside
+    the U.S. and 30% from limited-English-proficiency households — these counties
+    have shown a high need for assistance in eviction, debt, and domestic violence
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 15
+    verified: 15
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 13
+      contextual: 2
+  context_claims:
+    total: 16
+    verified: 16
+    unverified: 0
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: true
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-Powered Legal Assistant for Document Review and Research
+
+## Executive Summary
+
+Thomson Reuters: 2x increase in urgent hotline case handling capacity.
+
+## Key Findings
+
+- **2x increase in urgent hotline case handling capacity** — verified (outcome)
+  - Quote: "With CoCounsel, Legal Aid Society of San Bernardino staff has been able to address 2x as many of the urgent cases—such as those concerning eviction—that come through the hotline."
+
+- **20% increase in case onboarding capacity** — verified (outcome)
+  - Quote: "And they've been able to onboard 20% more cases overall, going beyond simply providing advice to truly advocating for their clients, representing them for longer-term, more complex cases."
+
+- **90% faster response to opposing counsel demands** — verified (outcome)
+  - Quote: "Being able to do more thorough work more quickly means the people they serve get badly needed resources, safety, and assistance sooner, for instance responding up to 90% faster to opposing counsel dem..."
+
+- **50% time savings in case analysis** — verified (outcome)
+  - Quote: "In a recent case, it easily saved me 50% of time I would have had to spend, by pointing out the particular highlights in the history that I needed to focus on"
+
+- **450% increase in user base adoption** — verified (adoption)
+  - Quote: "Since adopting CoCounsel, Plante Moran has scaled its user base 450%, showcasing exceptional innovation in adoption techniques, upskilling, and AI usage to make processes faster than ever"
+
+- **96% user agreement on tool usefulness** — verified (adoption)
+  - Quote: "Nearly all respondents (96%) either strongly agreed or agreed that CoCounsel is a useful tool for practice staff members."
+
+- **91% faster research compared to traditional methods** — verified (adoption)
+  - Quote: "A large majority of respondents (91%) reported that CoCounsel was faster than traditional methods of research and finding answers."
+
+- **62% reported significant efficiency improvements in technical research** — verified (adoption)
+  - Quote: "Significant efficiency and time savings improvements during technical research were reported by 62% of respondents using CoCounsel."
+
+- **M&A due diligence completed by intern without lawyer assistance** — verified (method)
+  - Quote: "This approach was so successful that the project was completed by a summer law student intern without any help from the lawyers."
+
+- **Reduced reliance on outside counsel** — verified (method)
+  - Quote: "In both cases, this reduces the need to ask outside counsel for advice."
+
+- **Legal research answers delivered in minutes or seconds** — verified (method)
+  - Quote: "Plus, CoCounsel can return these legal research answers in minutes — sometimes seconds."
+
+- **Time added back to lawyers' day through automated first-pass review** — verified (method)
+  - Quote: "If you're not spending your time reading stuff with a fine-tooth comb and you let it take the first shot at summarizing or reviewing, then you can focus on the exact sections you need to focus on. It ..."
+
+- **Faster email review in litigation without manual reading of 10,000 emails** — verified (method)
+  - Quote: "He was telling me how much faster that process went without needing somebody to go through and read 10,000 emails"
+
+- **Rapid timeline creation from social media and text messages** — verified (method)
+  - Quote: "CoCounsel was able to do this in minutes because it understands language that implies a threat, understands tone, and can discern what's valuable to highlight."
+
+- **77% increased confidence in using generative AI tools** — verified (adoption)
+  - Quote: "After using CoCounsel, 77% of respondents felt more confident using generative AI tools."
+
+## Sources
+
+- **S1**: https://legal.thomsonreuters.com/en/insights/case-studies/turbocharging-legal-tasks-with-cocounsel-generative-ai
+- **S2**: https://legal.thomsonreuters.com/en/insights/case-studies/legal-aid-society-of-san-bernardino-doubles-hotline-calls-with-cocounsel
+- **S3**: https://tax.thomsonreuters.com/en/insights/case-studies/thomson-reuters-cocounsel-at-plante-moran
+- **S4**: https://www.thomsonreuters.com/en-us/posts/innovation/cocounsel-monthly-insider-sharpening-your-competitive-edge-oct-2025/
+- **S5**: https://venturebeat.com/infrastructure/thomson-reuters-unveils-cocounsel-leveraging-generative-ai-for-legal-professionals

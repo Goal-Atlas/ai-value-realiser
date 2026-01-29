@@ -1,0 +1,202 @@
+{
+  "case_id": "volvo-group-azure-ai-transport-solutions",
+  "build_started": "2026-01-29T12:16:21.582593",
+  "build_completed": "2026-01-29T12:16:23.631323",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Volvo Group AI-Driven Transport Solutions and Connected Vehicle Services",
+      "Volvo Group AI-Driven Transport Solutions and Connected Vehicle"
+    ],
+    "results_considered": 4,
+    "urls_ranked": [
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/28/accelerate-ai-innovation-and-business-transformation-scaling-ai-transformation-with-strategic-cloud-partnership/",
+        "rank": 1
+      },
+      {
+        "url": "https://www.volvotrucks.com/en-en/news-stories/press-releases/2025/sep/one-million-connected-volvo-trucks-on-the-road.html",
+        "rank": 2
+      },
+      {
+        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/mar/ai-in-action--a-journey-of-data-and-ai-driven-innovation-and-col.html",
+        "rank": 3
+      },
+      {
+        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/sep/volvo-group-venture-capital-invests-in-aifleet--an-ai-driven-trucking-company.html",
+        "rank": 4
+      }
+    ],
+    "urls_selected": [
+      "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/28/accelerate-ai-innovation-and-business-transformation-scaling-ai-transformation-with-strategic-cloud-partnership/",
+      "https://www.volvotrucks.com/en-en/news-stories/press-releases/2025/sep/one-million-connected-volvo-trucks-on-the-road.html",
+      "https://www.volvogroup.com/en/news-and-media/news/2024/mar/ai-in-action--a-journey-of-data-and-ai-driven-innovation-and-col.html",
+      "https://www.volvogroup.com/en/news-and-media/news/2024/sep/volvo-group-venture-capital-invests-in-aifleet--an-ai-driven-trucking-company.html"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/04/28/accelerate-ai-innovation-and-business-transformation-scaling-ai-transformation-with-strategic-cloud-partnership/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 8979,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.volvotrucks.com/en-en/news-stories/press-releases/2025/sep/one-million-connected-volvo-trucks-on-the-road.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 265,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/mar/ai-in-action--a-journey-of-data-and-ai-driven-innovation-and-col.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 266,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/sep/volvo-group-venture-capital-invests-in-aifleet--an-ai-driven-trucking-company.html",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 265,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 1,
+    "context_claims_count": 6,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 908,
+        "char_offset_end": 1104,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 908,
+        "char_offset_end": 1008,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1012,
+        "char_offset_end": 1055,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1012,
+        "char_offset_end": 1055,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 801,
+        "char_offset_end": 963,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 927,
+        "char_offset_end": 1055,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

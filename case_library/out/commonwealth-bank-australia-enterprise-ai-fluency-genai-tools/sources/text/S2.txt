@@ -1,0 +1,26 @@
+The Commonwealth Bank of Australia is moving forward with its generative AI ambitions, with the technology being integrated into various customer-facing capabilities.
+Work so far has been aimed at boosting AI messaging capabilities and reducing the need for customers to interact with the bank's contact centre.
+Following its Re-Imagined Banking event late last year, CBA executive general manager of retail technology, Vicky Ledda provided Digital Nation with deeper insights into its digital efforts to improve customer experience.
+“Most of our customers don’t want to call CBA unless it's very necessary. The first use case we wanted to go after was how do we make a messaging capability that is used so much day in, day out, [that is] more self-service and more comprehensive.
+“We launched our GenAI-enabled messaging service, which complements the existing messaging service that we have, which is more of a traditional question and answer [capability].”
+Customer disputes are another area of focus.
+“Often today, in a more traditional approach, the customer would lodge a dispute and then we're having to ask for more and more information over time," she said.
+“The biggest gamechanger here is with generative AI we're able to understand more of the customer context.
+"We're able to infer more of the information without having to ask the customer for more information."
+Ledda said the bank is now testing multiple use cases, including "whether digital capabilities could be served using a conversational experience going forward.”
+“The ability to launch a generative AI-powered chatbot and messaging experience in itself is very cutting edge. We're the first ones to do it in Australia," she said.
+“Next, we'll be focusing on how we can evolve the digital experience and I mentioned how potentially we could move more experiences into a conversational style experience, but obviously, we'll need to test it with customers and the feedback is.
+“That's probably the next logical step.”
+These efforts have been aided by a year spent standing up core capabilities that can support various AI use cases
+“The idea was, not to tie ourselves to a specific use case and create more of a platform approach whereby we could serve business banking use cases, retail use cases in a very scalable way," she said.
+“We made the choice early on that we wouldn't tie ourselves to a very specific large language model provider."
+CBA partners with the likes of AWS and Microsoft as part of its work.
+It is also using generative AI in other parts of the bank, to help streamline the home buying and mortgage process, to transform core systems and to aid software development teams.
+Upskilling and innovation
+CBA is also aiming to upskill its non-technical staff in generative AI.
+“We launched our ‘AI for All’ program where we opened it up to all of our employees and we've given them the foundational capabilities that are required in the generative AI environment," Ledda said.
+“Many of our employees are now using that skill in their day-to-day jobs.
+“The innovation that is coming out of that is pretty incredible.”
+Ledda said some of the bank's frontline staff are also “deeply involved in the technology that we're developing”.
+“They are the ones that have the knowledge of how customers interact with us or customer needs.
+“It's been incredibly interesting and eye-opening working with them because they introduce a completely different perspective into our development process,” Ledda said.

@@ -1,0 +1,35 @@
+Event recap: Mark Cuban shares the magic of Gemini with small businesses and influencers
+The Google Workspace Team
+Try Google Workspace at No Cost
+Get a business email, all the storage you need, video conferencing, and more.
+SIGN UPPutting Gemini to work
+Last week, we hosted our first-ever Gemini at Work event, dedicated to exploring the power of AI in the workplace. We unveiled new AI innovations, shared best practices, and showcased how Gemini for Google Workspace not only saves employees, on average, 105 minutes per week, it also improves the quality of their work.* There are now more than 100,000 organizations empowering their employees to boost productivity with Gemini for Google Workspace.
+At the event, we also made two announcements. First, we're extending Gemini’s reach — and benefits — to millions of customers by making the standalone Gemini app (gemini.google.com) part of their existing Workspace plans. With enterprise-grade data protections built in, employees everywhere can now save time and deliver higher quality work — securely and compliantly — with an AI-powered assistant at work. Second, we introduced our new security advisor, a powerful toolkit to help thwart the latest cyberthreats.
+Sharing the magic of Gemini with small businesses
+We also gathered a few hundred small business owners and influencers at our Pier 57 office in New York City for an in-person event with Mark Cuban and Aparna Pappu, VP and GM of Google Workspace. Attendees got to experience the magic of Gemini firsthand, with interactive demos that brought the power of generative AI to life, whether it was creating stunning images in the AI Photo Booth, uncovering clues with Gemini to unlock success in an escape room, or catching up and responding to an urgent email thread in a recreated subway car. They also heard Mark Cuban’s AI advice for small businesses. As an early adopter of generative AI, Mark Cuban’s Cost Plus Drugs is transforming the US pharmaceutical industry with help from Gemini.
+Growing your business with Gemini
+We also heard from three businesses who are transforming how they work with generative AI.
+Etsy is the global marketplace for unique and creative goods — from handcrafted pieces to vintage treasures. It’s their mission to keep human connection at the heart of commerce. The company started using Gemini for Workspace a year ago. Since then, they’ve found new and productive ways to work across multiple teams, including customer support, marketing, engineering and legal.
+Gemini helps Etsy:
+- Free up time and focus to better support customers
+- Quickly analyze customer feedback with a simple prompt like “What are top customer concerns?” — reducing the process from 2-4 hours to 5-6 minutes
+- Provide feedback sooner to product teams, so they can build an even better shopping experience
+Colin Wilkinson, engineering manager, sharing the Etsy + Gemini story
+FinQuery provides an intelligent platform that supports over 8,000 organizations with lease accounting compliance, SaaS spend, and financial contract management. They’re using Gemini for Workspace to reduce their daily toil, so they can focus on the strategic fulfilling work that only humans can do.
+Gemini helps FinQuery:
+- Boost their development team’s productivity by 5%
+- Accelerate low-impact code tasks like unit testing or writing a small component (going from hours to minutes)
+- Translate between one coding language and another
+Andrew Larson, chief technology and information security officer, sharing FinQuery’s Gemini story
+Understood.org is a leading social impact organization focused on supporting people with learning and thinking differences, such as ADHD and dyslexia. As an insights-driven organization, it’s important that their teams can access the latest data, research, and user interviews as part of their marketing and outreach. They’re using Gemini to surface trends around learning and thinking differences, build donor profiles, and even discover investment trends.
+Gemini helps understood.org:
+- Research the latest data and trends with a prompt like “What are the latest trends in the fundraising and investment landscape around women’s health and neurodiversity?”
+- Customize fundraising outreach for specific audiences
+- Save 10 hours per research project and 2 hours per day for donor outreach
+Nathan Friedman, co-president and CMO, sharing the Understood.org + Gemini story
+What could your business do with Gemini?
+If you’re ready to explore how Gemini for Workspace can help your business succeed — whether it’s with sales, customer service, or getting more done every day — here are a few ways to take the next step:
+Sign up for a no-cost 60-day free trial
+Download our abridged prompting guide (designed specifically for small businesses and startups)
+And if you’ve already had a wow moment with Gemini for Workspace, consider entering our social contest.
+Source: * Quality improvement according to 75% of daily Gemini users. All statistics are based on an internal Google analysis of survey data from completed Gemini for Google Workspace pilots. Some pilots began in December 2023 and some are still in progress. Data was aggregated in July 2024, across 18 enterprise customers globally, spanning North America, Europe, the Middle East, and Asia Pacific. We looked at more than 3,200 responses from employees across a broad range of industries, including manufacturing, healthcare and life sciences, retail, energy, financial services, and software and technology.

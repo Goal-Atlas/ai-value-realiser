@@ -1,0 +1,477 @@
+---
+case_id: united-airlines-skywise-implementation
+organisation: United Airlines
+title: AI-Powered Aircraft Data Management and Predictive Maintenance
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology...
+  url: https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/maintenance-providers/mro/press-release/21084548/airbus-partners-with-united-airlines-to-manage-aircraft-data-and-enhance-predictive-maintenance-capabilities
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Enhanced maintenance and engineering operations through Skywise platform
+  claim_description: United Airlines leverages Skywise to enhance all aspects of maintenance
+    and engineering operations on its Airbus fleet through data storage, access, management,
+    and analysis capabilities.
+  source_ids:
+  - S1
+  source_quote: United will leverage Skywise to enhance all aspects of its maintenance
+    and engineering operations on its Airbus fleet.
+  quote_location: paragraph 1
+  ai_attribution: contributing
+  attribution_evidence: Skywise includes machine learning packages as part of its
+    technology stack, contributing to analytical capabilities alongside data warehousing
+    and visualization tools.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Improved operational reliability through integrated data platform
+  claim_description: The combination of Palantir Foundry and Airbus Skywise provides
+    United with data and tools to enhance operational reliability.
+  source_ids:
+  - S1
+  source_quote: the combination of Palantir Foundry and Airbus' Skywise will provide
+    United with the data and tools to enhance its operational reliability.
+  quote_location: paragraph 2
+  ai_attribution: contributing
+  attribution_evidence: The platform includes machine learning packages and analytical
+    tools that contribute to operational reliability improvements alongside data integration
+    capabilities.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - velocity
+  - risk_avoidance
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Maximized Airbus fleet performance through data analytics
+  claim_description: United aims to maximize Airbus fleet performance by analyzing
+    available data and using insights to continuously improve operations.
+  source_ids:
+  - S1
+  source_quote: this new data platform, which will allow us to maximize the performance
+    of our Airbus fleet by analyzing the best data we have available and using those
+    insights to continuously improve our operation
+  quote_location: paragraph 2
+  ai_attribution: contributing
+  attribution_evidence: Machine learning packages within Skywise enable analytical
+    insights that contribute to performance optimization alongside human decision-making.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Operational efficiency improvements through data unlocking
+  claim_description: Skywise unlocks data to power operational efficiency in aircraft
+    maintenance and flight operations for United Airlines' fleet.
+  source_ids:
+  - S1
+  source_quote: Skywise will bring significant value by unlocking data, which will
+    power operational efficiency in aircraft maintenance and flight operations for
+    United Airlines' fleet.
+  quote_location: paragraph 3
+  ai_attribution: contributing
+  attribution_evidence: The platform's machine learning capabilities contribute to
+    operational efficiency by enabling predictive analytics and data-driven insights.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Improved operational performance through aviation data platform
+  claim_description: Skywise platform is used by major aviation players to improve
+    operational performance with complete data continuity across the value chain.
+  source_ids:
+  - S1
+  source_quote: Skywise is fast becoming the platform of reference used by all major
+    aviation players to improve operational performance, ensuring complete data continuity
+    with benefits across the entire value chain.
+  quote_location: paragraph 4
+  ai_attribution: contributing
+  attribution_evidence: Machine learning models and predictions within Skywise contribute
+    to operational performance improvements through data-driven insights.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: United Airlines began using Palantir Foundry in 2018
+  claim_description: United Airlines started using the Palantir Foundry data integration
+    platform in 2018, prior to the Skywise integration.
+  source_ids:
+  - S1
+  source_quote: United began using this platform in 2018
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: temporal
+  claim_title: Skywise platform launched in 2017
+  claim_description: Airbus launched the Skywise open-data platform in 2017.
+  source_ids:
+  - S1
+  source_quote: Launched in 2017, Skywise is fast becoming the platform of reference
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: scale
+  claim_title: Over 70 airlines connected to Skywise globally
+  claim_description: As of the document date, over 70 airlines worldwide are connected
+    to the Skywise platform.
+  source_ids:
+  - S1
+  source_quote: Today over 70 airlines around the world are connected to Skywise.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: sectoral
+  claim_title: Aviation industry - airline operations
+  claim_description: United Airlines operates in the commercial aviation sector, managing
+    aircraft maintenance and flight operations.
+  source_ids:
+  - S1
+  source_quote: United Airlines has become the latest US airline to connect to Airbus'
+    open-data platform
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: functional
+  claim_title: Aircraft maintenance and engineering operations
+  claim_description: The implementation focuses on maintenance and engineering operations
+    for United's Airbus fleet.
+  source_ids:
+  - S1
+  source_quote: United will leverage Skywise to enhance all aspects of its maintenance
+    and engineering operations on its Airbus fleet.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10423'
+  apqc_name: Perform maintenance, repair, and overhaul (MRO) for assets
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: organisational
+  claim_title: Partnership between United Airlines, Airbus, and Palantir
+  claim_description: United Airlines partnered with Airbus and Palantir to implement
+    an integrated data platform combining Skywise and Foundry.
+  source_ids:
+  - S1
+  source_quote: We are proud to partner with Airbus and Palantir on this new data
+    platform
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: strategic_intent
+  claim_title: Predictive maintenance capabilities enhancement
+  claim_description: Strategic intent to enhance predictive maintenance capabilities
+    through data platform integration.
+  source_ids:
+  - S1
+  source_quote: Airbus Partners with United Airlines to Manage Aircraft Data and Enhance
+    Predictive Maintenance Capabilities
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: organisational
+  claim_title: Praveen Sharma - VP of Digital Products and Analytics
+  claim_description: Praveen Sharma holds the position of Vice President of Digital
+    Products and Analytics at United Airlines.
+  source_ids:
+  - S1
+  source_quote: said Praveen Sharma, United's Vice President of Digital Products and
+    Analytics.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: Skywise platform capabilities
+  claim_description: Skywise provides data warehousing, visualization, alerting, and
+    machine learning packages in one integrated platform for airlines.
+  source_ids:
+  - S1
+  source_quote: Skywise provides all technology elements in one place, including data
+    warehousing, visualization, alerting, and even machine learning packages
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: scale
+  claim_title: United Airlines operates Airbus fleet
+  claim_description: United Airlines operates a fleet of Airbus aircraft that will
+    be managed through the Skywise platform.
+  source_ids:
+  - S1
+  source_quote: enhance all aspects of its maintenance and engineering operations
+    on its Airbus fleet
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 5
+    verified: 5
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      contributing: 5
+  context_claims:
+    total: 10
+    verified: 10
+    unverified: 0
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: true
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-Powered Aircraft Data Management and Predictive Maintenance
+
+## Executive Summary
+
+United Airlines: Enhanced maintenance and engineering operations through Skywise platform.
+
+## Key Findings
+
+- **Enhanced maintenance and engineering operations through Skywise platform** — verified (method)
+  - Quote: "United will leverage Skywise to enhance all aspects of its maintenance and engineering operations on its Airbus fleet."
+
+- **Improved operational reliability through integrated data platform** — verified (method)
+  - Quote: "the combination of Palantir Foundry and Airbus' Skywise will provide United with the data and tools to enhance its operational reliability."
+
+- **Maximized Airbus fleet performance through data analytics** — verified (method)
+  - Quote: "this new data platform, which will allow us to maximize the performance of our Airbus fleet by analyzing the best data we have available and using those insights to continuously improve our operation"
+
+- **Operational efficiency improvements through data unlocking** — verified (method)
+  - Quote: "Skywise will bring significant value by unlocking data, which will power operational efficiency in aircraft maintenance and flight operations for United Airlines' fleet."
+
+- **Improved operational performance through aviation data platform** — verified (method)
+  - Quote: "Skywise is fast becoming the platform of reference used by all major aviation players to improve operational performance, ensuring complete data continuity with benefits across the entire value chain."
+
+## Sources
+
+- **S1**: https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/maintenance-providers/mro/press-release/21084548/airbus-partners-with-united-airlines-to-manage-aircraft-data-and-enhance-predictive-maintenance-capabilities

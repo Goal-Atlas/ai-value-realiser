@@ -1,0 +1,9 @@
+CAPE CANAVERAL SPACE FORCE STATION — Relativity Space has started the flight production of its new medium-to-heavy lift, reusable, 3D-printed Terran R rocket.
+What You Need To Know
+- Construction is underway at Launch Complex 16 at Cape Canaveral Space Force Base
+- Relativity Space announced a change in direction, to focus on the design, development, and production of the new Terran R launch vehicle
+In March 2023, the company launched Terran 1 on its inaugural flight to test the structural capabilities of a 3D-printed rocket. Although the mission failed to reach orbit due to a second-stage engine issue, Relativity Space deemed the flight a success, demonstrating that the rocket’s 3D-printed materials could withstand the intense atmospheric pressures during launch.
+One month after the Terran 1 launch, Relativity Space announced a change in direction, focusing on the design, development, and production of the new Terran R launch vehicle.
+The company aimed to apply lessons learned from the Terran 1 test flight to meet customer demand for disruptive, diversified launch capabilities in an underserved and rapidly growing payload market.
+The Terran R stands 284 feet (86.6 meters) tall with a 17.7-foot (5.4-meter) diameter payload fairing. Its design serves both commercial and government customers by delivering payloads to low-Earth orbit (LEO), medium-Earth orbit (MEO), and geostationary orbit (GEO). The rocket’s first stage will be fully reusable, with planned landings on a drone ship positioned downrange from the launch site.
+Construction is underway at Launch Complex 16 at Cape Canaveral Space Force Base, which includes laying new foundations, installing piles, and pouring concrete for the Terran R launch pad and supporting facilities. The rocket will make its inaugural flight in 2026.

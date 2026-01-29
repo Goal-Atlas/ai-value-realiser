@@ -1,0 +1,641 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "60 robots deployed saved 125,000 hours in data migration project",
+      "claim_description": "Dentsu's Automation CoE built and deployed 60 robots in 30 days for a large-scale data extraction and migration project, resulting in savings of more than 125,000 hours.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the CoE built and deployed an army of 60 robots in just 30 days to complete a large-scale data extraction and migration project, saving more than 125,000 hours.",
+      "quote_location": "Client Overview section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The robots directly performed the data extraction and migration tasks, with the time savings explicitly attributed to their deployment.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "125000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Media Finance automation reduced report generation from 1 day to 10 minutes",
+      "claim_description": "Media Finance team built StudioX automation for downloading and combining information into formatted Excel reports, reducing process time from one business day to 10 minutes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This process took each team member one business day to complete; the attended robot they built completes it in just 10 minutes.",
+      "quote_location": "CAP pilot section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The attended robot directly performs the report generation task, with explicit before/after time comparison showing the robot's impact.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Media Operations hackathon automations expected to save 850+ hours annually",
+      "claim_description": "Citizen-led automations built during Media Operations hackathon are expected to save the team more than 850 hours of manual effort each year.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "employees built automations that are expected to save the team 850+ hours of manual effort each year",
+      "quote_location": "Hackathon results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The automations built by employees directly perform manual tasks, with projected time savings explicitly attributed to these automations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "850",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Citizen developer hackathons saved over 3,000 hours of manual effort",
+      "claim_description": "Citizen-developed attended automations created during two-day hackathons are estimated to have saved dentsu over 3,000 hours of manual effort.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Citizen developed attended automations are now estimated to have saved dentsu over 3,000 hours of manual effort just over the course of two-day hackathons.",
+      "quote_location": "Program results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The citizen-developed automations directly perform manual tasks, with cumulative time savings explicitly attributed to these automations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "3000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI copilot reduced media planning time-to-insight by 90%",
+      "claim_description": "Dentsu's predictive analytics copilot built with Azure AI reduced time-to-insight by 90%, turning weeks of manual analysis into minutes of conversational intelligence.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Dentsu achieved a 90% reduction in time-to-insight, turning weeks of manual analysis into minutes of conversational intelligence.",
+      "quote_location": "Outcome section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI copilot directly performs the analysis and insight generation, with explicit percentage reduction and before/after comparison attributed to the AI solution.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "90",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Automation enables employees to focus on strategic and creative work",
+      "claim_description": "By automating tedious tasks like timesheet reporting, invoicing, and data manipulation, employees gained more time to focus on strategic client interactions and creative campaign work.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "My automation is only a quick time saver, but this task is going to help tremendously with keeping our entire campaign process on track and providing more time to focus on creative work.",
+      "quote_location": "Employee testimonial",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Automation removes tedious tasks, contributing to employees' ability to focus on higher-value work, though the quality of strategic work itself is not directly performed by AI.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI copilot democratized access to analytics across teams",
+      "claim_description": "The conversational AI copilot enabled broader teams to self-serve insights without relying on data specialists, democratizing access to advanced analytics through natural language queries.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The solution also democratised access to analytics, enabling broader teams to self-serve insights without relying on data specialists.",
+      "quote_location": "Outcome section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI copilot directly provides analytics capabilities to non-technical users through natural language interface, enabling self-service that was previously unavailable.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Automation improved work-life balance and employee satisfaction",
+      "claim_description": "Dentsu employees reported improvements in work-life balance and found learning automation skills fun, with automation removing drudgery from daily work.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "It's really fun to learn a new skill and figure out the ways to build efficiencies into my day-to-day work.",
+      "quote_location": "Employee survey section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Automation contributes to improved work-life balance by removing tedious tasks, though the satisfaction itself is a human outcome influenced by multiple factors.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Dentsu is a global digital marketing communications company",
+      "claim_description": "Dentsu operates in 145 countries with around 45,000 employees, headquartered in London.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Dentsu is a global digital marketing communications company headquartered in London and operating in 145 countries with around 45,000 employees.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "temporal",
+      "claim_title": "Automation journey began in January 2018",
+      "claim_description": "Dentsu's automation journey started in January 2018 with the creation of its Automation Center of Excellence.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Dentsu's automation journey began in January of 2018 with the creation of its Automation Center of Excellence (COE)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Citizen Automation Program piloted in February 2020",
+      "claim_description": "Dentsu piloted its Citizen Automation Program (CAP) with the Media Finance unit in February 2020.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In February 2020, dentsu piloted CAP with its Media Finance unit.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Mission to elevate human potential through AI integration",
+      "claim_description": "Dentsu's Automation CoE operates with a mission to 'elevate human potential' by weaving AI into every business process globally, with the ultimate goal of arming all employees with a virtual assistant.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The ultimate goal is to arm all of our employees with a virtual assistant. There isn't a team or process that can't benefit from AI and RPA.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "Established Automation Center of Excellence",
+      "claim_description": "Dentsu created an Automation Center of Excellence (CoE) to drive enterprise-wide automation initiatives and govern the citizen automation program.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Dentsu's automation journey began in January of 2018 with the creation of its Automation Center of Excellence (COE)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Internal Automation Connective has 500+ members globally",
+      "claim_description": "Dentsu has an internal Automation Connective community with more than 500 members around the world who collaborate and share automations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Dentsu has an internal Automation Connective with more than 500 members around the world.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "Automation applied to finance processes",
+      "claim_description": "Dentsu applied automation to finance processes including timesheet reporting, invoice exporting and filing, and financial report preparation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Popular citizen-led automations included preparing and manipulating Microsoft Excel reports, exporting and filing invoices, timesheet reporting and email reminders",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.0",
+      "apqc_name": "Manage Financial Resources",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Automation applied to media planning and operations",
+      "claim_description": "Dentsu applied AI and automation to media planning workflows, campaign production tracking, and media operations processes.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "In one use case, the automation creates Microsoft Outlook reminders based on a Microsoft Excel campaign production chart.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "sectoral",
+      "claim_title": "Operating in media and digital marketing communications sector",
+      "claim_description": "Dentsu operates as one of the world's largest media agencies in the media and digital marketing communications industry.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Dentsu is a global digital marketing communications company",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "products_services",
+      "claim_title": "Technology partnership with UiPath and Microsoft",
+      "claim_description": "Dentsu partnered with UiPath for RPA and citizen automation capabilities, and with Microsoft for Azure-based AI copilot using Azure OpenAI and Azure AI Foundry.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Dentsu partnered with Microsoft to build a predictive analytics copilot using Azure Kubernetes Service, Azure OpenAI, and Azure AI Foundry.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "Automation applied to data management processes",
+      "claim_description": "Dentsu applied automation to data extraction, migration, downloading, transforming, and uploading data across systems.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the CoE built and deployed an army of 60 robots in just 30 days to complete a large-scale data extraction and migration project",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11.0",
+      "apqc_name": "Manage Information Technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "strategic_intent",
+      "claim_title": "Bottom-up and top-down automation strategy",
+      "claim_description": "Dentsu implemented a dual approach with enterprise-wide CoE-led automations (top-down) and citizen-led automation program (bottom-up) to maximize automation adoption.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Introducing citizen-led automation allows us to tackle the automation pipeline from both the top-down and the bottom-up.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

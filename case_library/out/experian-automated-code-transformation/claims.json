@@ -1,0 +1,589 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "75% reduction in data-building time",
+      "claim_description": "Continental Finance Company reduced data-building time by 75% after adopting Experian Assistant, demonstrating significant acceleration in model development processes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Continental Finance Company, for example, reduced data-building time by a remarkable 75% after adopting Experian Assistant.",
+      "quote_location": "Mid-article, under 'Developed in Collaboration with Leading Financial Institutions' section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The reduction is explicitly attributed to adopting Experian Assistant, a GenAI-powered toolset.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "75",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Model development time reduced from months to days or hours",
+      "claim_description": "Experian Assistant transforms model development processes, reducing timelines from months to days or even hours through GenAI-powered automation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By leveraging Generative AI (GenAI), this revolutionary solution slashes model development turning months-long processes into days\u2014or even hours.",
+      "quote_location": "Opening paragraph",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The time reduction is directly attributed to leveraging Generative AI through Experian Assistant.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "months to days/hours",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Democratized access to sophisticated analytics through natural language",
+      "claim_description": "Experian Assistant enables users to query data, write code, and build models using plain language, democratizing access to analytics previously requiring extensive technical expertise.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Experian Assistant allows users to query data, write code, and build models in plain language\u2014democratizing access to sophisticated analytics.",
+      "quote_location": "Under 'Empowering Data Scientists and Analysts' section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Natural language processing capabilities of Experian Assistant directly enable this democratization.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Accelerated development lifecycle through digital model building consultant",
+      "claim_description": "Experian Assistant provides developer support to accelerate the development lifecycle by functioning as a digital model building consultant available to users.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Experian Assistant focuses on developer support to accelerate the development lifecycle by having a digital model building consultant available to users.",
+      "quote_location": "Quote from Craig Focardi, Principal Analyst at Celent",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI assistant directly provides consultant-level support to accelerate development.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Streamlined model governance lifecycle automation",
+      "claim_description": "Experian Assistant for Model Risk Management automates documentation, provides customizable templates, and centralizes model governance while aligning with regulatory guidelines.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Financial institutions can now automate documentation, use and customize pre-built templates, and centralize model governance\u2014all while aligning with regulatory guidelines like SR 11-7 (US) and SS1/23 (UK).",
+      "quote_location": "Mid-article description of solution capabilities",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered Experian Assistant directly automates documentation and governance processes.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Enhanced productivity and collaboration for data scientists",
+      "claim_description": "The tool boosts productivity and fosters collaboration and accessibility, driving financial inclusion by broadening access to data-driven insights across organizations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The tool not only boosts productivity but also fosters collaboration and accessibility. This innovation will drive financial inclusion by broadening access to data-driven insights.",
+      "quote_location": "Under 'Empowering Data Scientists and Analysts' section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Experian Assistant's capabilities directly boost productivity and enable collaboration.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Proven cost savings through optimized analytics processes",
+      "claim_description": "Businesses achieve proven cost savings, enhanced data visibility, and faster product deployment by optimizing analytics processes with Experian Assistant.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By optimizing analytics processes, businesses can achieve proven cost savings, enhanced data visibility, and faster product deployment.",
+      "quote_location": "Under 'Developed in Collaboration with Leading Financial Institutions' section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost savings are achieved through AI-optimized analytics processes.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "proven cost savings",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Announcement at Money 20/20 in October 2024",
+      "claim_description": "Experian Assistant was unveiled at Money 20/20 in Las Vegas in October 2024.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Today at Money 20/20 in Las Vegas, Experian unveiled Experian Assistant",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Financial services industry focus",
+      "claim_description": "Experian Assistant is designed specifically for financial institutions and the financial services industry.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "a groundbreaking toolset that transforms analytics and modeling for financial institutions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Experian has over a decade of AI expertise",
+      "claim_description": "Experian brings more than ten years of experience in AI development to this solution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With more than a decade of AI expertise, Experian is leading the charge in responsible AI development.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "products_services",
+      "claim_title": "Integration with Experian Ascend Technology Platform",
+      "claim_description": "Experian Assistant is integrated into the Experian Ascend Technology Platform.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "Integrated into the Experian Ascend Technology Platform\u2122, Experian Assistant is designed to streamline data analytics processes",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "Developed in partnership with major financial institutions",
+      "claim_description": "Experian Assistant was developed in close collaboration with the world's largest financial institutions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "A standout feature of Experian Assistant is its development in close partnership with the world's largest financial institutions.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Continental Finance Company as customer",
+      "claim_description": "Continental Finance Company is a customer that adopted Experian Assistant.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Continental Finance Company, for example, reduced data-building time by a remarkable 75% after adopting Experian Assistant.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "Model development and analytics function",
+      "claim_description": "The solution supports model development, data analytics, and modeling lifecycle management.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Experian Assistant marks a significant leap forward in how businesses handle the modeling lifecycle.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10423",
+      "apqc_name": "Perform data analysis and modeling",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Model risk management and governance",
+      "claim_description": "Experian Assistant for Model Risk Management supports model governance lifecycle including documentation and validation.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "this first-of-its-kind solution helps financial institutions streamline the different stages of the model governance lifecycle\u2014from documentation to model validation.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10405",
+      "apqc_name": "Manage enterprise risk",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Commitment to responsible AI innovation",
+      "claim_description": "Experian emphasizes responsible AI development ensuring organizations benefit from advanced analytics without compromising privacy or ethical standards.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This debut underscores Experian's commitment to responsible AI innovation, ensuring that organizations benefit from advanced analytics without compromising on privacy or ethical standards.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "products_services",
+      "claim_title": "Partnership with ValidMind for Model Risk Management",
+      "claim_description": "Experian Assistant for Model Risk Management is powered by ValidMind technology.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Fully integrated with our industry-leading Ascend Platform\u2122 and powered by ValidMind",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "temporal",
+      "claim_title": "Model Risk Management solution introduced in July 2025",
+      "claim_description": "Experian Assistant for Model Risk Management was introduced in July 2025.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": null,
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": "URL date stamp: 2025/07/31",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "Regulatory compliance support",
+      "claim_description": "The solution aligns with regulatory guidelines including SR 11-7 (US) and SS1/23 (UK) for model risk management.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "all while aligning with regulatory guidelines like SR 11-7 (US) and SS1/23 (UK)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10130",
+      "apqc_name": "Manage regulatory compliance",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

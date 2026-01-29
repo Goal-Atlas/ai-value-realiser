@@ -1,0 +1,51 @@
+From automating ESG reporting to accelerating green finance and enhancing regulatory compliance, AI is driving efficiency, transparency and innovation. At the Microsoft and PwC Middle East Executive Roundtable, industry leaders in the region explored these themes and how AI and digital solutions are transforming corporate sustainability. Read the key insights here.
+As climate risks intensify and sustainability expectations evolve, organisations are under growing pressure to adapt. Navigating regulatory complexity while maintaining long-term growth is no easy task - especially when traditional reporting methods are slow, manual and no longer fit for purpose.
+AI has emerged as a powerful enabler here - helping organisations automate ESG data collection, enhance decision-making and accelerate carbon reduction. According to PwC’s 2025 AI Business Predictions, AI can also simplify compliance and unlock actionable sustainability insights across teams—empowering smarter, faster decisions at scale.
+This shift is timely and critical. Sustainability has moved from the periphery to the core of business strategy. No longer a side initiative, it's now central to long-term viability and competitive advantage. As digital transformation gains momentum and climate risks escalate, forward-looking organisations are rethinking their strategies—and increasingly view sustainability as a driver of growth and innovation. AI is enabling real-time environmental monitoring, automating complex reporting and supporting operational efficiencies - helping organisations meet rising expectations from investors and regulators alike.
+This growing momentum was clearly reflected in the Microsoft x PwC Executive Roundtables held earlier this year in Dubai and Riyadh. Led by PwC Middle East Partner, Amal Larhlid, the sessions brought together industry leaders to explore how data and AI are transforming sustainability strategies. Microsoft's Middle East and Asia Sustainability Lead, Ahmed Ameen Ashour, offered insights from their ESG journey, while PwC Partner and Middle East Strategy Leader Stephen Anderson, emphasised the region’s unique strengths in renewable energy.
+These conversations mirror the broader work underway across PwC Middle East, where teams are powering the next wave of business transformation in the region with AI-enabled sustainability solutions in collaboration with Microsoft and OpenAI - across markets including the UAE, Saudi Arabia, Jordan and Egypt.
+Among the solutions discussed, Microsoft Cloud for Sustainability stood out as a key enabler—designed to help organisations turn complex ESG data into actionable insights. By automating data ingestion, integrating supplier information and supporting lifecycle assessments, the platform enables more accurate carbon footprint calculations and meaningful performance tracking.
+As Microsoft MEA’s Sustainability Lead Ahmed Ameen Ashour put it, building a strong data foundation is essential to unlocking AI’s full potential.
+You can’t reduce what you can’t measure. And if you don’t have the data, AI is not useful.
+The roundtable sessions drew on insights from The Longevity Key for Businesses—a joint study by PwC, Oxford University and Microsoft. During the session, PwC Germany’s Andreas Feiner and Michael Obersteiner from Oxford University outlined how AI can strengthen resilience across sectors like energy, food and infrastructure.
+Their research reinforced the growing importance of ESG transparency to shareholders, investors and customers. With regulations tightening and expectations rising, many investors are now willing to pay a premium for companies with credible, verifiable sustainability strategies.
+25% of investors are willing to pay up to a 50% premium for companies that integrate sustainability.
+At the event, Stephen Anderson, PwC Middle East Partner and Strategy Leader and Vijay Bains, Group Chief Sustainability Officer of Emirates NBD, discussed the bank’s investment in sustainable finance and emissions tracking. While Scope 1 and 2 are mostly automated using Microsoft tools, Scope 3 remains challenging due to its complexity and scale. The bank is working toward improving Scope 3 automation over the next 18–24 months.
+Bains noted that regulatory compliance is increasingly complex, requiring alignment across jurisdictions. Financial incentives for green loans remain limited and government-backed schemes will be key to scaling impact. The bank is also addressing social ESG metrics, setting leadership targets for women and integrating gender and wage KPIs into financing.
+Sustainability needs to pay for itself. It's about making sustainable profit central to the business model.
+The event concluded with an open discussion between the audience and industry experts, highlighting several critical themes. These are:
+AI is rapidly advancing from a reporting tool to a strategic enabler—driving emissions cuts, improving risk management and supporting compliance across industries.
+Businesses are harnessing AI to automate ESG reporting, enhance accuracy and reduce compliance burdens.
+There is a growing need for transparent and ethical AI governance in sustainability applications to ensure responsible use and public trust.
+Global spotlight: Schneider Electric uses AI and digital twin technologies to optimise energy usage and reduce carbon emissions across industrial operations. The company helps clients monitor real-time performance, streamline ESG reporting and achieve measurable sustainability targets.1
+Despite growing demand, access to affordable sustainable finance remains uneven - limiting the pace and scale of climate investment.
+Organisations face limited financial incentives and low-interest rate discounts on sustainable finance deals.
+Investors and regulators are pushing for deeper ESG integration in financial decisions.
+Open banking and ESG-linked financial products are emerging as tools to steer investment towards climate solutions.
+There is a call for Middle Eastern investors to deploy capital locally and grow the region’s climate tech ecosystem.
+Global spotlight: The European Investment Bank’s Climate Bank Roadmap is setting benchmarks by offering favourable financing terms tied to clear climate criteria - mobilising billions in green investment across Europe.2
+Fragmented ESG data and inconsistent standards are major barriers to effective sustainability strategies and regulatory compliance.
+Companies struggle to track and report ESG metrics due to data silos and a lack of shared frameworks.
+Harmonising ESG reporting and deploying AI-powered tools can boost supply chain transparency and comparability.
+Cross-industry collaboration is key to establishing a universal ESG reporting standard.
+Global spotlight: Nestlé is using AI and advanced data platforms to improve ESG data transparency and standardisation across its supply chain. By digitising supplier disclosures and integrating data from over 500,000 farms, Nestlé enhances traceability, streamlines reporting and aligns with evolving global frameworks such as the EU’s CSRD and TNFD.3
+Policy is emerging as a powerful lever to shape and scale sustainability strategies—but businesses need predictability to act boldly.
+Governments across the region are advancing regulations, including carbon pricing, that will reshape corporate strategy.
+Incentives for sustainable infrastructure and innovation are needed to crowd in private investment.
+Businesses face a patchwork of regulatory requirements and call for clearer, more harmonised policy signals.
+Global spotlight: Singapore’s Green Plan 2030 pairs regulatory clarity with targeted taxonomies and incentives—accelerating green investments and innovation across industries.4
+Sustainable supply chains and carbon markets are gaining attention—but both require stronger regulation, incentives and data integration to fulfil their potential.
+Businesses face supply chain challenges due to unclear sustainability guidelines and limited incentives.
+Interest in carbon credits is rising, though regulatory uncertainty remains.
+Companies are tailoring products and services to meet rising sustainability expectations from stakeholders.
+Global spotlight: Unilever’s Climate Transition Action Plan includes end-to-end supply chain tracking using blockchain and AI, with performance linked to supplier incentives and executive pay.5
+The Microsoft x PwC Roundtables in Dubai and Riyadh highlighted the need for a collaborative, innovation-driven approach to sustainability. AI and digital tools are unlocking new opportunities for efficiency and transparency, while financial and regulatory frameworks are evolving to support climate-focused investments. However, overcoming key challenges - such as scaling financial incentives, standardising ESG reporting and ensuring ethical AI adoption - will be critical in the journey toward net zero.
+Beyond the discussions, the sessions fostered collaboration, knowledge sharing and fresh thinking. As organisations continue to navigate the complexities of sustainability, they must leverage technology-driven insights and align with evolving regulations to ensure that climate action remains both impactful and commercially viable.
+1 Schneider Electric Sustainability Impact Report 2023 – https://www.se.com/ww/en/about-us/sustainability/impact-reports.jsp
+2 European Investment Bank. The EIB Group Climate Bank Roadmap 2021–2025. https://www.eib.org/en/publications/the-eib-group-climate-bank-roadmap
+3 Nestlé Annual Report and Creating Shared Value Progress Report 2023 – https://www.nestle.com/investors/annual-report
+4 Singapore Government. Singapore Green Plan 2030. https://www.greenplan.gov.sg/
+5 Unilever. Climate Transition Action Plan 2024. https://www.unilever.com/
+Chief Strategy & Technology Officer, PwC Middle East
+Amal Larhlid
+Partner, EMEA Government & Public Sector Sustainability Lead, PwC Middle East

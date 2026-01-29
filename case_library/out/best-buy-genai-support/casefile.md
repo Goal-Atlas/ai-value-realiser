@@ -1,0 +1,767 @@
+---
+case_id: best-buy-genai-support
+organisation: Best Buy
+title: GenAI Customer Support Enhancement
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer...
+  url: https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer-experience-genai
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://cloud.google.com/customers/bestbuy
+  url: https://cloud.google.com/customers/bestbuy
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.pymnts.com/partnerships/2024/best-buy-teams-with-google-artificial-i...
+  url: https://www.pymnts.com/partnerships/2024/best-buy-teams-with-google-artificial-intelligence-powered-virtual-assistant/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.retailbrew.com/stories/2024/04/10/best-buy-announces-genai-customer-...
+  url: https://www.retailbrew.com/stories/2024/04/10/best-buy-announces-genai-customer-service-assistant-days-after-geek-squad
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Gen AI virtual assistant enables customer self-service support
+  claim_description: Best Buy deployed a gen AI-powered virtual assistant that allows
+    customers to troubleshoot product issues, modify order delivery and scheduling,
+    and manage subscriptions and memberships through self-service on BestBuy.com,
+    the app, or phone support.
+  source_ids:
+  - S1
+  - S3
+  source_quote: a new gen AI-powered virtual assistant that provides customers with
+    a self-service support option when they shop on BestBuy.com, use the Best Buy
+    app, or call Best Buy customer support.
+  quote_location: S1, paragraph 3
+  ai_attribution: direct
+  attribution_evidence: The virtual assistant directly provides self-service support
+    capabilities to customers, with gen AI as the core enabling technology.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Gen AI tools enable care agents to resolve customer issues faster
+  claim_description: Gen AI tools assess customer conversations in real-time, provide
+    relevant recommendations and guidance to care agents, detect sentiment, and use
+    call data to prevent future issues, enabling faster resolution of customer queries.
+  source_ids:
+  - S1
+  - S3
+  source_quote: The tools assess customer conversations in real-time and provide relevant
+    recommendations and guidance. They can also detect sentiment and use data from
+    calls to prevent similar issues in the future.
+  quote_location: S1, paragraph 4
+  ai_attribution: direct
+  attribution_evidence: Gen AI tools directly enable agents to solve queries faster
+    through real-time assessment, recommendations, and sentiment detection.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Gen AI automates routine tasks for care agents
+  claim_description: Gen AI tools automate routine tasks such as navigating knowledge
+    bases, allowing agents to spend less time searching for information and more time
+    understanding and empathizing with customers.
+  source_ids:
+  - S1
+  source_quote: Other tools automate routine tasks such as navigating knowledge bases,
+    so agents can spend less time searching for info and more time understanding and
+    empathizing with the customer.
+  quote_location: S1, paragraph 4
+  ai_attribution: direct
+  attribution_evidence: Gen AI directly automates knowledge base navigation, freeing
+    agent time for higher-value customer interaction.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Vertex AI accelerated production cycles through process automation
+  claim_description: Best Buy used Vertex AI to automate processes, significantly
+    accelerating experimentation-to-production cycles and enabling teams to deliver
+    solutions faster.
+  source_ids:
+  - S2
+  source_quote: Accelerated production cycles by automating processes with Vertex
+    AI
+  quote_location: S2, headline
+  ai_attribution: direct
+  attribution_evidence: Vertex AI directly enabled automation of processes that accelerated
+    production cycles.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Gen AI reduced cost of product Q&A development
+  claim_description: Best Buy developed product Q&As at a fraction of the previous
+    cost using Vertex AI and Gemini to generate accurate answers based on product
+    manuals and vendor information.
+  source_ids:
+  - S2
+  source_quote: Developed product Q&As at a fraction of the previous cost
+  quote_location: S2, headline
+  ai_attribution: direct
+  attribution_evidence: Gen AI directly enabled cost-efficient generation of product
+    Q&As through automated answer generation.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Gift Finder tool personalizes product recommendations using gen AI
+  claim_description: Best Buy's Gift Finder tool, built on Vertex AI, uses generative
+    AI to simulate a human-like shopping assistant that helps customers select gifts
+    by understanding their preferences and personalizing recommendations.
+  source_ids:
+  - S2
+  source_quote: Its Gift Finder tool, built on Vertex AI, uses generative AI to simulate
+    a human-like shopping assistant, helping customers select thoughtful gifts by
+    understanding their preferences.
+  quote_location: S2, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: Gen AI directly powers the Gift Finder tool to understand
+    preferences and personalize recommendations.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  - innovation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Gen AI summarizes product reviews to improve buying decisions
+  claim_description: Best Buy uses gen AI summarization capabilities to condense thousands
+    of product reviews into concise insights, improving customer trust and streamlining
+    buying decisions.
+  source_ids:
+  - S2
+  source_quote: summarization capabilities help the team condense thousands of product
+    reviews into concise insights, improving customer trust and streamlining buying
+    decisions.
+  quote_location: S2, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: Gen AI directly summarizes reviews to provide concise insights
+    that improve trust and decision-making.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Gen AI solutions increased customer satisfaction
+  claim_description: Best Buy's gen AI innovations, including personalization features
+    and support tools, have increased customer satisfaction through improved trust
+    and streamlined experiences.
+  source_ids:
+  - S2
+  source_quote: Together, these innovations have increased customer satisfaction,
+    improved trust, and optimized revenue generation.
+  quote_location: S2, paragraph 3
+  ai_attribution: direct
+  attribution_evidence: Gen AI innovations are directly credited with increasing customer
+    satisfaction through multiple deployed features.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: Gen AI solutions optimized revenue generation
+  claim_description: Best Buy's gen AI innovations have optimized revenue generation
+    through improved customer experiences, personalization, and trust-building features.
+  source_ids:
+  - S2
+  source_quote: Together, these innovations have increased customer satisfaction,
+    improved trust, and optimized revenue generation.
+  quote_location: S2, paragraph 3
+  ai_attribution: contributing
+  attribution_evidence: Gen AI contributes to revenue optimization through improved
+    customer satisfaction and trust, but revenue is influenced by multiple factors.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Gen AI assistant for store employees improves efficiency
+  claim_description: Best Buy is developing a gen AI-powered assistant for store employees
+    to provide easier access to company resources and product guides, allowing them
+    to help customers more efficiently.
+  source_ids:
+  - S3
+  source_quote: we're working to develop a gen AI-powered assistant to provide easier
+    access to things like company resources and product guides. This will allow them
+    to help customers more efficiently than ever.
+  quote_location: S3, paragraph 6
+  ai_attribution: direct
+  attribution_evidence: Gen AI assistant directly enables store employees to access
+    resources faster and help customers more efficiently.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Best Buy is a consumer electronics retailer
+  claim_description: Best Buy is a retailer specializing in consumer electronics,
+    computing and mobile phones, appliances, entertainment products, and home office
+    products.
+  source_ids:
+  - S2
+  source_quote: Best Buy Co Inc (Best Buy) is a retailer specializing in consumer
+    electronics. The company's product portfolio includes consumer electronics, computing
+    and mobile phones, appliances, entertainment products, and home office products.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Best Buy operates in the retail industry
+  claim_description: Best Buy operates in the retail sector, specifically electronics
+    retail.
+  source_ids:
+  - S2
+  source_quote: 'Industry: Retail'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: organisational
+  claim_title: Best Buy is located in the United States
+  claim_description: Best Buy is headquartered and operates in the United States.
+  source_ids:
+  - S2
+  source_quote: 'Location: United States'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: strategic_intent
+  claim_title: Best Buy aims to personalize and humanize the shopping experience
+  claim_description: Best Buy's strategy focuses on implementing gen AI in strategic
+    ways to personalize and humanize the consumer electronics shopping experience
+    while solving real human needs.
+  source_ids:
+  - S1
+  source_quote: At Best Buy we look at how gen AI can help enable our overall enterprise
+    strategy while solving real human needs. We're implementing it in very strategic
+    ways across our organization to personalize and humanize the consumer electronics
+    shopping experience like no one else can.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: functional
+  claim_title: Gen AI applied to customer service and support
+  claim_description: Best Buy is applying gen AI to customer service and support functions,
+    including virtual assistants and care agent tools.
+  source_ids:
+  - S1
+  - S3
+  source_quote: a new gen AI-powered virtual assistant that provides customers with
+    a self-service support option when they shop on BestBuy.com, use the Best Buy
+    app, or call Best Buy customer support.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10218'
+  apqc_name: Manage customer service
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: Gen AI applied to product information management
+  claim_description: Best Buy uses gen AI to generate product Q&As and summarize product
+    reviews to support customer buying decisions.
+  source_ids:
+  - S2
+  source_quote: The team also uses Gemini to generate accurate answers to customers'
+    product queries, based on product manuals and vendor-provided product information
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10101'
+  apqc_name: Develop vision and strategy
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: products_services
+  claim_title: Best Buy offers Geek Squad and membership services
+  claim_description: Best Buy provides Geek Squad subscriptions and My Best Buy Memberships
+    as part of its service offerings.
+  source_ids:
+  - S1
+  - S2
+  source_quote: manage their software and Geek Squad subscriptions and My Best Buy
+    Memberships™
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: organisational
+  claim_title: Best Buy partnered with Accenture and Google
+  claim_description: Best Buy partnered with Accenture and Google to develop innovative,
+    personalized gen AI solutions for customer and employee support.
+  source_ids:
+  - S1
+  - S3
+  source_quote: The company has teamed up with Accenture and Google to develop innovative,
+    personalized gen AI solutions that enhance the support experience for both customers
+    and employees.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: temporal
+  claim_title: Gen AI virtual assistant launched in April 2024
+  claim_description: Best Buy announced the launch of its gen AI-powered virtual assistant
+    in April 2024.
+  source_ids:
+  - S3
+  source_quote: Best Buy Teams With Google on AI-Powered Virtual Assistant By PYMNTS
+    | April 9, 2024
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: scale
+  claim_title: Best Buy has thousands of care agents
+  claim_description: Best Buy employs thousands of customer care agents who are being
+    equipped with gen AI tools.
+  source_ids:
+  - S1
+  source_quote: The virtual assistant connects them to one of Best Buy's thousands
+    of care agents who are also equipped with gen AI tools
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: sectoral
+  claim_title: Only 31% of organizations have invested significantly in gen AI
+  claim_description: While 97% of organizations believe gen AI will be transformative,
+    only 31% have made significant investments in the technology as of the time of
+    reporting.
+  source_ids:
+  - S1
+  source_quote: 97% of organizations we surveyed believe it's going to be transformative—only
+    31% have invested significantly in the technology.
+  verification_status: verified
+  verification_confidence: medium
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: organisational
+  claim_title: Brian Tilzer is Chief Digital, Analytics and Technology Officer
+  claim_description: Brian Tilzer serves as Best Buy's Chief Digital, Analytics and
+    Technology Officer.
+  source_ids:
+  - S1
+  source_quote: Brian Tilzer / Chief Digital, Analytics and Technology Officer, Best
+    Buy
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 10
+    verified: 9
+    needs_review: 1
+    rejected: 0
+    by_attribution:
+      direct: 9
+      contributing: 1
+  context_claims:
+    total: 12
+    verified: 12
+    unverified: 0
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: true
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# GenAI Customer Support Enhancement
+
+## Executive Summary
+
+Best Buy: Gen AI virtual assistant enables customer self-service support.
+
+## Key Findings
+
+- **Gen AI virtual assistant enables customer self-service support** — verified (method)
+  - Quote: "a new gen AI-powered virtual assistant that provides customers with a self-service support option when they shop on BestBuy.com, use the Best Buy app, or call Best Buy customer support."
+
+- **Gen AI tools enable care agents to resolve customer issues faster** — verified (method)
+  - Quote: "The tools assess customer conversations in real-time and provide relevant recommendations and guidance. They can also detect sentiment and use data from calls to prevent similar issues in the future."
+
+- **Gen AI automates routine tasks for care agents** — verified (method)
+  - Quote: "Other tools automate routine tasks such as navigating knowledge bases, so agents can spend less time searching for info and more time understanding and empathizing with the customer."
+
+- **Vertex AI accelerated production cycles through process automation** — verified (method)
+  - Quote: "Accelerated production cycles by automating processes with Vertex AI"
+
+- **Gen AI reduced cost of product Q&A development** — verified (method)
+  - Quote: "Developed product Q&As at a fraction of the previous cost"
+
+- **Gift Finder tool personalizes product recommendations using gen AI** — verified (method)
+  - Quote: "Its Gift Finder tool, built on Vertex AI, uses generative AI to simulate a human-like shopping assistant, helping customers select thoughtful gifts by understanding their preferences."
+
+- **Gen AI summarizes product reviews to improve buying decisions** — verified (method)
+  - Quote: "summarization capabilities help the team condense thousands of product reviews into concise insights, improving customer trust and streamlining buying decisions."
+
+- **Gen AI solutions increased customer satisfaction** — verified (method)
+  - Quote: "Together, these innovations have increased customer satisfaction, improved trust, and optimized revenue generation."
+
+- **Gen AI solutions optimized revenue generation** — verified (method)
+  - Quote: "Together, these innovations have increased customer satisfaction, improved trust, and optimized revenue generation."
+
+- **Gen AI assistant for store employees improves efficiency** — needs_review (method)
+  - Quote: "we're working to develop a gen AI-powered assistant to provide easier access to things like company resources and product guides. This will allow them to help customers more efficiently than ever."
+
+## Sources
+
+- **S1**: https://www.accenture.com/us-en/case-studies/data-ai/best-buy-humanizes-customer-experience-genai
+- **S2**: https://cloud.google.com/customers/bestbuy
+- **S3**: https://www.pymnts.com/partnerships/2024/best-buy-teams-with-google-artificial-intelligence-powered-virtual-assistant/
+- **S4**: https://www.retailbrew.com/stories/2024/04/10/best-buy-announces-genai-customer-service-assistant-days-after-geek-squad

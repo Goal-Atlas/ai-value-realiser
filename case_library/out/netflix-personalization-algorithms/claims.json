@@ -1,0 +1,81 @@
+{
+  "value_claims": [],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Netflix as the organization",
+      "claim_description": "Netflix is the organization implementing personalization and recommendation systems using machine learning.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Netflix Research",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Machine learning research area",
+      "claim_description": "Netflix conducts research in machine learning as a core research area.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Research Areas\nPublications\nJobs\nHome\nResearch Areas\nPublications\nJobs",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10399",
+      "apqc_name": "Manage information technology (IT) (10399)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Entertainment/Streaming sector",
+      "claim_description": "Netflix operates in the entertainment streaming sector.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Netflix Research",
+      "verification_status": "inferred",
+      "verification_confidence": "high",
+      "inferred_from": "Netflix is a known streaming entertainment company",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

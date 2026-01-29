@@ -1,0 +1,25 @@
+Grupo Globo, Latin America's largest media company, stands as a testament to the power of digital transformation. With a vast audience of hundreds of millions across Brazil, Globo's channels are a staple in households, delivering diverse content from news to entertainment. Amid the global shift towards cloud computing, Globo has pioneered a move away from traditional on-premises setups to embrace cloud-native solutions, revolutionizing their post-production workflows.
+Industry: Broadcast, Media & Entertainment
+Country: Brazil
+Objectives
+- Move VFX Machines to the Cloud: Transitioning from on-premises to cloud-based workflows for greater scalability and flexibility.
+- Remote Work Enablement: Allowing artists and editors to work from anywhere, maintaining high productivity and performance.
+- Sustainability Goals: Reducing the carbon footprint to meet ESG targets by 2030.
+Approach
+Strategic Partnerships: Globo partnered with CREE8*, integrating HP Anyware software into their virtual post-production platform, leveraging Google Cloud to deploy VFX workflows. This collaboration aimed to modernize Globo's operations, enabling remote access for editors and VFX designers across South America.
+Technology Implementation:
+- Google Cloud: Provided the scalable infrastructure necessary for heavy VFX workloads.
+- CREE8* Enterprise: Offered a full end-to-end operating environment that supported creative, IT, enterprise, and finance teams simultaneously. *NOTE: CREE8 recently acquired BeBop Technology.
+- HP Anyware: Utilized PCoIP (PC-over-IP) technology for secure and efficient remote workstation connections, ensuring high performance and color accuracy crucial for post-production tasks.
+Business Outcomes
+- Enhanced Flexibility: The cloud-based solution allowed Globo to scale their post-production workflows dynamically, accommodating the rapid pace of content creation, including the production of multiple telenovelas.
+- Sustainability Achievements: By using lightweight endpoint devices connected to powerful virtual workstations, Globo reduced their dependence on heavy on-premises hardware, contributing to their ESG goals.
+- Agility and Modernization: The shift to cloud operations enabled Globo to become more agile and productive, setting a precedent in the media and entertainment industry for adopting cloud-native solutions.
+Key Benefits
+- Remote Accessibility: Editors and VFX designers could work from any location, ensuring uninterrupted productivity.
+- High Performance: Despite remote work conditions, the technology stack ensured high-performance levels akin to on-premises setups.
+- Security: HP Anyware's PCoIP technology provided robust security by ensuring no data left the data center, reducing the risk of data breaches.
+Conclusion
+Grupo Globo's strategic move to cloud-native solutions, supported by Google Cloud, CREE8, and HP Anyware, showcases a successful digital transformation in the media and entertainment industry. This case study highlights the importance of embracing innovative technologies to achieve scalability, flexibility, and sustainability, setting a benchmark for other media companies worldwide. Globo's journey underscores the transformative power of the cloud, paving the way for a future where media production can seamlessly blend creativity with cutting-edge technology.
+Attachment
+For detailed insights, you can refer to the complete case study document below:

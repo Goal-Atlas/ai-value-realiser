@@ -1,0 +1,516 @@
+{
+  "case_id": "intercom-fin-ai-agent-resolves-millions-queries-ships-capabilities",
+  "build_started": "2026-01-29T10:06:17.012247",
+  "build_completed": "2026-01-29T10:06:19.288692",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Intercom AI Customer Service Agent Performance Claims",
+      "Intercom AI Customer Service Agent Performance Claims"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://www.intercom.com/blog/announcing-fin-ai-copilot/",
+        "rank": 1
+      },
+      {
+        "url": "https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/",
+        "rank": 2
+      },
+      {
+        "url": "https://www.intercom.com/blog/whats-new-with-fin-3/",
+        "rank": 3
+      },
+      {
+        "url": "https://www.intercom.com/blog/headlines-from-pioneer-2025/",
+        "rank": 4
+      },
+      {
+        "url": "https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://www.intercom.com/blog/announcing-fin-ai-copilot/",
+      "https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/",
+      "https://www.intercom.com/blog/whats-new-with-fin-3/",
+      "https://www.intercom.com/blog/headlines-from-pioneer-2025/",
+      "https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.intercom.com/blog/announcing-fin-ai-copilot/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4992,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.intercom.com/blog/announcing-fin-2-ai-agent-customer-service/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 7198,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.intercom.com/blog/whats-new-with-fin-3/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 15610,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.intercom.com/blog/headlines-from-pioneer-2025/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 9528,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://www.smartcustomerservice.com/Articles/News-Briefs/Intercom-Releases-Fin-2-AI-Agent-166314.aspx",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 3155,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "Intercom Fin AI Agent (versions 1, 2, and 3)",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 12,
+    "context_claims_count": 15,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 295,
+        "char_offset_end": 359,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 364,
+        "char_offset_end": 409,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1232,
+        "char_offset_end": 1338,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1778,
+        "char_offset_end": 1869,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1778,
+        "char_offset_end": 1869,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1909,
+        "char_offset_end": 1956,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1797,
+        "char_offset_end": 1908,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-008",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 154,
+        "char_offset_end": 262,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-009",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 264,
+        "char_offset_end": 305,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-010",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 311,
+        "char_offset_end": 362,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-011",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-012",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 1396,
+        "char_offset_end": 1520,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1221,
+        "char_offset_end": 1343,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S5",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 166,
+        "char_offset_end": 292,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S5",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 46,
+        "char_offset_end": 154,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 146,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1822,
+        "char_offset_end": 1907,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 76,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1266,
+        "char_offset_end": 1342,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1998,
+        "char_offset_end": 2136,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S2",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4384,
+        "char_offset_end": 4464,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S3",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 315,
+        "char_offset_end": 404,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S4",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2698,
+        "char_offset_end": 2855,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1232,
+        "char_offset_end": 1338,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-013",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6405,
+        "char_offset_end": 6540,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-014",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 6424,
+        "char_offset_end": 6528,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-015",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-015",
+        "source_id": "S4",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 944,
+        "char_offset_end": 1082,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

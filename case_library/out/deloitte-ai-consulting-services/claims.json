@@ -1,0 +1,692 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Low AI agent production deployment rate reveals scaling challenges",
+      "claim_description": "Only 11% of organizations have successfully deployed AI agents in production, indicating significant barriers in moving from experimentation to operational deployment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "only 11% have successfully deployed these systems in production",
+      "quote_location": "AI agents section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The metric directly measures AI agent deployment success rates across organizations",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "11",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Majority of GenAI experiments face scaling limitations",
+      "claim_description": "More than two-thirds of organizations report that 30% or fewer of their GenAI experiments will be fully scaled in the next 3-6 months, revealing organizational change constraints.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "More than two-thirds of respondents say that 30% or fewer of their experiments will be fully scaled in the next three to six months",
+      "quote_location": "Adoption is moving at the speed of business section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Metric directly measures GenAI experiment scaling rates and organizational adoption velocity",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Regulatory compliance concerns increase as top GenAI barrier",
+      "claim_description": "Regulatory compliance concerns increased 10 percentage points from 28% to 38% as the top barrier to GenAI development and deployment.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Concerns around regulatory compliance has emerged as the top barrier holding organizations back from developing and deploying GenAI tools and applications \u2013 increasing 10 percentage points from the Wave 1 survey (28%) to Wave 4 (38%)",
+      "quote_location": "Regulatory and risk concerns section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Metric measures barriers to AI adoption rather than direct value creation",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "38",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "IT function leads in advanced GenAI implementation",
+      "claim_description": "28% of organizations report their most advanced GenAI initiative is in the IT function, indicating IT as the leading area for GenAI maturity.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "GenAI usage in IT appears to be furthest along, with 28% saying their most advanced initiative is in that function",
+      "quote_location": "Scaling is still a work in progress section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Metric directly measures GenAI implementation maturity by functional area",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "28",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Cybersecurity GenAI implementations exceed ROI expectations",
+      "claim_description": "44% of organizations report that cybersecurity GenAI implementations have ROI that surpassed expectations, the highest of any function.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Cybersecurity implementations have also emerged as a standout, with 44% saying ROI has surpassed their expectations, more than any other function",
+      "quote_location": "Scaling is still a work in progress section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Metric directly measures ROI performance of GenAI in cybersecurity relative to expectations",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "44",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Majority exploring autonomous agent development",
+      "claim_description": "26% of organizations are exploring autonomous agent development to a large extent, with an additional 42% exploring to some extent, totaling 68% engagement.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "26% of surveyed organizations already exploring autonomous agent development to a large extent and 42% to some extent",
+      "quote_location": "Agentic AI section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Metric directly measures organizational engagement with agentic AI development",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "26",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Governance implementation requires extended timeframes",
+      "claim_description": "69% of organizations indicate that fully implementing a GenAI governance strategy will take over a year to resolve.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Sixty-nine percent of respondents say fully implementing a governance strategy will take over a year to resolve",
+      "quote_location": "Regulatory and risk concerns section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Metric measures governance implementation timeline, a prerequisite for AI value but not direct value creation",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "69",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Deloitte serves Fortune 500 and private companies globally",
+      "claim_description": "Deloitte provides services to nearly 90% of Fortune 500 companies and more than 8,500 U.S.-based private companies",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Deloitte provides industry-leading audit, consulting, tax and advisory services to many of the world's most admired brands, including nearly 90% of the Fortune 500\u00ae and more than 8,500 U.S.-based private companies",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "Deloitte operates as global professional services network",
+      "claim_description": "Deloitte network spans more than 150 countries and territories with approximately 470,000 people worldwide",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "source_quote": "our network of member firms spans more than 150 countries and territories. Learn how Deloitte's approximately 470,000 people worldwide connect for impact",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Tech Trends report published annually for 17 years",
+      "claim_description": "Deloitte has tracked emerging technologies through Tech Trends report for 17 years as of 2026",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "For 17 years, 'Tech Trends' has tracked emerging technologies poised to reshape business",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "Tech Trends 2026 forecasts 18-24 month technology impact",
+      "claim_description": "The Tech Trends 2026 report provides clarity on business impact expected over the next 18 to 24 months",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "provide clarity and confidence about the business and mission impact expected over the next 18 to 24 months",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "products_services",
+      "claim_title": "Deloitte launched Human Capital AI solution suite in June 2025",
+      "claim_description": "Deloitte announced Workforce Analyzer and Workforce Planner+ as part of Human Capital AI solution suite on June 24, 2025",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "NEW YORK, June 24, 2025 \u2014 Deloitte announced the launch of its Human Capital AI solution suite, featuring Workforce Analyzer and Workforce Planner+",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "functional",
+      "claim_title": "Workforce planning and strategic deployment capabilities",
+      "claim_description": "Workforce Planner+ provides AI-driven workforce planning with real-time insights for role requirements, costs and talent sourcing",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Workforce Planner+ is an AI-driven solution designed to simplify workforce planning and strategic deployment. Modeling scenarios from numerous projects provides real-time insights that facilitate rapid assessment of role requirements, costs and talent sourcing",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "7.0",
+      "apqc_name": "Manage Human Resources",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "AI impact assessment on workforce dynamics",
+      "claim_description": "Workforce Analyzer examines AI impact on workforce dynamics to improve productivity, manage costs and encourage innovation",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Workforce Analyzer uses Generative AI to assist in workforce management and operational efficiency. This solution examines the impact of AI on workforce dynamics, helping organizations improve productivity, manage costs and encourage innovation",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "7.0",
+      "apqc_name": "Manage Human Resources",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "products_services",
+      "claim_title": "HR AI maturity model and workflow library launched",
+      "claim_description": "Deloitte provides HR AI Maturity Model, Diagnostic and Agentic AI Workflow Library with 300+ reimagined HR workflows",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "HR AI Maturity Model, Diagnostic and Agentic AI Workflow Library provides a comprehensive toolkit to help accelerate the AI journey for HR... The agentic AI workflow library provides 300+ HR workflows reimagined based on the latest reasoning",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "temporal",
+      "claim_title": "State of GenAI report fourth quarterly edition published January 2025",
+      "claim_description": "Deloitte AI Institute published fourth quarterly State of Generative AI in the Enterprise report in January 2025",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "DAVOS, Switzerland, Jan. 21, 2025... The Deloitte AI Institute\u2122 today unveiled the fourth quarterly edition of its State of Generative AI in the Enterprise report",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "scale",
+      "claim_title": "GenAI survey covers 2,773 leaders across 14 countries",
+      "claim_description": "Survey conducted July-September 2024 with 2,773 director- to C-suite-level respondents across 14 countries and six industries",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "based on a survey of 2,773 director- to C-suite-level respondents across 14 countries... This wave of the survey, conducted between July and September 2024, connected with 2,773 AI-savvy business and technology leaders",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "sectoral",
+      "claim_title": "GenAI research covers six major industry sectors",
+      "claim_description": "Survey covers consumer; energy, resources and industrials; financial services; life sciences and health care; technology, media and telecom; and government sectors",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "major organizations across 14 countries and six industries: consumer; energy, resources and industrials; financial services; life sciences and health care; technology, media and telecom; and government and public services",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "strategic_intent",
+      "claim_title": "Focus on bridging experimentation to impact gap",
+      "claim_description": "Deloitte emphasizes that the gap between experimentation and impact is where competitive advantage is won or lost",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ultimately, the gap between experimentation and impact is where competitive advantage is won or lost. Those who bridge it now are better positioned to shape their industries",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "organisational",
+      "claim_title": "Deloitte has 180 years of service history",
+      "claim_description": "Deloitte organization has been providing services for 180 years",
+      "source_ids": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Bringing 180 years of service, our network of member firms spans more than 150 countries and territories",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "products_services",
+      "claim_title": "Strategic alliances with leading technology companies",
+      "claim_description": "Deloitte has established strategic alliances with leading technology companies to deliver AI and data offerings",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Deloitte has established strategic alliances with leading technology companies to deliver innovative, agile, differentiated, and market-first offerings with AI and data",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "strategic_intent",
+      "claim_title": "Partnership with Salesforce on workforce transformation",
+      "claim_description": "Deloitte collaborates with Salesforce to provide workforce insights using skills data for AI implementation",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Deloitte's Workforce Analyzer, combined with robust skills data, gives organizations a deep understanding of AI's impact on their talent, helping them make more informed decisions and optimize their workforce during this transformation. - Ruth Hickin, VP, Workforce Innovation and Transformation, Salesforce",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

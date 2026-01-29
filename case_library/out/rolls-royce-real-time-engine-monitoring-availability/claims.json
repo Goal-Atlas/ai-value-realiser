@@ -1,0 +1,668 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-003",
+      "claim_title": "15% fuel reduction through autonomous ship design",
+      "claim_description": "Drone ships using Big Data-driven systems would cut fuel use by 15% by eliminating need to sustain humans during voyages, enabling cheaper and more environmentally friendly vessels.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Without the need to sustain humans in comfort during long sea voyages, cargo vessels could be built far more cheaply and more environmentally friendly. Fuel use would be cut by 15%.",
+      "quote_location": "Ship Intelligence initiative section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Big Data enables autonomous operation, which contributes to design changes that reduce fuel consumption, but the reduction is primarily from design optimization.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "15",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Over 50% reduction in customer effort through automated data pipeline",
+      "claim_description": "Aviadex automated data exchange solution reduces effort required by customers to operate services by over 50% compared to manual spreadsheet uploads.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It's very effective, reducing the effort required by our customers to operate some services by over 50%",
+      "quote_location": "Richard Swallow quote",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Automated data pipeline directly replaces manual processes, with AI-enabled predictive maintenance as the core application.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "70% of new aircraft enrolled in CorporateCare program",
+      "claim_description": "More than 70 percent of new delivery Rolls-Royce powered aircraft are enrolled in CorporateCare, demonstrating high adoption of data-driven maintenance service.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "more than 70 percent of new delivery Rolls-Royce powered aircraft are enrolled in the programme",
+      "quote_location": "CorporateCare growth section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "While CorporateCare uses engine health monitoring, enrollment rate reflects business model appeal rather than direct AI capability.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "70",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "1,900 aircraft covered by CorporateCare globally",
+      "claim_description": "Almost 1,900 aircraft worldwide are covered by CorporateCare program, indicating scale of AI-enabled predictive maintenance deployment.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Almost 1,900 aircraft around the world are now covered by CorporateCare",
+      "quote_location": "CorporateCare program description",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "CorporateCare relies on engine health monitoring, but this metric shows program scale rather than direct AI impact.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "1900",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Increased aircraft residual value through CorporateCare enrollment",
+      "claim_description": "CorporateCare-enrolled aircraft sell quicker and with greater residual value than non-enrolled aircraft, as confirmed by brokers.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Brokers have confirmed to us time and time again that CorporateCare-enrolled aircraft actually sell quicker, and with greater residual value, than those outside the programme.",
+      "quote_location": "CorporateCare benefits section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "While CorporateCare uses AI for engine health monitoring, residual value increase is primarily due to risk transfer business model.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Aerospace and marine propulsion manufacturer",
+      "claim_description": "Rolls-Royce manufactures engines and propulsion systems for aircraft and ships, serving 500 airlines and more than 150 armed forces.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Rolls-Royce manufactures enormous engines which generate huge amounts of power, as they propel airplanes and ships across skies and oceans.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "13,000 civil and 16,000 military engines in operation",
+      "claim_description": "Rolls-Royce has approximately 13,000 civil aerospace engines and 16,000 military engines in operation globally.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The company has about 13,000 civil and 16,000 military engines in operation around the world.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "TotalCare program launched in early 1960s",
+      "claim_description": "Rolls-Royce has been providing maintenance services through TotalCare program since the early 1960s, pioneering servitization in aerospace.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "A leader in servitization, Rolls-Royce has been providing maintenance services since the early 1960s to its aerospace customers through the TotalCare program.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "IntelligentEngine digital twin program initiated in 2018",
+      "claim_description": "Rolls-Royce launched IntelligentEngine digital twin program in 2018 to predict real-time component usage with AI modeling.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "In 2018, Rolls-Royce initiated its IntelligentEngine digital twin program to predict real-time component usage and lifetime with AI modeling",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Partnership with IFS established in 2019",
+      "claim_description": "IFS and Rolls-Royce partnered in 2019 to apply AI expertise for predictive maintenance on engines in the field.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "In 2019, IFS partnered with airline engine manufacturer Rolls-Royce to apply their combined artificial intelligence (AI) expertise and improve predictive maintenance on engines in the field.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Partnership with QOCO began in 2018",
+      "claim_description": "Rolls-Royce selected QOCO Systems in 2018 to accelerate global digitalization initiative with Aviadex data exchange platform.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The Rolls-Royce and QOCO partnership began in 2018 when Rolls-Royce chose QOCO to accelerate its global digitalization initiative.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Big Data research focus established in 2013",
+      "claim_description": "In 2013, Rolls-Royce made Big Data research a focus of its corporate lab in partnership with Singapore Nanyang Technology University.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In 2013, Rolls-Royce moved Big Data research even higher up its agenda, making it a focus of the study of its corporate lab, established in partnership with the Singapore Nanyang Technology University.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Product design using Big Data simulation",
+      "claim_description": "Rolls-Royce uses high power computing clusters generating tens of terabytes per simulation for jet engine design and visualization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "we have huge clusters of high power computing which are used in the design process. We generate tens of terabytes of data on each simulation of one of our jet engines.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10881",
+      "apqc_name": "Design Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "Manufacturing quality control with IoT",
+      "claim_description": "Rolls-Royce factories use Internet of Things based solutions for automated measurement and quality control, generating half a terabyte per fan blade.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "At our new factory in Singapore we are generating half a terabyte of manufacturing data on each individual fan blade. We produce 6,000 fan blades a year there",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10884",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "After-sales support through operational service centers",
+      "claim_description": "Rolls-Royce operates global service centers where engineers analyze real-time data from engines to provide maintenance support.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Rolls-Royce has operational service centres around the world, in which expert engineers are analysing the data being fed back from their engines.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10889",
+      "apqc_name": "Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "products_services",
+      "claim_title": "TotalCare usage-based service model",
+      "claim_description": "TotalCare charges customers per hour for engine use, with all servicing costs underwritten by Rolls-Royce, enabled by Big Data insights.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Rolls Royce has been able to offer a new service model to clients which it calls Total Care, where customers are charged per hour for the use of its engines, with all of the servicing costs underwritten by Rolls Royce.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "products_services",
+      "claim_title": "IntelligentEngine covers Trent 1000, XWB, and 7000 engines",
+      "claim_description": "IntelligentEngine digital twin program applies to Trent 1000, Trent XWB, and Trent 7000 engine models.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "To start the IntelligentEngine digital twin program on its Trent 1000, Trent XWB and Trent 7000 engines",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "products_services",
+      "claim_title": "CorporateCare covers BR725, BR710, Tay, AE 3007 engines",
+      "claim_description": "CorporateCare maintenance program is available for BR725, BR710, Tay and AE 3007 business aviation engines.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "today it covers the Rolls-Royce BR725, BR710, Tay and AE 3007 engines",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "strategic_intent",
+      "claim_title": "Target of near 100% aircraft availability",
+      "claim_description": "Rolls-Royce uses IntelligentEngine to drive target of as near to 100% availability as possible for Rolls-Royce powered aircraft.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Rolls-Royce is using IntelligentEngine to drive the target of as near to 100% availability as possible for Rolls-Royce powered aircraft.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "scale",
+      "claim_title": "Hundreds of sensors per engine",
+      "claim_description": "Rolls-Royce engines and propulsion systems are fitted with hundreds of sensors recording operational details in real-time.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Its engines and propulsion systems are all fitted with hundreds of sensors which record every tiny detail about their operation and report any changes in data in real-time",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "scale",
+      "claim_title": "Three petabytes of manufacturing data annually per component type",
+      "claim_description": "Singapore factory generates half a terabyte per fan blade, producing 6,000 annually, totaling three petabytes for one component type.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We produce 6,000 fan blades a year there, so that's three petabytes of data on manufacturing just one component.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-017",
+      "context_type": "organisational",
+      "claim_title": "Over 50 authorized service centers globally",
+      "claim_description": "Rolls-Royce has over 50 authorized service centers worldwide and continues to expand this network.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "at present, we have over 50, and we continue to grow this figure by attracting new partners",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-018",
+      "context_type": "organisational",
+      "claim_title": "24/7 operational service desk",
+      "claim_description": "Rolls-Royce operates a dedicated operational service desk that is open 24 hours a day, 7 days a week for customer support.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "We have a dedicated operational service desk that is open 24/7",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

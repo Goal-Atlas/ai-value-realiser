@@ -4,6 +4,20 @@ Use this checklist to get started with implementation immediately.
 
 ---
 
+## Current state (2026-01)
+
+The **Case Library pipeline is implemented** and the **202-case migration is complete.** To run or browse:
+
+- **Run migration (or resume):**  
+  `python -m case_library.run_legacy_cases --out case_library/out --limit 9999`  
+  Use `--resume` to skip cases already done. Progress: `case_library/out/migration_progress.json`.
+- **Browse the library:**  
+  `python -m case_library.viewer.server` then open http://127.0.0.1:8765/
+
+See [DEVELOPMENT_NOTES_CASE_LIBRARY.md](DEVELOPMENT_NOTES_CASE_LIBRARY.md) for full status and [MIGRATION_ESTIMATE.md](MIGRATION_ESTIMATE.md) for cost/time.
+
+---
+
 ## ✅ Pre-Development Setup
 
 - [ ] Review [WORK_PLAN.md](WORK_PLAN.md) - Understand the full roadmap

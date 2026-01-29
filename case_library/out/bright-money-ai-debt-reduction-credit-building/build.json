@@ -1,0 +1,114 @@
+{
+  "case_id": "bright-money-ai-debt-reduction-credit-building",
+  "build_started": "2026-01-29T09:23:34.132828",
+  "build_completed": "2026-01-29T09:23:34.444682",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Bright Money AI-powered debt reduction and credit building",
+      "Bright Money AI-powered debt reduction and credit building"
+    ],
+    "results_considered": 2,
+    "urls_ranked": [
+      {
+        "url": "https://medium.com/bright-money-review/how-does-bright-pay-off-my-credit-cards-bright-money-416941c8d79d",
+        "rank": 1
+      },
+      {
+        "url": "https://www.sprinkledata.com/case-study/brightmoney",
+        "rank": 2
+      }
+    ],
+    "urls_selected": [
+      "https://medium.com/bright-money-review/how-does-bright-pay-off-my-credit-cards-bright-money-416941c8d79d",
+      "https://www.sprinkledata.com/case-study/brightmoney"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://medium.com/bright-money-review/how-does-bright-pay-off-my-credit-cards-bright-money-416941c8d79d",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.sprinkledata.com/case-study/brightmoney",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 386,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-opus-4-20250514",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 0,
+    "context_claims_count": 3,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 1,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "missing_source_text",
+        "result": "no_text",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "missing_source_text",
+        "result": "no_text",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

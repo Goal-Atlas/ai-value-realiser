@@ -1,0 +1,81 @@
+- AI with Alec Newsletter
+- Posts
+- Newsletter #41: From '9 Days to Seconds' - Citi's Blueprint for Operationalizing Enterprise AI.
+Newsletter #41: From '9 Days to Seconds' - Citi's Blueprint for Operationalizing Enterprise AI.
+CEOs are under extraordinary pressure to move from AI-first ambitions to operationalizing AI-first ambitions.
+According to an excellent Dataiku survey, 74% of US CEOs believe they will be fired within 2 years unless they demonstrate meaningful AI enabled business value creation.
+All CEOs would benefit by taking a look at the impressive coverage of Citi's investments in enterprise AI over the last few weeks that seemed to be everywhere you turned.
+Whether it was the agentic AI enhancements to the “Citi Stylus Workspaces” or another high-profile enterprise AI hire (Shobhit Varshney) or “AI Agents Arrive at Citi” or references to Citi’s “AI: The Information Era’s Apex Technology”...This isn’t the shiny object type of stuff designed to simply capture media headlines.
+This appears to be the result of a deep, methodical commitment to enterprise AI that started years ago.
+Investments that are reflected in the recording of Joseph V. Bonanno Jr.'s recent presentation - "Refining Wealth Management | Citi Wealth at AIPCon7” (Palantir Technologies).
+If you watched the 8-minute video, you likely had the same thoughts I did when you heard him say these 2 things:
+1: “If you are one of my competitors, you should fear us because I am about to crush you. Full stop.”
+2: “This process would take 9 days. Now it takes seconds.”
+It’s safe to say that the vast majority of enterprises are AI-first ambitious.
+It’s also safe to say that the majority if not vast majority of enterprises haven’t figured out how to operationalize their AI-first ambitions.
+Whether or not Citi has moved from AI-first ambitious to operationalizing that ambition at scale, it certainly seems they’re well on their way.
+Reinforcing why CEOs would benefit from digging into Citi’s strategy and results, check out my Dataiku collaboration focused on the survey referenced above including 4 territories to focus on to capitalize on enterprise AI signal vs noise.
+So for Newsletter #41, I wanted to try something a bit different.
+I wanted to dig into some of the historical documentation of Citi’s approach to better understand the strategy delivering the results we’re all seeing today.
+In poking around, I came across Citi’s 62-page “Agentic AI: Finance & the ‘Do it For Me’ Economy” which was a great fit for this purpose.
+Published in January 2025, there are a ton of nuggets which seem to connect to their multi-year enterprise AI transformation strategy, results and best practices more broadly.
+Curated below are my favorite excerpts organized under 4 themes that reflect how they appear to be operationalizing enterprise AI along with other highly relevant trends.
+We all benefit from learning more about operator driven enterprise AI case studies, tangible outcomes generated, performance data etc. and something tells me Citi is going to keep sharing their results.
+Financial Services is one of the most committed industries to AI but one that tends to keep things close to the vest…so the more Citi shares, the more we all benefit.
+While I encourage you to read the 62-page doc, consider the excerpts below the 1500 or so word, TLDR.
+1: “In the AI era, software will become our colleagues.”
+“AI will aid in reshaping cognitive work and how tasks are executed across nearly all activity.”
+“While GenAI relies on user prompts, agentic AI can act autonomously to make plans and decisions and execute specific tasks. OpenAI CEO Sam Altman has described AI agents as ‘super competent colleagues’ that will be able to complete tasks.”
+“Previously, only the privileged had personalized offerings such as assistants to take care of every facet of their lives: A chef to cook. A butler to serve. A chauffeur to drive. A tutor to teach. A private banker to manage their finances.”
+“In tomorrow’s AI-powered world, personalized offerings will become more widely accessible. Everyone could have a private banker in their wallet, smartphone, or wearable device – and they wouldn’t need to be a high-net-worth individual.”
+“Bots are simple rule-based programs. AI agents are much more advanced systems that can learn, adapt, and make decisions based on their context and objectives. They are smart bots, with an ability to evolve and act.”
+“The way electricity replaced repetitive manual labor, agentic AI could automate repetitive mental tasks and aid decision-making. The roles destroyed are likely to be the ones doing more routine tasks. The likes of software engineers, business analysts and client support staff are not about to disappear. Rather, their roles may be augmented and enhanced using AI. There will be a new focus on the synthesis of professional human skills and judgement combined with AI capabilities.”
+“AI agents can help transform operations in wealth management by streamlining client acquisition and onboarding.”
+“For high-net worth clients, AI agents can be an important augmentation to the human adviser, making the latter smarter and better informed.”
+“Agentic AI can streamline the management of customer relationship management (CRM) systems. Agents can update CRM records with detailed notes, contact information and more, without manual intervention.”
+“Like the printing press, AI decentralizes access to knowledge and creativity, enabling individuals without specialized skills to produce competitive content. Add in AI agents, and you can scale the reach of a single professional or small team at an exciting (or terrifying) speed.”
+2: Context is king and extraordinary value will be created by human + AI collaboration.
+“This paradigm shift in AI is powered by a combination of technological breakthroughs in contextual understanding, memory, and multi-tasking abilities.”
+“So why now? Agentic AI development is powered by a combination of technological breakthroughs, with model improvements including contextual understanding, memory, and multi-tasking abilities, and on the demand side process-oriented industries looking for improved solutions beyond search and retrieval functions.”
+“In the original Marvel comics, Jarvis is a human butler. As with much fiction, reality may be following in its footsteps. We would not need to be a billionaire to have our digital Jarvis.”
+“Instead of prompting LLMs with simple one-line instructions, we could embed higher AI capabilities in existing and new digital assistants (hello, Siri!).”
+“These bots, equipped with sophisticated algorithms and access to vast amounts of data, will negotiate with counterparties to secure the best possible deals for their users. This shift will not only streamline services but also ensure that decisions are made with a level of precision and foresight that human users may not have.”
+“The foundational building blocks for an agentic AI system is an LLM enhanced with key augmentations including retrieval, tools, and memory. These augmentations allow the AI to move beyond static responses and access information, execute specific tasks, and support contextual continuity for more dynamic and personalized interactions.”
+“But many existing jobs will be turbo-charged by the incorporation of AI into their roles. GenAI is the fastest adopted consumer technology in history.”
+“There will also be a revaluation of value ascribed to skills seen as ‘human’. Creativity, empathy, and judgement will be more in demand and could be valued at a premium.”
+3: “AI Factories” + Private Equity.
+“The jobs of the chief information security officer and the ‘human above the loop’ is likely to be further elevated as agentic AI grows.”
+“The IT department of every company is going to be the HR department of AI agents in the future...Today they manage and maintain a bunch of software from the IT industry; in the future they will maintain, nurture, onboard, and improve a whole bunch of digital agents.”- Jensen Huang, Founder & CEO, NVIDIA ”
+“AI agents as a co-worker are expected to become increasingly common. Today, AI agents tend to be focused on specific tasks. In the future, AI agents will combine to manage multiple tasks.”
+“Q: How can we identify leaders and laggards in AI adoption?”
+“Leaders in AI adoption distinguish themselves through:
+[1] Talent: Recruiting and retaining skilled professionals
+[2] Strategic prioritization: Embedding AI as a core organizational focus
+[3] Data readiness: Ensuring data is accessible/ optimized for AI use
+[4] Investments in AI factories: Building full-stack solutions, including hardware, software platforms, SDKs, and libraries, to enable scalable AI use.”
+“Financial firms are using AI to improve their own operations and make workflows smarter. In addition, they employ AI not just for investment sourcing and dynamic due diligence, but also to get better returns from their portfolio companies. Private equity (PE) firms are creating AI centers of excellence for use by their portfolio companies, for operational efficiencies, customer insights and more.”
+“Historically, private equity firms have primarily focused on financial and operational restructuring to enhance portfolio company value.”
+“Now, PE is focusing on and investing in AI transformation as a primary lever for portfolio companies’ value creation. The rise of the digital revolution began to evolve this focus. The emergence of AI is a major accelerant.”
+“Recognizing the critical role of technology in driving business growth and competitiveness, PE firms are increasingly investing in technology operating partners, technology development and delivery partnerships, and prioritizing AI transformations in their value creation strategies. As AI continues to rapidly evolve and scale, the ability of PE firms to effectively support their portfolio companies through their AI transformation journeys will become paramount for achieving successful investment outcomes.”
+4: Moving From Proof of Concept to Production.
+“Repetitive tasks, which have often been outsourced to contractors or overseas, will likely instead be done by agentic AI. Many people could go from managing other humans to managing agents. Tasks that we have not outsourced are unlikely to be automated.”
+“In retail activities, traditional marketing strategies will not work on bots. For instance, a bot is not influenced by brand loyalty or advertisements; it operates within the model parameters on APIs. Products designed for bots, which may be making the selection and or even buying decision, will also need to be translatable to humans.”
+Lloyds Banking Group’s Kirsty Rutter asks in the same Citi GPS: AI in Finance: Bot, Bank & Beyond: if AI-driven client interface technology exists, why should humans waste time on petty administrative tasks?”
+“In a financial management context, an AI bot can directly engage with the bank on behalf of the customer. For example, if a mortgage is up for renewal, the bot can notify the customer of the end date, conduct research to find the best deals, determine the right product, and fulfill formalities for refixing the mortgage rate. Bots can achieve this based on parameters (retirement age, preference for debt tenure, maximum acceptable price, etc.) pre-determined by the customer. In the initial phase, the bot could rely on human confirmation before executing tasks; but as trust in the bot grows, tasks can be handled autonomously.”
+“The likes of software engineers, business analysts and client support staff are not about to disappear. Rather, their roles may be augmented and enhanced using AI."
+"There will be a new focus on the synthesis of professional human skills and judgement combined with AI capabilities.”
+“Agents are becoming smarter and more effective, and we will probably expand our adoption of them in our personal lives before our professional lives, especially in jurisdictions where large companies and banks are tightly regulated, which might place speed bumps on certain professional usage cases.”
+“Agentic AI has the potential to revolutionize traditionally time-consuming and resource-intensive onboarding and Know Your Customer (KYC) processes, turning them into seamless and efficient experiences, potentially increasing client satisfaction with a process often disliked by users.”
+“AI agents can help transform operations in wealth management by streamlining client acquisition and onboarding. This can include automating parts of the due diligence processes such as document analysis or extraction.”
+“While GenAI drives hyper-personalization, agentic AI drives the execution of hyper-personalization by analyzing vast amounts of data in real-time to offer tailored experiences and recommendations. These systems can adapt to individual preferences, behaviors, and needs, enabling businesses to create personalized products and services, marketing campaigns or customer interactions.”
+Bottomline…
+1: Make sure your data foundation is in place and AI-ready because without a data strategy there is no AI strategy.
+(link to "Newsletter #40")
+2: Given how far enterprise AI technology is vs implementation / results, invest heavily in the People + Process part of People, Process + Technology.
+(link to "Helping Enterprises Make Their AI-First Ambitions A Reality")
+3: Focus on solving the right problem to generate the right business value that can scale.
+(link to "MIT Says 95% of AI Pilots Fail")
+4: Instead of thinking about AI as using tools, think about it as building and deploying AI factories.
+(link to Wal-Mart multi-agent framework)
+Enjoy the rest of your Wednesday and have a great week!
+- Alec

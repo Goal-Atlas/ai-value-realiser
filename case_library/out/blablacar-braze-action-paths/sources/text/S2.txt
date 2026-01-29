@@ -1,0 +1,37 @@
+5 min read
+How BlaBlaCar Used Smart Testing to Boost Open Rates by Up to 24%
+INDUSTRY
+PRODUCTS USED
+BY THE METRICS
+24%
+Increase in Email Open Rates
+Think of a customer engagement problem your brand wants to solve—maybe you’re sending emails but your open rates aren’t where they should be. To get where you need to be, there are a few hurdles you have to navigate. A pressing need to evolve beyond gut intuition. An urgency to establish (and stick to) a testing strategy. And, finally, work need to ensure you’ve made room for reflection and the effective measurement of your efforts’ impact.
+How do you get there? Well, take a page from French carpooling platform BlaBlaCar. This forward-looking brand, which has 65 million registered drivers and passengers across 22 countries connecting via its website and app to coordinate car journeys, was looking to optimize its email marketing and the way they went about it didn’t just boost their open rate by 20+%—it set down a clear roadmap for how other brands can achieve the same kinds of results.
+Step One: Define Your Marketing Objective
+For BlaBlaCar, their optimization process began with a clear goal. The company wanted to reach its customers as effectively as possible via email while also maximizing its email open rates. BlaBlaCar’s clarity about what metrics mattered for its business and where it wanted to see improvement made it easier for its marketers to determine where to focus (and, eventually, what to test).
+Step Two: Create a Marketing Hypothesis
+Once BlaBlaCar determined what they were looking to achieve, the next step the company took was to identify a hunch—or, in this case, two hunches—that they wanted to test.
+- Hunch #1: That email recipients would be more likely to open a message that was listed as coming from a person’s name
+- Hunch #2: That different types of sender names would perform better in different countries.
+“We had a strong intuition that personalized sender names—that is, a name displayed as sender on the email preview—would increase our open rates,” explains Fanny Argoud of BlaBlaCar. “We wanted to determine: If this assumption is true, in other words, if we compare a version with a sender name and a version with only ‘BlaBlaCar’ as [the] sender name, would we see a significant difference in opens? If that is the case, what would the best sender name be?”
+Step Three: Carrying Out the Experiment
+In order to automate and simplify the process of testing the two hypotheses, BlaBlaCar turned to Braze Canvas. This visual customer journey tool is designed to make it easy for marketers to conceptualize their campaigns and to seamlessly coordinate targeted, personalized messages across channels. For BlaBlaCar, it made it possible to build out testing flows that supported several rounds of related experiments in two of its markets—France and Russia—over the course of two months. These experiments were built around A/B tests comparing several sender name variants, including:
+- “BlaBlaCar” as the sender name vs. a first-person name (e.g. “John” or “Jane”) as the sender name
+- A common first name in a given country vs. a rare name in a given country
+- A perceived masculine name vs. a name perceived as feminine
+Step Four: Assessing the Results
+Did sender name have a measurable impact on engagement with BlaBlaCar’s email program? As it turns out, yes. In fact, the brand discovered that sending emails with the first names of real people resulted in 20+% higher open rates for their messages, compared to emails sent from “BlaBlaCar.” In addition, the company’s hypothesis that gender and name popularity would impact email open rates also proved to be true, with a popular masculine name proving to be most popular both in Russia and France.
+Here’s a snapshot of their campaign open rates broken out by country and sender name variant:
+And while not every test leads to concrete action, this one has: BlaBlaCar has implemented the learnings from this experiment by switching all of their French email marketing campaigns to be sent from the sender name “Julien” and is working on a similar rollout in other countries.
+Final Thoughts
+While this experiment from BlaBlaCar looked at metrics important to the top of the funnel (specifically email open rates), there’s no reason that other brands can’t use their success as a jumping off point to dig deeper into email message testing. For instance, your brand could take a similar campaign and measure the impact that the use of different sender names has on downstream metrics—maybe sending messages with a given name or type of name ends up being associated with stronger or weaker retention a week or a month out.
+The key thing is this: A lot of components can influence the overall success of an email marketing campaign and you need to be mindful of all them. What marketers may take for granted—such as sending emails from the brand name because that’s what’s always been done—may be affecting customer engagement in ways you may not even realize. That is, until you start talking about email marketing engagement strategies, ideating, and testing.
+INDUSTRY
+On-DemandPRODUCTS USED
+Check out more Case Studies
+- Case Study5 min read
+Papa Johns UK empowers franchisees with data-driven marketing that increases revenue
+- Case Study5 min read
+Grove Collaborative drives sustainable growth with Braze through a targeted browse abandon campaign
+- Case Study5 min read
+Stash drives long-term investing habits with sophisticated, personalized user onboarding

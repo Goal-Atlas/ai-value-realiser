@@ -1,0 +1,1032 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Arup Face Check provides high-confidence biometric assurance for quality and audit",
+      "claim_description": "Arup developed Face Check using Azure AI Services and Microsoft Entra Verified ID to enable employees to register photos for biometric assurance in remote or face-to-face transactions, enhancing security layers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Arup Group utilized Microsoft Entra Verified ID, and other security solutions to develop Face Check, powered by Azure AI Services. Employees register a photo to maintain high-confidence biometric assurance for quality and audit purposes.",
+      "quote_location": "Architecture and engineering section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Face Check is explicitly powered by Azure AI Services, which directly enables the biometric assurance capability.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "automation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "EchoStar Hughes projected to save 35,000 work hours with Azure AI Foundry apps",
+      "claim_description": "EchoStar Hughes created 12 production apps using Azure AI Foundry for automated sales call auditing, customer retention analysis, and field services automation, projected to save 35,000 work hours.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create 12 new production apps, including automated sales call auditing, customer retention analysis, and field services process automation. These solutions are projected to save 35,000 work hours.",
+      "quote_location": "Cable and satellite section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Azure AI Foundry directly enabled the creation of 12 production apps that generate the projected work hour savings.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "35000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "EchoStar Hughes projected 25% productivity boost with Azure AI Foundry",
+      "claim_description": "The 12 production apps created using Azure AI Foundry are projected to boost productivity by at least 25% at EchoStar Hughes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EchoStar Hughes division leveraged Microsoft Azure AI Foundry to create 12 new production apps...These solutions are projected to save 35,000 work hours and boost productivity by at least 25%.",
+      "quote_location": "Cable and satellite section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Azure AI Foundry directly powers the apps that are projected to deliver the productivity boost.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "25",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Brisbane Catholic Education educators save 9.3 hours per week with Copilot Studio tool",
+      "claim_description": "Brisbane Catholic Education developed a generative AI tool using Microsoft Copilot Studio to integrate Catholic traditions into classrooms. Educators reported saving an average of 9.3 hours per week.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Brisbane Catholic Education equips Microsoft 365 Copilot and utilizes Microsoft Copilot Studio to develop a generative AI tool that helps integrate Catholic traditions and values into the classroom. Educators reported saving an average of 9.3 hours per week.",
+      "quote_location": "Education section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The generative AI tool built with Microsoft Copilot Studio directly enables the time savings reported by educators.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "9.3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "BKW processed media inquiries 50% faster with Edison platform",
+      "claim_description": "BKW developed Edison using Azure AI Foundry and Azure OpenAI services. Within two months, media inquiries were processed 50% faster.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services, to securely and effectively tap into internal data. Within two months of its roll-out...media inquiries were processed 50% faster.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Edison platform powered by Azure AI services directly enabled the 50% faster processing of media inquiries.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "BKW achieved 8% staff adoption of Edison within two months",
+      "claim_description": "Within two months of Edison's roll-out at BKW, 8% of staff were actively using the platform built on Azure AI services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BKW developed Edison, a platform using Microsoft Azure, Azure AI Foundry, and Azure OpenAI services...Within two months of its roll-out, 8% of staff were actively using Edison.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Edison platform powered by Azure AI services is the tool being adopted by staff.",
+      "verification_status": "needs_review",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "8",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "HELLENiQ ENERGY boosted productivity by 70% with Microsoft 365 Copilot",
+      "claim_description": "HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot and Copilot Studio, boosting productivity by 70%.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot and Copilot Studio to boost its productivity by 70% and reduced email processing time by 64%.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot and Copilot Studio directly enabled the productivity boost.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "70",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "HELLENiQ ENERGY reduced email processing time by 64% with Copilot",
+      "claim_description": "HELLENiQ ENERGY reduced email processing time by 64% after introducing Microsoft 365 Copilot and Copilot Studio.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "HELLENiQ ENERGY partnered with PwC to introduce Microsoft 365 Copilot and Copilot Studio to boost its productivity by 70% and reduced email processing time by 64%.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly automates and optimizes email processing tasks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "64",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Ma'aden saves up to 2,200 hours monthly with Microsoft 365 Copilot",
+      "claim_description": "Ma'aden used Microsoft 365 Copilot to enhance productivity, saving up to 2,200 hours monthly through more efficient email drafting, document creation, and data analysis.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ma'aden used Microsoft 365 Copilot to enhance productivity, saving up to 2,200 hours monthly. Tasks like drafting emails, creating documents, and analyzing data become more efficient.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly automates and enhances the tasks that generate the time savings.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "2200",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "MAIRE saves more than 800 working hours per month with Microsoft 365 Copilot",
+      "claim_description": "MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving more than 800 working hours per month and freeing up engineers for strategic activities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "MAIRE leveraged Microsoft 365 Copilot to automate routine tasks, saving more than 800 working hours per month and freeing up engineers and professionals for strategic activities.",
+      "quote_location": "Energy and resources section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly automates routine tasks that generate the time savings.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "800",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "Access Holdings reduced code writing time from 8 hours to 2 hours with Copilot",
+      "claim_description": "Access Holdings Plc adopted Microsoft 365 Copilot, reducing code writing time from eight hours to two hours.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result, writing code now takes two hours instead of eight.",
+      "quote_location": "Financial services section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly assists in code writing, enabling the time reduction.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "75",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Access Holdings reduced chatbot launch time from 3 months to 10 days",
+      "claim_description": "Access Holdings Plc reduced chatbot launch time from three months to 10 days using Microsoft 365 Copilot.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result...chatbots launch in 10 days instead of three months.",
+      "quote_location": "Financial services section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly accelerates chatbot development and deployment.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "89",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-013",
+      "claim_title": "Access Holdings reduced presentation prep time from 6 hours to 45 minutes",
+      "claim_description": "Access Holdings Plc reduced presentation preparation time from six hours to 45 minutes using Microsoft 365 Copilot.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result...presentations are prepared in 45 minutes instead of six hours.",
+      "quote_location": "Financial services section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Microsoft 365 Copilot directly assists in presentation creation, enabling the time reduction.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "87.5",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-014",
+      "claim_title": "Allpay increased developer productivity by 10% with GitHub Copilot",
+      "claim_description": "Allpay uses GitHub Copilot to help engineers write code faster, increasing productivity by 10%.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Allpay uses GitHub Copilot to help engineers and developers write code faster and with less effort, increasing productivity by 10% and delivery volume into production by 25%.",
+      "quote_location": "Financial services section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GitHub Copilot directly assists engineers in writing code faster, enabling the productivity increase.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-015",
+      "claim_title": "Allpay increased delivery volume to production by 25% with GitHub Copilot",
+      "claim_description": "Allpay increased delivery volume into production by 25% using GitHub Copilot to help engineers write code faster.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Allpay uses GitHub Copilot to help engineers and developers write code faster and with less effort, increasing productivity by 10% and delivery volume into production by 25%.",
+      "quote_location": "Financial services section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GitHub Copilot directly enables faster code writing, which increases delivery volume.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "25",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Arup operates in architecture and engineering sector",
+      "claim_description": "Arup Group is identified as operating in the architecture and engineering industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Architecture and engineering - Arup Group utilized Microsoft Entra Verified ID",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Arup Face Check supports quality and audit functions",
+      "claim_description": "Face Check is used to maintain high-confidence biometric assurance for quality and audit purposes.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Employees register a photo to maintain high-confidence biometric assurance for quality and audit purposes",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10880",
+      "apqc_name": "Manage internal controls",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Arup Face Check enhances security and defense layers",
+      "claim_description": "Face Check is used to deepen layers of defense and security for remote or face-to-face transactions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "whether it's a remote or face-to-face transaction, to deepen their layers of defense and security",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11228",
+      "apqc_name": "Manage information security and privacy",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "sectoral",
+      "claim_title": "EchoStar Hughes operates in cable and satellite sector",
+      "claim_description": "EchoStar Hughes division is identified as operating in the cable and satellite industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Cable and satellite - EchoStar Hughes division leveraged Microsoft Azure AI Foundry",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "sectoral",
+      "claim_title": "Brisbane Catholic Education operates in education sector",
+      "claim_description": "Brisbane Catholic Education is identified as operating in the education industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Education - Brisbane Catholic Education equips Microsoft 365 Copilot",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "sectoral",
+      "claim_title": "BKW operates in energy and resources sector",
+      "claim_description": "BKW is identified as operating in the energy and resources industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Energy and resources - BKW developed Edison",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "BKW Edison adoption measured within two months of rollout",
+      "claim_description": "The adoption and impact metrics for BKW's Edison platform were measured within two months of its roll-out.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Within two months of its roll-out, 8% of staff were actively using Edison, media inquiries were processed 50% faster",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "sectoral",
+      "claim_title": "HELLENiQ ENERGY operates in energy and resources sector",
+      "claim_description": "HELLENiQ ENERGY is identified as operating in the energy and resources industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Energy and resources - HELLENiQ ENERGY partnered with PwC",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "sectoral",
+      "claim_title": "Ma'aden operates in energy and resources sector",
+      "claim_description": "Ma'aden is identified as operating in the energy and resources industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Energy and resources - Ma'aden used Microsoft 365 Copilot",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "sectoral",
+      "claim_title": "MAIRE operates in energy and resources sector",
+      "claim_description": "MAIRE is identified as operating in the energy and resources industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Energy and resources - MAIRE leveraged Microsoft 365 Copilot",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "strategic_intent",
+      "claim_title": "MAIRE supports green energy transition with AI efficiency gains",
+      "claim_description": "MAIRE's use of Microsoft 365 Copilot supports its green energy transition by reducing carbon footprint through efficiency gains.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This supports MAIRE's green energy transition by reducing its carbon footprint.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "sectoral",
+      "claim_title": "Access Holdings operates in financial services sector",
+      "claim_description": "Access Holdings Plc is identified as operating in the financial services industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Financial services - Access Holdings Plc adopted Microsoft 365 Copilot",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "sectoral",
+      "claim_title": "Allpay operates in financial services sector",
+      "claim_description": "Allpay is identified as operating in the financial services industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Financial services - Allpay uses GitHub Copilot",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "scale",
+      "claim_title": "85% of Fortune 500 companies use Microsoft AI solutions",
+      "claim_description": "More than 85% of the Fortune 500 companies are using Microsoft AI solutions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We have come a long way with more than 85% of the Fortune 500 using Microsoft AI solutions to shape their future.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "organisational",
+      "claim_title": "Petrobras has 110,000 employees",
+      "claim_description": "Petrobras has 110,000 employees who use Chat Petrobras.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Petrobras used Azure OpenAI Service to create Chat Petrobras, streamlining workflows, reducing manual tasks, and summarizing reports for its 110,000 employees.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

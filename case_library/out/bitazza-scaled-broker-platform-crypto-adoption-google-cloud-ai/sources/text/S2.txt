@@ -1,0 +1,50 @@
+Mobile Payments
+Bitazza Brings
+Web3 to Life
+Fuse provides the infrastructure that makes Bitazza’s Freedom Wallet a contender to change how people interact with cryptocurrency.
+As the builder of Freedom products and the Freedom Ecosystem; collective Web3 ready-to-use products interconnected with the Bitazza trading platform, it is crucial for us to grow together with a blockchain partner aligned with our vision in making solutions accessible to those who need them the most.
+Kevin Heng, Chief Strategy Officer and Co-founder of Bitazza.
+Who are Bitazza?
+Bitazza started life as a centralized cryptocurrency exchange with roots in Thailand. However, it sets its sites as a gateway for crypto adoption in South East Asia and beyond, particularly for business-to-business, retail, and Web3 utilities in everyday life.
+The dedicated executive team of fewer than ten members works continuously to onboard new operators, expand their reach, and deliver Web3 payment solutions built on Fuse Network to small and medium-sized businesses without the required technical knowledge or resources to benefit.
+Additionally, our partnership with Visa enables the freedom to top-up from the Bitazza account and enjoy a world of rewards & privileges.
+Pain points
+Running gasless transactions on a Layer 1 blockchain - To accommodate the needs of its users and offer gasless transactions Bitazza sought a sustainable solution. Running on Ethereum was unthinkable due to the gas costs involved in completing transactions. At the same time, building a customized blockchain was an option but not something to be approached lightly.
+Complementary Self-custodial Wallet - while Bitazza offers a custodial solution for users on the exchange, the growing trend of using non-custodial solutions required Bitazza to build a secure, simple, and mobile-first solution in order to retain its users and address their growing needs.ount and enjoy a world of rewards & privileges.
+Working side-by-side with the FUSE chain, we have been able to manage our product expansion at a competitive pace
+Kevin Heng, Chief Strategy Officer and Co-founder of Bitazza.
+Bitazza uses the Fuse Network and Mobile SDK as a Solution
+Bitazza, under the leadership of Kevin Heng, Chief Strategy Officer, identified Fuse as a blockchain focused on being the most friendly for Web3 payments with a suite of ready-made products and tailored tooling customized for businesses. As an EVM-compatible Layer-1 blockchain, Fuse provided a compelling choice.
+Bitazza built the Freedom Wallet, a non-custodial mobile wallet running on Fuse Network, built using Fuse’s infrastructure.
+The completely customizable white-label Fuse Wallet and Charge platform gives Bitazza the perfect non-custodial solution, allowing Bitazza to extend to its users features such as a decentralized identity, NFT minting, social recovery in case of lost passwords, and the availability of escrow services, and facilitating fast, low-cost transactions.
+Minting stablecoins on Fuse. Bitazza created the 100% fiat-collateralized USDF stablecoin, powered by Fuse. This allows Bitazza to store deposited fiat or crypto funds in escrow.
+Fuse Helps Businesses Grow
+Bitazza uses Fuse’s infrastructure for:
+Web3 Payment alternatives
+By operating and using Fuse’s SDK, Bitazza offers other businesses an easy, seamless, payment solution at lower costs and high reliability.
+User Retention and Engagement
+Creating a non-custodial solution to retain users wishing to off-board its custodial exchange solution.
+Creating an easy and cheap payment solution that attracts real-life and online businesses to use Freedom Wallet
+Creating a loyalty club that offers customized benefits to users
+Customer Acquisition
+Appealing to new users, outside its exchange services, seeking a mobile non-custodial wallet
+Appealing to new users seeking an easy web3 mobile payment solution
+Consumer Loyalty
+Generating a web3 tokenized loyalty club that offers interoperability between businesses and provides users added value
+End results
+The collaboration with Fuse means Bitazza can offer businesses in Southeast Asia a way to customize and brand a wallet and adopt fast, low-cost crypto payments for their needs. As a result, they may position themselves as leaders or innovators in their respective markets. An excellent example is at festivals, where organizers can run the entire festival built around a token.
+Mystic Valley Festival in Thailand utilized the freedom wallet by issuing a token, which festival-goers can use to purchase goods while there. Transactions are fast and cheap; attendees can use their token balance to buy drinks, send funds to friends, and purchase merchandise.
+If Bitazza’s partners are anything to go by, the music and nightlife industries are leading the way in Southeast Asia. For example, Mustache Bangkok and Epic Entertainment use blockchain to make their parties, events, and shows more immersive.
+Partygoers download their app, load their balance, and party on the blockchain. Not only is this convenient and fun, but it helps to build a loyal and easily accessible community.
+In addition, businesses working with Bitazza praise the Freedom Wallet for its ease of use, zero technical setups (uses a mobile device), and ability to cut costs and increase revenue.
+It's been a great experience working with the Freedom Wallet solution for EPIC Entertainment events. Payment activities at the events were smooth, seamless, convenient, and cost-effective. These are all the things event organizers highly value.
+Andy, EPIC Entertainment
+You don’t just go to Mustache to a party or BKK Cafe and Sports Bar to watch a game. Now, you can be part of a community, spend their tokens, and earn rewards.
+For businesses, It can help customer retention by gamifying the experience of using your services. For example, you could add push notifications to stay in touch with customers and offer tickets or online packages that customers can buy without going through costly third parties.
+The Freedom Wallet allows small businesses to up their game and capture more online loyalty, which will be a critical metric in a fast digital and mobile world. From beauty salons to coffee shops, business owners and entrepreneurs now have access to technology and experiences once reserved for companies and organizations with the deepest pockets.
+Working with Fuse and creating the Freedom Wallet has enabled Bitazza to let anyone create an ecosystem. To date, thousands of wallets have been created by end users, with more than 100 thousand transactions completed for under $0.01 on Fuse Network.
+From communities based around NFTs to protocols running economies, blockchain demonstrates an excellent tool. Bitazza is bringing this into real-life experiences, businesses, and events - helped by Fuse technology.
+The Blockchain for Business
+Be a success story!
+Build consumer and business facing Web3 apps and solutions on top of the Fuse Blockchain and start earning revenue.
+Contact us

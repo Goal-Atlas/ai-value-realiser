@@ -1,0 +1,372 @@
+{
+  "case_id": "carmax-ai-vehicle-inspection",
+  "build_started": "2026-01-29T09:29:56.103006",
+  "build_completed": "2026-01-29T09:30:00.396283",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "CarMax AI-Powered Vehicle Inspection and Appraisal Systems",
+      "CarMax AI-Powered Vehicle Inspection and Appraisal Systems"
+    ],
+    "results_considered": 4,
+    "urls_ranked": [
+      {
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2023/carmax-expands-deployment-ai-powered-vehicle-inspection-systems",
+        "rank": 1
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/",
+        "rank": 2
+      },
+      {
+        "url": "https://www.pymnts.com/news/retail/2024/carmax-deploys-tech-to-gain-efficiency-in-challenging-used-car-market/",
+        "rank": 3
+      },
+      {
+        "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/ai-appraisals-and-omnichannel-carmaxs-digital-evolution-in-focus/",
+        "rank": 4
+      }
+    ],
+    "urls_selected": [
+      "https://www.pymnts.com/news/artificial-intelligence/2023/carmax-expands-deployment-ai-powered-vehicle-inspection-systems",
+      "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/",
+      "https://www.pymnts.com/news/retail/2024/carmax-deploys-tech-to-gain-efficiency-in-challenging-used-car-market/",
+      "https://nationalcioreview.com/articles-insights/cio-field-notes/ai-appraisals-and-omnichannel-carmaxs-digital-evolution-in-focus/"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2023/carmax-expands-deployment-ai-powered-vehicle-inspection-systems",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 300,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 5443,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.pymnts.com/news/retail/2024/carmax-deploys-tech-to-gain-efficiency-in-challenging-used-car-market/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 345,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/ai-appraisals-and-omnichannel-carmaxs-digital-evolution-in-focus/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 3639,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 6,
+    "context_claims_count": 15,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 1,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 67,
+        "char_offset_end": 183,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 453,
+        "char_offset_end": 639,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S2",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 893,
+        "char_offset_end": 1019,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2488,
+        "char_offset_end": 2563,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2215,
+        "char_offset_end": 2331,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3450,
+        "char_offset_end": 3554,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 67,
+        "char_offset_end": 183,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 23,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 82,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 82,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 181,
+        "char_offset_end": 230,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S3",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 70,
+        "char_offset_end": 207,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S4",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 207,
+        "char_offset_end": 287,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1382,
+        "char_offset_end": 1491,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2879,
+        "char_offset_end": 3098,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 1020,
+        "char_offset_end": 1090,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-011",
+        "source_id": "S2",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4028,
+        "char_offset_end": 4130,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-012",
+        "source_id": "S4",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 2072,
+        "char_offset_end": 2213,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-013",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3450,
+        "char_offset_end": 3507,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-014",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3512,
+        "char_offset_end": 3554,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-015",
+        "source_id": "S4",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 2751,
+        "char_offset_end": 2831,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

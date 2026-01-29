@@ -1,0 +1,1029 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "2,500 hours per month saved using AI summary tools",
+      "claim_description": "CBA saved approximately 2,500 hours per month by using AI-powered summary tools to summarize key delivery documents across the organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "~2,500 hours per month saved summarizing key delivery documents with AI summary tools",
+      "quote_location": "Key wins section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The time savings are explicitly attributed to AI summary tools used for document summarization tasks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "2500",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "14 hours per month saved through AI-powered Work Breakdown Structure",
+      "claim_description": "CBA saved approximately 14 hours per month using Jira's AI-powered Work Breakdown Structure feature to break down work more efficiently.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "~14 hours per month saved through the AI-powered Jira's Work Breakdown Structure",
+      "quote_location": "Key wins section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time savings directly attributed to AI-powered Work Breakdown Structure feature in Jira.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "14",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "1,266 dependencies resolved in Big Room Planning using AI",
+      "claim_description": "During a 2-day Big Room Planning event with 16,000 employees, CBA resolved 1,266 dependencies using Jira's AI search and summary tools, with 16% deprioritized from needing investment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "1266 dependencies resolved over 2 days using Jira's AI search and summary tools, with 16% deprioritized from needing investment",
+      "quote_location": "Big Room Planning section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Dependencies resolution explicitly attributed to using Jira's AI search and summary tools during the planning event.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "1266",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "100% team participation in Big Room Planning with AI",
+      "claim_description": "After implementing AI features, 100% of participating teams provided initiatives and epics in Jira during Big Room Planning, compared to 80% in the previous quarter.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "100% of participating teams provided initiatives and epics in Jira versus 80% in the previous quarter",
+      "quote_location": "Big Room Planning section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Increase from 80% to 100% participation coincided with AI implementation, suggesting AI contributed to improved engagement and workflow.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "20% reduction in epics planned indicating improved prioritization",
+      "claim_description": "CBA planned 20% fewer epics in Big Room Planning compared to the previous quarter, indicating improved work prioritization process enabled by AI tools.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "20% fewer epics planned versus the previous quarter, indicating that they were improving the work prioritization process",
+      "quote_location": "Big Room Planning section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "The reduction in epics is attributed to improved prioritization process, which was enabled by AI tools used during planning.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "84% of Copilot users would not return to working without it",
+      "claim_description": "Among 10,000 Microsoft Copilot users at CBA, 84% reported they would not go back to working without it, indicating high satisfaction and adoption.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "84% of 10,000 Copilot users reporting they wouldn't go back to working without it",
+      "quote_location": "Commonwealth Bank highlight section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "User satisfaction directly attributed to Microsoft Copilot usage, demonstrating strong value perception.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "84",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "30% of GitHub Copilot code suggestions adopted",
+      "claim_description": "Approximately 30% of code suggestions generated by GitHub Copilot were adopted by CBA developers, driving efficiency and smarter decision-making.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "approximately 30% of GitHub Copilot code suggestions adopted\u2014driving efficiency and smarter decision-making",
+      "quote_location": "Commonwealth Bank highlight section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Code suggestion adoption rate directly attributed to GitHub Copilot usage by developers.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "16% time savings for early Copilot adopters",
+      "claim_description": "Early adopters of Microsoft 365 Copilot at CBA reported saving 16% of their time by reducing repetitive tasks, allowing focus on more meaningful work.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "With Microsoft 365 Copilot, early adopters reported saving 16% of their time by reducing repetitive tasks, allowing them to focus on more meaningful work",
+      "quote_location": "Dan Jermyn quote",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time savings directly attributed to Microsoft 365 Copilot usage by early adopters through reduction of repetitive tasks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "16",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Significant improvement in internal customer satisfaction ratings",
+      "claim_description": "CBA experienced significant improvement in internal teams' customer satisfaction ratings after deploying AI features, enabling widespread adoption.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Significant improvement in internal teams' customer satisfaction ratings, allowing for widespread adoption",
+      "quote_location": "Key wins section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Customer satisfaction improvement explicitly linked to AI features deployment and usage by internal teams.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "GenAI messaging reduces contact center interactions",
+      "claim_description": "CBA's GenAI-enabled messaging service provides more comprehensive self-service capabilities, reducing the need for customers to interact with the contact center.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The first use case we wanted to go after was how do we make a messaging capability that is used so much day in, day out, [that is] more self-service and more comprehensive.",
+      "quote_location": "Vicky Ledda quote",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GenAI messaging capability explicitly designed to enable self-service and reduce contact center volume.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "GenAI improves customer dispute resolution efficiency",
+      "claim_description": "GenAI enables CBA to understand customer context and infer information during dispute resolution, reducing the need to repeatedly ask customers for additional information.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The biggest gamechanger here is with generative AI we're able to understand more of the customer context. We're able to infer more of the information without having to ask the customer for more information.",
+      "quote_location": "Vicky Ledda quote on disputes",
+      "ai_attribution": "direct",
+      "attribution_evidence": "GenAI directly enables better context understanding and information inference in dispute resolution process.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "CBA serves one in three Australians and one in four businesses",
+      "claim_description": "Commonwealth Bank of Australia is the main financial institution for approximately 33% of Australians and 25% of Australian businesses.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With one in three Australians and nearly one in four businesses considering the CBA their main financial institution",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "CBA has 53,000+ employees",
+      "claim_description": "Commonwealth Bank of Australia employs more than 53,000 staff members.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "53,000+ employees",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "scale",
+      "claim_title": "CBA has 9 million daily active users on mobile app",
+      "claim_description": "Commonwealth Bank of Australia's mobile application has 9,000,000 daily active users.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "9,000,000 daily active users on its mobile app",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "scale",
+      "claim_title": "CBA has 800,000 shareholders",
+      "claim_description": "Commonwealth Bank of Australia has 800,000 shareholders.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "800,000 shareholders",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "CBA founded in 1911",
+      "claim_description": "Commonwealth Bank of Australia was founded in 1911, making it over 100 years old.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Although it was founded in 1911",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "sectoral",
+      "claim_title": "CBA operates in financial services sector",
+      "claim_description": "Commonwealth Bank of Australia is a financial institution providing a full range of financial services including banking.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the CBA offers a full range of financial services to help all Australians build and manage their finances",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Jira migrated to Atlassian Cloud in November 2022",
+      "claim_description": "CBA migrated all instances of Jira from on-premise to Atlassian Cloud in November 2022 for 20,000 users.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This journey started in November 2022, when they moved all instances of Jira from on-premise to Atlassian Cloud. At the time, they were able to move all of their 20,000 users",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "temporal",
+      "claim_title": "Confluence migrated to Atlassian Cloud in December 2023",
+      "claim_description": "CBA migrated all instances of Confluence to Atlassian Cloud from on-premise in December 2023 with 25,000 users.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In December 2023, with 25,000 Atlassian users, the CBA migrated all instances of Confluence to the Cloud from on-premise.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "temporal",
+      "claim_title": "CBA first Australian bank to migrate to cloud in 2023",
+      "claim_description": "In 2023, CBA became the first bank in Australia to migrate all users and operations to a cloud platform using Atlassian's data residency program.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In 2023, with the help of Atlassian's data residency program, the CBA became the first bank in Australia to migrate all of its users and operations to a cloud platform.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "scale",
+      "claim_title": "CBA has 35,000 potential AI users",
+      "claim_description": "CBA rolled out Atlassian AI features to 35,000 potential users across the organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Now, with over 35,000 potential users, it was critical for the CBA to have a comprehensive understanding of how enabling AI features would affect its ecosystem.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "strategic_intent",
+      "claim_title": "CBA positions itself as technology-forward company",
+      "claim_description": "CBA sees itself as a technology-forward company committed to delivering leading technology and solving evolving problems at pace.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the CBA sees itself as a technology-forward company able to solve ever-evolving sets of problems at pace",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "CBA uses AI for software development",
+      "claim_description": "CBA is using generative AI to aid software development teams, including through GitHub Copilot.",
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "source_quote": "to aid software development teams",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Develop and manage information technology (IT) solutions",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "functional",
+      "claim_title": "CBA uses AI for customer service and messaging",
+      "claim_description": "CBA deployed GenAI-enabled messaging service to provide self-service capabilities and reduce contact center interactions.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We launched our GenAI-enabled messaging service, which complements the existing messaging service that we have",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10003",
+      "apqc_name": "Manage customer service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "functional",
+      "claim_title": "CBA uses AI for dispute resolution",
+      "claim_description": "CBA applies generative AI to customer dispute resolution processes to understand context and reduce information gathering cycles.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Customer disputes are another area of focus.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10003",
+      "apqc_name": "Manage customer service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "strategic_intent",
+      "claim_title": "CBA launched 'AI for All' enterprise skilling program",
+      "claim_description": "CBA launched an 'AI for All' program to provide foundational generative AI capabilities to all employees, enabling them to use AI skills in day-to-day jobs.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "We launched our 'AI for All' program where we opened it up to all of our employees and we've given them the foundational capabilities that are required in the generative AI environment",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "strategic_intent",
+      "claim_title": "CBA implements three-tiered AI learning paths",
+      "claim_description": "CBA structured AI skilling through three paths: Leading with AI (executives), Working with AI (all employees), and Building with AI (technical staff).",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "CommBank embedded AI skilling across all levels of the organization through three structured learning paths",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-017",
+      "context_type": "organisational",
+      "claim_title": "CBA partners with AWS and Microsoft for AI",
+      "claim_description": "CBA partners with AWS and Microsoft as part of its AI work and chose not to tie itself to a specific large language model provider.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "CBA partners with the likes of AWS and Microsoft as part of its work. It is also using generative AI in other parts of the bank",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-018",
+      "context_type": "functional",
+      "claim_title": "CBA uses AI for mortgage and home buying processes",
+      "claim_description": "CBA is using generative AI to help streamline the home buying and mortgage process.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "to help streamline the home buying and mortgage process",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10004",
+      "apqc_name": "Develop and manage products and services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-019",
+      "context_type": "functional",
+      "claim_title": "CBA exploring GenAI for product testing with synthetic agents",
+      "claim_description": "CBA is exploring the use of GenAI chatbots to create customer personas or synthetic agents for early experimentation and testing of products and services.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "CBDA chief decision scientist Dan Jermyn unveiled plans to use GenAI chatbots to create customer personas or synthetic agents. These will then be used as an early experimentation tool to test their products.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10004",
+      "apqc_name": "Develop and manage products and services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-020",
+      "context_type": "organisational",
+      "claim_title": "CBA involves frontline staff in technology development",
+      "claim_description": "CBA's frontline staff are deeply involved in the technology development process, providing customer interaction knowledge and different perspectives.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "They are the ones that have the knowledge of how customers interact with us or customer needs. It's been incredibly interesting and eye-opening working with them",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-021",
+      "context_type": "temporal",
+      "claim_title": "CBA first in Australia to launch GenAI-powered chatbot",
+      "claim_description": "CBA was the first organization in Australia to launch a generative AI-powered chatbot and messaging experience.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The ability to launch a generative AI-powered chatbot and messaging experience in itself is very cutting edge. We're the first ones to do it in Australia",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-022",
+      "context_type": "scale",
+      "claim_title": "CBA Big Room Planning involves 16,000 employees",
+      "claim_description": "CBA hosts a Big Room Planning event over 2 days involving over 16,000 employees for cross-functional planning and relationship building.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The CBA hosts a 'Big Room Planning' event, inviting over 16,000 of its employees to get together over 2 full days",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

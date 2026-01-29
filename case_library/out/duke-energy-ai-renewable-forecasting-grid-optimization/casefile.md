@@ -1,0 +1,644 @@
+---
+case_id: duke-energy-ai-renewable-forecasting-grid-optimization
+organisation: Duke Energy
+title: AI-powered renewable energy forecasting and grid optimization
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://illumination.duke-energy.com/articles/how-newly-patented-technology-will...
+  url: https://illumination.duke-energy.com/articles/how-newly-patented-technology-will-drive-a-more-responsive-grid
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.renewableenergyworld.com/power-grid/grid-modernization/duke-energys-...
+  url: https://www.renewableenergyworld.com/power-grid/grid-modernization/duke-energys-john-pressley-on-how-ai-is-reshaping-utility-work/
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.distributech.com/2025-technical-conference-sessions/how-duke-energy-...
+  url: https://www.distributech.com/2025-technical-conference-sessions/how-duke-energy-used-generative-ai-for-der-growth-and-grid-reliability
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://enkiai.com/duke-energy-energy-storage-and-battery-initiatives-for-2025-k...
+  url: https://enkiai.com/duke-energy-energy-storage-and-battery-initiatives-for-2025-key-projects-strategies-and-market-impact
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: AI platform enables proactive grid problem resolution through automated
+    rerouting
+  claim_description: The Advanced Power Distribution Platform uses AI to forecast
+    equipment overloads and automatically identifies fixes like rerouting power, enabling
+    proactive resolution of grid issues before they affect customers.
+  source_ids:
+  - S1
+  source_quote: Say the tool forecasts an equipment overload, it automatically identifies
+    a fix – like rerouting power.
+  quote_location: Body paragraph 3
+  ai_attribution: direct
+  attribution_evidence: The platform directly performs forecasting and automatic identification
+    of solutions without human intervention in the decision loop.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Hourly forecasting enables distributed energy resource screening for
+    peak demand
+  claim_description: The platform generates hourly forecasts that enable engineers
+    to screen for distributed energy sources to power customers during high electricity
+    demand periods.
+  source_ids:
+  - S1
+  source_quote: It also generates an hourly forecast, enabling engineers to screen
+    for distributed energy sources to power customers when demand for electricity
+    is high.
+  quote_location: Body paragraph 3
+  ai_attribution: contributing
+  attribution_evidence: AI generates forecasts that enable engineers to make decisions
+    about distributed energy resource deployment.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Automated platform predicts and adjusts for consumption levels to match
+    supply with demand
+  claim_description: The platform can predict consumption levels and adjust to ensure
+    power generation supply meets electricity distribution demand, forecasting loads
+    with better accuracy to prevent customer power issues.
+  source_ids:
+  - S1
+  source_quote: The automated platform can predict and adjust for consumption levels
+    to ensure supply (power generation) meets demand for electricity (distribution).
+  quote_location: Body paragraph 7
+  ai_attribution: direct
+  attribution_evidence: The platform autonomously predicts and adjusts consumption
+    levels without requiring human decision-making in the operational loop.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: AI enables grid flexibility for intermittent renewables while maintaining
+    reliability and affordability
+  claim_description: The patented technology gives engineers confidence that as more
+    intermittent renewables are added, the grid can flex up and down to maintain reliability
+    and keep costs affordable for customers.
+  source_ids:
+  - S1
+  source_quote: engineers can feel more confident that as more intermittent renewables
+    are added, the grid can flex up and down to maintain reliability and keep costs
+    affordable for customers.
+  quote_location: Body paragraph 9
+  ai_attribution: direct
+  attribution_evidence: The AI platform directly enables the grid flexibility capability
+    that maintains reliability and cost control as renewables are integrated.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - optimization
+  outcome:
+  - cost_reduction
+  - risk_avoidance
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Platform will optimize millions of renewable power storage and dispatch
+    decisions instantly
+  claim_description: The patented technology will help optimize the storage and dispatching
+    of renewable power, potentially requiring millions of decisions in an instant
+    as implementation progresses.
+  source_ids:
+  - S1
+  source_quote: the platform's patented technology will eventually help optimize the
+    storage and dispatching of renewable power, which could require millions of decisions
+    in an instant.
+  quote_location: Body paragraph 13
+  ai_attribution: direct
+  attribution_evidence: The platform directly performs millions of optimization decisions
+    at speeds impossible for human operators, representing autonomous decision-making
+    capability.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: AI reduces cost of green energy transition by utilizing existing customer
+    assets
+  claim_description: According to the managing director, the cost of the green revolution
+    will be significantly reduced because the AI platform utilizes assets that already
+    exist at customers' homes.
+  source_ids:
+  - S1
+  source_quote: In the end, the cost of the green revolution will be way less, because
+    we're utilizing an asset that already exists at people's homes.
+  quote_location: Body paragraph 14
+  ai_attribution: direct
+  attribution_evidence: The AI platform enables the utilization strategy that directly
+    reduces costs by coordinating existing distributed assets rather than requiring
+    new infrastructure.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_creation
+  mechanism:
+  - optimization
+  outcome:
+  - cost_reduction
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: AI and ML technologies accelerate distributed energy resource and EV
+    rollout
+  claim_description: John Pressley's teams leverage AI, ML, deep learning, and IoT
+    technologies to accelerate the rollout of distributed energy resources and electric
+    vehicles in support of Duke Energy's 2050 zero carbon goal.
+  source_ids:
+  - S2
+  source_quote: his teams leverage technologies such as AI, ML, deep learning, and
+    IoT to push the company in new, innovative directions.
+  quote_location: Bio section
+  ai_attribution: contributing
+  attribution_evidence: AI and ML are among multiple technologies used together to
+    accelerate rollout, suggesting contributing rather than sole attribution.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Advanced Power Distribution Platform patented in August 2024
+  claim_description: The Advanced Power Distribution Platform received U.S. patent
+    approval in August 2024 after more than four years of development.
+  source_ids:
+  - S1
+  source_quote: Patented in August 2024, the Advanced Power Distribution Platform
+    is helping to accelerate a smarter approach to grid management and optimization.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: organisational
+  claim_title: Duke Energy is a utility company serving multiple states
+  claim_description: Duke Energy operates as an electric utility company with coverage
+    areas spanning multiple states including Florida and North Carolina.
+  source_ids:
+  - S1
+  - S4
+  source_quote: more than 1.5 million electric vehicles expected in Duke Energy's
+    coverage areas by the end of the decade.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: strategic_intent
+  claim_title: Duke Energy has a 2050 zero carbon goal
+  claim_description: Duke Energy has established a strategic goal to achieve zero
+    carbon emissions by 2050, driving investments in clean energy technologies.
+  source_ids:
+  - S2
+  source_quote: in support of Duke Energy's 2050 'zero carbon' goal.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: strategic_intent
+  claim_title: Duke Energy plans to retire remaining coal-fired facilities
+  claim_description: The company is working toward retiring its remaining coal-fired
+    power generation facilities as part of its clean energy transition.
+  source_ids:
+  - S1
+  source_quote: Expanding renewables is critically important as the company looks
+    to retire its remaining coal-fired facilities
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: scale
+  claim_title: Expected 1.5 million EVs in Duke Energy coverage areas by end of decade
+  claim_description: Duke Energy anticipates more than 1.5 million electric vehicles
+    will be operating in its service territories by the end of the 2020s decade.
+  source_ids:
+  - S1
+  source_quote: more than 1.5 million electric vehicles expected in Duke Energy's
+    coverage areas by the end of the decade.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: Grid management and optimization function
+  claim_description: Duke Energy operates grid management and optimization functions
+    to ensure reliable electricity distribution to customers.
+  source_ids:
+  - S1
+  source_quote: the Advanced Power Distribution Platform is helping to accelerate
+    a smarter approach to grid management and optimization.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10611'
+  apqc_name: Manage the distribution of electricity
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Clean energy digital strategy and engineering function
+  claim_description: Duke Energy has established a dedicated organizational function
+    for clean energy digital strategy and engineering led by a managing director.
+  source_ids:
+  - S1
+  source_quote: said John Pressley, managing director of clean energy digital strategy
+    and engineering at Duke Energy.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10854'
+  apqc_name: Develop and manage energy strategy
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: sectoral
+  claim_title: Electric utility sector experiencing extraordinary demand increase
+  claim_description: The electric utility sector is preparing for an extraordinary
+    increase in demand for electricity driven by electrification trends.
+  source_ids:
+  - S1
+  source_quote: while also preparing for an extraordinary increase in demand for electricity.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: organisational
+  claim_title: Digital transformation organizational unit exists at Duke Energy
+  claim_description: Duke Energy has established a Digital Transformation organization
+    that houses clean energy digital strategy and engineering functions.
+  source_ids:
+  - S2
+  source_quote: Managing Director of Clean Energy Digital Strategy & Engineering within
+    the Digital Transformation organization at Duke Energy.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: products_services
+  claim_title: Duke Energy offers managed EV charging programs
+  claim_description: Duke Energy provides managed charging services that can shift
+    EV charging to off-peak hours to reduce grid burden and save customers money.
+  source_ids:
+  - S1
+  source_quote: Through managed charging, the company has the ability to move that
+    to the daytime or overnight hours, when fewer customers use electricity.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: sectoral
+  claim_title: Utility sector transitioning from one-way to multi-way power flows
+  claim_description: The utility sector is experiencing transformation from traditional
+    one-directional power flow to multi-directional flows due to distributed renewable
+    energy sources like solar and battery storage.
+  source_ids:
+  - S1
+  source_quote: For more than a century, energy flowed in one direction; wires went
+    up, electricity went out, customers were served. Now, multiple sources of renewable
+    energy direct power back into the grid
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: temporal
+  claim_title: DTECH conference panel scheduled for March 25, 2025
+  claim_description: John Pressley will participate in a panel discussion about AI
+    reshaping utility work at DTECH conference on March 25, 2025 from 1:00-1:50 PM.
+  source_ids:
+  - S2
+  source_quote: taking place March 25, from 1:00 PM-1:50 PM.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 7
+    verified: 6
+    needs_review: 1
+    rejected: 0
+    by_attribution:
+      direct: 5
+      contributing: 2
+  context_claims:
+    total: 12
+    verified: 10
+    unverified: 2
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-powered renewable energy forecasting and grid optimization
+
+## Executive Summary
+
+Duke Energy: AI platform enables proactive grid problem resolution through automated rerouting.
+
+## Key Findings
+
+- **AI platform enables proactive grid problem resolution through automated rerouting** — verified (method)
+  - Quote: "Say the tool forecasts an equipment overload, it automatically identifies a fix – like rerouting power."
+
+- **Hourly forecasting enables distributed energy resource screening for peak demand** — verified (method)
+  - Quote: "It also generates an hourly forecast, enabling engineers to screen for distributed energy sources to power customers when demand for electricity is high."
+
+- **Automated platform predicts and adjusts for consumption levels to match supply with demand** — verified (method)
+  - Quote: "The automated platform can predict and adjust for consumption levels to ensure supply (power generation) meets demand for electricity (distribution)."
+
+- **AI enables grid flexibility for intermittent renewables while maintaining reliability and affordability** — verified (method)
+  - Quote: "engineers can feel more confident that as more intermittent renewables are added, the grid can flex up and down to maintain reliability and keep costs affordable for customers."
+
+- **Platform will optimize millions of renewable power storage and dispatch decisions instantly** — verified (method)
+  - Quote: "the platform's patented technology will eventually help optimize the storage and dispatching of renewable power, which could require millions of decisions in an instant."
+
+- **AI reduces cost of green energy transition by utilizing existing customer assets** — needs_review (method)
+  - Quote: "In the end, the cost of the green revolution will be way less, because we're utilizing an asset that already exists at people's homes."
+
+- **AI and ML technologies accelerate distributed energy resource and EV rollout** — verified (method)
+  - Quote: "his teams leverage technologies such as AI, ML, deep learning, and IoT to push the company in new, innovative directions."
+
+## Sources
+
+- **S1**: https://illumination.duke-energy.com/articles/how-newly-patented-technology-will-drive-a-more-responsive-grid
+- **S2**: https://www.renewableenergyworld.com/power-grid/grid-modernization/duke-energys-john-pressley-on-how-ai-is-reshaping-utility-work/
+- **S3**: https://www.distributech.com/2025-technical-conference-sessions/how-duke-energy-used-generative-ai-for-der-growth-and-grid-reliability
+- **S4**: https://enkiai.com/duke-energy-energy-storage-and-battery-initiatives-for-2025-key-projects-strategies-and-market-impact

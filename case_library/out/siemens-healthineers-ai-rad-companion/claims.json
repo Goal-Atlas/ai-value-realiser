@@ -1,0 +1,365 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "AI-Rad Companion provides additional security for radiologists",
+      "claim_description": "Radiologist using AI-Rad Companion Chest CT in clinical practice reports that the algorithm provides a sense of additional security, indicating trust in the AI system for diagnostic support.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Meanwhile I really trust the algorithm. It gives me a sense of additional security., states Dr. med. Martin Reiss-Zimmermann, Radiology Erfurt, Germany, who is using the AI-Rad Companion Chest CT in clinical practice.",
+      "quote_location": "Press feature, ECR 2020",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Radiologist directly attributes sense of security and trust to the AI-Rad Companion algorithm in clinical use",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI-Rad Companion saves clinicians' time",
+      "claim_description": "The AI-Rad Companion family supports automated post-processing of MRI, CT and X-ray datasets, saving clinicians' time through automation of routine tasks.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The AI-Rad Companion family supports radiologists, radiation oncologists, radiotherapists and medical physicists through automated post processing of MRI, CT and X-ray datasets. It saves the clinicians' time",
+      "quote_location": "Press release, July 16, 2020",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time savings directly attributed to automated post-processing capabilities of AI-Rad Companion",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "AI-Rad Companion increases diagnostic precision",
+      "claim_description": "AI-Rad Companion helps clinicians increase their diagnostic precision through automated post-processing support for radiology examinations.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The AI-Rad Companion family supports radiologists, radiation oncologists, radiotherapists and medical physicists through automated post processing of MRI, CT and X-ray datasets. It saves the clinicians' time and helps them to increase their diagnostic precision.",
+      "quote_location": "Press release, July 16, 2020",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AI helps increase precision but does not fully automate diagnostic decision-making; augments clinician capabilities",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "ISI reduces MRI workflow steps by one third",
+      "claim_description": "The Imaging System Interface (ISI) saves time and improves operational efficiency by reducing the number of steps in the MRI workflow by one third, allowing users to focus more on patients.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The Imaging System Interface1 (ISI) saves time, improves operational efficiency and reduces the number of steps in the MRI workflow by one third, allowing the user to focus more on the patient",
+      "quote_location": "Press release, July 15, 2020",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "ISI is a hardware/software interface for synchronization; AI not explicitly mentioned as core mechanism",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "33",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Healthcare and medical imaging sector",
+      "claim_description": "Siemens Healthineers operates in the healthcare sector, specifically in medical imaging and diagnostics including radiology, CT, MRI, and X-ray systems.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "Siemens Healthineers develops AI-powered healthcare technology that transforms patient outcomes. From AI in patient care to procedure automation and digital health",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Clinical decision support in radiology",
+      "claim_description": "AI-Rad Companion provides clinical decision-making support for radiologists, radiation oncologists, radiotherapists and medical physicists through automated post-processing.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The AI-Rad Companion product family supports customers in their daily routine of clinical decision-making",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10000",
+      "apqc_name": "Develop Vision and Strategy",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Product announcements 2018-2020",
+      "claim_description": "AI-Rad Companion product family was announced and expanded between 2018-2020, with various modules for Chest CT, Brain MR, Prostate MR, and Chest X-ray introduced during this period.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "RSNA 2018 in Chicago",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Address radiologist workload challenges",
+      "claim_description": "AI-Rad Companion addresses challenges of rising radiology examinations, staff shortages, limited time per case, and increasing danger of missing clinically relevant findings.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The steady rise of radiology examinations and staff shortages lead to a limited amount of time per case as well as an increasing danger of missing clinically relevant findings.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "products_services",
+      "claim_title": "AI-Rad Companion product family",
+      "claim_description": "Product family includes multiple modules: Chest CT, Brain MR for Morphometry Analysis, Prostate MR for Biopsy Support, and Chest X-ray for clinical decision support across different imaging modalities.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The AI-Rad Companion product family supports customers in their daily routine of clinical decision-making. Newest additions to the family are solutions for post-processing of X-ray images and organ contouring for radiation therapy planning",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Clinical adoption in Germany",
+      "claim_description": "AI-Rad Companion Chest CT is being used in clinical practice at Radiology Erfurt, Germany, representing real-world deployment.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Dr. med. Martin Reiss-Zimmermann, Radiology Erfurt, Germany, who is using the AI-Rad Companion Chest CT in clinical practice.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "scale",
+      "claim_title": "Cloud-based platform deployment",
+      "claim_description": "AI-Rad Companion applications are available on teamplay, the cloud-based healthcare platform from Siemens Healthineers, enabling scalable deployment.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Both new applications can be used on MRI scanners from different manufacturers and are available on teamplay2, the cloud-based healthcare platform from Siemens Healthineers.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "temporal",
+      "claim_title": "COVID-19 pandemic context",
+      "claim_description": "Digital ECR 2020 and product developments occurred during COVID-19 pandemic, with focus on efficiency during critical demand, recovery and operating with COVID-19.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Our aim is to help provide better outcomes and increased efficiency, during times of critical demand, recovery and (the new) normalization of operating with COVID-19.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

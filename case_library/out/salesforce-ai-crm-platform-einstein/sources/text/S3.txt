@@ -1,0 +1,20 @@
+Dive Brief:
+- Salesforce introduced Einstein Copilot, an out-of-the-box conversational generative AI-powered assistant, across its enterprise application suite, the company announced Tuesday at its Dreamforce conference.
+- Einstein Copilot is powered by the software giant’s rebranded CRM platform, dubbed Einstein 1. Built on Salesforce’s underlying metadata framework, the platform allows enterprises to connect their data to AI-powered CRM tools and build low-code apps.
+- Customers will be able to access Einstein Copilot and the studio in a pilot version via the Einstein 1 platform this fall, according to the blog post.
+Dive Insight:
+Software vendors raced to add generative AI to flagship products this year. Two of the biggest SaaS providers, Microsoft and Salesforce, announced generative AI integrations to their CRM and ERP solutions in March.
+Both companies touted the new capabilities as firsts for AI-enabled CRM solutions. But as the market crowds, several favored enterprise use cases have emerged, including the conversational assistant.
+“There are many copilots coming out onto the market,” said Patrick Stokes, EVP, product and industries marketing at Salesforce. “I think the paradigm of having an assistant right in your application is a pretty common one that we’re seeing emerge.”
+Salesforce executives anticipated the growth potential of generative AI tools during its Q1 2024 earnings call in May, for the period ending April 30. Salesforce CEO Marc Benioff said Einstein would deliver around 1 trillion transactions the week of the call.
+The company expects 40,000 people to attend its three-day Dreamforce conference this week in San Francisco, including OpenAI CEO Sam Altman and other generative AI leaders. Salesforce characterized the new CRM capabilities as the “next generation of Einstein.” The rebranded platform integrates Salesforce Data Cloud with the CRM, connecting customer data to AI tools.
+AI's reliance on company data creates a tricky situation for the security-conscious.
+“Vendors who offer generative AI foundation models assure customers they train their models to reject malicious cybersecurity requests; however, they don’t provide users with the tools to effectively audit all the security controls in place,” Avivah Litan, VP analyst at Gartner, said in a blog post.
+“The vendors also put a lot of emphasis on red teaming approaches,” Litan said. “These claims require that users put their full trust in the vendors’ abilities to execute on security objectives.”
+Salesforce is hoping to alleviate fears by reminding customers it's not that different from what it’s been doing all along.
+“Twenty-five years ago, we created a trusted way for companies to put their customer data in the cloud securely and safely,” said Clara Shih, CEO of Salesforce AI. “Ten years ago, we created a trusted way for companies to use predictive AI safely and securely, and we’re going to do it again — we are doing it again for generative AI.”
+Retrieving accurate data via Data Cloud lowers the risk of hallucination, Sinh said.
+Salesforce deploys data masking and other safety measures before sending sensitive and proprietary information to large language models as part of its Einstein GPT Trust Layer, which rolled out in June.
+“We go through another set of toxicity checks, and, the whole thing, we capture through our audit trail,” Sinh said. The company also red teams models to ensure they’re performing accurately and includes guardrails for prompt defense and citations.
+The company updated its AI acceptable use policy for customers in August as scrutiny on generative AI continued to grow.
+In addition to the Copilot tool and the CRM platform, Salesforce introduced its Einstein Copilot Studio Tuesday. The studio will serve as a hub to customize the copilot tool for enterprise administrators, developers and IT teams. Businesses can use its AI models to streamline customer service and code with natural language prompts, among other business tasks, the company said.

@@ -1,0 +1,14 @@
+Canon’s finance team was drowning in paperwork with over 4,500 vendor invoices to process every month.
+Each one came with complex details, and because so much of the work was done by hand, errors and delays were common. Even though they already had an RPA workflow in place, it was rigid and unreliable, needing constant human oversight and delivering accuracy rates of only 35–40%.
+That’s when they were recommended to work with Greenlight Consulting.
+Greenlight took a deep dive into Canon’s invoice process and found a smarter way forward.
+Instead of relying on rigid RegEx rules, we built custom machine learning models that could handle the complexity of their data with much higher accuracy. We connected the solution directly into Oracle 11i SAP so invoices could flow through automatically, from extraction to validation to updates. When exceptions came up, they were flagged for a person to quickly review.
+After rounds of testing to make sure everything ran smoothly, the new system was rolled out with confidence.
+Canon transformed the way they handled invoices by choosing the UiPath Platform.
+UiPath Document Understanding took care of pulling out the right data, checking it, and updating records automatically. When something unusual popped up, UiPath Action Center made it easy for a person to step in and resolve it. All of this was tied directly into Oracle 11i SAP, so the entire process ran smoothly from start to finish.
+Greenlight Consulting was instrumental in this transformation, providing expertise and support throughout the project. We were able to accomplish more than we thought was possible in such a short time frame and we’re grateful to have had a dedicated implementation partner like Greenlight. We wouldn’t be here without them.
+Let’s talk about your business challenges and create a solution that fits your needs.
+"*" indicates required fields
+Greenlight Consulting needs the contact information you provide to contact you about our products and services. For more details about our privacy practices and our commitment to protecting your information, please review our Privacy Policy.
+CANADA OFFICE:
+COSTA RICA OFFICE:

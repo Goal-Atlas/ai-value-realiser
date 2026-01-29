@@ -1,0 +1,112 @@
+- Enterprise AI Executive
+- Posts
+- 19 must-read agentic AI case studies
+19 must-read agentic AI case studies
+Plus, key takeaways to help you level up fast.
+WELCOME, EXECUTIVES AND PROFESSIONALS.
+While agentic AI will continue to evolve, it's mature enough to help drive transformative change across industries.
+Those who act now won’t just gain an edge, they’ll redefine how their organizations think, decide, and execute.
+I’ve reviewed dozens of the latest agent AI case studies from top enterprises.
+Here are 19 must-reads:
+ANTHROPIC
+Image source: Anthropic
+Brief: Anthropic shared lessons from taking Claude’s multi-agent research capabilities from prototype to production, outlining proven principles others can apply when building and deploying multi-agent systems.
+Breakdown:
+Research is dynamic and nonlinear; AI agents excel in this setting by adapting to new information and following evolving lines of inquiry.
+Anthropic’s Research feature plans based on user input, then uses tools to create parallel agents that search for information simultaneously.
+The company encoded expert human research strategies into prompts, like task decomposition and source quality evaluation.
+Effective agent evaluation starts with small samples, scales with LLM-as-judge, and relies on human review to catch what automation misses.
+Anthropic addresses production reliability and engineering challenges such as the stateful nature of agents, compounding errors, and more.
+Why it’s important: Anthropic's experience demonstrates how multi-agent research systems can reliably scale through careful engineering, extensive testing, precise prompt tool design, and close collaboration among research, product, and engineering teams with deep AI agent knowledge.
+Full case study here.
+OPENAI
+Image source: OpenAI
+Brief: OpenAI published new guidance on how to design and implement a multi-agent system with best practices using its Agents SDK and a real-world example of an investment research task.
+Breakdown:
+Specialist agents (Macro, Quant, Fundamental) collaborate under a Portfolio Manager agent to tackle complex investment research questions.
+Uses an "agents as tools" approach, the central agent calls other agents as if they were tools to handle specific subtasks in generating answers .
+For instance, a user query “How would an interest rate cut affect GOOGL?” routes to the manager agent, which delegates to specialist agents.
+Each specialist agent leverages tools such as custom Python functions, Code Interpreter, WebSearch, and external MCP servers.
+OpenAI shares design best practices to improve research quality, speed up results, and make systems easier to extend and maintain.
+Why it’s important: This example shows how to combine agent specialization, parallel execution, and orchestration using the OpenAI Agents SDK, offering a clear blueprint for building effective multi-agent workflows for research, analysis, or other complex tasks requiring expert collaboration.
+Full case study here.
+META
+Image source: Meta
+Brief: Meta shared how Aitomatic, which transforms industrial expertise into AI agents, built a Llama-powered Domain-Expert Agent (DXA) to provide expert guidance to field engineers at an integrated circuit (IC) manufacturer.
+Breakdown:
+The IC producer faced support issues as field engineers struggled to access specialized knowledge, causing delays and inconsistent service.
+Aitomatic built a Llama 3.1 70B-powered DXA to capture and scale expert knowledge. Llama was chosen for its customizability and versatility.
+DXA development involved capturing expert knowledge, augmenting with synthetic data to expand scenario coverage, and deployment.
+The firm anticipates 3x faster issue resolution and a 75% first-attempt success rate, up from 15–20%, with its newly deployed DXA.
+With the DXA's efficacy, Aitomatic aims to enable the development of further DXAs, potentially automating the IC design process itself.
+Why it’s important: Field engineers now handle customer inquiries with greater speed and independence from senior staff. Using open-source Llama, the IC design firm retains full ownership of its DXA, trained on sensitive, company-specific knowledge, eliminating dependency on proprietary AI models.
+Full case study here.
+OPENAI
+Image source: OpenAI
+Brief: OpenAI published a case study on its work with Endex, a company developing a financial analyst AI agent. By integrating OpenAI’s reasoning models, Endex is achieving enhanced performance in tasks requiring structured thinking and deep analysis.
+Breakdown:
+Endex previously used complex prompts, chained completions, and verification steps. With OpenAI o1, it's now simpler without sacrificing accuracy.
+With OpenAI o3-mini, Endex gains 3x faster intelligence, enabling multi-step workflows like automating financial model reconciliation.
+Endex identifies discrepancies in financial data, flagging restatements and inconsistencies with citations, freeing analysts time for decisions.
+OpenAI’s o1 vision capabilities allow Endex to process investor presentations, internal decks, Excel models, and 8-Ks, enhancing analysis.
+Endex automates detailed reports, reducing manual financial analysis, letting professionals focus on strategy instead of data formatting.
+Why it’s important: Finance professionals require structured, referenceable reasoning, a challenge for non-reasoning LLMs. OpenAI's o-series models with long-context windows, and advanced reasoning capabilities achieves this.
+Full case study here.
+SHOPIFY
+Breakdown:
+Shopify’s manual listing process led to incomplete attributes and miscategorization, reducing product visibility in search results.
+The team built two AI agents: one to support listing creation and another to extract metadata from billions of product images and descriptions.
+Proprietary models were costly. LLaVA, an open-source Llama-based vision model, offered competitive results with no per-token inference fees.
+QLoRA enabled training on modest hardware. LMDeploy compressed models and optimized compute, slashing memory and inference costs.
+The AI agents improved metadata quality, SEO, and discovery, helping shoppers find more relevant products through natural language queries.
+Full case study here.
+MCKINSEY
+The problem: A large bank needed to modernize its legacy core system, which consisted of 400 pieces of software—a massive undertaking budgeted at more than $600 million. Large teams of coders tackled the project using manual, repetitive tasks, which resulted in difficulty coordinating across silos. They also relied on often slow, error-prone documentation and coding. While first-generation gen AI tools helped accelerate individual tasks, progress remained slow and laborious.
+The agentic approach: Human workers were elevated to supervisory roles, overseeing squads of AI agents, each contributing to a shared objective in a defined sequence (Exhibit 3). These squads retroactively document the legacy application, write new code, review the code of other agents, and integrate code into features that are later tested by other agents prior to delivery of the end product. Freed from repetitive, manual tasks, human supervisors guide each stage of the process, enhancing the quality of deliverables and reducing the number of sprints required to implement new features.
+Impact: More than 50 percent reduction in time and effort in the early adopter teams
+Full case study here.
+MCKINSEY
+The problem: Relationship managers (RMs) at a retail bank were spending weeks writing and iterating credit-risk memos to help make credit decisions and fulfill regulatory requirements (Exhibit 4). This process required RMs to manually review and extract information from at least ten different data sources and develop complex nuanced reasoning across interdependent sections—for instance, loan, revenue, and cash joint evolution.
+The agentic approach: In close collaboration with the bank’s credit-risk experts and RMs, a proof of concept was developed to transform the credit memo workflow using AI agents. The agents assist RMs by extracting data, drafting memo sections, generating confidence scores to prioritize review, and suggesting relevant follow-up questions. In this model, the analyst’s role shifts from manual drafting to strategic oversight and exception handling.
+Impact: A potential 20 to 60 percent increase in productivity, including a 30 percent improvement in credit turnaround
+Full case study here.
+Capgemini - Proposal AI agent
+Capgemini detailed how it delivered a custom gen AI assistant to create more personalized, compelling RFPs for a global insurance company.
+Full case study here.
+BMW - Supplier AI agent
+BMW shared how it built ‘AIconic Agent’, a multi-agent system to enhance information retrieval and decision-making across its supplier network.
+Full case study here.
+LinkedIn - Hiring AI agent
+Full case study here.
+Blackrock - Asset Management AI agent
+Full case study here.
+Uber - 21,000 developer hours saved
+Full case study here.
+Johnson & Johnson - Drug discovery agent
+Full case study here.
+Meta - Consulting AI agent
+Full case study here.
+Google - Automotive AI agent
+Full case study here (page 54).
+Moody’s - Risk Analysis AI agent
+Full case study here.
+NTT Data - Change Management Agent
+Full case study here.
+Meta - Customer support agent
+Full case study here.
+Uber - Agentic RAG
+Full case study here.
+MUST-READS WITH MORE DETAILED BREAKDOWNS
+Agentic AI Reports (19 reports)
+Enterprise AI Case Studies (20 reports)
+Playbooks for AI Leaders (16 reports)
+Enterprise AI Market (8 reports)
+LEVEL UP WITH GENERATIVE AI ENTERPRISE
+Generative AI is evolving rapidly in the enterprise, driving a new era of transformation through agentic applications.
+Twice a week, we review hundreds of the latest generative and agentic AI best practices, case studies, and innovation insights to bring you the top 1%...
+Explore sample editions:
+All the best,
+Lewis Walker
+Found this valuable? Share with a colleague.
+Received this email from someone else? Sign up here.
+Let's connect on LinkedIn.

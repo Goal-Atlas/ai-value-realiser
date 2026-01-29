@@ -1,0 +1,22 @@
+When food delivery services talk breathlessly about machine learning, feel free to roll your eyes: it’s baked salmon they’re dropping off, not Bayesian statistics.
+Insurance is another kettle of fish altogether.
+Sultans of stats
+The birth of statistics is usually dated to 1662, when John Graunt calculated the probabilities of Londoners surviving to a given age. Lloyds of London started shortly thereafter, and advances in statistics and insurance have been inseparable ever since.
+But in recent years, supremacy in statistics has moved to Silicon Valley – a bad omen for the insurance establishment. True, insurers still have some of the finest human statisticians, but the finest statisticians of all are no longer human. They’re machines.
+Insurers, of course, have machines too, but the machine’s ‘secret power’ is its ability to extract prophetic insights from inhuman quantities of data. If the data isn’t ‘Big,’ the machine will function as a calculator, not an oracle.
+Which brings us to the crux of the problem: insurance companies, born in the era of the horse-drawn carriage, were not built to capture Big Data.
+Loss ratios are like testicles
+Case in point: an executive at one of the largest insurers told me that “other” is their most common cause for a claim. People (unlike bots) lazily tick that catch-all-box, rendering their data useless.
+Tons of useful data are lost too: often they’re not machine readable; other times, it’s the humans who can’t read them (swallowed by a system whose architect retired in the 90s).
+The exec went on to say their ‘loss ratio’ was 54% (in other words, if you paid $100 in premiums, they’d spend , on average , $54 on your claims). Among insurers, this passes for small talk, so he was a little taken aback when I countered that his customers have , on average, one testicle. I explained that knowing your customer ‘on average’ offers little insight. Worse, under the guise of a ‘statistical fact,’ a generalized average often paints a misleading picture.
+A loss ratio – the gold-standard insurance metric – is no substitute for deep, textured and rich data. The very kind insurance companies are ill-equipped to collect.
+Digital divination
+Some insurance buyers take time to understand their coverage, others don’t. Is that predictive? What do our tech choices say about our risk profile?
+There are endless such questions, and in a fully digital lifecycle, they all get answered. Unlike traditional insurers, tech companies won’t make do with a global ‘loss ratio.’ They will monitor the loss ratio per device, browser, and advertising campaign. They will compare the loss ratio of people who press hard on the screen, to those who don’t; the loss ratio of those who bought insurance from home, to those who bought it on their commute; those who bought it at 4pm, to those who bought it at 2am. Not only will the machine answer all these questions, it will answer a myriad more we didn’t know to ask.
+Tech companies gather thousands of times more data than traditional insurers, producing nuanced profiles of their customers, and remarkably predictive insights.
+It’s hard to think of a domain that isn’t being upended this way. Want to predict if this year’s cabernet will be a winner? The centuries-old method calls for a connoisseur to swish and spit. Orley Ashenfelter used a multivariate regression to derive a simple equation that outperforms the aficionados:
+When the product is wine, the machine can put some noses out of joint. When the product is probability, the machine can transform the industry.
+Grab your popcorn, Act 2 is beginning
+In recent years the insurance industry has paid close attention to insurance-tech-startups. They take note of how being digital transforms the user experience, appeals to younger consumers, and removes costs, while expediting everything. That’s all true, but it is only Act 1.
+While everyone is bedazzled by the tech of Act 1, these delightful apps are generating mountains of data. These will soon reach the billions of entries that machines go to town on, and that’s when Act 2 will begin.
+Act 1 showcases the power of technology to transform any business by reducing costs, increasing speed, and delighting consumers. But when Act 2 begins, we will see the power of AI to transform insurance in a uniquely powerful way. It will go beyond thrilling customers and driving efficiencies, to being able to quantify risk like never before. That day is nigh.

@@ -1,0 +1,539 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Virtual care technology enables nurses to prioritize home visits for highest-need seniors",
+      "claim_description": "By using virtual care to supplement physical services, nurses can devote their home visits to patients with the greatest needs\u2014those with dementia or who need physical assistance with showering and other personal tasks.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By using virtual care to supplement physical services, nurses can devote their home visits to patients with the greatest needs\u2014those with dementia or who need physical assistance with showering and other personal tasks.",
+      "quote_location": "Mid-document, section on virtual care technology",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Virtual care technology (video conferencing, tablets) enables prioritization, but AI/ML analytics provide insights for resource allocation decisions.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Azure ML analyzes virtual health care data to provide actionable insights for service improvement",
+      "claim_description": "The solution uses Azure machine learning to analyze the data, and then visualizes the findings with Power BI and returns them to the CRM system. Help Desk employees can then access the findings through the dashboard and provide information to the caregivers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The solution uses Azure machine learning to analyze the data, and then visualizes the findings with Power BI and returns them to the CRM system. Help Desk employees can then access the findings through the dashboard.",
+      "quote_location": "Section on transforming virtual health care data",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Azure machine learning directly analyzes IoT data from senior care devices to generate insights that inform caregiver decisions.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Machine learning detects behavioral changes in seniors to enable early health intervention",
+      "claim_description": "By using machine learning and data from virtual care sensors, the city can detect and respond to changes in patterns that warn of more serious problems\u2014saving lives, reducing health care costs, and bringing peace of mind to families.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By using machine learning and data from a variety of virtual care sensors, the city can detect and respond to changes in patterns that warn of more serious problems\u2014saving lives, reducing health care costs, and bringing priceless peace of mind.",
+      "quote_location": "Section on exploring new ways to enhance city services",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Machine learning directly detects abnormal behavior patterns from sensor data, enabling early intervention that would not be possible without AI.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance",
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Robotics and ML enable automated detection of abnormal behavior and alert generation",
+      "claim_description": "The city could program robots to detect abnormal behavior patterns or events, understand that something is wrong, and send an alert that the person needs help.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The city could also program the robots to detect abnormal behavior patterns or events, understand that something is wrong, and send an alert that the person needs help.",
+      "quote_location": "Section on exploring new ways to enhance city services",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered robots directly detect abnormal patterns and autonomously generate alerts, creating new capability for continuous monitoring.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance",
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Analytics identifies highest-risk patients for proactive health intervention",
+      "claim_description": "Through new technologies, we can analyze healthcare data and find patients at the highest risk of getting sick. We can see from the data if someone doesn't have the right medication and can proactively contact them.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Through new technologies, we can analyse this data and find patients at the highest risk of getting sick. We can see from the data if someone doesn't have the right medication, for example, and we can proactively contact them.",
+      "quote_location": "Example of proactive health service",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Analytics technology directly identifies high-risk patients from healthcare data, enabling proactive outreach that transforms reactive to proactive care.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Software robotics automates coordination of senior services upon hospital discharge",
+      "claim_description": "Software robotics would enable the city to automate and coordinate many services. By linking databases for hospital, home care, security, and catering services, the city can automate restoration of services to ensure all are restored on time.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By linking the databases for the hospital, home care, security, and catering and transportation services, we can automate that process to make sure all services are restored on time and nothing is overlooked.",
+      "quote_location": "Section on software robotics",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Software robotics directly automates the coordination process, replacing manual service restoration with automated workflows across multiple systems.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Helsinki operates in public sector government services",
+      "claim_description": "City of Helsinki is a municipal government providing essential services to citizens including senior care, healthcare, and social services.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "City of Helsinki started experimenting about five years ago with an innovative, customer-centric approach to senior services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Senior care and wellbeing services delivery",
+      "claim_description": "Helsinki City Service Center provides telephone and wellbeing services including meal delivery, transportation, mental health care, and home caregiver visits for elderly citizens.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Led by Riitta Laanala, Director of Telephone and Wellbeing Services in the Helsinki City Service Center, the City of Helsinki is using cloud-based solution technology to expand and enable senior services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10401",
+      "apqc_name": "Deliver health care services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Virtual care experimentation began approximately 2012",
+      "claim_description": "The City of Helsinki started experimenting with virtual care technology about five years before the 2017 publication date.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "the City of Helsinki started experimenting about five years ago with an innovative, customer-centric approach to senior services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "organisational",
+      "claim_title": "Helsinki faces aging population and caregiver shortage challenges",
+      "claim_description": "Urban areas across Finland, including Helsinki, have some of the fastest-aging populations in Europe, driving up healthcare costs and creating caregiver shortages in densely populated cities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Market research firm Euromonitor International reported in November 2016 that urban areas across Finland are home to some of the fastest-aging population groups in Europe\u2014a trend that is driving up health care costs.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Helsinki aims to become the most functional digital city through proactive services",
+      "claim_description": "Helsinki's digital team wants to go beyond reactive digital services to services that automatically contact citizens when required, transforming from reactive to proactive personalized services.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The City of Helsinki has adopted MyData principles as it attempts to become the most functional digital city on the planet through proactive digital services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Helsinki adopted MyData principles for citizen data control and trust",
+      "claim_description": "The City of Helsinki joined MyData Global association and adopted its principles to ensure citizens retain control of their data and trust how it is used while benefiting from digital services.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "MyData principles will guide the Finnish capital to ensure that people retain control of their data and trust how it is used while also benefiting from more digital services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "IoT solution integrates Azure, Dynamics 365 CRM, and Power BI",
+      "claim_description": "Innofactor created a cloud-based IoT solution that transfers data from network-connected devices to Microsoft Azure and Dynamics 365 CRM, uses Azure ML for analysis, and visualizes findings with Power BI.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Innofactor created a cloud-based Internet of Things solution that transfers data from network-connected devices to Microsoft Azure and the Microsoft Dynamics 365 customer-relations management (CRM) system.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "products_services",
+      "claim_title": "Assistive devices include GPS watches, Menumat devices, and tablets",
+      "claim_description": "The city equips seniors with GPS watches for location tracking, Menumat devices for meal preparation, and tablets for video conferencing with nurses and caregivers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The city equips seniors with a variety of assistive devices that support independent living and connect them to city services, such as GPS watches that show where seniors are located at all times, Menumat devices that enable seniors to heat prepared meals.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "scale",
+      "claim_title": "Helsinki is Finland's capital and largest city",
+      "claim_description": "Helsinki is described as Finland's capital and largest city, indicating significant scale of operations and population served.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Many elderly men and women in Helsinki, Finland's capital and largest city, face a growing dilemma as they age.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "Customer relationship management for citizen services",
+      "claim_description": "Helsinki uses Microsoft Dynamics 365 CRM system with Help Desk employees accessing dashboards to provide information to caregivers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The solution uses Azure machine learning to analyze the data, and then visualizes the findings with Power BI and returns them to the CRM system. Help Desk employees can then access the findings through the dashboard.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10424",
+      "apqc_name": "Manage customer relationships",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Partnership with Innofactor for digital transformation",
+      "claim_description": "Helsinki partnered with Innofactor, a Microsoft Certified and CityNext partner and leading provider of cloud solutions and digital transformation in the Nordic countries.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Riitta Laanala brought in Innofactor, a Microsoft Certified and CityNext partner and a leading provider of cloud solutions and digital transformation in the Nordic countries.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "strategic_intent",
+      "claim_title": "Goal to support seniors to remain healthy and independent at home",
+      "claim_description": "The main goal is to support people by helping them stay healthy and remain in their homes as long as possible, giving people a happy life in the place where they want to be.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The main goal of this customer-centric concept and all our technology work with the City of Helsinki is to support people by helping them stay healthy and remain in their homes as long as possible.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

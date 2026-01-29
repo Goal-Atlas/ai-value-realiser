@@ -1,0 +1,23 @@
+Press Release Details
+C2i Genomics Partners with Twist Bioscience to Launch Reference Materials for Whole-Genome Cancer Detection
+Twist will leverage C2i’s leadership in whole-genome cancer signatures across solid cancers to generate unique synthetic reference materials for cancer detection validation in labs across the globe
+C2i to integrate Twist’s library preparation kits into minimal residual disease workflow
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220208005517/en/
+Today in cancer diagnostics, a major obstacle facing diagnostic labs and regulators is the lack of standardized reference samples for labs to use for the analytical validation of their whole-genome assays. Especially in the complex field of oncology, there is a heightened need for advanced technology to help execute better treatment decisions, and ultimately, to save more lives.
+Under the collaboration, C2i will use its artificial intelligence (AI) to identify a very large set of variants across the entire genome known to be associated with cancer signatures. Twist will then synthesize each of these variants, tuning them up or down to allow for similarity to natural samples, to create a whole-genome sequencing-focused set of reference materials. The reference standard kits will be available through
+“There is a tremendous need to have a consistent reference standard for the detection of cancer and minimal residual disease,” said Emily M. Leproust, Ph.D., CEO and co-founder of
+The reference standards will also be used as training samples, tuning C2i's algorithm for patient sample analysis. Using whole-genome sequencing and machine learning, C2i has developed a way to use (AI) to enable highly precise cancer detection in even the tiniest tumors. The development of this strategic collaboration demonstrates C2i’s investment in furthering the utility and accessibility to whole-genome cancer diagnostics in labs all over the world.
+“C2i is committed to increasing the accessibility of whole-genome cancer detection and monitoring to support researchers and clinicians in improving oncology care for patients. We’re proud to work closely with Twist, as these new reference kits will solve an urgent unmet need for lab validation and proficiency testing materials in the cancer diagnosis space,” said Asaf Zviran, CEO and Co-Founder at C2i Genomics.
+C2i’s partnership with Twist comes after a year of significant momentum. C2i announced several key partnerships within the last year. The first being the initiation of its global commercial launch through its partnership with NovogeneAIT Genomics. This was followed by a network expansion with Premier Inc., a collaboration with NuProbe Global, and most recently an expansion into
+About C2i Genomics
+Founded in 2019, C2i Genomics has created the world’s leading cancer treatment intelligence platform that uses low-input blood (only 2mL blood) whole-genome sequencing to provide up to 100x more sensitive detection than competing liquid biopsy companies. With a headquarters in NYC, CLIA lab in
+About
+Legal Notice Regarding Forward-Looking Statements
+This press release contains forward-looking statements. All statements other than statements of historical facts contained herein are forward-looking statements reflecting the current beliefs and expectations of management made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements regarding the development of a whole-genome sequencing-focused set of reference materials, the potential for such products to change treatment paradigms, and the ability of such reference materials to aid in the development of solutions that accurately detect cancer. Such forward-looking statements involve known and unknown risks, uncertainties, and other important factors that may cause Twist Bioscience’s actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements. For a description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to Twist Bioscience’s business in general, see Twist Bioscience’s risk factors set forth in Twist Bioscience’s [Annual Report Form 10-K filed with the
+View source version on businesswire.com: https://www.businesswire.com/news/home/20220208005517/en/
+PR for C2i Genomics
+VSC for C2i Genomics
+c2i@vsc.co
+SVP, Corporate Affairs
+abitting@twistbioscience.com
+Source:

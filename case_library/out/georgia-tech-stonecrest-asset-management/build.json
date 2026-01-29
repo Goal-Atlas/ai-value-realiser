@@ -1,0 +1,312 @@
+{
+  "case_id": "georgia-tech-stonecrest-asset-management",
+  "build_started": "2026-01-29T09:54:19.450698",
+  "build_completed": "2026-01-29T09:55:28.733407",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Georgia Institute of Technology Asset Management & Energy Infrastructure",
+      "Georgia Institute of Technology Asset Management & Energy Infrastructure"
+    ],
+    "results_considered": 4,
+    "urls_ranked": [
+      {
+        "url": "https://www.ibm.com/case-studies/georgia-tech",
+        "rank": 1
+      },
+      {
+        "url": "https://powersecure.com/blog/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+        "rank": 2
+      },
+      {
+        "url": "https://www.microgridknowledge.com/distributed-energy/article/11427820/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+        "rank": 3
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20250423704154/en/Georgia-Tech-and-Stryten-Energy-Unveil-Installation-of-Lead-Battery-Energy-Storage-System-for-Advanced-Research",
+        "rank": 4
+      }
+    ],
+    "urls_selected": [
+      "https://www.ibm.com/case-studies/georgia-tech",
+      "https://powersecure.com/blog/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+      "https://www.microgridknowledge.com/distributed-energy/article/11427820/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+      "https://www.businesswire.com/news/home/20250423704154/en/Georgia-Tech-and-Stryten-Energy-Unveil-Installation-of-Lead-Battery-Energy-Storage-System-for-Advanced-Research"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.ibm.com/case-studies/georgia-tech",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 5749,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://powersecure.com/blog/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 4742,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.microgridknowledge.com/distributed-energy/article/11427820/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 6973,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.businesswire.com/news/home/20250423704154/en/Georgia-Tech-and-Stryten-Energy-Unveil-Installation-of-Lead-Battery-Energy-Storage-System-for-Advanced-Research",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 7,
+    "context_claims_count": 10,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [
+      {
+        "claim_id": "VC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3278,
+        "char_offset_end": 3404,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3405,
+        "char_offset_end": 3550,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-003",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3551,
+        "char_offset_end": 3625,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3633,
+        "char_offset_end": 3694,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3696,
+        "char_offset_end": 3790,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3796,
+        "char_offset_end": 3908,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "VC-007",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3935,
+        "char_offset_end": 4040,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-001",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4736,
+        "char_offset_end": 4862,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-002",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 563,
+        "char_offset_end": 682,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-003",
+        "source_id": "S1",
+        "method": "regex_normalized",
+        "result": "matched",
+        "char_offset_start": 857,
+        "char_offset_end": 1045,
+        "match_confidence": 0.75,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-004",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 0,
+        "char_offset_end": 144,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-005",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 53,
+        "char_offset_end": 144,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-006",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 3340,
+        "char_offset_end": 3403,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-007",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-008",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 145,
+        "char_offset_end": 336,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-009",
+        "source_id": "S1",
+        "method": "not_found",
+        "result": "not_found",
+        "char_offset_start": null,
+        "char_offset_end": null,
+        "match_confidence": 0.0,
+        "ai_explanation": null
+      },
+      {
+        "claim_id": "CC-010",
+        "source_id": "S1",
+        "method": "exact",
+        "result": "matched",
+        "char_offset_start": 4133,
+        "char_offset_end": 4274,
+        "match_confidence": 1.0,
+        "ai_explanation": null
+      }
+    ],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

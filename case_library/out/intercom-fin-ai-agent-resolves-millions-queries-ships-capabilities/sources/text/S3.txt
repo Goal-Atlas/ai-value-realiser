@@ -1,0 +1,103 @@
+At Pioneer 2025, our Chief Product Officer Paul Adams announced Fin 3: the best AI Agent for resolving deep, complex queries across every channel.
+Our goal is to give customer service teams the tools to deliver concierge-level service to every single customer, every single time they interact with your business. To help you do that, we built Fin 3.
+We’ve made significant upgrades to Fin with deep investments in all four stages of the Fin Flywheel:
+- To train Fin, we announced Procedures, enabling it to fully resolve complex queries like damaged order claims or account troubleshooting from start to finish. Natural language instructions can be combined with deterministic controls so Fin follows your policies and takes secure actions in your systems.
+- To test Fin, we announced Simulations, a powerful testing suite to ensure Fin is behaving as expected and enable you to catch issues before they reach customers.
+- To better deploy Fin, we extended to more channels – Slack and Discord – and announced improvements to Voice.
+- To help you analyze Fin’s performance, we announced upgrades to our Insights product, including CX Score Reasons, a Topic Trends Report, and new AI-powered Suggestions capabilities.
+We’re also investing heavily in our underlying AI and model layers to make Fin the highest performing AI Agent, so it can deliver the best customer experience.
+The evolution of Fin
+We’ve come a long way since we launched Fin 1 just over two years ago. It was the very first AI Agent for customer service and focused on using your knowledge content to resolve informational queries, enabling it to do all frontline support and free teams to do higher-level work. Then we launched Fin 2. It answered the question of whether AI Agents could deliver human-quality service (it could).
+Since we launched Fin 2, its average resolution rate has continued to climb to 66% across our 6,000+ customers. Over 20% of our customers are getting above 80%.
+We’re proud of this, but it’s not enough. Customer expectations continue to grow. Many teams have been using Fin in more complex workflows, across new channels, and at greater scale. We’ve learned that resolution rate alone isn’t enough. Answering a quick FAQ in chat isn’t the same as investigating a payment dispute or verifying a refund over the phone. Both may count as “resolved,” but the amount of work involved is very different.
+The real measure is automation rate – how much of your overall workload Fin can now handle end-to-end. That’s the frontier Fin 3 is built for.
+With this in mind, we’ve dialled in on two key areas:
+- Complex queries: Not every resolution is equal, so if Fin is resolving 66% of your queries, it isn’t yet doing 66% of the work for you. It needs to successfully resolve increasingly complex queries.
+- More channels: One way to increase the work Fin does for you is to get it involved in more conversations and turn on new channels to meet more of your customers where they are.
+With Fin 3, we’re making significant upgrades to Fin to enable it to do more work for you.
+Improved training with Procedures
+Procedures enable you to set Fin up to resolve your complex, time-consuming queries that require multiple steps or business logic – things like troubleshooting login issues, handling return requests, or investigating potential fraud.
+You can now train Fin to follow your standard operating procedures carefully and exercise experience and judgment, just like your human team would. This means Fin can handle even your most complicated queries in a controllable, predictable way, while still delivering a natural, agentic customer experience.
+Procedures does this by combining four powerful things:
+1. Natural language instructions
+Teach Fin the same way you’d train a new teammate. You can copy and paste your existing SOPs straight in (most support teams already have them written up in Google Docs or Notion) and describe how Fin should act using natural language.
+The editing experience feels familiar and lightweight, so teams can start writing Procedures immediately without needing engineers or special syntax.
+2. Deterministic controls
+When a Procedure needs more structure or precision, you can layer in deterministic elements:
+- Data connectors let Fin check information or take actions directly in your tools.
+- Conditional steps handle decision points (for example, whether a refund should be approved) so Fin’s behavior is consistent and predictable.
+- And when absolute accuracy is essential, you can add small code snippets that guarantee the same input always produces the same output.
+You can also add checkpoints where Fin pauses for approval or hands off to a teammate before taking certain actions, keeping sensitive workflows under human control. Together, these controls give you reliability and flexibility in the same system.
+3. Fully agentic behavior
+Conversations rarely stick to the “happy path,” so Procedures are designed to let Fin reason its way through them. It reads the entire Procedure context as it talks, moving up or down steps or switching between Procedures when needed.
+If a customer changes their answer or corrects a detail, Fin can jump back and continue naturally instead of getting stuck in a rigid flow. The result is a smarter, more fluid conversation that still follows your process.
+4. AI Assistant support
+AI Assistant helps teams write and maintain Procedures faster. You can start with a short overview and any supporting documents, and it drafts a first version using what Fin already knows from your knowledge base and past conversations.
+As you expand Procedures, it can suggest additional controls or generate the boilerplate code for API connectors. This lowers the barrier for teams that don’t have dedicated engineering help and makes iteration much quicker.
+Together, these elements let Fin reason like a human while operating with the precision of software. Most teams can begin with no-code or low-code Procedures, and partner with engineering only for advanced integrations.
+This gives customer service leaders a new balance of power and control as high-impact workflows run predictably and transparently, without sacrificing the natural experience customers expect.
+“Support needs natural conversation and control. Procedures optimize for both – agentic where you want it, designed where you need it – rather than a generic agent builder.”
+– Chris Dalley, Director of Product Management at Intercom
+Improved testing with Simulations
+Simulations is a new automated testing capability for Fin. With Procedures, we’ve added significant agentic power as Fin can now move around within a Procedure or jump from one to another as it reasons. That flexibility is powerful, but your team needs a way to test it at scale.
+Real-world processes, like refunds, quickly expand into combinations of customer states, policy thresholds, and edge conditions, creating dozens of possible paths through a single flow. Manual testing won’t scale for that level of complexity, so we built Simulations to make this kind of coverage practical.
+To give you confidence that you’ve set it up right, you can pick any Procedure, choose a user or customer segment, and run a full, multi-turn simulated conversation from start to finish. You’ll see exactly how Fin follows each step and reasons through it, and you can tweak anything that doesn’t behave as intended.
+AI Assistant is built in to help you refine your Procedures. If you need to tweak a Procedure, it suggests what to change so you can accept the fix in a click and re-run the test. It can also recommend additional Simulations to cover complex Procedures that need more test cases.
+With any Procedure, you’ll want to create a simulation for many different scenarios. As you create these, you can store them in our Simulation library.
+This is really important because products, policies, and teams change all the time, so your Procedures will consistently need to be updated. Making these updates introduces risk that something will no longer work as intended, but with the Simulation library, you can run all of your Simulations to see if something has regressed or broken.
+Together, these tools give you confidence that Fin behaves exactly as you expect and a faster way to learn, test, and iterate as your team’s skills and automation expand.
+Improved channels with Voice updates, Slack, and Discord
+We want Fin to be able to answer all your customer queries, no matter how complex, and no matter what channel.
+Fin already works on more channels than any other AI Agent. At Pioneer, we announced that it will work on even more, as well as some significant updates to Voice.
+More channels
+Customer service is no longer confined to email or chat. Customers expect help wherever they already are.
+Slack
+Fin now works directly inside your Slack channels and customer communities. Replies are fully native: threaded, formatted, and styled like a teammate’s, making conversations feel natural and integrated. You can control when Fin responds versus when your team steps in, and if a human joins the thread, Fin automatically steps back. Every interaction is logged for reporting and analysis.
+Discord
+More and more teams are choosing Discord to support customers where they already are. Now, Fin can answer your customers in Discord channels too.
+Fin Voice upgrades
+We launched Fin Voice last March, and many of our customers are already seeing huge value from it.
+Rather than the typical phone experience (waiting on hold, navigating confusing IVR menus, or talking to a “dumb” bot that gives one-word answers) customers can now get an immediate response in natural conversation.
+Since we launched Fin Voice, we’ve added much more power and configurability:
+- Better guidance.
+- More customization.
+- Better testing and deployment.
+- Call transcripts and summaries.
+These updates make Fin Voice more capable and practical to run at scale.
+Here’s a live demo from Pioneer to show you how it works:
+Voice isn’t just “chat with speech”. Real conversations have different constraints, so we’ve designed Fin Voice for them:
+- Latency: Long pauses feel wrong.
+- Answer shape: Shorter, chunked replies work better than long paragraphs.
+- Interruptions and endpointing: Callers interrupt, which means the Agent must detect when to talk and when to listen.
+- Cost: Phone is costlier to run and lacks concurrency, so automation matters more.
+How natural Fin sounds matters. When a voice bot sounds robotic, people assume it’s limited and ask for a human immediately. Fin avoids that by speaking naturally, conversing at a normal pace, and adjusting its tone as it listens. It can also detect sentiment directly from the audio – if someone laughs or sounds angry, that signal is factored into its responses, helping it respond with empathy and keep the conversation on track.
+“We’ve seen that how natural the Agent sounds signals to people how smart it is. If it sounds robotic, they escalate immediately – especially on phone where issues are more urgent.”
+– Peter Bar, Principal Product Manager at Intercom
+We’ve improved performance too. Latency is down around 30–40% since launch, making conversations feel fluid instead of stop-start. And unlike many voice systems that might perform well in a demo but break down when connected to a full help center, Fin works across large, real-world knowledge bases without slowing down, using the same reasoning engine that powers chat.
+Fin Voice is multilingual out of the box and can currently answer calls in 28 languages, with configurable voices and greetings. You can also tailor how it operates day-to-day, from how it starts a call, to escalation rules and office-hour routing. Every call is logged automatically in Intercom, complete with a transcript, summary, and outcome, giving your team full visibility to review performance and refine over time.
+For teams, this means Fin can take on a lot more of the phone workload. It can triage calls, summarize transcripts, and hand over smoothly when needed, reducing average handle time and freeing agents to focus elsewhere.
+Because Fin Voice runs on the same foundation as chat, every improvement you make to Fin’s knowledge applies automatically. That means one system, consistent behavior, and better coverage across every channel.
+As one customer told us:
+“Customers often say they’re amazed it’s not a real person – Fin Voice sounds natural, responds in context, and doesn’t feel robotic at all.”
+Improvements to Insights
+With Fin set up to answer more complex queries and on more channels, you need to understand how well it is working at scale, and what you can do to improve Fin’s performance and your customer experience.
+Last May, we introduced our new Insights product, which had three main components: CX Score, Topics Explorer, and AI-powered Suggestions. At Pioneer, we announced big upgrades to all three areas.
+1. CX Score
+CX Score is a better way to measure customer experience with AI. It gives you a complete view of your support quality across every interaction.
+We’re now introducing CX Score Reasons, which give you a more representative, transparent, and insightful view into the customer experience. For example, was a CX Score due to product feedback, or was it actually about the answer quality provided? These attributes are all built into our reporting system, so you have full filtering and segmentation capabilities.
+2. Topics Explorer
+Topics Explorer is a product that uses AI to analyze and organize every conversation into topics and sub-topics, giving you a view of what’s driving support volume, impacting support quality – and needs your attention.
+We have a brand new Topic Trends report, which automatically highlights the most important weekly changes in your support topics, like volume spikes, drops in Fin resolution, or emerging trends. It does the digging for your team so you can act early before the customer experience is impacted.
+Our Topics Explorer already used AI to organize conversations into topics and sub-topics, but you now have curation control over those topics and can rename, merge, move, and create new ones. You can get AI-powered reporting on the topics you care most about, and see which ones you weren’t even aware of.
+3. AI-powered Suggestions
+AI-powered Suggestions provide exact, ready-to-publish changes to your help content based on what your support team is saying, making it easy to fill content gaps.
+Suggestions now does a lot more:
+- Spots duplications and contradictions in your content and offers suggestions.
+- Learns from when you reject suggestions to make future suggestions better.
+- If you use Fin alongside Zendesk or Salesforce, you’ll get one-click suggestions for your knowledge base in those places.
+- Offers suggestions for data, actions, and guidance changes.
+(That last change is possibly the biggest one – those suggestions will help you answer more and more complex queries.)
+Let’s recap
+Fin 3 builds on everything we’ve learned since we launched the first AI Agent for customer service in 2023. It’s our most advanced Agent yet – trained through Procedures, tested with Simulations, deployed across every major channel including Voice, Slack, and Discord, and measured through richer Insights.
+All of it adds up to one thing: Fin now does more of the work for you, resolving the complex, time-consuming queries that used to belong only to humans.
+Learn more about Fin 3 here. Some of these capabilities are available in the product already, and we’re rolling out the rest as fast as possible. We’re excited for you to try everything.

@@ -1,0 +1,712 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "PwC profit increased 20% to \u00a31.37b despite flat revenue growth",
+      "claim_description": "PwC UK achieved a 20% profit increase to \u00a31.37 billion (20% profit margin) in 2025 despite revenue growth of only 0.4%, through cost control measures including headcount reduction of 2,000+ staff.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "PwC's overall profit rose 20% to \u00a31.37b, a 20% profit margin, despite stagnant top-line growth. How? By pulling cost levers: fewer staff, slower promotions, tighter spend.",
+      "quote_location": "Margins Protected, Growth Delayed section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AI is described as 'built into the business model' with a standalone tech/AI unit created. Cost control was primary driver, but AI-enabled delivery models contributed to operational efficiency.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "88% of executives plan to increase AI budgets in next 12 months",
+      "claim_description": "According to PwC's May 2025 AI Agent Survey, 88% of senior executives plan to increase AI-related budgets in the next 12 months, driven by the growing promise of agentic AI.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "According to PwC's May 2025 AI Agent Survey, 88% of senior executives plan to increase their AI-related budgets in the next 12 months, driven by the growing promise of agentic AI.",
+      "quote_location": "Industry-leading AI solutions section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct measurement of AI budget allocation decisions by executives, indicating strategic commitment to AI investment.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "88",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Two-thirds of AI agent adopters see measurable productivity gains",
+      "claim_description": "Among organizations already adopting AI agents, two-thirds (approximately 67%) are seeing measurable gains in productivity, according to PwC's 2025 AI Agent Survey.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "And among organizations already adopting AI agents, two-thirds are seeing measurable gains in productivity.",
+      "quote_location": "Industry-leading AI solutions section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct measurement of productivity gains attributed specifically to AI agent adoption across client organizations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "67",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "PwC created standalone technology and AI unit for scaled delivery",
+      "claim_description": "PwC reorganized service lines to create a standalone technology and AI unit, enabling centralized engineering teams and productized services that signal a shift from bespoke consulting to reusable, tech-enabled solutions.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The firm created a standalone technology and AI unit, reorganising service lines to reflect digital delivery. This matters for two reasons: Scale of investment. PwC can commit resources to AI at a scale most mid-tier and boutique firms cannot.",
+      "quote_location": "AI Is Now Built Into the Business Model section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Organizational restructuring specifically to embed AI into delivery model at scale, representing direct strategic commitment to AI-enabled transformation.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "automation"
+      ],
+      "outcome": [
+        "business_growth",
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "25% of investors willing to pay up to 50% premium for sustainable companies",
+      "claim_description": "Research presented at PwC/Microsoft roundtable shows 25% of investors are willing to pay up to a 50% premium for companies that integrate sustainability, enabled by AI-driven ESG transparency and reporting.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "25% of investors are willing to pay up to a 50% premium for companies that integrate sustainability.",
+      "quote_location": "Roundtable insights section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AI enables ESG transparency, automated reporting, and credible sustainability strategies that drive investor premium. AI is contributing factor to achieving sustainability credentials that command premium.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "AI automates ESG data collection and enhances compliance efficiency",
+      "claim_description": "PwC's AI solutions automate ESG data collection, enhance decision-making, accelerate carbon reduction, simplify compliance and unlock actionable sustainability insights across teams at scale.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "AI has emerged as a powerful enabler here - helping organisations automate ESG data collection, enhance decision-making and accelerate carbon reduction. According to PwC's 2025 AI Business Predictions, AI can also simplify compliance and unlock actionable sustainability insights.",
+      "quote_location": "Introduction section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI directly performs automation of ESG data collection, compliance processes, and insight generation - core AI-driven capabilities.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AIDA transforms documents into actionable intelligence using Amazon Bedrock",
+      "claim_description": "PwC's AIDA solution uses Amazon Bedrock's large language models to transform documents into actionable intelligence through automated data extraction, streamlined compliance, and real-time insights, enhancing productivity and accuracy.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "AIDA addresses this challenge by transforming documents into actionable intelligence with Amazon Bedrock's large language models. Through automated data extraction, streamlined compliance, and real-time insights, AIDA helps empower your organization to enhance productivity and accuracy.",
+      "quote_location": "AIDA solution description",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AIDA is an AI solution using LLMs to directly perform document transformation, data extraction, and insight generation - purely AI-driven capabilities.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI-powered QMS reduces manual effort and accelerates decision-making",
+      "claim_description": "PwC's AI QMS platform streamlines quality management system processes by reducing manual effort, improving accuracy, and accelerating decision-making for product complaints and deviations in pharmaceutical contexts.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "AI QMS is an AI-powered automation platform that can streamline QMS processes by reducing manual effort, improving accuracy, and accelerating decision-making for product complaints and deviations.",
+      "quote_location": "AI QMS solution description",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI QMS directly automates quality management processes, with AI performing the core automation, accuracy improvement, and decision acceleration functions.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Strategic transformation initiated in 2016",
+      "claim_description": "Leadership changes within PwC in 2016 prompted a new strategic direction focused on values, purpose, and innovation to support long-term sustainable growth.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In 2016, leadership changes within PwC prompted a new strategic direction that more clearly aligned our organization with our values and purpose to support long-term sustainable growth.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "temporal",
+      "claim_title": "2025 results show sector under pressure but adapting",
+      "claim_description": "PwC UK's 2025 annual results released, showing revenue growth slowed to 0.4% from 9-16% in previous three years, with headcount reduction of 2,000+ staff.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "PwC UK's 2025 results highlight a sector under pressure but also adapting. Revenue growth slowed to 0.4%, down from 9\u201316% in the previous three years. Headcount fell by more than 2,000.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Professional services and Big Four consulting sector",
+      "claim_description": "PwC operates as one of the Big Four professional services firms, setting the tone for the consulting industry through annual results and strategic positioning.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "PwC UK's annual results set the tone for the Big Four \u2013 and by extension, the consulting industry.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Pivot from volume to margin strategy",
+      "claim_description": "PwC shifted strategy from volume-based growth to margin protection through cost control, representing industry-wide repositioning for next cycle.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Across the industry, this pivot from volume to margin is reshaping career paths, promotion tracks, and hiring strategies. For consultants, the partner ladder is narrowing. For firms, it's a temporary fix that must be matched with new delivery models.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "Partnership with AWS for AI solutions",
+      "claim_description": "PwC partners with Amazon Web Services (AWS) to deliver industry-leading AI solutions built on AWS infrastructure including Bedrock, SageMaker, and Amazon Q.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Industry-leading AI solutions built by PwC, powered by AWS \u2014 secure, scalable, responsible and outcomes-focused. Together, PwC and AWS can help organizations turn AI ambition into real outcomes.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "AWS launch partner for AI safeguards",
+      "claim_description": "PwC serves as AWS's launch partner for bringing mathematically validated safeguards into real-world AI use cases across sectors like pharma, utilities, and cloud compliance.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We're proud to be AWS's launch partner\u2014bringing mathematically validated safeguards into real-world AI use cases across sectors like pharma, utilities, and cloud compliance.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "AI solutions for finance operations and analytics",
+      "claim_description": "PwC's Advanced Finance Analytics leverages AI-driven forecasting and governance for finance operations, bringing modernized approach to financial analysis, planning, performance management, risk, and reporting.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "PwC's deep industry knowledge, combined with Advanced Finance Analytics, leverages the latest advancements in technical and on-demand analytics \u2014 integrated with cloud technologies \u2014 to bring AI-driven forecasting and governance to finance operations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.0",
+      "apqc_name": "Manage Financial Resources",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "AI solutions for pharmaceutical quality management",
+      "claim_description": "PwC provides AI-powered solutions for pharmaceutical quality management systems, product complaints, deviations, clinical trials, and regulatory compliance.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "AI QMS is an AI-powered automation platform that can streamline QMS processes by reducing manual effort, improving accuracy, and accelerating decision-making for product complaints and deviations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "AI solutions for cybersecurity and compliance",
+      "claim_description": "PwC's cyber analytics platform leverages AWS-native analytics to unify databases for secure, scalable insights, monitoring and responding to cyber, compliance and fraud events using AI/ML.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The cyber analytics platform is an innovative customizable and scalable architecture composed of multiple layers that work together to connect, secure, and safeguard an organization's environment by leveraging AWS-native analytics to unify internal and external databases.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11.0",
+      "apqc_name": "Manage Information Technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "AI solutions for ESG and sustainability reporting",
+      "claim_description": "PwC provides AI-enabled solutions for automating ESG data collection, carbon footprint calculation, sustainability reporting, and regulatory compliance across environmental and social metrics.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "AI has emerged as a powerful enabler here - helping organisations automate ESG data collection, enhance decision-making and accelerate carbon reduction. AI can also simplify compliance and unlock actionable sustainability insights across teams.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "14.0",
+      "apqc_name": "Manage Environmental Health and Safety",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Partnership with Microsoft and OpenAI for sustainability",
+      "claim_description": "PwC Middle East collaborates with Microsoft and OpenAI to deliver AI-enabled sustainability solutions, including Microsoft Cloud for Sustainability platform.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "These conversations mirror the broader work underway across PwC Middle East, where teams are powering the next wave of business transformation in the region with AI-enabled sustainability solutions in collaboration with Microsoft and OpenAI.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "scale",
+      "claim_title": "Geographic presence in Middle East markets",
+      "claim_description": "PwC Middle East operates across UAE, Saudi Arabia, Jordan, Egypt and broader Middle East region, with executive roundtables held in Dubai and Riyadh.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "These conversations mirror the broader work underway across PwC Middle East, where teams are powering the next wave of business transformation in the region with AI-enabled sustainability solutions in collaboration with Microsoft and OpenAI - across markets including the UAE, Saudi Arabia, Jordan and Egypt.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "temporal",
+      "claim_title": "UK consulting market contraction in 2024 with recovery forecast 2025",
+      "claim_description": "UK consulting market contracted 3-4% in 2024 but forecast to recover in 2025 with 5-7% growth, representing cyclical rather than structural decline.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The UK consulting market contracted in 2024 (Source Global Research estimates a 3\u20134% fall) but is forecast to recover in 2025, with growth expected between 5\u20137%.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "strategic_intent",
+      "claim_title": "Shift from bespoke consulting to productized tech-enabled solutions",
+      "claim_description": "PwC's centralized engineering teams and productized services signal strategic move away from bespoke slideware consulting towards reusable, tech-enabled solutions at scale.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Centralised engineering teams and productised services signal a move away from bespoke slideware towards reusable, tech-enabled solutions. This is the real competitive divide emerging in consulting: firms that can embed AI fluency across delivery, and firms that can't.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "products_services",
+      "claim_title": "Portfolio of sector-specific AI solutions",
+      "claim_description": "PwC offers portfolio of proven industry-specific AI solutions including AIDA (document intelligence), cyber analytics, finance analytics, disaster recovery, Medicare Advantage modeling, clinical trials, and pharmaceutical compliance tools.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We focus on real-world business value, not just experimentation, with a portfolio of proven industry solutions that leverage Bedrock, SageMaker, Amazon Q and more. From customer experience to financial forecasting, our AI capabilities deliver trust, speed and impact.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

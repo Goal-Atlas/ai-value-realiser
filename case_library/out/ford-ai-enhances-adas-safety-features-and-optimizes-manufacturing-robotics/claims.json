@@ -1,0 +1,577 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "AI-driven robotics increase manufacturing efficiency",
+      "claim_description": "AI-powered robots in Ford's assembly lines operate continuously with superior speed and precision, shortening cycle times and boosting overall production throughput.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Robots driven by AI have the endurance to function tirelessly, greatly enhancing the pace of production. Their ability to execute tasks with superior speed and precision compared to human workers shortens cycle times and boosts overall throughput.",
+      "quote_location": "Section 1: AI in Manufacturing Automation - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered robots directly execute assembly tasks with enhanced speed and precision, directly causing increased production efficiency.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI robotics enhance product quality in manufacturing",
+      "claim_description": "AI robots minimize defects and reworks through high precision and consistency, elevating product quality and leading to greater customer satisfaction.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "With high precision and consistency, AI robots minimize the occurrence of defects and reworks in the manufacturing process. Such enhancements in the manufacturing process elevate the quality of products, ultimately leading to greater customer satisfaction.",
+      "quote_location": "Section 1: AI in Manufacturing Automation - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI robots directly perform assembly tasks with precision, directly reducing defects and improving product quality.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "AI automation reduces material wastage",
+      "claim_description": "AI-driven processes minimize errors and defects, reducing material wastage and contributing to cost savings and more sustainable manufacturing practices.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By minimizing errors and defects, AI-driven processes reduce material wastage, contributing to cost savings and more sustainable manufacturing practices.",
+      "quote_location": "Section 1: AI in Manufacturing Automation - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-driven automation directly reduces errors, which directly causes reduced material wastage and cost savings.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "AI robotics improve worker safety",
+      "claim_description": "By delegating dangerous tasks to robots and using cobots with advanced sensors, Ford enhances workplace safety and minimizes potential for workplace accidents and injuries.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By delegating dangerous tasks to robots, Ford enhances workplace safety. cobots are engineered to ensure a safe working environment alongside human colleagues, minimizing the potential for workplace accidents and injuries.",
+      "quote_location": "Section 1: AI in Manufacturing Automation - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered robots and cobots directly perform hazardous tasks and detect human presence, directly reducing workplace accidents.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI automation delivers long-term cost reduction",
+      "claim_description": "Initial investment in robotics and AI technology pays off through reduced labor costs, lower waste, and less downtime.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Over the long term, the initial investment in robotics and AI technology pays off through reduced labor costs, lower waste, and less downtime.",
+      "quote_location": "Section 1: AI in Manufacturing Automation - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI robotics directly automate tasks, directly reducing labor costs, waste, and downtime.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "AI predictive maintenance reduces equipment downtime",
+      "claim_description": "By anticipating breakdowns, Ford schedules maintenance during non-critical production times, drastically cutting down on unplanned downtime.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By anticipating breakdowns, Ford can arrange maintenance for non-critical production times, drastically cutting down on unplanned downtime.",
+      "quote_location": "Section 2: AI for Predictive Maintenance - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI algorithms directly predict equipment failures, enabling proactive maintenance scheduling that directly reduces unplanned downtime.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI predictive maintenance increases equipment lifespan",
+      "claim_description": "Conducting maintenance as needed ensures equipment remains in prime condition, extending its operational life.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Conducting maintenance as needed ensures that equipment remains in prime condition, which extends its operational life.",
+      "quote_location": "Section 2: AI for Predictive Maintenance - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-driven predictive maintenance directly optimizes maintenance timing, directly extending equipment operational life.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI predictive maintenance improves cost efficiency",
+      "claim_description": "Predictive maintenance decreases expenses linked to emergency repairs, excessive upkeep, and unneeded part replacements, enabling more effective resource allocation.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Predictive maintenance decreases the expenses linked to emergency repairs, excessive upkeep, and unneeded part replacements. By targeting maintenance more accurately, Ford can allocate resources more effectively.",
+      "quote_location": "Section 2: AI for Predictive Maintenance - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI algorithms directly predict maintenance needs, directly reducing unnecessary repairs and enabling targeted resource allocation.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "AI predictive maintenance improves workplace safety",
+      "claim_description": "Proactive equipment maintenance minimizes risk of accidents caused by equipment failure, leading to safer working conditions for employees.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By maintaining equipment proactively, the risk of accidents caused by equipment failure is minimized, leading to safer working conditions for employees.",
+      "quote_location": "Section 2: AI for Predictive Maintenance - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI predictive models directly identify potential equipment failures, enabling proactive maintenance that directly reduces accident risk.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "AI predictive maintenance improves operational efficiency",
+      "claim_description": "Better-maintained equipment improves overall production process efficiency, with consistently peak operation meaning fewer slowdowns due to equipment issues.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "With better-maintained equipment, the overall efficiency of production processes improves. Consistently operating at peak condition means fewer slowdowns due to equipment issues.",
+      "quote_location": "Section 2: AI for Predictive Maintenance - Benefits",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-driven predictive maintenance directly optimizes equipment condition, directly improving production efficiency.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Ford Motor Company is implementing AI technologies",
+      "claim_description": "Ford Motor Company is the organization implementing AI-driven technologies across manufacturing and autonomous vehicle development.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford Motor Company stands at the forefront of this revolution, steering the future of transportation with its advanced AI-driven technologies.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Automotive sector undergoing AI transformation",
+      "claim_description": "The automotive sector is being transformed by AI integration, particularly in autonomous vehicles and manufacturing processes.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The integration of Artificial Intelligence (AI) is transforming the automotive sector, ushering in an era dominated by autonomous vehicles and altering conventional driving paradigms.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "AI applied to manufacturing operations",
+      "claim_description": "Ford applies AI to manufacturing automation including robotics in assembly lines for welding, painting, and component assembly.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford has installed AI-powered robots across its assembly lines worldwide. These robots are specifically engineered to manage a variety of functions, including welding, painting, and the assembly of components.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "AI applied to maintenance operations",
+      "claim_description": "Ford uses AI for predictive maintenance of manufacturing equipment using sensor data and machine learning models.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford has adopted AI-driven predictive maintenance technologies. This process utilizes AI algorithms that interpret data from sensors integrated into machinery, enabling predictions of when and where maintenance is necessary.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "AI applied to supply chain management",
+      "claim_description": "Ford implements AI to optimize supply chain operations including demand forecasting, inventory management, and logistical efficiency.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford's implementation of AI in optimizing its supply chain operations represents a strategic move to address the complexities and demands of modern automotive production.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "5.0",
+      "apqc_name": "Manage Supply Chain",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "strategic_intent",
+      "claim_title": "Ford's strategic focus on autonomous vehicles and safety",
+      "claim_description": "Ford's AI strategy focuses on developing autonomous vehicles and advanced driver assistance systems to enhance road safety and streamline traffic management.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford is reshaping the way vehicles operate, offering solutions that promise not only to enhance road safety but also to streamline traffic management and expand accessibility.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "scale",
+      "claim_title": "Global deployment of AI robotics",
+      "claim_description": "Ford has deployed AI-powered robots across its assembly lines worldwide.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Ford has installed AI-powered robots across its assembly lines worldwide.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "temporal",
+      "claim_title": "Case study published in 2026",
+      "claim_description": "The case study documenting Ford's AI implementations was published in 2026.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "5 ways Ford is using AI [Case Study] [2026]",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+It’s hard to miss headlines about how much AI will ask of the power grid. But what about the other way around?
+John Pressley, managing director of digital transformation at Duke Energy, will discuss how AI is transforming utility operations at DTECH (formerly known as DISTRIBUTECH) convening from March 24-27, 2025 in Dallas, Texas.
+Pressley will participate in the session, PG&E, Duke Energy, and PSEG on how AI/ Analytics is reshaping utility work, taking place March 25, from 1:00 PM-1:50 PM.
+The panel will discuss how PG&E, Duke Energy, and PSEG are navigating the convergence of AI and generative AI, AR/ VR, analytics, and cloud, and how they have doubled down in their efforts on automation to drive value within their organizations.
+Utility experts will share how they have successfully implemented these technologies in their organizations and have achieved tangible business outcomes. They will also provide guidance on how to identify the right target areas, choose the right technology, and get the right sponsorship within the organization to drive value.
+Key Takeaways:
+- Effective human-machine collaboration can drive productivity, safety, and quality of work effort thus producing better outcomes. Modern technologies can change the existing work methods for the better and offer advantages to both workers and utility.
+- Utilities should invest in assessing, piloting, and adopting new technologies that promote human-machine collaboration within the organization to benefit from it and maximize business value.
+- New ways of working require transparent communication, reskilling employees, bolstering confidence, and pursuing AI benefits wisely.
+In this session, Pressley will be joined by the following:
+- Panel moderator: Pankaj Guglani, Assistant Vice President and Strategic business unit leader – Cognizant
+- Panel chairperson: Alan Sowell, Vice President, Project Management – POWER Engineers, Inc.
+- James Prettitore, Managing Director, IT – PSEG
+- Ravi Malhotra, Senior Manager, Business Technology, App Health and AI Application Advance Ops Team – Pacific Gas and Electric
+- Somjyoti Mukherjee, Solutions Leader, Energy & Utilities – Cognizant
+John Pressley is the Managing Director of Clean Energy Digital Strategy & Engineering within the Digital Transformation organization at Duke Energy. John’s portfolio includes technical products that are accelerating the roll-out of distributed energy resources (DERs) and electric vehicles, in support of Duke Energy’s 2050 “zero carbon” goal. Under his leadership, his teams leverage technologies such as AI, ML, deep learning, and IoT to push the company in new, innovative directions.
+Attending DTECH this year? Don’t miss these other great sessions!
+- Itron’s Amanda Dixon on the future of municipal energy management
+- Dominion Energy’s Aaron Winter on meeting cloud computing demands
+- National Grid’s Jon Malaver on utility talent acquisition retention amid rapid industry changes
+- Eversource Energy’s John Nachilly on leveraging eSIM tech for SCADA resiliency
+- National Grid’s Bridget Powers Beggs on ‘right-sizing’ distribution systems and the economic, societal value of DERMS
+- UConn Eversource Energy Center’s Dr. Diego Cerrai on AI for storm and damage prediction
+- Evergy’s JJ Stutler on what utilities actually do with all of their private LTE data
+- Alectra Utilities’ Vivek Somasundaram on building the control room of the future
+- PPL’s Shelby Linton-Keddie on tackling rapid load growth
+- Xcel Energy’s Marcus Johansson on building digital twins for the future grid
+- Evergy’s Chad Carsten on communications networks for utility unity
+- Duke Energy’s Jason Handley on utility policy impacts, grid edge investments, and more
+- Liberty Utilities’ Sam McGarrah on improving utility asset management
+- Southern California Edison’s Jerome Marr on long-term distribution planning and modern grid challenges
+- AES’ Christian Lopez on the challenges of cultivating a skilled utility workforce
+- National Grid’s Jesse Harvey on harnessing the next wave of smart meters: AMI 2.0
+- Duke Energy’s John Pressley on how AI is reshaping utility work
+This list will be updated as more sessions are previewed.

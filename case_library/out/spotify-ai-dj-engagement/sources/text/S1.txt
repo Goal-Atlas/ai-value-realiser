@@ -1,0 +1,20 @@
+Spotify’s DJ Now Takes Requests, Enhancing Real-Time Music Discovery
+People all over the world love DJ. At the gym, at home, whenever and wherever you want a deeper experience with great music, DJ is the answer. In fact, DJ listener engagement has nearly doubled over the past year—it’s like having a personal musical friend who just gets you.
+We also know that listeners have asked for more ways to interact with DJ and enjoy more control over their listening sessions. That’s why we’re excited to share that DJ is now taking music requests, giving Premium users in more than 60 markets an entirely new way to curate the vibe of their listening sessions in real time. Serving up suggestions using AI and insights from our global editorial experts, DJ helps you uncover new tracks, rediscover old favorites, and connect deeply with the music you love.
+By simply using your voice, you can now ask DJ to update your personalized listening session based on the music you want to hear at that moment, whether you’re looking for something to set the mood for date night or need some high-energy tracks to get you hyped for a party.
+DJ can handle a combination of genre, mood, artist, or activity-related requests. For example, you could try, “Surprise me with some indie tracks I’ve never heard before,” or “Give me some electronic beats for a midday run.” You could even request something like, “Play me some cry-in-the-car songs.”
+Listeners have come to know and love the personality and voice of our AI English-speaking DJ, modeled after Spotify’s Xavier “X” Jernigan. Now you can actually talk to DJ X and ask for music to match any mood or moment. It’s a two-way street, taking personalization to a whole new level.
+Start requesting music with DJ
+DJ requests will be available in English for Premium listeners in more than 60 markets where DJ is currently available. Here’s how to make a request:
+-
+- Head to the search tab on Spotify and search “DJ.”
+- Press play and DJ will serve up a curated mix of music and commentary tailored to you.
+- Whenever you want to change up the vibe, press and hold the DJ button in the right-hand corner. You’ll hear a beep when DJ is ready.
+- Use your voice to ask for the kind of music you want to hear at that moment.
+- Just like that, DJ will update your session based on your request, listening history, music preferences, and more.
+- Want to mix things up? Hold the DJ button to switch up the vibe or make a new request.
+- If you want to change the vibe but don’t have a specific request, you can skip to the next section with a quick tap of the DJ button.
+We should note that while requests with DJ are designed to be fun, the feature is still in beta and won’t produce results for non-music-related requests, like audiobooks or podcasts.
+We’re excited to give our listeners even more control and to continue evolving the DJ experience. So get creative, make some requests, and let DJ take you on a personalized musical journey.
+*Update as of September 23, 2025: DJ now takes requests on Android Auto. Premium users can interact with DJ by simply tapping the “Talk to DJ” button on their car’s Android Auto screen. Whether you’re commuting to work or on a weekend getaway, effortlessly steer your DJ session on the road with voice requests like, “Play some new indie tracks.” This new integration lets drivers seamlessly change the vibe wherever the road takes them.
+In order to access the “Talk to DJ” button in your car, make sure you’ve first given DJ microphone access on your phone.

@@ -1,0 +1,11 @@
+Dive Brief:
+- Homes & Villas by Marriott Bonvoy, a luxury home rental offering, is testing an AI search tool designed to provide customers with personalized rental options from a pool of 140,000 properties. The tool also offers advice for nearby activities based on the chosen destination.
+- Developed in partnership with Publicis Sapient, the search tool can accept natural language queries, making question asking easier.
+- The AI search tool launched on the Homes & Villas by Marriott Bonvoy website last week and will roll out to the mobile app in the coming weeks. Travelers can still choose to use Marriott Bonvoy’s traditional search engine if they prefer.
+Dive Insight:
+Marriott is the latest company to embrace the power of AI as a tool to make searches more intuitive while delivering highly personalized results, following companies like Walmart and Victoria’s Secret earlier this year.
+Marriott’s test will showcase how AI can help travelers refine their plans. The new search function can offer relevant information such as the weather forecast for the trip and make suggestions based on a customers’ interests, including options for hiking, sightseeing or dining.
+The search engine can also suggest vacation rentals based on preferred amenities rather than specific destinations. Customers can include as little or as much detail as they’d like, and the AI tool will offer suggestions that meet as many of the descriptors in their query as possible.
+When searched for the “Best A-frame home in the mountains with a fireplace and stunning view,” the tool brought up relevant rental options from North Carolina, California and beyond.
+Retailers are particularly interested in AI-powered search technology. More than a quarter of retail leaders foresee AI expanding its role in search experiences, according to a study released by Algolia and Coleman Parkes Research last month.
+However, the impact won’t be limited to retail. As AI-powered search spreads, it is expected to raise the bar for search across all industries as customers come to expect the enhanced personalization it offers.

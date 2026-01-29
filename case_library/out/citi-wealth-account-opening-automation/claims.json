@@ -1,0 +1,512 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Account opening time reduced from 9 days to seconds",
+      "claim_description": "Citi Wealth reduced account opening process time from 9 days (3x industry average) to seconds using AI agents and automation technology.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "This process would take 9 days. Now it takes seconds.",
+      "quote_location": "S2, Joseph V. Bonanno Jr. presentation",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct quote from Citi executive attributing process time reduction to AI implementation. S1 establishes baseline of 9 days average account opening time.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "9 days to seconds",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI agents streamline client acquisition and onboarding",
+      "claim_description": "AI agents transform wealth management operations by automating and streamlining client acquisition and onboarding processes, reducing manual intervention.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "AI agents can help transform operations in wealth management by streamlining client acquisition and onboarding.",
+      "quote_location": "S2, Citi Agentic AI document",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Document explicitly states AI agents transform operations through streamlining client acquisition and onboarding processes.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Agentic AI automates CRM system management",
+      "claim_description": "AI agents automatically update CRM records with detailed notes, contact information and other data without manual intervention, reducing administrative burden.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Agentic AI can streamline the management of customer relationship management (CRM) systems. Agents can update CRM records with detailed notes, contact information and more, without manual intervention.",
+      "quote_location": "S2, Citi Agentic AI document",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Explicitly describes AI agents performing CRM updates autonomously without manual intervention.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "AI augmentation for high-net-worth client advisers",
+      "claim_description": "AI agents augment human advisers for high-net-worth clients, making advisers smarter and better informed in their client interactions.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "For high-net worth clients, AI agents can be an important augmentation to the human adviser, making the latter smarter and better informed.",
+      "quote_location": "S2, Citi Agentic AI document",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Document explicitly describes AI agents augmenting human advisers to enhance their capabilities and knowledge.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Increased advisor client-facing time from 33% to industry standard",
+      "claim_description": "Technology improvements aimed at increasing advisor client-facing time from 33% (below industry average of 58%) by reducing manual tasks and administrative burden.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The audit estimated that Citi advisors spend 33% of their time on client-facing activities compared to the industry average of 58%.",
+      "quote_location": "S1, EY audit findings",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Baseline metric showing opportunity for improvement. AI/tech modernization (including generative AI mentioned by CIO) is part of solution to increase client-facing time.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "33",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Citigroup wealth division",
+      "claim_description": "Citigroup's wealth division includes private bank, Citigold (mass-affluent), and Wealth at Work units, reorganized under one roof in 2021.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "As for Citi's wealth business, its problems were compounded by a reorganization in 2021 that put three units under one roof: the private bank; Citigold, the mass-affluent arm; and Wealth at Work.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Financial services and wealth management sector",
+      "claim_description": "Operating in wealth management and financial services sector serving high-net-worth individuals and mass-affluent clients.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Citigroup's wealth division is bloated, barely profitable, and inefficient.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Account opening and client onboarding",
+      "claim_description": "Core business process of opening new client accounts and onboarding wealth management customers.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "it takes nine days on average to open a new account, according to an internal audit reviewed by Business Insider, which is three times the industry average.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Manage customer accounts, contacts, and personal data",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Customer relationship management",
+      "claim_description": "Management of CRM systems including updating records, contact information, and client data.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Agentic AI can streamline the management of customer relationship management (CRM) systems. Agents can update CRM records with detailed notes, contact information and more.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Manage customer accounts, contacts, and personal data",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Multi-year AI transformation starting years ago",
+      "claim_description": "Citi's enterprise AI transformation began years ago as a deep, methodical commitment, with results becoming visible in 2024-2025.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "This appears to be the result of a deep, methodical commitment to enterprise AI that started years ago.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Legacy technology infrastructure scale",
+      "claim_description": "Citi operates with 6,000+ legacy applications, 30 content platforms, 70+ product processors after retiring 400 applications in 2023.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "After retiring nearly 400 legacy applications in 2023, Citi still has more than 6,000.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "scale",
+      "claim_title": "Customer complaint volume",
+      "claim_description": "Citi Wealth receives 27,000 monthly complaints from wealth customers, primarily related to account maintenance and lack of self-service.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Citi receives 27,000 monthly complaints from wealth customers, according to the audit.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "Technology modernization investment",
+      "claim_description": "Citi spending over half of $12.2B tech budget on infrastructure modernization, with $500M+ proposed for wealth division technology overhaul.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "CEO Jane Fraser is paying the price for decades of underinvestment, with the bank spending more than half its $12.2 billion tech budget on modernizing its infrastructure last year.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Competitive positioning through AI",
+      "claim_description": "Citi leadership positioning AI capabilities as competitive advantage with intent to outperform competitors in wealth management.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "If you are one of my competitors, you should fear us because I am about to crush you. Full stop.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "Leadership under Andy Sieg",
+      "claim_description": "Andy Sieg leads Citi Wealth division since September, focusing on growth, asset accumulation, and technology improvement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Its new boss, Andy Sieg, is pushing employees to get customers to invest as much as possible with Citi.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "functional",
+      "claim_title": "Wealth advisory and client service",
+      "claim_description": "Financial advisors provide wealth management services to high-net-worth and mass-affluent clients, requiring significant time on administrative tasks.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The audit estimated that Citi advisors spend 33% of their time on client-facing activities compared to the industry average of 58%.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10205",
+      "apqc_name": "Develop and manage customer service strategy",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "products_services",
+      "claim_title": "Wealth management product offerings",
+      "claim_description": "Citi Wealth offers investment products including options trading, Roth conversions, bitcoin ETFs, and portfolio management services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Clients expect to be able to trade options and do Roth conversions and all this stuff by themselves, but I can barely do that myself when I work here.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

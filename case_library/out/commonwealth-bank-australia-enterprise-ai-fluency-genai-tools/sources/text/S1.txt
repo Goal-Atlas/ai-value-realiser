@@ -1,0 +1,47 @@
+How a 100-year-old financial institution modernized with cloud and AI
+The Commonwealth Bank of Australia prepares for its next 100 years by embracing the Atlassian Cloud and streamlining work with its built-in AI capabilities.
+The learnings here are based on the session, “Commonwealth Bank of Australia’s transformational journey with AI”, presented at Atlassian’s Team ’25 conference. Check out this session from CBA on demand.
+Although it was founded in 1911, the Commonwealth Bank of Australia (CBA) is anything but a dinosaur company. With one in three Australians and nearly one in four businesses considering the CBA their main financial institution, the CBA exceeds its demands through its unwavering commitment to delivering leading technology.
+By offering a unique and personalized digital experience, the CBA offers a full range of financial services to help all Australians build and manage their finances. Even at over 100 years old, the CBA sees itself as a technology-forward company able to solve ever-evolving sets of problems at pace for its 800,000 shareholders, 53,000+ employees, and 9,000,000 daily active users on its mobile app.
+This dedication to staying at the forefront of cutting-edge financial technology led to the CBA migrating Jira to Atlassian Cloud in 2022, Confluence to Atlassian Cloud in 2023, and the scaled adoption of Atlassian’s AI capabilities, now called Rovo, in 2025. In this blog, we’ll explore their modernization journey in depth using findings from their recent Team ‘25 discussion, Commonwealth Bank of Australia’s Transformational journey with AI.
+Timeline of CBA’s Atlassian Cloud journey
+In 2023, with the help of Atlassian’s data residency program, the CBA became the first bank in Australia to migrate all of its users and operations to a cloud platform. This transition to Atlassian Cloud was a key strategic enabler for the CBA’s customers and their ways of working, ensuring they had a more resilient platform while getting the most value from the latest Cloud native features.
+This journey started in November 2022, when they moved all instances of Jira from on-premise to Atlassian Cloud. At the time, they were able to move all of their 20,000 users by harnessing a partnership with Atlassian to co-develop features needed for a successful and beneficial migration. By September 2023, Jira became available to all team archetypes as part of their Agile transformation.
+In December 2023, with 25,000 Atlassian users, the CBA migrated all instances of Confluence to the Cloud from on-premise. To soften the impact and facilitate easy-to-execute change management, the CBA opted to run these migrations separately.
+Adopting AI as a part of the team
+Now operating on the Atlassian Cloud platform, the CBA became an early adopter of Atlassian’s AI features to boost productivity and elevate its customer experience. After looking at early reports of adoption of Atlassian’s AI, the CBA realized they could alleviate many tedious, repetitive tasks from their staff as they continue to scale.
+The CBA began its AI adoption process by partnering its AI, Risk, and Security teams with Atlassian to set a foundation on how to proceed. This allowed all parties to thoroughly examine the available features, benefits, and value of enabling AI in their Atlassian environment prior to going live with it.
+The CBA’s 4-step approach to preparing their platform team:
+- Partner early with Atlassian
+- Partner with internal AI, Legal, and Security teams
+- Ask the right questions and understand any risks
+- Test, Test, Test
+Atlassian also helped the CBA craft the business case for AI features within Atlassian apps so that the AI, Risk, and Security teams could each demonstrate AI’s value to the rest of the organization. By bringing in the Security and Risk teams at the beginning of the initiative, they were able to understand any potential risks and build mitigation plans and additional processes to remediate them.
+Now, with over 35,000 potential users, it was critical for the CBA to have a comprehensive understanding of how enabling AI features would affect its ecosystem. This meant months of testing and exploring potential pain points. The CBA doubled down on testing every possible scenario they could brainstorm to be assured that AI would not only be secure but would bring strong returns that would outpace the level of onboarding investment.
+Through the early partnership with their internal stakeholders, the CBA was not only able to mitigate risk but also communicate value more in-depth. The CBA was able to prepare the entire organization for AI features in Atlassian through a three-pronged approach:
+- Bite-sized video lessons on AI features in Atlassian
+- In-product banners that nudge with links to lesson videos
+- A focus on features that make employee life easier
+This approach helped make the process of infusing Atlassian’s AI features into daily workflows seamless. One reason for this success is the time it took to plan out in-depth persona use cases: AI isn’t a one-size-fits-all solution.
+AI needs to be tailored to an array of specialized needs, which means involving all internal teams earlier in the process and focusing on high-value, low-effort features first to drive adoption. From there, asking for and reviewing continuous feedback is essential to success.
+AI has helped me transform my random notes into something professional and presentable, saving me so much time.
+–User A, Commonwealth Bank of Australia
+The CBA’s key wins with AI
+After rolling out Atlassian’s AI features to its 35,000 users, the CBA saw swift benefits:
+- ~2,500 hours per month saved summarizing key delivery documents with AI summary tools
+- ~14 hours per month saved through the AI-powered Jira’s Work Breakdown Structure
+- Significant improvement in internal teams’ customer satisfaction ratings, allowing for widespread adoption
+Big improvement in terms of customer satisfaction. That is the biggest cherry on top for us using AI. We get a lot of customers coming back to us saying, ‘Hey, we love it!’ and when you work in IT, you don’t get much of that sort of feedback.”
+–Helen Lau, Technology Lead Engineering, Platform, Commonwealth Bank of Australia
+AI’s impact on “Big Room Planning”
+The CBA hosts a “Big Room Planning” event, inviting over 16,000 of its employees to get together over 2 full days to plan how they want the business to operate. This event helps improve cross-functionality by fostering relationships between teams and stakeholders with a more holistic view of how the CBA operates.
+When Atlassian’s AI features went live for the CBA, it was immediately used to improve their “Big Room Planning” experience. Using AI helped the CBA’s teams break down work more efficiently, which in turn empowered them to spend more time on key prioritization conversations. This also helped teams standardize their work item descriptions, and summary features helped teams quickly gain context to understand these new priorities.
+By using AI in the “Big Room Planning” event, the CBA saw:
+- 1266 dependencies resolved over 2 days using Jira’s AI search and summary tools, with 16% deprioritized from needing investment
+- 100% of participating teams provided initiatives and epics in Jira versus 80% in the previous quarter
+- 20% fewer epics planned versus the previous quarter, indicating that they were improving the work prioritization process
+“I love the AI work breakdown features; it has completely transformed the way I break down work in Jira because I can now use AI to leverage the work I’ve already done in Confluence. Game Changer!
+–User B, Commonwealth Bank of Australia
+Empower your teams with Rovo
+Embracing AI means embarking on a continuously self-evaluating journey. As your teams find game-changing AI solutions to handle menial work to better focus on areas that require their true talent, they will, in turn, find new and improved ways of approaching work.
+Make sure to check out what Rovo could offer your teams, from streamlining search to summarizing dense content to accelerating work and driving action. Rovo is at the forefront of human-centric AI, empowering all knowledge workers to build the next great thing.

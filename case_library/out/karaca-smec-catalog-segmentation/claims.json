@@ -1,0 +1,322 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "22% revenue increase through data-driven PMax optimization",
+      "claim_description": "Decathlon Austria achieved a 22% year-over-year revenue increase by utilizing data-driven automation to optimize Google Ads Performance Max campaigns and push products into the right campaigns aligned with business objectives.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our collaboration culminated in a remarkable boost for Decathlon, marked by a 22% rise in revenue and an impressive 52% boost in ROAS (YoY)",
+      "quote_location": "Mid-page results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The revenue increase is explicitly attributed to 'data-driven automation' and algorithmic campaign optimization, which are AI-driven capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "22",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "52% ROAS improvement through automated campaign management",
+      "claim_description": "Decathlon Austria achieved a 52% year-over-year improvement in Return on Ad Spend (ROAS) through data-driven automation that optimized product placement and campaign structure in Google Ads Performance Max.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our collaboration culminated in a remarkable boost for Decathlon, marked by a 22% rise in revenue and an impressive 52% boost in ROAS (YoY)",
+      "quote_location": "Mid-page results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "ROAS improvement directly resulted from data-driven automation systems that optimized campaign configuration and product placement decisions.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "52",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Healthier revenue mix through strategic product prioritization",
+      "claim_description": "Data-driven automation enabled Decathlon to achieve a healthier revenue mix by guiding Google's spending towards strategically important products rather than only top sellers, creating a sustainable campaign structure.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By utilizing data-driven automation and pushing products into the right campaigns, Decathlon managed to achieve an overall healthier revenue mix and a sustainable, scalable campaign structure",
+      "quote_location": "Mid-page results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The healthier revenue mix is explicitly attributed to data-driven automation that intelligently allocates products to appropriate campaigns based on strategic value.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Team capacity freed from manual campaign management tasks",
+      "claim_description": "Automation freed Decathlon's in-house team from repetitive, error-prone manual campaign management tasks, allowing them to focus on strategic objectives like enhancing their own brand prominence.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our partnership freed Decathlon's in-house team from repetitive, error-prone manual tasks, empowering them to concentrate on their core objective: enhancing the prominence of Decathlon's own brands.",
+      "quote_location": "Bottom results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Automation directly eliminated manual tasks, explicitly freeing team capacity for higher-value strategic work.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Decathlon Austria GmbH - Ecommerce Leader Austria",
+      "claim_description": "Decathlon Austria is identified as an ecommerce leader in Austria, operating as a subsidiary (GmbH) of the larger Decathlon retail organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ecommerce Leader Austria, Decathlon Austria GmbH",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Retail sporting goods sector",
+      "claim_description": "Decathlon operates in the retail sporting goods sector, selling sports equipment and apparel through ecommerce channels.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": null,
+      "verification_status": "inferred",
+      "verification_confidence": "high",
+      "inferred_from": "Decathlon is a well-known sporting goods retailer, and the case describes ecommerce operations and product catalog management.",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Digital marketing and advertising function",
+      "claim_description": "The AI application addresses Google Ads Performance Max campaign management, optimization, and budget allocation for digital advertising.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Decathlon faced significant challenges in effectively utilising Google Ads' Performance Max (PMax) campaigns.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10101",
+      "apqc_name": "Develop marketing strategy",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "Strategic product promotion over bestsellers",
+      "claim_description": "Decathlon's strategic intent was to promote strategically important products and own brands rather than allowing algorithms to focus only on top sellers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "PMax was hijacking Decathlon's brand search traffic and primarily promoting top sellers, neglecting strategically important products",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "scale",
+      "claim_title": "Resource-constrained marketing operations",
+      "claim_description": "Decathlon Austria operated under resource constraints that made manual campaign management challenging and required automation to scale effectively.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "managing these campaigns efficiently within their resource constraints proved challenging",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Year-over-year comparison period",
+      "claim_description": "Results are measured on a year-over-year basis, comparing performance metrics before and after the AI-driven optimization implementation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "marked by a 22% rise in revenue and an impressive 52% boost in ROAS (YoY)",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -8,17 +8,21 @@ from .models import (
     ContextClaimType,
     ContextVerificationStatus,
     EvidenceGrade,
-    EvidenceType,
+    EvidenceLevel,
     MagnitudeBand,
     Mechanism,
+    MetricType,
     Outcome,
     QuantificationLevel,
     ReviewerVerdict,
+    SourceGrade,
+    SourceOrigin,
     SourceType,
     ValidationTier,
     VerificationStatus,
     # Main schemas
     Case,
+    Casefile,
     ContextClaim,
     Source,
     ValueClaim,
@@ -32,8 +36,9 @@ from .models import (
     OntologyMetadata,
     RelatedUrl,
     VerificationSummary,
-    # Pipeline schemas
+    # Pipeline / auxiliary schemas
     BuildLog,
     ClaimExtraction,
+    SeedEntry,
     SourceExtraction,
 )

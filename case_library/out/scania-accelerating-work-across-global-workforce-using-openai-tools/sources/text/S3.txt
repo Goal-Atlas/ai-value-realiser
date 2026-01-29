@@ -1,0 +1,46 @@
+How we use AI to build a developer-first culture
+8 SEPTEMBER 2025
+By: Addi Djikic, Fullstack AI Engineer and Simon Edström, Technical Product Owner
+We wrote this blog post together in the same way we do our daily work: using Mob AI. Why? Because it enhances us – helping us work faster, share creative thoughts, and gain speed with an AI companion. But what exactly is Mob AI?
+To start with, a bit of background. We have been working at TRATON and Scania for different lengths of time, with different experiences and backgrounds. However, when we switched tracks to fullstack development and LLM-based applications, we were both juniors within the domain, but it did not take long before we contributed to and deployed AI-driven projects that impact how hundreds of engineers work. What changed everything? We believe the right culture, the right tools, and an AI-first mindset are the key factors.
+When you think about TRATON, you probably imagine trucks and transport solutions. But behind the scenes, there’s a growing software movement here – one that is fast, collaborative, and powered by some of the best tech practices in the industry. Today, we want to take you behind the scenes and share how we are using AI not just as a tool, but as a teammate.
+AI as a daily collaborator: Mob AI
+We do something a little different from most teams: we mob. But not just any mobbing – we do Mob AI.
+Every morning, our team jumps into a remote or physical mob session. One driver shares their screen, one navigator helps steer, and the rest advise, observe, comment, and help debug in real time. The twist? We do all this with a Large Language Model (LLM) at the centre of the mob.
+It’s like pair programming, but your pair is an AI that:
+Generates boilerplate code fast.
+Explains complex libraries in plain English.
+Debugs gnarly runtime errors.
+Refactors legacy functions with context-aware precision.
+Teaches us and sparks ideas along the way.
+With Mob AI, we’re not waiting for reviews to get feedback. We’re coding, learning, and reviewing together. It has fundamentally changed how we learn, ship, and collaborate.
+From classic machine learning to fullstack with LLMs
+We think that our team is proof of how powerful this can be. When we started, we did not have any experience in fullstack development. Today, we are both fullstack AI engineers – building responsive frontends, scalable backends, creating robust TypeScript APIs, deploying services with Docker, and prompt-engineering AI systems.
+How did we learn so quickly? Through daily hands-on collaboration with teammates and an LLM that was an always-available mentor.
+Got a question? Ask the AI. Don’t know how the networking layer works in Express? Ask the AI. Want to understand how a CI pipeline is structured? Let the AI walk you through it. Instead of needing to wait for a senior developer who doesn’t have time for you, you get answers instantly – and learn by doing.
+Building developer tools with developer feedback
+Our team doesn’t just use AI – we build it. One of the most exciting projects we’ve launched is an AI agent that interviews developers across the organisation about their developer experience. It holds conversations such as:
+"What’s the most painful part of your build process?"
+"How often do you need to switch contexts?"
+"Where do you feel blocked?"
+It then summarises those insights, whether you are interviewing five or five thousand people in the organisation, and gives us a structured view of pain points in our developer ecosystem.
+We’ve used this to:
+Identify redundant manual tasks in build and deploy flows.
+Prioritise internal tool improvements that actually matter.
+Launch automations that save developers hours every week.
+Understand what to prioritise first in a team.
+This is developer experience powered by actual developer feedback – at scale. And it’s just the beginning.
+What makes this fun
+Coding can sometimes feel like a slog. But this way of working? We really feel it’s energising!
+Every day feels like a learning session, a hackathon, and a product sprint all in one. We move fast. We ask questions constantly. We ship real things. And we laugh a lot along the way.
+It’s rare to find a place where developer experience is a first-class priority. At TRATON, in our team, it’s not just talk – we believe it’s built into our culture, our tools, and our daily rituals.
+TRATON is transforming from a traditional industrial company into a tech-forward ecosystem, and our team is one of the drivers of that change. Whether it’s through Mob AI, automated dev experience agents, fullstack LLM tooling, or working daily on enhancing developer experience, we’re shaping the way engineering is done in mobility.
+Next steps, scale
+Our next focus: we’re scaling our AI-accelerated workflows by deepening our use of Model Context Protocol (MCP) and enterprise search. This means connecting more AI services to broader context, enabling smarter, context-aware tools that anticipate developer needs, automate complex workflows, and ultimately enable our teams to deliver faster, innovate continuously, and enhance the developer-first culture here. We are more than excited about the future and working with this!
+So, in summary
+- Innovative use of AI: We use LLMs as daily collaborators for code, design, and debugging.
+- Mob AI practice: Our unique team setup enables real-time learning and collaboration – AI included.
+- Developer experience comes first: We use AI to identify and solve real developer bottlenecks.
+- Learning is accelerated: AI has helped me and others progress from junior to fullstack rapidly.
+- AI is a multiplier, not a threat: Developers still drive the process – AI simply boosts velocity and learning.
+- Most importantly: We have fun!

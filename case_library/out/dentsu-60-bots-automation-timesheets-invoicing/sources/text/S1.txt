@@ -1,0 +1,43 @@
+Client:dentsu
+Industry:Media and Digital Marketing Communications
+Region:Europe
+Region:North America
+Client Overview
+Dentsu is a global digital marketing communications company headquartered in London and operating in 145 countries with around 45,000 employees.
+Dentsu’s automation journey began in January of 2018 with the creation of its Automation Center of Excellence (COE) on a mission to “elevate human potential” by weaving artificial intelligence (AI) into every business process across the company, globally.
+Max Cheprasov, dentsu's Chief Automation Officer said, “The ultimate goal is to arm all of our employees with a virtual assistant. There isn’t a team or process that can’t benefit from AI and RPA.”
+Max Cheprasov, Chief Automation Officer, dentsu
+In an early example, in an initiative led by Brian Klochkoff, Director of Automation Solutions, the CoE built and deployed an army of 60 robots in just 30 days to complete a large-scale data extraction and migration project, saving more than 125,000 hours.
+Brian Klochkoff, Director of Automation Solutions, dentsu
+As dentsu employees became familiar with automation, they began to reach out to the CoE with suggestions for new automations. The CoE wanted to act on each new idea but needed to prioritize automations that would drive enterprise-wide benefits.
+Employee-submitted ideas represented a “long-tail” opportunity that – if executed – would achieve massive cumulative time savings. To unlock this potential without making the CoE a bottleneck, dentsu established their Citizen Automaton Program (CAP) that enabled and empowered employees to automate their daily challenges independently.
+Introducing citizen-led automation allows us to tackle the automation pipeline from both the top-down and the bottom-up. This helps us spread even more awareness of automation as more people can actually get the tools in their hands and start automating.
+Kate Hall • Automation Solutions Architect, dentsu
+The company views this ongoing strategy as an investment in their people. Their goal is to not only remove the drudgery from employee's daily work, but also upskill workers to elevate everyone's potential within the organization.
+As one of the early members of the team, Kate Hall, Automation Solution Architect, quickly became an expert on UiPath Platform including StudioX - the low/no code solution that enables and empowers business users to create their own attended automations. Armed with this knowledge, she now leads the dentsu CAP program.
+In February 2020, dentsu piloted CAP with its Media Finance unit. Team members used StudioX to build an automation for a process that required them to download and combine information from different systems into a formatted Microsoft Excel report. This process took each team member one business day to complete; the attended robot they built completes it in just 10 minutes.
+In partnership with UiPath, dentsu continued to roll out its program across the organization. UiPath Academy self-study courses were made available to cohorts of citizen developers. Dentsu also hosted two-day hackathons, led by UiPath coaches, to help participants get their first automations off the ground.
+In one hackathon for the Media Operations team, employees built automations that are expected to save the team 850+ hours of manual effort each year, and more than 70 new ideas are in the pipeline.
+Popular citizen-led automations included preparing and manipulating Microsoft Excel reports, exporting and filing invoices, timesheet reporting and email reminders, as well as downloading, transforming and uploading data across systems. Employees also uncovered new automation opportunities to drive quality assurance and on-time project delivery.
+My automation is only a quick time saver, but this task is going to help tremendously with keeping our entire campaign process on track and providing more time to focus on creative work.
+dentsu employee, CAP hackathon
+In one use case, the automation creates Microsoft Outlook reminders based on a Microsoft Excel campaign production chart. Now that this highly manual task has been automated, employees have more time to focus on campaign content and strategic client interactions, and all parties involved are aware of milestones so they can stay on track and deliver campaigns on time.
+As employees generate new ideas and build automations, the CoE centrally manages the program with complete oversight and transparency. Citizen-led automations are stored in a corporate Orchestrator and new ideas are tracked in Automation Hub, making it easy to keep track of program progress.
+Kate Hall, Automation Solution Architect at dentsu, discusses the importance of ‘a robot for every person’ . You can watch the whole webcast episode about dentsu’s automation journey here
+Dentsu employees who participated in the CAP pilot saw automation as a way to improve daily productivity and accelerate career growth. They were inspired – and excited – that robots could do tedious tasks on their behalf, so they could instead focus on strategic, creative work they are uniquely skilled to do.
+It's really fun to learn a new skill and figure out the ways to build efficiencies into my day-to-day work.
+dentsu employee, Internal survey
+Dentsu has an internal Automation Connective with more than 500 members around the world. Members in this community ask questions, collaborate with other participants, and share their own automations.
+Dentsu continues to focus on upskilling citizen developers on a quarterly basis and is expanding the CAP community across the enterprise. Citizen developed attended automations are now estimated to have saved dentsu over 3,000 hours of manual effort just over the course of two-day hackathons.
+Dentsu’s mission is to elevate human potential by integrating RPA and AI into every business process. By empowering employees with tools that help them benefit from automation, the company expects to achieve:
+Happier employees who report improvements in work-life balance;
+Improved business results and new forms of value recognized by clients as superior to rivals;
+Higher customer satisfaction;
+Improved business continuity;
+Better compliance and central governance.
+Lessons learned
+Interested in kick-starting your own a robot for every person program? Below are three tips from the dentsu automation team:
+Prepare a long-term plan for an automation operating model so you can centrally govern the program and track all incoming ideas and citizen-led automations
+Identify sponsors to drive awareness and demand
+Just get going. You will learn and hone your approach as you roll out your program.
+Speak to our team of knowledgeable experts and learn how you can benefit from agentic automation.

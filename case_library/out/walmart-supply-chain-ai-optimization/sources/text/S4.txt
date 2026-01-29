@@ -1,0 +1,20 @@
+Technology is critical to Walmart’s ability to put items promptly in the hands of its customers — and anticipate what merchandise shoppers need or want even before they do.
+"There are a few things that you need to get right, and that's why AI and ML works very well for us," said Srini Venkatesan, EVP, U.S. Omni Tech at Walmart Global Tech. "We need to decide what are those catalogs that the customer wants."
+AI shapes that catalog of items by analyzing a host of inputs, including customer trends, shopping trends, seasonality and in-demand items. Once third-party sellers add items into the company's Marketplace offering, AI and ML support logistics.
+"What we've seen is the adoption of Walmart Fulfillment Services has seen substantial growth compared to the sellers fulfilling themselves," said Venkatesan.
+Walmart uses AI to enhance daily supply chain workflows, helping anticipate cycles in demand, especially amid peak or unexpected events in customer traffic. But the solutions have required a multiyear push toward data collection and curation, the creation of flexible algorithms and a global, not piecemeal, approach to technology.
+These capabilities did not come together overnight. Venkatesan says there are three core pieces to building AI and ML components that are accurate but also effective:
+- A foundation of data, which Walmart has been collecting and curating
+- Taking an ensemble approach – not every problem has the same solution, and AI and ML models should be able to adapt to different problems.
+- End-to-end thinking: AI and ML must not focus on smaller events but be able to optimize processes at the global level.
+Using AI to forecast demand supports the company through sizable sales spikes. The bulk of the shopper volume on Black Friday, the largest shopping event of the year, takes place online.
+Nearly 200 million people shopped online and in-person during the break between Thanksgiving and Cyber Monday, according to data from the National Retail Federation. The onslaught of shoppers marked an increase of more than 17 million people year-over-year, the trade group found.
+AI and ML based predictions help the company balance its network, placing inventory in the right location and at the right time as shoppers pack their physical or digital shopping carts.
+"The technology is the same," said Venkatesan. "You have to actually simulate exactly what the scenario will be for a Black Friday. And the best output you will see is if nobody notices that Black Friday happened and just moves on."
+But AI also helps the company overcome pressure tests no one can see coming.
+Preparing for the unforeseen
+Consider AI's potential as a planning tool. Fed the right data sets, this technology can anticipate stress points, allowing businesses the flexibility to react before any negative consequences arise.
+Three-quarters of retailers say AI is essential to supply chain operations and management, according to IDC's Industry AI Path report published last year. A similar proportion of leaders said AI was key to marketing, operations and merchandising.
+Beyond daily operations and expected spikes in consumer traffic, AI is also there to quickly simulate new scenarios and offer plans of action in the event of a natural catastrophe.
+When Hurricane Ian hit Southwest Florida in the fall, the inclement weather damaged a Walmart distribution center, eventually staying offline for about seven days, according to Venkatesan.
+"Not only was a node offline, we also had a lot more demand because people shop a lot more after a weather event," he said. AI allowed Walmart to reroute shipments and ensure the demand is met.

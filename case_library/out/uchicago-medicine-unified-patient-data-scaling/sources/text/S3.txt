@@ -1,0 +1,16 @@
+The academic health system will soon handle personalized requests — like prescription refills and appointment scheduling — autonomously with Agentforce for Health to boost efficiency and deliver more responsive, patient-centered care
+SAN FRANCISCO AND CHICAGO – June 24, 2025 – Salesforce, the world’s #1 AI CRM, today announced that UChicago Medicine is implementing Agentforce for Health to enhance the patient experience. Agentforce, Salesforce’s digital labor platform, is being integrated into the academic health system’s non-clinical, operational workflows to provide patients with 24/7 access to tailored, self-service information and support.
+UChicago Medicine identified opportunities to improve the efficiency of non-clinical support provided to patients, particularly for routine inquiries received outside of regular business hours. The addition of agentic, AI-powered tools is intended to alleviate pressure on staff by assisting with high-volume, non-urgent tasks and providing patients with timely responses to frequently asked questions.
+With the integration of Agentforce and Health Cloud, digital, AI-powered agents will help UChicago Medicine patients with a variety of information, from finding specialty care at convenient locations to answers about parking or directions.
+“As part of our broader efforts to enhance the patient experience and streamline access to information, we’re implementing new digital tools to support our teams and patients,” said Andrew Chang, Chief Marketing Officer, UChicago Medicine. “These tools are expected to help automate routine inquiries so that staff can focus on more complex needs that benefit from personalized attention.”
+UChicago Medicine is also exploring how to use this agentic, AI-powered technology to guide patients through care via phone and web chat. Patients will be able to refill prescriptions, schedule and modify appointments, and verify insurance ahead of time through a user-friendly chat interface. Patients also could receive real-time logistical support when traveling to appointments, such as notifying them if a parking garage is full and suggesting an alternative location.
+By leveraging Agentforce for Health on the deeply unified Salesforce Platform, UChicago Medicine is not just boosting operational efficiency, it is empowering its staff to dedicate more time to meaningful patient interactions and elevate health outcomes.
+Adam Evans, EVP and GM, Salesforce AI
+“UChicago Medicine is setting a new standard for how healthcare providers can strategically leverage agentic AI to deliver tailored and effective care to its patients,” said Adam Evans, EVP and GM, Salesforce AI. “By leveraging Agentforce for Health on the deeply unified Salesforce Platform, UChicago Medicine is not just boosting operational efficiency, it is empowering its staff to dedicate more time to meaningful patient interactions and elevate health outcomes.”
+More information:
+- Find more customer stories on the Salesforce Newsroom
+- Read how agentic AI can help ease the healthcare workforce crisis and reduce paperwork
+Introducing Agentforce 3
+About Salesforce
+Salesforce helps organizations of any size become agentic enterprises - integrating humans, agents, apps, and data on a trusted, unified platform to unlock unprecedented growth and innovation.
+Visit www.salesforce.com for more information.

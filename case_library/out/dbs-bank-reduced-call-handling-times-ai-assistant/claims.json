@@ -1,0 +1,497 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "CSO Assistant reduces call handling time by up to 20%",
+      "claim_description": "DBS Bank's GenAI-powered CSO Assistant reduces call handling time by up to 20% by transcribing customer queries in real-time, retrieving relevant information instantly, and assisting with documentation.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "When fully deployed, it is expected to reduce call handling time by up to 20%.",
+      "quote_location": "S2, body text",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The reduction in call handling time is directly attributed to the CSO Assistant's capabilities: real-time transcription, instant information retrieval, and documentation assistance.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "20",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "CSO Assistant achieves nearly 100% transcription accuracy",
+      "claim_description": "During the pilot phase, DBS Bank's CSO Assistant achieved transcription accuracy of nearly 100%, enabling customer service officers to assist customers more effectively.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "based on the data it collected during the pilot, it found that the tool has been able to achieve a transcription accuracy of nearly 100%.",
+      "quote_location": "S2, body text",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The transcription accuracy is directly measured as an outcome of the CSO Assistant's speech recognition and LLM capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "90% of CSOs report positive impact on workflow from CSO Assistant",
+      "claim_description": "Close to 90% of customer service officers involved in the pilot reported that the CSO Assistant had a positive impact on their workflow and expressed confidence in leveraging it long-term.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Close to 90% of CSOs involved in the pilot reported that the virtual assistant had a positive impact on their workflow and expressed confidence in leveraging it in the longer term.",
+      "quote_location": "S2, body text",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The positive workflow impact is directly attributed to CSO Assistant usage, as reported by users during the pilot phase.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "90",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI platform reduces time-to-market from 15 months to under 3 months",
+      "claim_description": "DBS' implementations of a centralized data platform and protocol repository have reduced the time-to-market for AI initiatives from 15 months to just under three months.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DBS' implementations of a data platform and protocol repository have reduced the time-to-market for AI initiatives from 15 months to just under three months.",
+      "quote_location": "S1, body text",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The time-to-market reduction is directly attributed to the AI data platform and protocol repository infrastructure enabling faster AI model development and deployment.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "80",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "CSO Assistant eliminates repetitive tasks and frees up bandwidth",
+      "claim_description": "CSO Assistant has eliminated repetitive tasks and freed up bandwidth for customer service teams to engage customers more deeply and efficiently.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "CSO Assistant has eliminated repetitive tasks and freed up bandwidth for her team to engage customers more deeply and efficiently.",
+      "quote_location": "S2, quote from Indumathi Kunasegaran",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The elimination of repetitive tasks is directly attributed to CSO Assistant's automation of transcription, information retrieval, and documentation tasks.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "DBS began AI experimentation in 2014",
+      "claim_description": "DBS first began experimenting with AI and machine learning in 2014, giving the bank an early head start in AI adoption.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DBS first began experimenting with AI and machine learning in 2014, giving the bank an early head start and garnering valuable insights",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "DBS deployed over 1,500 AI models across 370 use cases as of May 2025",
+      "claim_description": "As of May 2025, DBS has deployed over 1,500 AI models across 370 use cases throughout the organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "As of May 2025, DBS has deployed over 1,500 AI models across 370 use cases.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "scale",
+      "claim_title": "500 customer service officers to use CSO Assistant",
+      "claim_description": "Some 500 customer service officers at DBS Bank will be able to tap the CSO Assistant to improve workflows and better serve customers.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Some 500 customer service officers (CSOs) at Singapore's DBS Bank will soon be able to tap a generative AI (GenAI)-powered virtual assistant",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "CSO Assistant pilot started in October 2023",
+      "claim_description": "DBS started piloting the use of CSO Assistant in October 2023 before full deployment.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "DBS started piloting the use of CSO Assistant in October 2023",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "DBS is Southeast Asia's biggest lender",
+      "claim_description": "DBS Bank is identified as Southeast Asia's biggest lender.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The bank, Southeast Asia's biggest lender",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "sectoral",
+      "claim_title": "DBS operates in the banking and financial services sector",
+      "claim_description": "DBS Bank operates in the highly regulated financial services industry, specifically banking.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In the highly regulated financial industry, where sensitive data and AI decisions directly shape customers' finances",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "CSO Assistant supports customer service operations",
+      "claim_description": "The CSO Assistant is deployed to support customer service officers in handling customer queries and service requests.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Gen AI-powered tools like DBS' CSO Assistant can help customer service officers respond to queries more effectively.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "6.0",
+      "apqc_name": "Develop and Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "DBS follows PURE principles for responsible AI",
+      "claim_description": "DBS follows four guiding principles for AI governance: purposeful, unsurprising, respectful, explainable (PURE) in its model data governance framework.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DBS follows four guiding principles \u2013 purposeful, unsurprising, respectful, explainable (PURE) \u2013 in its model data governance framework.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "products_services",
+      "claim_title": "CSO Assistant built entirely in-house with tailored LLM",
+      "claim_description": "The CSO Assistant was built entirely in-house by DBS AI engineers, integrating a large language model tailored to local languages and parlance with voice telephony and speech recognition.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The virtual assistant, dubbed CSO Assistant, was built entirely in-house by the bank's AI engineers, integrating a large language model (LLM) tailored to local languages and parlance",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "scale",
+      "claim_title": "DBS-GPT available to over 25,000 employees",
+      "claim_description": "DBS-GPT, an employee-facing version of ChatGPT for content generation and writing tasks, is currently available to more than 25,000 DBS employees.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "It is currently available to more than 25,000 DBS employees.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "strategic_intent",
+      "claim_title": "DBS takes co-pilot approach with human-in-the-loop",
+      "claim_description": "DBS takes a co-pilot approach to using AI, ensuring there is always a human in the loop, with AI complementing rather than replacing human judgment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "DBS, for instance, takes a co-pilot approach to using AI, ensuring there is always a human in the loop.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

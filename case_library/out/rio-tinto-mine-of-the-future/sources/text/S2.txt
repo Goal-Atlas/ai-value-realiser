@@ -1,0 +1,29 @@
+Getty Images
+Rio Tinto was founded in 1873.
+Get news, papers, media and research delivered. Sign up for our free newsletters.
+Stay up-to-date with news and resources you need to do your job. Research industry trends, compare companies and get weekly market intelligence with Robotics 24/7.
+Getty Images
+Rio Tinto was founded in 1873.
+Gudai-Darii, mining company Rio Tinto’s most technologically advanced mine, was officially opened today in the Pilbara region of Australia.
+With an expected life of more than 40 years and an annual capacity of 43 million tons, Gudai-Darri will underpin future production of Rio Tinto’s Pilbara Blend product. It’s expected to increase iron ore production volumes and improve product mix from the Pilbara from the second half of this year. The mine is expected to reach capacity in 2023.
+“We’ve worked closely with both the Banjima and Yindjibarndi People through the planning and development stages of Gudai-Darri and we look forward to partnering with them into the future to ensure the project achieves significant social and economic benefits,” said Rio Tinto Iron Ore Chief Executive Simon Trott.
+“Gudai-Darri represents a step-change in the deployment of automation and technology within our iron ore business and a fantastic demonstration of the talent, ingenuity and capability that exists in Western Australia, a region which is now known globally for its technical excellence and innovation, he added.“Gudai-Darri's combination of data and analytics, machine learning and automation, will make this mine safer and more productive.
+To optimize mine safety and drive productivity, Gudai-Darri features a deployment of industry-leading technologies, the London-based company said. This includes the use of robotics for the ore sampling laboratory as well as for distribution of parts in the new workshop.
+The mine feature autonomous 23 CAT 793F autonomous haul trucks and three CAT MD6310 autonomous drills. Once development is complete, it is anticipated that Caterpillar 793 zero-emissions autonomous haul trucks will be deployed for the first time at Gudai-Darri. The trucks implement real-time ore tracking using sensors to provide live dig face progression, while data-informed modelling from the drills helps to build more accurate assessments of existing ground conditions and improve safety.
+New autonomous water cart vehicles, developed in partnership with Caterpillar, will be primarily used for dust suppression on site, enhancing productivity by enabling mine operations to digitally track water consumption and reduce waste. The vehicle’s intelligent on-board system detects dry and dusty conditions on site, triggering the application of water to roads to keep them in good condition.
+The online publication Mining Technology found that the number of robotic related hirings in the mining industry rose 17.9% compared to last year.
+Also included in the new mine is a full digital replica of the processing plant, which allows teams to monitor and respond to data collected from the plant. The same digital asset data is used to provide a feature rich, interactive 3D environment for virtual reality training. These autonomous assets are monitored remotely from Rio Tinto’s Operations Centre 1,500 km (932 mi.) away in Perth.
+The heavy mobile equipment (HME) warehouse is the home to four automatic guided vehicles (AGVs) designed to automate the handling of pallet frames. The introduction of AGV’s to the warehouse will reduce manual handling and improve safety with the introduction of laser obstacle scanners and auto stop functions, the company said.
+Gudai-Darri brings together a suite of other innovations, including, Rio Tinto’s first rotable bucketwheel reclaimer, a robotic ore-sampling laboratory, and a solar farm consisting of 83,000 solar panels.
+The mine’s footprint extends from Banjima county to Yinjibarndi country where a section of the new 166-km rail line (103 mi.) was constructed.
+Since development begun in April 2019, more than 14 million workhours have culminated in the delivery of Rio Tinto’s 17th and most technologically advanced iron ore mine in the Pilbara.
+Development of the mine supported more than 3,000 jobs during the construction and design phase with the operation requiring around 600 permanent roles.
+“It’s great to be here today to celebrate this momentous occasion," said Bill Johnston, minister for mines and petroleum and energy for Western Australia. “I’m impressed by Rio Tinto’s innovation and sustainability; this is a prototype of the mine of the future. Once the new solar farm is complete, it will be able to power one-third of Gudai-Darri’s operational needs with renewable energy.
+“This multi-billion-dollar investment in Western Australia, is great for the economy and its 40-year mine life will support thousands of jobs into the future,” he added.
+A total of A$3.2 billion ($2.2 billion U.S.) in goods and services were sourced within Western Australia (WA) during the construction phase of the Gudai-Darri Project with contracts valued at A$1.5 billion. ($1 billion U.S.) They were awarded directly to WA-registered businesses such as NRW, Primero, DTMT Construction Company, Southern Cross Electrical Engineering and Monadelphous Engineering Associates.
+This includes over A$100 million ($69 million U.S.) awarded directly to local Aboriginal businesses including White Springs, Lorrex Contracting, Hicks Civil & Mining, Brida, Karijini Development, Yurala Contracting Services, and Karlka FenceWright WA.
+Autonomy Autonomous Trucks Software Simulation News Press Release Mining Rio Tinto
+NVIDIA-sponsored Humanoid Robot Pavilion to showcase, educate Automate attendees
+AI-powered platform integrates various automation to optimize warehouse…
+Cloud-based platform maximizes data to optimize warehouse performance
+The fifth annual virtual conference will take place on September 16

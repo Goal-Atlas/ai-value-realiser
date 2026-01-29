@@ -1,0 +1,809 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "50% weight reduction in vehicle components through generative design",
+      "claim_description": "BMW achieved approximately 50% weight reduction in vehicle components using generative design with intelligent algorithms, creating topology-optimized solutions with enhanced form and function compared to conventional components.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "The components are around 50 percent lighter than comparable conventional components and make the best possible use of the space available, as is the case with the damper for the rear lid.",
+      "quote_location": "S2, generative design section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Weight reduction directly attributed to generative design algorithms creating topology-optimized component geometries that would not be possible with conventional methods.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "8X productivity boost for data scientists using DGX systems",
+      "claim_description": "BMW's data scientists achieved an 8X productivity improvement by optimizing resource utilization with NVIDIA DGX systems, enabling parallel training sessions and more efficient workflows for AI model development.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "DGX systems delivered an 8X boost in our data scientists' productivity by optimizing resource utilization; we can run a single large training session or launch multiple parallel ones, resulting in a more efficient workflow.",
+      "quote_location": "S3, DGX systems impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Productivity boost directly attributed to AI infrastructure (DGX systems) enabling faster iteration and parallel processing of AI training jobs.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "8",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Two-thirds reduction in AI implementation time for quality assurance",
+      "claim_description": "Using deep learning models trained on DGX systems and synthetic data generation, BMW reduced the time required for employees to implement AI automation in quality assurance by over two-thirds.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The time it takes for our employees to implement AI automation in quality assurance has been slashed by over two-thirds.",
+      "quote_location": "S3, SORDI dataset impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time reduction directly attributed to AI-generated synthetic images eliminating manual photo categorization and enabling automated training data generation.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "66.7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "4-6X performance improvement in AI training compared to legacy systems",
+      "claim_description": "BMW consistently achieved 4-6X improvements in AI model training performance using DGX systems compared to prior legacy systems, enabling faster iteration and more complex model development.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Compared to our prior legacy systems, we consistently achieve improvements ranging from 4\u20136X",
+      "quote_location": "S3, DGX systems performance section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Performance improvement attributed to AI infrastructure upgrade (DGX systems) that enables more efficient AI development workflows.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "4-6",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI system identifies components for 3D printing faster in early development",
+      "claim_description": "BMW developed an AI system that enables faster and earlier identification of components suitable for 3D printing by translating engineering criteria into machine language and automating component screening.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Components were selected for 3D printing based on a series of criteria and requirements, which were defined and translated into 'machine language' with the help of data scientists.",
+      "quote_location": "S2, component development section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI system directly enables faster component identification by automating the screening process that previously required manual engineering review.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Generative design enables previously impossible component geometries",
+      "claim_description": "BMW uses generative design with computer algorithms to create complex component geometries that enable significant material and weight reduction that would not be possible with conventional manufacturing methods.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Parts that had previously been virtually impossible to realise are engineered by generative design, which uses computer algorithms for rapid component development.",
+      "quote_location": "S2, generative design section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Generative design algorithms directly enable creation of component geometries that were previously impossible to produce, representing new capability creation.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Automated defect detection in leather products using AI",
+      "claim_description": "BMW's AI system automatically detects missing or incorrectly colored stitches in leather products, automating visual inspection with strong focus on quality assurance in manufacturing.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It also detects missing or incorrectly colored stitches in leather products, automating visual inspection with a strong focus on quality assurance.",
+      "quote_location": "S3, quality assurance applications section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI system directly performs automated visual inspection and defect detection, replacing manual quality control processes.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI training for door sills detection completed in under one hour",
+      "claim_description": "BMW's LabelTool Lite system, using pretrained AI models and synthetic data generation, enables AI training for specific tasks like door sills detection in less than one hour using only five images.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "For example, the AI training for door sills detection takes less than an hour, requiring no more than five images per task.",
+      "quote_location": "S3, LabelTool Lite section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI system directly enables rapid model training through synthetic data generation and transfer learning, dramatically reducing training time and data requirements.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "1",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Generative design breakthrough enables material efficiency in NEUE KLASSE",
+      "claim_description": "BMW achieved a breakthrough in the NEUE KLASSE vehicle line using generative design for efficient and resource-saving component design, reducing weight by up to 50 percent through intelligent algorithms.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Generative design: Efficient and resource-saving design processes with intelligent algorithms \u2013 up to 50 percent less weight, breakthrough in the NEUE KLASSE.",
+      "quote_location": "S1, sustainability innovations list",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Generative design algorithms directly enable weight reduction and resource efficiency that represents a breakthrough for the new vehicle platform.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Automatic generation of hundreds of thousands of training images",
+      "claim_description": "BMW can automatically generate hundreds of thousands of synthetic training images at the push of a button using deep learning models, eliminating the need for manual photo categorization of manufacturing variations.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Using deep learning models trained on DGX, we can now automatically generate hundreds of thousands of images at the push of a button.",
+      "quote_location": "S3, synthetic data generation section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Deep learning models directly generate synthetic training data, automating a previously manual process and enabling scale impossible with manual methods.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "innovation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "100000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "BMW Group is a global premium automotive manufacturer",
+      "claim_description": "BMW Group is a leading manufacturer of premium, luxury and high-performance vehicles globally with over 100 years of history, known for precision engineering and high-quality vehicles.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "With a history spanning over 100 years, the BMW Group stands as a leading manufacturer of premium as well as luxury and high-performance cars globally.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "BMW produces one vehicle per minute on average",
+      "claim_description": "Despite manufacturing complexity and extensive customization options, BMW Group produces on average one new vehicle every minute across its production facilities.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Despite the manufacturing complexity, on average, the BMW Group produces one new vehicle every minute.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "products_services",
+      "claim_title": "BMW offers extensive vehicle customization with trillions of combinations",
+      "claim_description": "BMW Group offers maximum expression of individual personality through customization, with MINI alone offering 15 trillion different combinations at its height, including colors, trim, and functional parts.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "For its MINI alone, at its height, the BMW Group offered 15 trillion different combinations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "BMW integrated AI into manufacturing processes since 2019",
+      "claim_description": "Since 2019, BMW Group has seamlessly integrated AI into its manufacturing processes for optimizing production efficiency, quality control, and supply chain management.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Since 2019, the BMW Group has seamlessly integrated AI into its manufacturing processes, optimizing production efficiency, elevating quality control, and enhancing supply chain management.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "organisational",
+      "claim_title": "BMW Technology Office in Munich leads AI R&D initiatives",
+      "claim_description": "BMW Group Technology Office in Munich is an advanced R&D facility dedicated to emerging technologies and product design, collaborating with various BMW divisions on AI-based projects.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Situated in Munich, the BMW Group Technology Office stands as an advanced R&D facility dedicated to emerging technologies and product design, actively shaping the future of BMW Group products.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "functional",
+      "claim_title": "Additive Manufacturing Campus operates 50+ systems",
+      "claim_description": "BMW's Additive Manufacturing Campus near Munich operates about 50 metal and polymer processing systems with 80 associates, plus 50+ additional systems at other production sites worldwide.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "At the moment the centre of excellence has up to 80 associates and already operates about 50 metal and polymer processing systems. A further 50-plus systems are operating at other production sites.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10881",
+      "apqc_name": "Manage product and service portfolio",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "BMW launched Additive Manufacturing Campus in June 2020",
+      "claim_description": "BMW Group pooled its entire additive manufacturing technology expertise at the Additive Manufacturing Campus near Munich starting in June 2020.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Since June the BMW Group has pooled its entire technology expertise at the Additive Manufacturing Campus just outside Munich.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "BMW aims for sustainability through innovation",
+      "claim_description": "BMW Group's strategy combines driving pleasure with ambitious sustainability targets, believing innovation is key to progress in developing attractive mobility solutions with climate protection and resource conservation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Continuously enhancing driving pleasure and ambitious sustainability targets define the work of the BMW Group in shaping the individual mobility of the future. The company firmly believes that innovation is the key to progress.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "temporal",
+      "claim_title": "NEUE KLASSE vehicle platform launches from 2025",
+      "claim_description": "BMW Group's NEUE KLASSE represents a new era in electromobility with models debuting in 2025, featuring new architecture centered around all-electric drive systems.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With the models of the NEUE KLASSE due to make their d\u00e9but in 2025, the BMW Group is poised to enter a new era in electromobility.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "BMW uses NVIDIA DGX systems with Hopper architecture for AI",
+      "claim_description": "BMW Group uses NVIDIA DGX systems with Hopper architecture for complete deep learning operations pipeline including training synthetic data generation models, training production models, and model evaluation.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "To manage the entire lifecycle management of deep learning models, from development and training to deployment and maintenance, the BMW Group turned to DGX systems with NVIDIA Hopper architecture.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11101",
+      "apqc_name": "Manage information technology (IT)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "products_services",
+      "claim_title": "BMW developed SORDI dataset with 800,000+ synthetic images",
+      "claim_description": "BMW Group Technology Office developed SORDI (Synthetic Object Recognition Dataset for Industries), the largest open-source dataset for industrial environments with over 800,000 photorealistic images across 80 categories.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "This groundbreaking initiative aims to accelerate AI training in production by offering the largest, most realistic open-source dataset for the industrial environment, comprising over 800,000 photorealistic images spanning 80 categories.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "functional",
+      "claim_title": "BMW uses generative design for vehicle component development",
+      "claim_description": "BMW applies generative design using computer algorithms for rapid component development, creating topology-optimized solutions that enhance form and function beyond conventional design methods.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Parts that had previously been virtually impossible to realise are engineered by generative design, which uses computer algorithms for rapid component development.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10881",
+      "apqc_name": "Manage product and service portfolio",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "sectoral",
+      "claim_title": "BMW operates in automotive manufacturing sector",
+      "claim_description": "BMW Group operates in the automotive manufacturing industry, producing premium vehicles with focus on electromobility, sustainability, and advanced manufacturing technologies.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "With a history spanning over 100 years, the BMW Group stands as a leading manufacturer of premium as well as luxury and high-performance cars globally.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "functional",
+      "claim_title": "BMW applies AI to quality control and defect detection",
+      "claim_description": "BMW uses AI-powered visual inspection systems for automated quality control, including detection of incorrect door sills, missing stitches in leather products, and other manufacturing defects.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The AI system can then recognize different types of door sills, sounding an alarm if the wrong model is installed. It also detects missing or incorrectly colored stitches in leather products.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10424",
+      "apqc_name": "Manage quality",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "strategic_intent",
+      "claim_title": "BMW aims to deploy AI at scale across manufacturing operations",
+      "claim_description": "BMW's strategy involves embedding Generative AI as a core component of digital transformation to achieve hyper-personalization, sustainable manufacturing, accelerated innovation, and resilient production.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "source_quote": "Realizing the ambition to deploy AI at scale across the entire manufacturing operation, the BMW Group understood the importance of not only having powerful AI compute but also a platform for employees to autonomously develop, implement, and maintain AI applications.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

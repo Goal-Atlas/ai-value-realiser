@@ -1,0 +1,16 @@
+In this new Do More With Less blog series, we are sharing examples of customers who have utilized Microsoft Power Platform in their organization to build applications, automate processes, determine insights and more.
+Johnson Controls, a world leader in building smart, healthy and sustainable buildings, has more than 100,000 employees that require training which needs to be scheduled, tracked, measured, and analyzed. They saved 3,610 hours on backend process management and increased training throughput by 400%. Let’s see how they used Power Platform to optimize their training program.
+Missing mechanism to enable training at scale
+There was no mechanism in place to share or aggregate information within systems or received from trainees. Manual intervention was the default reaction. Minor, but common, errors, such as misspellings, abbreviations, and incomplete responses, added to aggregation aggravation. This also had a direct impact on low NPS (Net Promoter Score) around training. Cody Hines, Training and Quality Data Systems Manager, recognized the gaps and need for a simpler, automated process to keep up with the growth and pace.
+Power Platform used to free up 3,610 hours of back-office processes
+Cody started utilizing Power Apps and Power Automate to create COBALT (Central Ops Buildings Administered Learning Tracker), an end-to-end system to deploy and track training.
+COBALT consolidated all data into a single Microsoft SQL server on-premises database and connected to Power Platform using an on-premises data gateway. Courses, trainers, events, locations, and survey methods are standardized in relational fashion in a Power Apps app, allowing management of scheduling and participant rosters – eliminating manual data collection. Power Platform allowed for a seamless workflow was put in place to manage training initiations, scheduling, tracking, and survey responses.
+The new process leverages Power Apps, Power Automate, Power BI and Outlook while extending into SharePoint and Teams. COBALT now allows Johnson Controls to handle over 60 training events per month. Additionally, having integrated Power BI they now also have a central dashboard to track completion rates, drop rates, and NPS (Net Promoter Score) with accuracy and efficiency.
+The success of this new process has exceeded expectations. From better NPS ratings, scheduling, to roster completion lag – what previously required 4,870 hours was reduced to 1,160 hours, allowing employees to focus on more strategic tasks.
+“Power platform has made it so easy to automate and manage processes and quantify business results that any time a new challenge comes to us, we all immediately ask how automation, reporting, and/or workflows can address it.”
+– John Mendicino: Training and Quality Assurance Associate Director
+Read more about how Microsoft Customer Story-Johnson Controls exceeds enterprise training expectations with scalable solution built on Power Platform
+Find other “Do More With Less” stories
+Additional links
+100+ Power Platform customer stories
+70+ Power Platform customer story videos

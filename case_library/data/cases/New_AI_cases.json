@@ -1,0 +1,35 @@
+[
+  {
+    "organisation": "EY (Ernst & Young)",
+    "initiative_description": "AI simulation (agentic AI + synthetic ‘digital personas’) to replicate wealth/asset-management market research in ~1 day, achieving ~90% median correlation vs a full global survey that typically takes ~6 months.",
+    "original_case_id": "ey-ai-simulation-wealth-asset-management-2025",
+    "legacy_urls": [
+      "https://www.ey.com/en_nz/insights/wealth-asset-management/how-ai-simulation-accelerates-growth-in-wealth-and-asset-management",
+      "https://www.ey.com/en_gl/insights/wealth-asset-management/how-ai-simulation-accelerates-growth-in-wealth-and-asset-management"
+    ],
+    "research_priority": "high",
+    "notes": "EY partnered with AI simulation startup Aaru (Aug 2025). Described as a strategic-insight method for wealth/asset managers (not a single named client deployment). Key stats cited: 90% median correlation across 53 questions / 3,600 respondents; can simulate ~100,000 agents in hours."
+  },
+  {
+    "organisation": "PwC (PricewaterhouseCoopers)",
+    "initiative_description": "29th Global CEO Survey (Jan 2026) reporting that 56% of CEOs saw no AI impact on revenue or costs in the prior 12 months; 30% reported increased revenue from AI and 26% reported decreased costs (12% reported both).",
+    "original_case_id": "pwc-29th-global-ceo-survey-ai-impact-2026",
+    "legacy_urls": [
+      "https://www.warc.com/content/feed/56-of-ceos-see-no-ai-impact-but-marketing-is-the-exception/en-GB/11271",
+      "https://www.pwc.com/gx/en/issues/c-suite-insights/ceo-survey.html"
+    ],
+    "research_priority": "medium",
+    "notes": "The WARC piece (23 Jan 2026) summarises PwC’s 29th Global CEO Survey and frames it around ‘useful’ AI and marketing’s comparatively visible impact. Treat as macro evidence rather than a single-company implementation case."
+  },
+  {
+    "organisation": "OECD (Organisation for Economic Co-operation and Development)",
+    "initiative_description": "OECD Science, Technology and Industry Working Paper 2026/01 analysing firm adoption of AI, big data analysis, internet of things, robotics and 3D printing across 15 OECD member countries (2017–2023), identifying seven stylised facts about diffusion and productivity associations.",
+    "original_case_id": "oecd-digital-technology-diffusion-age-of-ai-2026-01",
+    "legacy_urls": [
+      "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/digital-technology-diffusion-in-the-age-of-ai_7f11be5d/ebc2debe-en.pdf",
+      "https://www.oecd.org/en/publications/digital-technology-diffusion-in-the-age-of-ai_ebc2debe-en.html"
+    ],
+    "research_priority": "medium",
+    "notes": "Cross-country microdata study (Calvino, Costa, Haerle). Useful for baseline diffusion/adoption metrics and ‘enablers’ (skills, digitalisation, enabling tech like cloud/CRM/ERP), not a specific organisational AI implementation."
+  }
+]

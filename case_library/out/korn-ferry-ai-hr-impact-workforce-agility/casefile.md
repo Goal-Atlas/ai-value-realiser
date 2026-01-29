@@ -1,0 +1,725 @@
+---
+case_id: korn-ferry-ai-hr-impact-workforce-agility
+organisation: Korn Ferry
+title: AI Impact on HR and Workforce Agility
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.kornferry.com/about-us/press/korn-ferry-reveals-workforce-2025-resea...
+  url: https://www.kornferry.com/about-us/press/korn-ferry-reveals-workforce-2025-research
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.kornferry.com/insights/featured-topics/gen-ai-in-the-workplace
+  url: https://www.kornferry.com/insights/featured-topics/gen-ai-in-the-workplace
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.consulting.us/news/6997/korn-ferry-launches-ai-powered-talent-analyt...
+  url: https://www.consulting.us/news/6997/korn-ferry-launches-ai-powered-talent-analytics-platform
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://worldatwork.org/publications/workspan-daily/korn-ferry-survey-highlights...
+  url: https://worldatwork.org/publications/workspan-daily/korn-ferry-survey-highlights-how-tr-leaders-are-responding-to-change
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://www.kornferry.com/insights/talent-suite-resources/empowering-growth-with...
+  url: https://www.kornferry.com/insights/talent-suite-resources/empowering-growth-with-scalable-inclusive-talent-tools
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 75% cost reduction in high-volume hiring
+  claim_description: Global manufacturing business achieved 75% cost reduction and
+    smarter sourcing for high-volume hiring using AI-powered talent solutions.
+  source_ids:
+  - S2
+  source_quote: 75% cost reduction and smarter sourcing for high-volume hiring. -
+    Global manufacturing business
+  quote_location: Header section
+  ai_attribution: direct
+  attribution_evidence: Cost reduction explicitly attributed to AI-powered hiring
+    tools in the context of Gen AI in the workplace.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - automation
+  outcome:
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw:
+    value: '75'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 30% faster time-to-shortlist with AI in hiring
+  claim_description: Organizations using AI in hiring see 30% faster time-to-shortlist
+    when AI acts as copilot for recruiters, scanning resumes and surfacing stronger
+    matches.
+  source_ids:
+  - S2
+  source_quote: 'Organizations using AI in hiring see 30% faster time-to-shortlist
+    and 2–3 times higher win rates on complex searches. Source: Korn Ferry Talent
+    Suite data'
+  quote_location: AI in hiring section
+  ai_attribution: direct
+  attribution_evidence: Metric explicitly attributed to organizations using AI in
+    hiring, sourced from Korn Ferry Talent Suite data.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw:
+    value: '30'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: 2-3x higher win rates on complex searches with AI
+  claim_description: Organizations using AI in hiring achieve 2-3 times higher win
+    rates on complex searches through AI-augmented talent matching and sourcing.
+  source_ids:
+  - S2
+  source_quote: 'Organizations using AI in hiring see 30% faster time-to-shortlist
+    and 2–3 times higher win rates on complex searches. Source: Korn Ferry Talent
+    Suite data'
+  quote_location: AI in hiring section
+  ai_attribution: direct
+  attribution_evidence: Win rate improvement explicitly attributed to AI use in hiring,
+    verified by Korn Ferry Talent Suite data.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: predictive
+  metric_raw:
+    value: 2-3
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: AI enables reward benchmarking for 58% of organizations
+  claim_description: AI is expected to accelerate reward benchmarking processes, with
+    58% of surveyed organizations identifying this as a key AI impact area.
+  source_ids:
+  - S4
+  source_quote: 'AI is expected to accelerate and enhance reward management in several
+    areas: Reward benchmarking (chosen by 58% of respondents)'
+  quote_location: AI impact section
+  ai_attribution: direct
+  attribution_evidence: 58% of organizations explicitly identify AI as enabler for
+    reward benchmarking in survey responses.
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '58'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: AI enhances pay equity monitoring for 50% of organizations
+  claim_description: AI enables pay equity monitoring and transparency improvements,
+    identified by 50% of surveyed organizations as a key application area.
+  source_ids:
+  - S4
+  source_quote: 'AI is expected to accelerate and enhance reward management in several
+    areas: ... Pay equity monitoring and transparency (50%).'
+  quote_location: AI impact section
+  ai_attribution: direct
+  attribution_evidence: 50% of organizations identify AI as enabler for pay equity
+    monitoring in survey, indicating direct AI application.
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - risk_avoidance
+  cognitive_depth: diagnostic
+  metric_raw:
+    value: '50'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: AI improves reward communications for 42% of organizations
+  claim_description: AI-enabled personalization enhances reward communications, with
+    42% of organizations identifying this as a key AI application area.
+  source_ids:
+  - S4
+  source_quote: 'AI is expected to accelerate and enhance reward management in several
+    areas: ... Reward communications (42%)'
+  quote_location: AI impact section
+  ai_attribution: direct
+  attribution_evidence: 42% of surveyed organizations explicitly identify AI as enabler
+    for reward communications improvements.
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '42'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: AI-powered talent analytics platform launched
+  claim_description: Korn Ferry Intelligence Cloud provides AI-enabled talent analytics
+    drawing on 4 billion data points to help organizations identify talent gaps and
+    build workforce blueprints.
+  source_ids:
+  - S3
+  source_quote: The AI-augmented analytics platform draws on external market intelligence
+    and 4 billion Korn Ferry data points on work structures, roles, and employee skills
+    and motivations
+  quote_location: Platform description section
+  ai_attribution: direct
+  attribution_evidence: Platform explicitly described as AI-augmented, with AI enabling
+    analysis of massive data sets for talent insights.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  - business_growth
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: AI-powered job auto-matching in Profile Manager
+  claim_description: Flexible AI-powered job auto-matching enables customers to surface
+    jobs, skills, and benchmarks dynamically from Korn Ferry's IP library.
+  source_ids:
+  - S5
+  source_quote: flexible AI-powered job auto-matching in Profile Manager, this release
+    continues to empower our customers to surface the jobs, skills, and benchmarks
+    they need, when they need them
+  quote_location: AI-powered decision-making section
+  ai_attribution: direct
+  attribution_evidence: Feature explicitly described as AI-powered, enabling dynamic
+    matching of jobs and skills from knowledge base.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: Korn Ferry is a global organizational consulting firm
+  claim_description: Korn Ferry is headquartered in Los Angeles with more than 7,500
+    people in 50+ countries, providing organizational consulting services.
+  source_ids:
+  - S3
+  source_quote: Headquartered in Los Angeles, Korn Ferry provides services in talent
+    acquisition, organizational strategy, rewards and benefits, assessment and succession,
+    and leadership development. The firm has more than 7,500 people in 50+ countries.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: scale
+  claim_title: Survey of 15,000 global employees across multiple demographics
+  claim_description: Workforce 2025 research based on survey of 15,000 professionals
+    worldwide across entry-level to CEO positions in 15 major markets.
+  source_ids:
+  - S1
+  source_quote: Korn Ferry surveyed more than 15,000 professionals worldwide to understand
+    how they feel about their work. The Workforce 2025 Global Insights Report included
+    participants from entry-level positions to CEOs across 15 major markets
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: scale
+  claim_title: Total Rewards survey of nearly 8,000 global organizations
+  claim_description: Global Total Rewards Pulse Survey conducted in October 2025 with
+    nearly 8,000 global organizations participating.
+  source_ids:
+  - S4
+  source_quote: Conducted in October 2025, the consulting firm's survey reflects insights
+    and responses from nearly 8,000 global organizations
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: temporal
+  claim_title: Intelligence Cloud platform launched in 2025
+  claim_description: Korn Ferry Intelligence Cloud AI-powered talent analytics platform
+    was launched in 2025, with Vijay Konda hired earlier that year to build architecture.
+  source_ids:
+  - S3
+  source_quote: Korn Ferry earlier this year hired Vijay Konda to help build the architecture
+    for the Intelligence Cloud solution.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: functional
+  claim_title: AI applied to talent acquisition processes
+  claim_description: AI used in recruitment for resume scanning, candidate matching,
+    and reducing bias in hiring processes.
+  source_ids:
+  - S2
+  source_quote: As a copilot for recruiters, it scans resumes in seconds, surfaces
+    stronger matches, and helps reduce bias. The result is faster hiring and a better
+    experience
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '4.1'
+  apqc_name: Recruit, source, and select employees
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: AI applied to total rewards and compensation management
+  claim_description: AI used for reward benchmarking, pay equity analysis, compensation
+    communications, and data integration across HR platforms.
+  source_ids:
+  - S4
+  source_quote: 'AI is expected to accelerate and enhance reward management in several
+    areas: Reward benchmarking (chosen by 58% of respondents); Reward communications
+    (42%); Data integration across HR platforms (42%); and, Pay equity monitoring
+    and transparency (50%).'
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '4.4'
+  apqc_name: Reward and retain employees
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: AI applied to workforce analytics and planning
+  claim_description: AI-enabled talent analytics platform helps organizations gain
+    real-time workforce insights, identify skills gaps, and build talent blueprints.
+  source_ids:
+  - S3
+  source_quote: The firm's new analytics platform helps clients gain a clearer, real-time
+    picture of their workforce, uncover and develop the skills the organization needs,
+    and build a talent blueprint
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '4.2'
+  apqc_name: Develop and counsel employees
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: strategic_intent
+  claim_title: Addressing HR capability gaps in AI adoption
+  claim_description: 65% of organizations acknowledge HR skill gaps in effectively
+    using AI, requiring investment in analytics and AI-enabled reward tools.
+  source_ids:
+  - S4
+  source_quote: However, 65% of surveyed organizations acknowledge HR skill gaps in
+    effectively using AI. Trust, explainability and governance will be essential to
+    successful adoption.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: Korn Ferry Talent Suite product portfolio
+  claim_description: Comprehensive talent management platform including Profile Manager,
+    Korn Ferry Pay, Korn Ferry Learn, Korn Ferry Coach, Korn Ferry Listen, and Korn
+    Ferry Sell.
+  source_ids:
+  - S5
+  source_quote: These advancements reaffirm our commitment to enhancing the employee
+    experience and enabling organizations to build resilient, high-performing teams.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: scale
+  claim_title: Platform built on 4 billion data points
+  claim_description: Intelligence Cloud draws on 4 billion Korn Ferry data points
+    based on 70 million assessments and rewards data for 26 million people at 25,000
+    companies in 150+ countries.
+  source_ids:
+  - S3
+  source_quote: The AI-augmented analytics platform draws on external market intelligence
+    and 4 billion Korn Ferry data points on work structures, roles, and employee skills
+    and motivations – based on 70 million assessments and rewards data for 26 million
+    people at 25,000 companies in more than 150 countries.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: sectoral
+  claim_title: Manufacturing sector client achieved cost reduction
+  claim_description: Global manufacturing business achieved 75% cost reduction in
+    high-volume hiring using AI-powered solutions.
+  source_ids:
+  - S2
+  source_quote: 75% cost reduction and smarter sourcing for high-volume hiring. -
+    Global manufacturing business
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: temporal
+  claim_title: 2025 Talent Trends and workforce research
+  claim_description: Korn Ferry's 2025 Talent Trends report and Workforce 2025 Global
+    Insights Report released in April 2025, highlighting shifts in global workforce
+    dynamics.
+  source_ids:
+  - S1
+  - S5
+  source_quote: 'LOS ANGELES, April 17, 2025 – Korn Ferry (NYSE: KFY) today released
+    its Workforce 2025 Global Insights Report'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 8
+    verified: 5
+    needs_review: 3
+    rejected: 0
+    by_attribution:
+      direct: 8
+  context_claims:
+    total: 12
+    verified: 11
+    unverified: 1
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI Impact on HR and Workforce Agility
+
+## Executive Summary
+
+Korn Ferry: 75% cost reduction in high-volume hiring.
+
+## Key Findings
+
+- **75% cost reduction in high-volume hiring** — verified (outcome)
+  - Quote: "75% cost reduction and smarter sourcing for high-volume hiring. - Global manufacturing business"
+
+- **30% faster time-to-shortlist with AI in hiring** — verified (outcome)
+  - Quote: "Organizations using AI in hiring see 30% faster time-to-shortlist and 2–3 times higher win rates on complex searches. Source: Korn Ferry Talent Suite data"
+
+- **2-3x higher win rates on complex searches with AI** — verified (outcome)
+  - Quote: "Organizations using AI in hiring see 30% faster time-to-shortlist and 2–3 times higher win rates on complex searches. Source: Korn Ferry Talent Suite data"
+
+- **AI enables reward benchmarking for 58% of organizations** — needs_review (adoption)
+  - Quote: "AI is expected to accelerate and enhance reward management in several areas: Reward benchmarking (chosen by 58% of respondents)"
+
+- **AI enhances pay equity monitoring for 50% of organizations** — needs_review (adoption)
+  - Quote: "AI is expected to accelerate and enhance reward management in several areas: ... Pay equity monitoring and transparency (50%)."
+
+- **AI improves reward communications for 42% of organizations** — needs_review (adoption)
+  - Quote: "AI is expected to accelerate and enhance reward management in several areas: ... Reward communications (42%)"
+
+- **AI-powered talent analytics platform launched** — verified (method)
+  - Quote: "The AI-augmented analytics platform draws on external market intelligence and 4 billion Korn Ferry data points on work structures, roles, and employee skills and motivations"
+
+- **AI-powered job auto-matching in Profile Manager** — verified (method)
+  - Quote: "flexible AI-powered job auto-matching in Profile Manager, this release continues to empower our customers to surface the jobs, skills, and benchmarks they need, when they need them"
+
+## Sources
+
+- **S1**: https://www.kornferry.com/about-us/press/korn-ferry-reveals-workforce-2025-research
+- **S2**: https://www.kornferry.com/insights/featured-topics/gen-ai-in-the-workplace
+- **S3**: https://www.consulting.us/news/6997/korn-ferry-launches-ai-powered-talent-analytics-platform
+- **S4**: https://worldatwork.org/publications/workspan-daily/korn-ferry-survey-highlights-how-tr-leaders-are-responding-to-change
+- **S5**: https://www.kornferry.com/insights/talent-suite-resources/empowering-growth-with-scalable-inclusive-talent-tools

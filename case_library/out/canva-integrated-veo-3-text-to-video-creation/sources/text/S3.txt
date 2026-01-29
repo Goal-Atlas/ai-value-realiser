@@ -1,0 +1,19 @@
+Google’s Veo 3 video model is now live in Canva — here’s how to try it
+When you buy through links on our articles, Future and its syndication partners may earn a commission.
+Google’s latest AI video model, Veo 3 (that's the one with audio) is now available inside Canva — giving creators of all levels a simple way to generate high-quality video clips from a text prompt.
+The new feature, called Create a Video Clip, is now live for Canva Pro ($15/month or $120/year per person), Teams, Enterprise and Nonprofit users.
+The new feature lets you type a short prompt — such as “country morning sunrise" or “cinematic product teaser” — and instantly generate an 8-second, high-quality video complete with synchronized audio.
+The video opens directly in Canva’s video editor, where you can fine-tune it with music, text and more. You can also drop it into social media designs, presentations, or other projects.
+This marks one of the first major integrations of Google Veo 3 into a design platform, and it comes just weeks after Google first debuted the model at I/O 2025.
+Why it matters
+For many creators, AI-generated video has been powerful but hard to use and even harder to afford for casual users. Veo 3 and Google Flow is part of the Ultra package, which is $249/month.
+By bringing Veo 3 into Canva’s all-in-one platform, video creation is now as accessible as generating AI images or graphics.
+As part of the press announcement, Canva says this is part of its “multi-model” approach, aimed at putting AI-powered design tools into a single workflow.
+It also shows how fast AI video generation is evolving: the fact that users can now create polished, brandable video clips — with audio — in just a few clicks would have seemed impossible a year ago.
+How to try Veo 3 in Canva
+Create a Video Clip is now live inside Canva AI. Just select it from the homepage or sidebar, type your prompt and start generating. Video generations take a little under 2 minutes.
+The feature is limited to five generations per month at launch, but Canva says more capacity is coming. It’s also rolling out across Leonardo.Ai for paid users on that platform.
+As with Canva’s other AI tools, this one is backed by Canva Shield, the company’s trust and safety system for AI content.
+Bottom line
+AI-generated video is moving fast. With Veo 3 now built into Canva, creating short, cinematic-quality clips just got a lot easier.
+Whether you’re making content for social media, marketing a business or having fun with your own personal projects, take it from someone who has tested Veo 3 extensively, this is one AI video tool worth trying.

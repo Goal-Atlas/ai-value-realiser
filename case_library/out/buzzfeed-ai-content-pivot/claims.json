@@ -1,0 +1,910 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "BuzzFeed stock price increased over 100% following AI content announcement",
+      "claim_description": "BuzzFeed's share price rose more than 100% (reported as high as 150-200% in different sources) immediately after announcing the use of OpenAI technology for content creation.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "source_quote": "Following news this morning that BuzzFeed will be using AI to produce content, its share price had risen more than 100 percent at the time of writing.",
+      "quote_location": "S1, paragraph 9",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Stock price increase directly followed announcement of AI content strategy implementation",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI content doubled between Q1 and Q2 2023",
+      "claim_description": "BuzzFeed doubled its output of AI-assisted content between Q1 and Q2 2023, with plans to continue ramping up at a similar rate in Q3.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Buzzfeed doubled its output of AI-assisted content between Q1 and Q2 and expects to continue ramping up at a similar rate in Q3, Peretti said.",
+      "quote_location": "S3, paragraph 6",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Explicit measurement of AI-assisted content production volume increase",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "2",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "AI content engagement increased 3x between Q1 and Q2",
+      "claim_description": "Views and time spent with BuzzFeed's AI content both increased three-fold between Q1 and Q2, driven by higher content output and increased engagement.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "views and time spent with Buzzfeed's AI content both increased three-fold between Q1 and Q2 driven by higher content output, and the new content is also driving higher engagement quarter-over-quarter.",
+      "quote_location": "S3, paragraph 16",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Explicit measurement of engagement metrics for AI-generated content",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Top 20 AI articles in Q2 generated 2x time spent vs Q1",
+      "claim_description": "BuzzFeed's top 20 AI articles published in Q2 generated more than twice the time spent when compared with the top 20 AI articles in Q1.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Our top 20 AI articles published in Q2 generated more than twice the time spent when compared with our top 20 AI articles in Q1.",
+      "quote_location": "S3, paragraph 17",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct comparison of engagement metrics for AI-generated content across quarters",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "2",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "AI chatbot games generate 2-3x more interaction time",
+      "claim_description": "Users spend two to three times more time interacting with AI chatbot games compared to static content pieces.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "users really loved these formats and that they spend two, three more times interacting with a chatbot game than with a static piece of content.",
+      "quote_location": "S3, paragraph 11",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct comparison of user interaction time between AI chatbot content and traditional static content",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "2-3",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "AI-generated Barbie dreamhouse content reached 1 million views",
+      "claim_description": "A piece using Midjourney AI to imagine Barbie's dreamhouse in each US state generated more than one million views and went viral on TikTok and Instagram Reels.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "a piece that used Midjourney to imagine what Barbie's dreamhouse would look like in each US state saw more than one million views and, according to Peretti, went viral on Tiktok and Instagram Reels.",
+      "quote_location": "S3, paragraph 12",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Content explicitly created using AI image generation tool (Midjourney) achieved measurable viral reach",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "1000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI content shows above-average engagement and time spent",
+      "claim_description": "AI content on BuzzFeed often sees above-average engagement and time spent compared to posts created entirely by humans or less interactive pages.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "AI content on Buzzfeed often sees above-average engagement and time spent compared to posts created entirely by humans or less interactive pages, the publisher has said.",
+      "quote_location": "S3, paragraph 1",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Direct comparison of engagement metrics between AI-assisted and human-only content",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Serta AI quizzes exceeded client engagement expectations",
+      "claim_description": "Two infinity quizzes made in partnership with Serta (bedtime story generator and dream interpreter) saw above average time spent, with audience clickthrough and engagement rates exceeding client expectations.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "two infinity quizzes made in partnership with mattress brand Serta \u2013 a bedtime story generator and a dream interpreter \u2013 saw above average time spent compared to non-AI formats, and audience clickthrough rate and engagement rate both exceeded the client's expectations.",
+      "quote_location": "S3, paragraph 20",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered branded content directly measured against client expectations and non-AI formats",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "AI enables more efficient and scalable content creation",
+      "claim_description": "AI and creator tools help build a content creation model that is more efficient and scalable than traditional media models, allowing more output with the same amount of labor.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "It is a long road and we're seeing a lot of early success, but we're building this for a longer time horizon because we feel strongly that this is where media is headed and there's a lot of ways to enhance the product that we're building to delight our users more and also to find more efficiencies where we can have much more output with the same amount of labour by having co-pilots and other tools that give our people superpowers to be able to make more, create more, do more, and serve our clients better and serve our audience better because of these AI tools that are assisting them.",
+      "quote_location": "S3, paragraph 23",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CEO explicitly attributes efficiency and scalability improvements to AI tools acting as co-pilots",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "AI enables participation in cultural moments",
+      "claim_description": "AI-assisted imagery tools allowed BuzzFeed to participate in big cultural moments like the Barbie movie release, creating timely viral content.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Peretti said these tools allowed the publisher to participate in big cultural moments like the release of the Barbie movie in July.",
+      "quote_location": "S3, paragraph 13",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI tools explicitly enabled rapid content creation for timely cultural events",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "Creator network encompasses 280+ million followers",
+      "claim_description": "BuzzFeed's Catalyst creator network encompasses more than 280 million total followers across various platforms and content types.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "BuzzFeed, Inc.'s Catalyst creator network overall encompasses many more creators, with more than 280+ million total followers.",
+      "quote_location": "S1, memo section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Creator network is part of broader strategy alongside AI, not directly caused by AI",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "280000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "Tasty Creator collaborations generated 1 billion views in 2022",
+      "claim_description": "On Instagram, Tasty's Creator Residents and Creator collaborations generated more than one billion views in 2022.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "On Instagram, Tasty's Creator Residents and Creator collaborations generated more than one billion views in 2022.",
+      "quote_location": "S1, memo section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Creator content performance, part of broader strategy but not directly AI-attributed",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "1000000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "AI content launch announced January 2023",
+      "claim_description": "BuzzFeed announced its AI content strategy in a memo to staff on January 26, 2023, with AI-inspired content expected to launch in February 2023.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "BuzzFeed says it's going to use AI tools provided by ChatGPT creator OpenAI to enhance and personalize its content, according to a memo sent this morning to staff by CEO Jonah Peretti",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "BuzzFeed is a publicly traded digital media company",
+      "claim_description": "BuzzFeed went public in December 2021 and trades on NASDAQ under ticker BZFD. By June 2022, share price had fallen 40% and continued trending downward.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "BuzzFeed, in particular, has had a rocky ride on the markets since going public in December 2021. By June 2022, the company's share price had already fallen 40 percent and has continued trending downwards since.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Digital media industry facing declining advertising rates",
+      "claim_description": "Media companies are hurt by falling advertising rates, making AI tools a tempting prospect for cost reduction and efficiency.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The increasing capability of AI tools like ChatGPT to write prose has made the technology a tempting prospect for media companies hurt by falling advertising rates.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "strategic_intent",
+      "claim_title": "AI and creators defined as two major trends for digital media future",
+      "claim_description": "BuzzFeed CEO identified AI and creators as the two major trends that will define the future of digital media over the next three years.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Over the next three years, the future of digital media will be defined by two major trends: creators, and AI.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Shift from AI-powered curation to AI-powered creation",
+      "claim_description": "BuzzFeed's strategy represents a shift from AI-powered curation (feeds) to AI-powered creation (content), marking a new era in digital media.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "If the past 15 years of the internet have been defined by algorithmic feeds that curate and recommend content, the next 15 years will be defined by AI and data helping create, personalize, and animate the content itself.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "BuzzFeed closed news division in April 2023",
+      "claim_description": "BuzzFeed closed its news division, BuzzFeed News, in April 2023 with 15% staff layoffs, citing tech platforms' unwillingness to invest in the award-winning brand.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "In April Buzzfeed closed its news division, Buzzfeed News, with Peretti saying tech platforms had been unwilling to invest to help the award-winning brand survive.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "BuzzFeed owns multiple media brands",
+      "claim_description": "BuzzFeed Inc. owns multiple properties including BuzzFeed, HuffPost, Complex Networks, Tasty, and First We Feast.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "lists, quizzes, and video from BuzzFeed; premium, award-winning series from Complex Networks; two of the largest food brands on the Internet in Tasty and First We Feast; and free, award-winning journalism from HuffPost and BuzzFeed News.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "AI used for content creation and personalization",
+      "claim_description": "BuzzFeed uses AI for creating quizzes, brainstorming, personalizing content, generating imagery, and creating interactive chatbot experiences.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "source_quote": "AI inspired content will launch on the site, enhancing the quiz experience, informing our brainstorming, and personalizing our content for our audience.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "8.3",
+      "apqc_name": "Manage enterprise information",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Reducing dependence on major tech platforms",
+      "claim_description": "BuzzFeed is prioritizing direct traffic to owned properties through AI-powered content formats to reduce dependence on major tech platforms like Facebook.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We have prioritised resources aimed at growing engagement on our owned-and-operated properties through new AI-powered content formats. In doing so, we are reducing our dependence on the major tech platforms",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "BuzzFeed newsroom will not use AI",
+      "claim_description": "BuzzFeed confirmed that AI will not be used in its newsroom for news story creation, maintaining human-focused journalism.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "When asked by The Verge if BuzzFeed was considering using AI in its newsroom, the company's VP of communications, Matt Mittenthal, replied, No.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Multi-year partnership with OpenAI",
+      "claim_description": "BuzzFeed entered into a multi-year deal with OpenAI to use their AI technology for content creation.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "BuzzFeed says it will use AI tools from OpenAI to personalize its content",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "scale",
+      "claim_title": "Q2 2023 total time spent was 96 million hours",
+      "claim_description": "BuzzFeed's total time spent across its properties was 96 million hours in Q2 2023, down 9% year-over-year.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "overall, Buzzfeed's results showed time spent across its properties fell by 9% year-on-year in the second quarter to 96 million hours.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "scale",
+      "claim_title": "Q2 2023 revenues fell 27% to $77.9M",
+      "claim_description": "BuzzFeed saw revenues for Q2 2023 fall by 27% year-on-year to $77.9 million, with content revenues down 22% to $31.5 million.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Buzzfeed saw its revenues for Q2 fall by 27% year-on-year to $77.9m, with a net loss of $27.8m",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "sectoral",
+      "claim_title": "Influencer advertising market projected to reach $51B by 2027",
+      "claim_description": "Research firm Statista reported that global media spend in the influencer advertising segment is projected to reach $51 billion by 2027, growing at 13.21% annually from 2022-2027.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Research firm Statista recently reported that the global media spend in the influencer advertising segment is projected to reach $51 billion by 2027, increasing at an annual growth rate of 13.21% from 2022 to 2027.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "organisational",
+      "claim_title": "BuzzFeed workforce reduced by 12% in December 2022",
+      "claim_description": "BuzzFeed announced workforce cuts of approximately 12% in December 2022, just before announcing AI content strategy.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "In a related story, just last month the company announced it would cut its workforce by about 12%.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "organisational",
+      "claim_title": "BuzzFeed has $10M deal with Meta for content creation",
+      "claim_description": "BuzzFeed inked a multi-year deal with Facebook parent Meta for content creation valued at $10 million.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Meanwhile, BuzzFeed has inked a multi-year deal with Facebook parent, Meta, for content creation. NASDAQ reports that the deal is valued at $10 million.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+A new research report by Modality Partnership
+The NHS’s largest GP super-partnership, has found that Heidi Health’s ambient AI tool halves the time GPs spend on clinical documentation.
+In the 25-day trial, 47 GPs across more than 2,800 patient consultations saw documentation time during appointments reduce by 51%, and after-hours admin drop by 61%. With paperwork drastically reduced, more than three quarters (78%) of GPs said they built better rapport with patients, while 78% reported lower “cognitive load” and improved focus.
+Primary care is under extraordinary pressure, with GPs facing rising demand, growing patient complexity, and critical workforce shortages.
+The new study found that Heidi’s AI tool not only saved time but also enhanced the quality of clinician–patient interactions by transcribing real-time conversations and automatically generating clinical notes, referral letters, and care plans. This shift contributed to a 58% reduction in documentation-related stress, and nearly one in five clinicians (18%) reported greater enjoyment in their work.

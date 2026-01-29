@@ -1,0 +1,27 @@
+Photo: Providence
+By now, everyone in healthcare is well aware of the problem of clinician burnout – and its consequences, which aggravate the staffing shortage crisis.
+Health IT leaders at hospitals and health systems already have begun experimenting with artificial intelligence – experiencing a great boom in healthcare – to try to reduce the clinician burnout problem.
+Can AI ever replace doctors? Some experts say yes – though only for limited, small matters. For example, Dr. Bruce Darrow, interim chief digital and information officer and chief medical information officer at Mount Sinai Health System in New York, says in some cases, where the clinical accuracy of doctors and AI are nearly the same, some clinical care in the future could indeed migrate over to AI.
+The point being: AI can help reduce physician workload and, in turn, clinician burnout. Even with AI only in a supportive role, experts say the technology can eat away at that mighty workload that clinicians carry today.
+Dr. Eve Cunningham is all over this subject. She is group vice president and chief of virtual care and digital health at Providence, and founder and chief executive of MedPearl. The MedPearl platform is an AI-enhanced clinical intelligence engine designed by and for clinicians.
+Cunningham will speak on the subject at the HIMSS AI in Healthcare Forum in a case study session scheduled for Thursday, September 5.
+We interviewed Cunningham to talk about AI and burnout and get a sneak peek of her presentation.
+Q. What exactly will you be addressing on the subject of AI and clinician burnout in your session?
+A. The focus of our session is to provide three real examples of the application of AI in our health system, specifically related to clinical workflows and clinician burnout.
+I plan to provide examples of: a homegrown (build) AI-enhanced technology, MedPearl; an example of partnering with a vendor (buy) to implement an AI-enhanced solution; and an example of a desired solution that is stalled due to technical challenges related to infrastructure, technical debt and misaligned incentives.
+While AI has the potential to revolutionize healthcare by enhancing decision-making and optimizing workflows, its implementation is not without challenges. A crucial aspect of our discussion revolves around ensuring AI applications and capabilities serve as beneficial tools rather than becoming additional burdens for clinicians.
+The relevance of this topic is underscored by ongoing discussions in healthcare institutions about the balance between technological advancement and human-centered care delivery.
+Q. What is one example of AI in action at your organization?
+A. An example of AI technology at our organization is the MedPearl platform, a clinical intelligence engine specifically designed by and for clinicians. This platform exemplifies our approach to integrating AI into healthcare settings.
+MedPearl enhances clinical decision-making by consolidating clinical knowledge, patient data, and suggested next best actions at the point of care into a single interface, thereby optimizing clinicians' workflow and reducing the cognitive load.
+The development of this platform was guided by collaboration between clinicians and technologists, and the AI roadmap has been carefully crafted, taking into consideration not only the technological aspects but also the clinical safety and human factors involved.
+By viewing AI as a tool and capability embedded within a larger product designed to support clinicians, rather than as a stand-alone entity, we have been thoughtful in the layering of AI capabilities we enable within the platform.
+This example serves as a microcosm of our broader approach to AI in healthcare – thoughtful integration tailored to enhance the clinician's role and create confidence in the product from a quality and safety perspective.
+Q. What are two takeaways you hope session attendees will learn and be able to apply back at their provider organization?
+A. The first takeaway is that the integration of AI should be seen as a deliberate, gradual process that aligns with specific clinical needs and strategic goals, rather than a rapid, one-size-fits-all solution. Implementing AI in healthcare settings requires thoughtful consideration of the problems it aims to solve and a clear understanding of the potential impacts on clinical workflows and provider wellbeing.
+Second, we emphasize the importance of being strategic about use case selection. It's crucial to prioritize AI applications that align with an institution's strategic priorities and address high-value clinical or operational issues.
+We'll be sharing real-world examples from our experience at Providence, where AI use case selection and implementations are closely tied to our strategic objectives and designed to support rather than supplant human expertise.
+Attend this session at the HIMSS AI in Healthcare Forum scheduled to take place September 5-6 in Boston. Learn more and register.
+Follow Bill's HIT coverage on LinkedIn: Bill Siwicki
+Email him: [email protected]
+Healthcare IT News is a HIMSS Media publication.

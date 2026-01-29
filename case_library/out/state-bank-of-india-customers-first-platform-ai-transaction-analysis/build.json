@@ -1,0 +1,69 @@
+{
+  "case_id": "state-bank-of-india-customers-first-platform-ai-transaction-analysis",
+  "build_started": "2026-01-29T11:43:17.917032",
+  "build_completed": "2026-01-29T11:43:18.704231",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "State Bank of India Customer-First Platform with AI Transaction Analysis",
+      "State Bank of India Customer-First Platform with AI Transaction Analysis"
+    ],
+    "results_considered": 1,
+    "urls_ranked": [
+      {
+        "url": "https://mediacenter.ibm.com/media/An+intelligent+platform+puts+State+Bank+of+India+customers+first+%5BAudiogram%5D/1_na2c2yot/22694252",
+        "rank": 1
+      }
+    ],
+    "urls_selected": [
+      "https://mediacenter.ibm.com/media/An+intelligent+platform+puts+State+Bank+of+India+customers+first+%5BAudiogram%5D/1_na2c2yot/22694252"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://login.ibm.com/saml/sps/auth",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": "trafilatura",
+        "extraction_quality": null,
+        "content_length": 1648,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "gpt-4o-2024-05-13",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 0,
+    "context_claims_count": 0,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 1,
+    "skipped_no_sources": false,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

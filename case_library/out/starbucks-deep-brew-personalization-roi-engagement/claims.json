@@ -1,0 +1,635 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "37% lift in repeat purchases through AI-driven personalization",
+      "claim_description": "Starbucks achieved approximately 37% increase in repeat purchase behavior attributed to Deep Brew's AI-driven personalization capabilities that deliver targeted offers based on individual customer patterns.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Across various reports, Starbucks shows a repeat purchase lift of around 37% related to AI-driven personalization.",
+      "quote_location": "Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly states the lift is 'related to AI-driven personalization' through Deep Brew system",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "37",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "30% higher marketing ROI from AI-driven targeting",
+      "claim_description": "Starbucks achieved up to 30% improvement in marketing return on investment through Deep Brew's more relevant offers and better audience segmentation capabilities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Up to 30% higher marketing ROI thanks to more relevant offers and better audience segmentation",
+      "quote_location": "Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "ROI improvement explicitly attributed to AI-driven offers and segmentation delivered by Deep Brew",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Reduced waste through predictive demand forecasting",
+      "claim_description": "Deep Brew's predictive capabilities enabled more accurate store-level planning, resulting in reduced waste through better inventory management and demand forecasting.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Reduced waste and more accurate planning at store level",
+      "quote_location": "Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Waste reduction directly linked to Deep Brew's predictive demand forecasting and inventory optimization",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "75% reduction in inventory counting time with AI-powered system",
+      "claim_description": "Starbucks' AI inventory system using computer vision reduced inventory counting time from one hour to approximately fifteen minutes, representing a 75% time reduction.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "What once took staff an hour with paper and pencil now takes about fifteen minutes with a tablet scan.",
+      "quote_location": "AI-powered inventory counting section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time reduction directly attributed to AI-powered computer vision inventory system developed with NomadGo",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "75",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Improved customer engagement through app personalization",
+      "claim_description": "Deep Brew's predictive personalization capabilities led to improved customer engagement on the Starbucks mobile app through targeted, contextually relevant recommendations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Improved customer engagement on the app has become noticeable.",
+      "quote_location": "Results section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Engagement improvement attributed to Deep Brew's personalization system that delivers targeted offers in the app",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Multi-channel order balancing through Smart Queue system",
+      "claim_description": "Deep Brew's Smart Queue software continuously balances orders across mobile app, delivery, drive-thru, and front counter channels to prevent bottlenecks and improve operational flow.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "It continually adjusts sequencing so no queue overwhelms another, helping stores avoid the bottlenecks that crowd the caf\u00e9.",
+      "quote_location": "Smart Queue section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Order balancing capability explicitly attributed to Deep Brew's Smart Queue software",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Predictive demand forecasting for inventory and staffing optimization",
+      "claim_description": "Deep Brew uses machine learning to forecast demand by analyzing weather and seasonal patterns, enabling stores to plan inventory and staffing more precisely for shorter waits and better consistency.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Deep Brew feature that uses machine learning to forecast demand. By analyzing weather and seasonal patterns, stores can plan inventory and staffing more precisely.",
+      "quote_location": "Predictive Ordering section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Forecasting capability explicitly attributed to Deep Brew's machine learning system",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Barista assistance through generative AI companion tool",
+      "claim_description": "Green Dot Assist, built with OpenAI, provides baristas with an on-screen AI companion that helps keep orders moving, answers recipe questions, and suggests pairings, building confidence for new staff.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "this generative AI tool is a barista's on-screen companion, helping them keep orders moving. The iPad assistant also answers recipe questions and suggests pairings",
+      "quote_location": "Green Dot Assist section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Barista assistance capability explicitly attributed to Green Dot Assist generative AI tool built with OpenAI",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "35",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Deep Brew introduced in 2019",
+      "claim_description": "Starbucks introduced Deep Brew AI engine in 2019, initially as an app personalization tool before expanding to operational functions.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Introduced in 2019, Starbucks Deep Brew began as the engine behind Starbucks' app personalization",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "34.3 million rewards members in U.S. by 2023",
+      "claim_description": "Starbucks had 34.3 million rewards program members in the United States alone by 2023, representing significant digital engagement scale.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "By 2023, the company counted 34.3 million rewards members in the U.S. alone.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Deep Brew runs on Microsoft Azure platform",
+      "claim_description": "Starbucks' Deep Brew AI system is built on Microsoft Azure cloud infrastructure, enabling integration with order management, scheduling, and inventory tools.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Because the system runs on Microsoft Azure, Deep Brew can connect to tools for order management, scheduling, and inventory.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "sectoral",
+      "claim_title": "Quick-service restaurant and coffeehouse sector",
+      "claim_description": "Starbucks operates in the quick-service restaurant and coffeehouse sector, facing challenges of balancing digital convenience with in-store experience.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "technology is influencing 80% of restaurant decisions",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "Marketing and customer engagement function",
+      "claim_description": "Deep Brew supports marketing and customer engagement through personalized offers, targeted recommendations, and audience segmentation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Deep Brew collects and analyzes data from loyalty transactions, mobile app interactions, store performance, and external cues such as weather.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "functional",
+      "claim_title": "Supply chain and inventory management function",
+      "claim_description": "Deep Brew supports supply chain operations through demand forecasting, inventory optimization, and predictive ordering capabilities.",
+      "source_ids": [
+        "S1",
+        "S5"
+      ],
+      "source_quote": "Deep Brew adjusts its calculation for demand and revises inventory expectations",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "Store operations and workforce management function",
+      "claim_description": "Deep Brew supports store operations through labor scheduling, order sequencing, and barista assistance tools to optimize workflow and customer service.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "It determines when to start steeping cold brew, how labor hours are allocated, which drinks appear in the app, and when deliveries should shift between stores.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "Restore human coffeehouse experience through technology",
+      "claim_description": "Starbucks' strategic intent is to use AI and technology to restore the warm, personal coffeehouse atmosphere that had been eroded by digital transformation and operational pressures.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Now, the company is turning to technology to help fix what technology helped create.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "products_services",
+      "claim_title": "Multi-channel ordering system",
+      "claim_description": "Starbucks operates multiple ordering channels including mobile app, delivery, drive-thru, and front counter that Deep Brew must coordinate and balance.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Deep Brew's Smart Queue software keeps orders balanced across Starbucks' multiple ordering channels: mobile app, delivery, drive-thru, and front counter.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "Partnership with NomadGo for inventory AI",
+      "claim_description": "Starbucks developed its AI-powered inventory counting system in partnership with Seattle startup NomadGo, using computer vision technology.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Developed with Seattle startup NomadGo, Starbucks' AI inventory system uses computer vision",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Partnership with OpenAI for barista assistant",
+      "claim_description": "Starbucks built Green Dot Assist generative AI tool in partnership with OpenAI to provide baristas with on-screen assistance.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Built with OpenAI, this generative AI tool is a barista's on-screen companion",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "temporal",
+      "claim_title": "Green Dot Assist testing in 35 stores with planned expansion",
+      "claim_description": "As of document publication, Starbucks is testing Green Dot Assist in 35 stores with plans for wider rollout in the following year.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Starbucks is currently testing the tool in 35 stores, with a wider rollout planned for next year.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+---
+case_id: access-holdings-plc-reduced-coding-time-chatbot-development
+organisation: Access Holdings PLC
+title: Reduced coding time for chatbot development
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-succe...
+  url: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Access Holdings Plc reduced coding time from 8 hours to 2 hours
+  claim_description: By adopting Microsoft 365 Copilot with generative AI, Access
+    Holdings Plc reduced the time required to write code from eight hours to two hours,
+    representing a 75% reduction in coding time.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools. As a result, writing code now takes two hours instead of
+    eight
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The reduction in coding time is directly attributed to the
+    adoption of Microsoft 365 Copilot with generative AI capabilities integrated into
+    daily tools.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '75'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Access Holdings Plc reduced chatbot launch time from 3 months to 10
+    days
+  claim_description: With Microsoft 365 Copilot, Access Holdings Plc reduced the time
+    to launch chatbots from three months to 10 days, achieving approximately 89% reduction
+    in deployment time.
+  source_ids:
+  - S1
+  source_quote: chatbots launch in 10 days instead of three months
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The dramatic reduction in chatbot deployment time is directly
+    linked to the adoption of Microsoft 365 Copilot and generative AI integration.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '89'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Access Holdings Plc reduced presentation preparation time from 6 hours
+    to 45 minutes
+  claim_description: Microsoft 365 Copilot enabled Access Holdings Plc to reduce presentation
+    preparation time from six hours to 45 minutes, representing an 87.5% time reduction.
+  source_ids:
+  - S1
+  source_quote: presentations are prepared in 45 minutes instead of six hours
+  quote_location: Financial services section
+  ai_attribution: direct
+  attribution_evidence: The reduction in presentation preparation time is directly
+    attributed to Microsoft 365 Copilot's generative AI capabilities integrated into
+    daily productivity tools.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '87.5'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: sectoral
+  claim_title: Access Holdings Plc operates in financial services sector
+  claim_description: Access Holdings Plc is categorized under the financial services
+    industry in the source document.
+  source_ids:
+  - S1
+  source_quote: Financial services - Access Holdings Plc adopted Microsoft 365 Copilot
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: products_services
+  claim_title: Access Holdings Plc adopted Microsoft 365 Copilot
+  claim_description: The organization implemented Microsoft 365 Copilot, integrating
+    generative AI capabilities into daily productivity tools.
+  source_ids:
+  - S1
+  source_quote: Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative
+    AI into daily tools
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: functional
+  claim_title: Software development function impacted
+  claim_description: The AI implementation affected software development activities,
+    specifically code writing and chatbot development.
+  source_ids:
+  - S1
+  source_quote: writing code now takes two hours instead of eight, chatbots launch
+    in 10 days instead of three months
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '11045'
+  apqc_name: Develop and Manage Information Technology (IT) Solutions
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: functional
+  claim_title: Business communication and presentation function impacted
+  claim_description: The AI implementation improved business communication activities,
+    specifically presentation preparation.
+  source_ids:
+  - S1
+  source_quote: presentations are prepared in 45 minutes instead of six hours
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10423'
+  apqc_name: Manage Internal Communications
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: strategic_intent
+  claim_title: Strategic focus on enriching employee experiences
+  claim_description: The implementation aligns with the strategic goal of enriching
+    employee experiences by automating repetitive tasks and enabling focus on complex,
+    creative work.
+  source_ids:
+  - S1
+  source_quote: 'Enriching employee experiences: Using AI to streamline or automate
+    repetitive, mundane tasks can allow your employees to dive into more complex,
+    creative, and ultimately more valuable work.'
+  verification_status: inferred
+  verification_confidence: high
+  inferred_from: Access Holdings Plc case is listed under the 'Enriching employee
+    experiences' category, and the outcomes demonstrate automation of repetitive tasks.
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 3
+    verified: 3
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 3
+  context_claims:
+    total: 5
+    verified: 4
+    unverified: 0
+    inferred: 1
+  all_value_verified: true
+  all_context_verified: false
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Reduced coding time for chatbot development
+
+## Executive Summary
+
+Access Holdings PLC: Access Holdings Plc reduced coding time from 8 hours to 2 hours.
+
+## Key Findings
+
+- **Access Holdings Plc reduced coding time from 8 hours to 2 hours** — verified (outcome)
+  - Quote: "Access Holdings Plc adopted Microsoft 365 Copilot, integrating generative AI into daily tools. As a result, writing code now takes two hours instead of eight"
+
+- **Access Holdings Plc reduced chatbot launch time from 3 months to 10 days** — verified (outcome)
+  - Quote: "chatbots launch in 10 days instead of three months"
+
+- **Access Holdings Plc reduced presentation preparation time from 6 hours to 45 minutes** — verified (outcome)
+  - Quote: "presentations are prepared in 45 minutes instead of six hours"
+
+## Sources
+
+- **S1**: https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/

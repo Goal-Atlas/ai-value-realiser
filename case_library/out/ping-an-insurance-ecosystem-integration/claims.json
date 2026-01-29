@@ -1,0 +1,774 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-002",
+      "claim_title": "Share price surge of 400% through technology investment",
+      "claim_description": "Ping An's share price surged by more than 400% between 2013 and 2019, driven by aggressive investment in cloud computing, data analytics, and technology-driven transformation.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The case study notes that its share price has surged by more than 400% between 2013 and 2019.",
+      "quote_location": "Paragraph 4",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Investment in cloud computing (2013) enabled advanced data analytics, which was essential to becoming technology-driven. AI, cloud, and blockchain investments totaling $7B directly supported transformation.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "400",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "510 million internet customers acquired through digital ecosystem",
+      "claim_description": "Ping An acquired over 510 million internet customers by creating unified customer experiences and launching a 'magic gate' portal for accessing products across departments and subsidiaries.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An now boasts more than 510 million internet customers and 180 million retail finance customers.",
+      "quote_location": "Paragraph 3, bullet 1",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Customer acquisition primarily driven by unified portal and free services strategy. AI mentioned as supporting end-to-end offering but not directly attributed to customer acquisition numbers.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "510000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "95% claims reached within 5-10 minutes through AI-powered operations",
+      "claim_description": "Ping An Property & Casualty's 510 Ultra-Speed service enables insurance agents to reach accident scenes in 5-10 minutes for 95% of claims, improving settlement efficiency.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An Property & Casualty debuted its 510 Ultra-Speed On-Site City Inspection and One-Click Arrangement services, which enable insurance agents to reach an accident scene in 5 to 10 minutes for 95% of claims.",
+      "quote_location": "Paragraph 3, bullet 1",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Service operates within AI-powered end-to-end offering context. AI technologies (facial recognition, NLP, speech analytics) deployed to automate processes and improve operational efficiency.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "95",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "74 million customers with multi-company contracts through ecosystem synergies",
+      "claim_description": "In 2019, 74 million customers had contracts with more than one Ping An company, demonstrating successful cross-selling enabled by ecosystem integration and data sharing.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "in 2019, 74 million customers had contracts with more than one Ping An company.",
+      "quote_location": "Paragraph 7",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Ecosystem synergies enabled by AI-powered data analytics and unified platform. Technology infrastructure facilitates customer journey redirection and cross-selling across business units.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "74000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "3,000 credit cards distributed daily through Autohome ecosystem integration",
+      "claim_description": "Autohome, Ping An's online car buying platform, distributes 3,000 credit cards per day by offering relevant financial services, demonstrating ecosystem synergy and cross-selling effectiveness.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Autohome, an online car buying platform, offers relevant financial services, distributing 3,000 credit cards a day.",
+      "quote_location": "Paragraph 7",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Distribution enabled by ecosystem integration and data analytics capabilities. AI-powered platform facilitates personalized financial service offerings based on customer behavior and needs.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "3000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "5 million new users acquired in first month through Alipay ecosystem",
+      "claim_description": "Alipay Insurance gained over 5 million new users in the month it launched within the Alipay super app ecosystem, demonstrating rapid scaling through ecosystem integration.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The Insurtech service usage gained over 5 million new users the month it launched the Alipay super app.",
+      "quote_location": "Section on Unlimited Startup Scaling Potential",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "Growth primarily driven by ecosystem access to existing user base. AI may support service delivery but not explicitly mentioned as driver of user acquisition in this context.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "5000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Digital transformation period 2013-2017",
+      "claim_description": "Ping An's primary digital transformation period occurred between 2013 and 2017, with aggressive cloud computing investment starting in 2013.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "increasing revenue by almost 250% and nearly tripling revenue between 2013 and 2017",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "Ping An as China's first joint stock insurance company",
+      "claim_description": "Ping An Insurance is China's first joint stock insurance company, founded as a property and casualty insurer before transforming into a technology-powered conglomerate.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "As China's first joint stock insurance company, Ping An is committed to upholding the highest standards of corporate reporting and corporate governance.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "214 million retail customers and 579 million internet users",
+      "claim_description": "Ping An serves over 214 million retail customers and reaches nearly 579 million internet users, making it one of the largest financial services companies globally.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "With over 214 million retail customers and nearly 579 million Internet users, Ping An is one of the largest financial services companies in the world.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "scale",
+      "claim_title": "7th in Forbes Global 2000 and 21st in Fortune Global 500",
+      "claim_description": "In 2020, Ping An ranked 7th in the Forbes Global 2000 list and 21st in the Fortune Global 500 list, establishing itself as a global financial services leader.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "In 2020, Ping An ranked 7th in the Forbes Global 2000 list and ranked 21st in the Fortune Global 500 list.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Two key transformation themes: customer-obsessed culture and AI-powered offerings",
+      "claim_description": "Ping An's digital transformation centered on two key themes: creating a customer-obsessed culture and building AI-powered end-to-end offerings.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An started its transformation journey by aiming to create a customer-obsessed culture and an AI-powered end-to-end offering.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "strategic_intent",
+      "claim_title": "Pan financial assets and pan health care strategies",
+      "claim_description": "Ping An operates with two overarching strategies: 'pan financial assets' and 'pan health care', focusing on integrated financial services and health care ecosystems.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Ping An has two over-arching strategies, 'pan financial assets' and 'pan health care', which focus on the provision of financial and health care services",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "strategic_intent",
+      "claim_title": "Finance + technology and finance + ecosystem strategies",
+      "claim_description": "Ping An's strategic approach combines 'finance + technology' and 'finance + ecosystem' to provide innovative products and services using technology.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Our 'finance + technology' and 'finance + ecosystem' strategies aim to provide customers and internet users with innovative and simple products and services using technology.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "$7 billion invested in AI, cloud, and blockchain R&D",
+      "claim_description": "Over the past decade, Ping An invested US$7 billion in R&D for AI, cloud computing, and blockchain, with plans to invest an additional $15 billion over the next 10 years.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In the past decade, Ping An has invested US$7 billion in R&D for AI, cloud computing, and blockchain and now expects to invest a further $15 billion in the coming 10 years.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "organisational",
+      "claim_title": "Seven research institutes, 25 labs, and 24,000 R&D staff",
+      "claim_description": "Ping An maintains seven research institutes, 25 research labs, and more than 24,000 R&D staff members, with 1,000 focused on emerging technologies.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The firm now has seven research institutes, 25 research labs, and more than 24,000 R&D staff members, 1,000 of whom focus on emerging tech.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "1% of annual revenue invested in technology R&D",
+      "claim_description": "Ping An invests 1% of its annual revenue in technology research and development, enabling it to stay ahead of competitors.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Harness technology capabilities - Ping An invests 1% of its annual revenue in technology research and development which enables it to stay ahead of competitors.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "products_services",
+      "claim_title": "11 technology companies within Ping An ecosystem",
+      "claim_description": "Ping An's ecosystem includes 11 technology companies covering financial services, health care, auto, and smart cities.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "traces the evolution of Ping An from a property and casualty insurance company to a 'tech giant' that now includes 11 technology companies and an ecosystem strategy",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "products_services",
+      "claim_title": "OneConnect as world's largest cloud platform for financial services",
+      "claim_description": "OneConnect is the world's largest cloud platform for banking, insurance, and investment solutions, serving hundreds of banks as a fintech SaaS provider.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "OneConnect, Ping An's fintech software-as-a-service, is now the world's largest cloud platform for banking, insurance, and investment solutions, serving hundreds of banks.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "products_services",
+      "claim_title": "Lufax as top-10 global fintech and China's top P2P lender",
+      "claim_description": "Lufax, a Ping An subsidiary operating as an online marketplace for financial assets, is a top-10 fintech player globally and China's leading peer-to-peer lender.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An subsidiary Lufax, an online marketplace for originating and trading financial assets, is now a top-10 fintech player globally and China's top peer-to-peer lender.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "products_services",
+      "claim_title": "Autohome as China's largest online car-buying platform",
+      "claim_description": "Ping An acquired Autohome, now China's largest online car-buying platform, which helped Ping An Bank become the leader in auto finance.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An acquired Autohome, now the largest online car-buying platform in China, which helped Ping An Bank become the leader in auto finance",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "sectoral",
+      "claim_title": "Most valuable insurance group worldwide",
+      "claim_description": "Ping An is the most valuable insurance group worldwide, demonstrating the success of its technology-driven transformation.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Ping An is now the most valuable insurance group worldwide and ranks seventh in the Forbes Global 2000.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "functional",
+      "claim_title": "Claims processing and settlement operations",
+      "claim_description": "Ping An continuously improved claim settlement efficiency through AI-powered automation and on-site inspection services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The insurer has worked continuously to improve its claim settlement efficiency.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10423",
+      "apqc_name": "Process and pay claims",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-017",
+      "context_type": "functional",
+      "claim_title": "Customer acquisition and retention through ecosystem",
+      "claim_description": "Ping An employed a strategy of offering free services to acquire users and then converting them to paying customers, learning from China's internet giants.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An also learned a lesson from China's internet giants: Offer something free to acquire users and then convert them to customers who actually buy products.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10421",
+      "apqc_name": "Acquire and on-board customers",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-018",
+      "context_type": "organisational",
+      "claim_title": "International and diverse management team",
+      "claim_description": "Ping An has an international leadership team with backgrounds outside traditional financial services, which helped drive exploration of different business models.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Diversify your management team - Ping An has an international leadership team, which includes many people with backgrounds outside traditional financial services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-019",
+      "context_type": "functional",
+      "claim_title": "Biometric authentication and identity verification",
+      "claim_description": "Ping An invested in facial, voiceprint, and microexpression biometrics for authentication and process automation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "It has invested in facial, voiceprint, and microexpression biometrics and deployed natural language processing and speech analytics.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10961",
+      "apqc_name": "Manage information technology (IT)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-020",
+      "context_type": "strategic_intent",
+      "claim_title": "Ecosystem expansion beyond traditional insurance",
+      "claim_description": "Ping An redirected customer journeys from traditional insurance, banking, and asset management to lifestyle needs including autos, housing, and health.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ping An redirected customer journeys from its traditional insurance, banking, and asset management services to a broad range of lifestyle needs such as autos, housing, and health.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

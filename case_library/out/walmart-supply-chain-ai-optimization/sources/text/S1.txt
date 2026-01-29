@@ -1,0 +1,31 @@
+Walmart is unifying its supply chain using artificial intelligence and automation as it targets cost efficiency, accuracy and speed across its network.
+Over the last few years, the retailer has strategically invested in technology to drive quicker global operations that can adapt to challenges in real time. These investments have led it to use agentic AI for decision-making, optimization and proactive problem solving.
+“End to end, every segment of what we do is driven by some form of intelligence,” Indira Uppuluri, SVP of supply chain technology at Walmart, told Supply Chain Dive.
+While Walmart has rolled out a collection of tools and platforms that form a technological backbone across its network, there is still more to come, Uppuluri said. The company consistently experiments with new technology models by testing at a smaller scale and assessing feedback before rolling out to the entire company.
+Walmart’s digital twin is an example of core technology that provides a performance baseline, alongside a “sandbox” that tests different modeling approaches or strategies, Uppuluri said.
+“It allows us to evaluate tradeoffs between conflicting business objectives, quantify the likely impact of operational changes on store operations in the face of uncertainty, and derive valuable insights,” she said.
+Here are four examples of how Walmart is using AI to strengthen adaptability and connectivity across its supply chain in support of a better overall customer experience.
+1. Forecasting
+A resilient network at Walmart starts with demand forecasting, Uppuluri told Supply Chain Dive.
+The retail giant uses tools like a multi-horizon recurrent neural network — built entirely within Walmart — to predict demand for multiple points in the future. The neural network stores past predictions across different planning horizons, Uppuluri explained, with inputs stemming from past demand patterns, future planned events as well as current global and local trends.
+“As an example, by using this model for demand prediction, we can plan inventory levels across our network more accurately and well in advance,” she said.
+Strong forecasting can optimize inventory placement decisions by analyzing different factors that might impact demand, Uppuluri said. In turn, Walmart can ensure that excess inventory, or safety stock, isn’t sitting around in warehouses.
+The benefits of improved forecasting via AI extend to inventory imports, as predictability is key for managing shipping timing and quality.
+2. Inventory management
+Agentic AI tools provide Walmart with a cohesive and unified view of inventory in stores, fulfillment centers and other supply chain facilities. By layering multiple AI and automation technologies, Walmart’s systems can “automatically detect, diagnose, and correct issues in real time without requiring constant manual intervention,” Uppuluri said.
+“For example, if an unexpected surge in demand starts to deplete inventory faster than projected, AI-powered forecasting tools can adjust replenishment schedules and flow of goods through the supply chain,” she added.
+In turn, when challenges like weather-related events hinder logistics lanes or distribution operations, the retailer’s supply chain can “flex” to handle the hurdles, Uppuluri said.
+The retailer also uses computer vision and AI for inbound inventory quality control, improving visibility to ensure the quality of goods, Uppuluri said. For instance, the technology could identify a squashed tomato or a lapsed expiration date.
+3. Warehouse operations
+Beyond optimizing demand forecasting and inventory placement, Walmart also leverages generative AI, robotics, computer vision and automation in the warehouse to ensure productivity and safety, including erasing repetitive manual tasks, Uppuluri said.
+Additionally, warehouse automation systems with smart cameras allow the company to ensure operations are running smoothly, per a July blog post.
+Still, disruptions and challenges are bound to happen in warehouses given that thousands of associates are working alongside conveyors and other forms of automation, Uppuluri said.
+To solve issues as they arise, Walmart uses generative AI to route the right associates to manage the disruptions. Uppuluri said that the system sources data from several areas, including task management systems, associate role assignments, scheduling data and skill profiles.
+“For example, AI powered systems in our distribution centers analyze and predict automation alerts,” she said. “They provide guidance on next steps to be taken to resolve them, and in many cases automate.”
+In practice, if the flow of goods is disrupted — such as by a late truck arrival or damaged pallet — the generative AI platform will suggest an associate to help manage the issue, Uppuluri said.
+The company also bakes this approach into its training, building a behind-the-scenes knowledge base so employees know what steps to take, she added.
+4. Logistics management
+Walmart targets speed and better fill rates of its trucks to optimize transportation and logistics operations, a key to driving customer satisfaction, according to Uppuluri.
+She added that Walmart leverages “adaptive large neighborhood search models” that aid drivers in identifying the shortest and/or most cost-effective route to a customer.
+AI intelligence also tells Walmart how to diversify port origins and identify optimal locations to send imports during disruptions like storms or congestion in the Panama Canal, per Uppuluri. In turn, the company has numerous AI models running behind the scenes to de-risk its logistics operations.
+This story was first published in our Operations Weekly newsletter. Sign up here.

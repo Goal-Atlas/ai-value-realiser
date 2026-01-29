@@ -1,0 +1,51 @@
+This case study has been updated as of 18 March 2024.
+Founded in 2012, Exscientia has quickly established itself as a leader in harnessing AI to identify promising drug molecules and precision-engineered medicine candidates more rapidly and effectively.
+Crucial early funding
+Early Biotechnology and Biological Sciences Research Council (BBSRC) funding proved crucial in demonstrating the potential and practicality of AI-led approaches and underpinned Exscientia’s formation and early development.
+In October 2021, Exscientia achieved a significant milestone by going public on the Nasdaq stock market, raising $510 million in what became the largest initial public offering for a European biotech company.
+From modest beginnings with just five employees, today Exscientia’s 450-strong team operates in more than 20 countries and has six established global offices. Headquartered at the Oxford Science Park in the UK, Exscientia’s operations span across England, Scotland, Austria, and the US.
+Better drugs faster
+The Exscientia journey began with a challenge: how do we speed up the process of identifying molecules that could lead to the creation of more effective drugs?
+The research ambition was clear: find a way to rapidly and effectively analyse large volumes of data that surpasses the capabilities of traditional human and computer-based approaches.
+BBSRC supported this work with a small pathfinder grant, awarded in 2009 for the experimental proof of concept for drug design.
+As the research gained momentum, a further £150,000 grant was secured from BBSRC’s follow-on-fund for ‘commercialising multitarget drug design’, a project that directly supported the formation of Exscientia.
+BBSRC’s investments were key to Exscientia’s evolution, enabling crucial work on the design and testing of novel compounds with machine learning algorithms.
+The outcome was an automated and adaptive methodology for designing drug ligands to multitarget profiles with a 75% prediction success rate. This groundwork proved vital in laying the foundations for future success as it underpins the AI technology Exscientia uses today for drug discovery.
+Innovative approaches and collaborations
+Exscientia’s Centaur AI platform exemplifies the company’s innovative approach to drug discovery. Not only does the platform generate highly optimised molecules that meet the multiple pharmacology criteria required to enter a compound into a clinical trial. It achieves it in revolutionary timescales, cutting the industry average timeline from 4.5 years to just 12 to 15 months.
+Exscientia’s success in raising investment and generating revenue highlights the commercial viability of its AI-guided design approach. The company’s rapid growth was well documented in the 2021 Research Excellence Framework (REF) impact case study.
+Since then, notable collaborations have underscored Exscientia’s significant role in advancing the drug discovery process. The collaborations were with industry giants such as Sanofi and Bristol Myers Squibb, alongside academic partnerships with institutions like the University of Oxford and MD Anderson Cancer Center.
+These partnerships have further informed Exscientia’s understanding of patient needs, ensuring future solutions meet real-world medical requirements and expectations.
+Clinical development
+Exscientia’s first AI-designed molecule was created for Sumitomo Pharma Co., Ltd. (Sumitomo Pharma) to treat obsessive-compulsive disorder. It took just 12 months to discover and represents the first ever AI-designed drug candidate to enter clinical trials.
+Sumitomo Pharma later announced that it was not continuing with this molecule. However, two additional compounds also designed for Sumitomo are ongoing in clinical trials.
+The company was able to bolster its emerging pipeline with further wholly and partially owned novel drug candidates. In March 2023, it announced a series of programmes across oncology and immunology and inflammation that were either in clinical stage or investigational new drug (IND)-enabling studies.
+The latter involves a series of tests that measure the safety of new drug candidates before clinical trials commence, a requirement for US Food and Drug Administration approval.
+GTAEXS617
+A cyclin-dependent kinase 7 (CDK7) inhibitor, GTAEXS617, developed in partnership with GT Apeiron, was also on track to enrol the first patient in a phase 1/2 study.
+This programme showcases what makes an Exscientia drug unique: precision design aiming to transform patient benefit and patient selection strategies.
+In October 2022 at the ENA congress, the company highlighted patient selection data. For the first time, Exscientia showed how it integrates machine learning, data from primary human tumour samples and multi-omics sequencing capabilities to predict the tumour efficacy of a drug candidate.
+CDK7 is a specialised protein involved in DNA repair, the cell cycle, and regulating transcription (turning DNA into proteins). It is also an important marker for some types of cancer, with previous research suggesting that inhibition of CDK7 could be an effective therapy for human epidermal growth factor receptor 2-positive (HER2+) breast cancers.
+With the CDK7 and A2a programmes, plus three in the clinical or IND-enabling stage including a PKC theta compound in-licensed by Bristol Myers Squibb, an important picture is painted. We can begin to see the hallmark of what an Exscientia drug may look like.
+It’s AI and machine learning not just applied in the processes of how a new medical entity is designed but also in how the right patients to benefit from that future drug are identified.
+Supporting the next generation of researchers
+Today Exscientia supports the next generation of researchers through BBSRC’s Collaborative Training Partnership (CTP) scheme. This is in conjunction with a wider UK Research and Innovation (UKRI) centres for doctoral training in AI investment.
+In collaboration with Merck Sharp & Dohme Ltd, Heptares Therapeutics Limited and the Queen Mary University of London, Exscientia is leading BBSRC’s AI for drug discovery programme.
+The £1.5 million CTP funding awarded by BBSRC will help deliver 15 four-year PhD studentships in AI drug discovery. Focusing on interdisciplinarity, diversity and industry experience, the programme will equip students with the skills needed to work at the interface between AI technology and pharmaceuticals.
+Ongoing PhD research within this programme includes, but is not limited to:
+- next-generation text mining in drug discovery
+- using AI to investigate and modulate gene function in patient populations and biobanks
+- AI detection of druggable features from high content imaging data
+Exscientia is also participating in several Engineering and Physical Sciences Research Council (EPSRC) doctoral training programmes, building on earlier EPSRC support.
+Where next for AI approaches?
+Using automated computer algorithms to detect patterns in big, complex datasets can slash up to two-thirds off the cost of early-stage drug development and drastically cut time-to-market.
+By enhancing and applying these faster learning techniques, Exscientia aims to improve patient outcomes, helping healthcare budgets deliver better value for money.
+UKRI has an ambition to harness advances in AI so that it benefits society, provides skilled employment and delivers significant economic growth.
+The UK has a real opportunity to position itself as a leader in AI research and innovation internationally, and UKRI’s role is pivotal.
+Working hand in hand across the UK research and innovation ecosystem, UKRI’s vision will be achieved by:
+- building ambitious new UK AI capability
+- sustainably growing UK AI research and innovation capacity
+- enabling adventure and creativity in AI research and innovation
+- building high connectivity in the landscape
+Find out more
+Find out about Exscientia’s work and learn more about how BBSRC’s investments helped them commercialise multi-target drug design. Read about the company’s impact in their 2021 REF case study.

@@ -1,0 +1,10 @@
+Korn Ferry launches AI-powered talent analytics platform
+Korn Ferry, an organizational consulting firm, has launched Korn Ferry Intelligence Cloud, an AI-enabled talent analytics platform.
+The firm’s new analytics platform helps clients gain a clearer, real-time picture of their workforce, uncover and develop the skills the organization needs, and build a talent blueprint to create an effective workforce of the future.
+“Today, with so many people on the move, shortages of skills and talent are rapidly becoming business critical,” Byrne Mulrooney, CEO of Korn Ferry Digital, said. “CHROs need a single, accurate source of insight to guide decision-making and bring talent strategy and business strategy closer together.”
+Korn Ferry says its Intelligence Cloud product will help clients ensure effective talent strategy and acquisition that addresses skills shortages, finds and close talent gaps, and retains “rising stars” who are critical to organizational success.
+The AI-augmented analytics platform draws on external market intelligence and 4 billion Korn Ferry data points on work structures, roles, and employee skills and motivations – based on 70 million assessments and rewards data for 26 million people at 25,000 companies in more than 150 countries.
+Intelligence Cloud features the consulting firm’s proprietary Success Profiles, which help organizations identify and benchmark top-tier talent across more than 4,000 roles.
+“Intelligence Cloud builds on Korn Ferry’s 50-plus years of consulting expertise and insights,” Mulrooney added.
+Headquartered in Los Angeles, Korn Ferry provides services in talent acquisition, organizational strategy, rewards and benefits, assessment and succession, and leadership development. The firm has more than 7,500 people in 50+ countries.
+Korn Ferry earlier this year hired Vijay Konda to help build the architecture for the Intelligence Cloud solution.

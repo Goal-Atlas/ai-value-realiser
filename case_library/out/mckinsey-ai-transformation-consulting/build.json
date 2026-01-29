@@ -1,0 +1,165 @@
+{
+  "case_id": "mckinsey-ai-transformation-consulting",
+  "build_started": "2026-01-29T10:32:35.735460",
+  "build_completed": "2026-01-29T10:38:13.058775",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "McKinsey & Company AI Transformation Consulting",
+      "McKinsey & Company AI Transformation Consulting"
+    ],
+    "results_considered": 5,
+    "urls_ranked": [
+      {
+        "url": "https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinseys-industry-ai-products-deliver-value-across-a-wide-range-of-use-cases",
+        "rank": 1
+      },
+      {
+        "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024",
+        "rank": 2
+      },
+      {
+        "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development",
+        "rank": 3
+      },
+      {
+        "url": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+        "rank": 4
+      },
+      {
+        "url": "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies",
+        "rank": 5
+      }
+    ],
+    "urls_selected": [
+      "https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinseys-industry-ai-products-deliver-value-across-a-wide-range-of-use-cases",
+      "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024",
+      "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development",
+      "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+      "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.mckinsey.com/about-us/new-at-mckinsey-blog/mckinseys-industry-ai-products-deliver-value-across-a-wide-range-of-use-cases",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/a-generative-ai-reset-rewiring-to-turn-potential-into-value-in-2024",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-ai-is-transforming-strategy-development",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S4",
+        "url": "https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S5",
+        "url": "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 0,
+    "context_claims_count": 0,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": true,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

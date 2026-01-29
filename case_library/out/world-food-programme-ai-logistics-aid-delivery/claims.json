@@ -1,0 +1,777 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "SKAI assessed 600,000 buildings with 81% accuracy in T\u00fcrkiye earthquake response",
+      "claim_description": "During month-long deployment after T\u00fcrkiye earthquake, SKAI team of 5 people assessed approximately 600,000 buildings with accuracy exceeding 81%, identifying over 28,000 heavily damaged or destroyed structures.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "During a month-long deployment, SKAI's team of just five individuals demonstrated remarkable capabilities. They assessed approximately 600,000 buildings with an accuracy rate exceeding 81 percent. This assessment helped identify over 28,000 heavily damaged or destroyed structures.",
+      "quote_location": "T\u00fcrkiye Earthquake (2023) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI-based satellite imagery analysis directly performed the building damage assessment with specified accuracy metrics",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "600000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "SKAI achieved 81% accuracy rate in building damage assessment",
+      "claim_description": "SKAI's machine learning algorithms achieved an accuracy rate exceeding 81% in assessing building damage during the T\u00fcrkiye earthquake response deployment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "They assessed approximately 600,000 buildings with an accuracy rate exceeding 81 percent.",
+      "quote_location": "T\u00fcrkiye Earthquake (2023) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Accuracy metric directly measures AI model performance in damage classification task",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "81",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "SKAI covered 530 km2 urban area in less than one week",
+      "claim_description": "SKAI analyzed 265,000+ buildings across 530 km2 of urban zones (population 1.3M) in under a week, identifying 7,000+ severely damaged structures in three major Turkish cities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In less than a week, SKAI's agile technology covered an extensive area of 530 km2 comprising urban zones with an estimated population of 1.3 million people. The analysis of over 265,000 buildings enabled the identification of over 7,000 structures severely damaged.",
+      "quote_location": "T\u00fcrkiye Earthquake (2023) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI technology directly enabled rapid coverage and analysis of vast geographic area within specified timeframe",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "530",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "SKAI reduced disaster response time from weeks to days for Hurricane Ian",
+      "claim_description": "SKAI enabled Give Directly to speed up disaster response from several weeks to a few days following Hurricane Ian, facilitating rapid aid delivery to affected populations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "With SKAI's real-time monitoring and damage assessment capabilities, Give Directly was able to respond rapidly in the wake of Hurricane Ian, speeding up their disaster responses from several weeks to a few days.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's real-time monitoring and damage assessment capabilities directly enabled the acceleration of response timeline",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "several weeks to few days",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "$2.1 million delivered to 4,761 families after Hurricane Ian",
+      "claim_description": "Within weeks of Hurricane Ian, Give Directly delivered $2.1M in cash assistance to 4,761 low-income families in heavily impacted West Florida neighborhoods, enabled by SKAI's damage assessment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In a matter of weeks, over US$2.1 million in cash assistance was delivered in total to 4,761 low-income families residing in heavily impacted neighborhoods of West Florida.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "SKAI's damage assessment enabled targeting and prioritization, but actual delivery involved Give Directly's distribution systems and processes",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "2100000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "SKAI scanned 410,000 buildings across 3,000 sqkm in days after Hurricane Ian",
+      "claim_description": "SKAI demonstrated rapid assessment capability by scanning 410,000 buildings across 3,000 sqkm within a few days, identifying 69,000 damaged buildings with ~70% precision and recall.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI demonstrated its remarkable capabilities by scanning 410,000 buildings across 3,000 sqkm within a few days. Through this rapid assessment, SKAI identified 69,000 damaged buildings, achieving an impressive precision and recall rate of approximately 70 percent.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI algorithms directly performed the building scanning and damage identification with measured precision/recall metrics",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "410000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "70% precision and recall achieved in Hurricane Ian damage assessment",
+      "claim_description": "SKAI achieved approximately 70% precision and recall rate in identifying damaged buildings from Hurricane Ian, providing reliable damage assessment data.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI identified 69,000 damaged buildings, achieving an impressive precision and recall rate of approximately 70 percent.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Precision and recall metrics directly measure AI model performance in damage detection task",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "70",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Aid enrollment opened within one week of hurricane landfall",
+      "claim_description": "SKAI's rapid damage assessment enabled Give Directly to open enrollment for cash assistance within less than a week of Hurricane Ian making landfall, accelerating aid delivery.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "These critical insights provided a comprehensive understanding of the impact, allowing Give Directly to open enrollment for cash assistance within less than a week of the hurricane making landfall.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's rapid assessment directly enabled the accelerated timeline for opening aid enrollment",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "$630,000 delivered to 900+ households in couple of days",
+      "claim_description": "Record-breaking delivery of $630,000 in cash assistance to over 900 low-income households in heavily impacted areas within a couple of days, weeks earlier than previous disasters.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The combination of SKAI's technology and Give Directly's efficient aid distribution systems enabled the record-breaking delivery of US$ 630,000 in cash assistance to over 900 low-income households residing in heavily impacted areas in a couple of days.",
+      "quote_location": "Hurricane Ian (2022) section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "SKAI technology combined with Give Directly's distribution systems; both components necessary for the outcome",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "630000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "SKAI scanned 850,000 households across 8,000 km2 in Pakistan floods",
+      "claim_description": "SKAI scanned over 850,000 households across 8,000 km2 of land area during Pakistan floods response, directly benefiting approximately 2.5 million people.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The magnitude of SKAI's impact is reflected in the scanning of over 850,000 households across 8000 km2 of land area, directly benefiting approximately 2.5 million people.",
+      "quote_location": "Pakistan Floods (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI technology directly performed the scanning and analysis of households across the specified area",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "850000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "60,000+ damaged buildings identified with 80-85% precision in Pakistan",
+      "claim_description": "SKAI identified over 60,000 damaged buildings in KPK province with 80-85% precision rate and 65-70% recall rate, empowering provincial disaster management authorities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Through the identification of over 60,000 damaged buildings, SKAI achieved an impressive precision rate of 80-85 percent and a recall rate of 65-70 percent.",
+      "quote_location": "Pakistan Floods (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI algorithms directly identified damaged buildings with measured precision and recall performance metrics",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "60000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "7,768 damaged buildings identified with 88% precision in Durban floods",
+      "claim_description": "SKAI analyzed 250,000+ residential buildings in nine areas of Durban region, identifying 7,768 damaged buildings with 88% precision rate and 73% recall rate.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI analyzed nine areas within the region, covering over 250,000 residential buildings and infrastructures. With an exceptional precision rate of 88 percent and a recall rate of 73 percent, SKAI successfully identified over 7,768 buildings that were damaged.",
+      "quote_location": "Durban Region Floods (2022) section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "SKAI's AI analysis directly identified damaged buildings with measured precision and recall metrics",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "88",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "World Food Programme developed SKAI in collaboration with Google Research",
+      "claim_description": "SKAI was co-developed by WFP's Innovation Accelerator and Google Research as an open-source AI tool for disaster response.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Developed by the World Food Programme (WFP) in collaboration with Google Research, SKAI is revolutionizing the way we tackle world hunger and respond to emergencies.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Humanitarian aid and disaster response sector",
+      "claim_description": "SKAI operates in the humanitarian aid and disaster response sector, addressing challenges in emergency relief and food security.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI's groundbreaking solution represents the future of disaster response and humanitarian aid.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "products_services",
+      "claim_title": "SKAI is an open-source AI tool for building damage assessment",
+      "claim_description": "SKAI is an open-sourced tool that uses AI and satellite imagery to automatically assess building damage on a large scale after disasters.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI is an open-sourced tool that uses advanced AI and satellite imagery and to assess building damage on a large scale automatically.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "T\u00fcrkiye earthquake deployment in 2023",
+      "claim_description": "SKAI was deployed following the devastating earthquake that struck T\u00fcrkiye and Syria in 2023.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Following the devastating earthquake that struck T\u00fcrkiye and Syria, SKAI proved to be a valuable tool in disaster response.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Hurricane Ian deployment in 2022",
+      "claim_description": "SKAI was deployed in response to Hurricane Ian in 2022 to support Give Directly's aid delivery efforts.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In the aftermath of Hurricane Ian, SKAI helped to effectively prioritize aid delivery and assess the impact on affected populations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Pakistan floods deployment in 2022",
+      "claim_description": "SKAI was deployed during the devastating Pakistan floods in 2022, described as 'Never seen climate carnage' by UN chief.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Amidst the devastating floods in Pakistan, described as 'Never seen climate carnage' by UN chief Antonio Guterres, SKAI emerged as a potential game-changing solution in flood response.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Durban floods deployment in April 2022",
+      "claim_description": "SKAI was deployed after the catastrophic Durban flash floods in April 2022 to support post-disaster assessment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "After the catastrophic Durban flash floods in April 2022, SKAI provided insights on the affected areas and infrastructure damage.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "Emergency and disaster management function",
+      "claim_description": "SKAI supports emergency and disaster management through rapid damage assessment and resource allocation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "From rapid building damage assessment to situational awareness and resource allocation, SKAI is redefining the way we respond to crises.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10424",
+      "apqc_name": "Manage environmental health, safety, and security",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "scale",
+      "claim_title": "Small team of 5 people operated SKAI in T\u00fcrkiye",
+      "claim_description": "SKAI was operated by a team of just 5 individuals during the month-long T\u00fcrkiye earthquake deployment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "During a month-long deployment, SKAI's team of just five individuals demonstrated remarkable capabilities.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "strategic_intent",
+      "claim_title": "SKAI serves as collaborative public good solution",
+      "claim_description": "SKAI is positioned as a collaborative solution among stakeholders in disaster response and humanitarian aid, promoting effective collaboration.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "SKAI serves as a collaborative solution among stakeholders involved in disaster response and humanitarian aid. This promotes effective collaboration and maximizes the impact of response efforts.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+Introducing JetBrains AI and the In-IDE AI Assistant
+With the rise of generative AI and large language models (LLMs) this year, the landscape of not just the development industry but the creative industry as a whole has begun a transformation.
+Using this new technology to augment JetBrains tools was a no-brainer for us, and we see it as a logical next step in the JetBrains mission to improve your developer experience by automating common and repetitive tasks, enabling you to stay in the flow and focus on the big picture.
+JetBrains IDEs deeply understand your code, its current context, and the overall project structure, allowing them to supply the underlying language models with relevant details to provide best-in-class coding assistance. Our approach to building AI Assistant into our products has been focused on two main aspects:
+- Weaving the AI assistance into the core IDE user workflows.
+- Building AI features that are deeply infused with an understanding of your code and its context, which has always been a strong suit of JetBrains IDEs.
+Today, we are releasing our long-awaited AI Assistant publicly. It is now available for the millions of developers using JetBrains IDEs and coding tools, and it’s all covered by a single monthly or yearly subscription available for both individual customers and organizations.
+With AI Assistant, we’re bringing the latest generation of AI to you: in your editor, in your workflows, right where you do your work. AI Assistant is available in the 2023.3 versions of all our commercial IDEs and ReSharper, as well as in Fleet, and it works with plenty of the languages these products support. This is something we’ve been working hard on this year, and we’re really proud of what we’ve been able to produce.
+According to our State of Developer Ecosystem 2023 report, 60% of developers are already familiar with AI code generation tools, and this number is only likely to grow. We’ve seen high interest in AI Assistant during the preview phase, and we’ve also seen how developers use it. We’re confident that the set of features offered by AI Assistant will be a natural next step in the developer productivity tools you’ve come to expect from us.
+AI Assistant features
+In addition to enriching features that have been in our products for many years, AI Assistant augments development environments with powerful new abilities. Let’s have a look at some of them.
+AI chat
+The open-ended chat interface acts as a context-aware rubber duck right within the IDE. Whether you need to ask what a particular function does, how to complete a task in your language of choice, or how to debug a particular problem, the AI chat is there to help.
+When you ask AI Assistant questions, it considers deep contextual information about your project. Not only are the contents of the current file used as part of the prompt, but also all of the relevant contextual information like the language and dependencies, recently used files, and the relationships between different parts of your project. This allows you to get an answer that takes into account all factors that might have an impact on your question, giving you targeted, highly relevant answers.
+Refactoring
+The refactoring capabilities of our IDEs remain a popular part of our tooling, and AI Assistant gives you another way to make use of them. Within our new AI Actions context menu, you now have the option to use Suggest Refactoring with AI Assistant for any piece of code.
+AI Assistant will not only suggest a potential refactoring for your code, but it will also explain the reasoning for it. Like all features provided by AI Assistant, these suggestions are context aware, taking your current project constraints into account.
+If you want to use a suggestion made by AI Assistant, the code can be easily inserted as a diff into your current file, allowing you to see exactly what will be changed.
+Code completion
+Besides just helping you refine your code, AI Assistant can also help you generate it! By using background contextual information, as well as passing the code both above and below the caret position in the prompt, AI Assistant can try to predict what you intended to write next and complete it for you.
+Writing documentation
+AI Assistant goes well beyond just helping you write and refine code, offering functionality for other important tasks in the development workflow. One of these is writing documentation, which is a necessary – but rather unpopular – task!
+From within the AI Actions context menu, you can select Write Documentation, and AI Assistant will generate rich, formatted documentation for the selected function or class. This action can be invoked from anywhere within your target code, and AI Assistant will automatically detect the correct unit to be analyzed and generate documentation for it.
+Generating commit messages
+Another important task is writing high-quality commit messages. This task is often neglected, however, as it can break a developer’s flow or be an unwelcome activity at the end of a long day.
+AI Assistant allows you to automatically generate commit messages by sending the diff of your commit and all of the relevant context as part of the model prompt. AI Assistant can then explain in natural language what was changed, giving you a template you can use to craft your own descriptive and accurate commit message.
+JetBrains AI service and partners
+AI Assistant is powered by our JetBrains AI service. This service allows us to pass the prompts generated by the IDE to a variety of large language models in a secure and transparent way.
+The JetBrains AI service provides significant flexibility in terms of the models we can offer as part of AI Assistant. As we are not locked into using any specific vendor, we will be able to evolve our use of models as technology advances in this rapidly changing area. This gives us the ability to choose the best model or approach to solve your problem.
+We perform thorough due diligence and never work with LLM providers that collect or train on your data. AI Assistant is currently powered by OpenAI and by our own models.
+“It’s remarkable to see JetBrains integrate the power of OpenAI models into the daily workflow of developers,” said James Dyett, Head of Platform Accounts at OpenAI. “By Infusing JetBrains’ AI Assistant with our models’ advanced reasoning capabilities, developer productivity can be greatly enhanced across a range of tasks such as code comprehension and authoring.”
+We are also working on integrating Google LLMs, and they will be available very soon.
+“We are excited to partner with JetBrains and provide our advanced coding models for use in JetBrains AI,” said Warren Barkley, Senior Director of Product Management for Vertex AI, Google Cloud. “By integrating with Codey and Vertex AI, JetBrains can significantly improve developer experiences with AI-powered code completion, debugging, and generative explanations to accelerate every stage of the software development life cycle.”
+We’ve been able to integrate AI into our tools exactly how we approach everything we do – in a way that is integrated, productive, and transparent.
+General availability
+AI Assistant is available for customers of paid editions of our products today as a supplemental feature requiring a JetBrains AI service subscription.
+Please note that access to the AI service is restricted to the territories where our providers’ service is available. You can check the full list of territories here.
+We encourage you to download the 2023.3 version of your go-to JetBrains IDE, open the AI Assistant tool window, log in with your JetBrains Account, and give the new functionality a try.
+To find out more about AI Assistant, the underlying technology, and available plans, visit jetbrains.com/ai.
+Happy coding!
+The JetBrains team

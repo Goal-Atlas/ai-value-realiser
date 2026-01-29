@@ -1,0 +1,26 @@
+Intercom is leading the industry into a new era of AI-first Customer Service, and we’re excited to reveal our latest breakthrough innovation – Intercom’s AI Copilot.
+When we launched our groundbreaking Fin AI Agent last year, it set the standard for generative AI customer service experiences – it has already helped customers with more than 8 million queries and resolves up to 80% of conversations instantly.
+And now, for the more complex questions that require an agent, we’re applying the same innovative AI to make your teams even more efficient. Fin AI Copilot gives every customer service agent their own AI assistant in the inbox, helping your team find instant, accurate answers based on your support content. By pulling from multiple content sources and making it easy to verify every answer, it empowers agents to deliver consistently remarkable customer experiences.
+Product demo of AI Copilot
+A personal AI assistant for every agent
+Historically, customer service teams have had to sift through multiple sources and various internal tools – often opening numerous windows and tabs – to find relevant information to resolve customer queries. With AI Copilot, those fragmented searches and inefficiencies will disappear. One of our early testers, Lightspeed, has already seen a 31% increase in agent efficiency with AI Copilot.
+Here are just some of the ways AI Copilot will change the game for support agents and leaders:
+The best answers from conversation history
+This cutting-edge new feature is the only AI assistant that can generate answers using your agents’ past conversations. Up until now, this goldmine of data has been untapped, but Fin can use it to customize and enrich answers with insights drawn directly from your team’s history.
+Of course, not every conversation from the past is going to be relevant, so you have the power to determine which conversations contribute to the learning pool, ensuring that Fin only draws on the knowledge of your most experienced agents.
+AI Copilot can also provide multilingual support in the same 45 languages as Fin AI Agent – from Arabic, to French, to Japanese, and more.
+Trusted answers from any content source
+AI Copilot connects to an array of both internal and external content. From your help center, conversation history, and internal articles to public URLs, PDFs, and even integration with platforms like Notion, Guru, or Confluence, Fin sifts through all of your support content to deliver the best possible answer, every time.
+With all those sources, it’s more important than ever for an AI system to be transparent about what content it’s referencing when suggesting an answer. That’s why it provides links to the sources which can be previewed directly inside the inbox, so agents can easily cross-reference and validate the answers.
+Expert training, troubleshooting, and guidance
+AI Copilot is like having an on-demand expert for your agents, ready to guide them through next steps, troubleshoot complications, and tackle follow-up inquiries that would typically require input from teammates or supervisors.
+By drawing on your internal articles, it can provide agents with instructions on how to handle queries. This is especially useful to onboard and train new agents – they can simply use Fin to get up to speed with handling unfamiliar situations. And best of all, that guidance is immediate, and in-context.
+Deep insights, complete oversight
+Adapting to this fundamentally new way of doing customer service will require careful monitoring to ensure standards are staying high. You can keep a close watch on how your support teammates are using AI Copilot with a dedicated report. See how many conversations are using AI Copilot, track how many agents are using Fin, and easily review the quality of Fin’s answers. This helps ensure you’re maintaining quality and optimizations at every step.
+Part of that improvement process will involve managing the source content. We have ensured you can easily manage and restrict Fin’s access to specific content, tailoring its knowledge base to suit your evolving needs.
+The impact of AI Copilot on how teams are able to provide support is dramatic – for instance, Deliverect has already seen huge response speed increases among agents using the feature.
+Welcome to the world of AI-first Customer Service
+AI Copilot will fundamentally change how you work inside the inbox. Soon, you’ll never have to answer the same customer question twice.
+This is just the latest innovation we’re bringing to market – but there’s far more to come. Intercom has the most advanced and effective AI product offering in customer service. And it will just continue to get better.
+Intercom’s AI is built into the foundation of our complete customer service platform – it dramatically improves the CS experience for customers, support teams, and support leaders.
+We are inventing the era of AI-first Customer Service – it’s happening right now, and it’s happening faster than you can imagine.

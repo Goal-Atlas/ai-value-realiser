@@ -1,0 +1,1146 @@
+---
+case_id: jetbrains-ai-assistant-developer-productivity
+organisation: JetBrains
+title: Developer Productivity Enhancement
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://blog.jetbrains.com/ai/2024/04/developers-save-up-to-8-hours-per-week-wit...
+  url: https://blog.jetbrains.com/ai/2024/04/developers-save-up-to-8-hours-per-week-with-jetbrains-ai-assistant/
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://blog.jetbrains.com/blog/2023/10/12/ai-assistant-update-october-2023/
+  url: https://blog.jetbrains.com/blog/2023/10/12/ai-assistant-update-october-2023/
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://blog.jetbrains.com/dotnet/2024/04/30/jet-brains-ai-assistant-in-resharpe...
+  url: https://blog.jetbrains.com/dotnet/2024/04/30/jet-brains-ai-assistant-in-resharper/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://blog.jetbrains.com/blog/2023/12/06/introducing-jetbrains-ai-and-the-in-i...
+  url: https://blog.jetbrains.com/blog/2023/12/06/introducing-jetbrains-ai-and-the-in-ide-ai-assistant/
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://blog.jetbrains.com/blog/2025/09/30/jetbrains-recognized-in-the-2025-magi...
+  url: https://blog.jetbrains.com/blog/2025/09/30/jetbrains-recognized-in-the-2025-magic-quadrant-for-ai-code-assistants/
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: Developers save 1-3 hours per week with JetBrains AI Assistant
+  claim_description: 37% of survey respondents reported saving between 1 and 3 hours
+    per week by using JetBrains AI Assistant in their development workflows.
+  source_ids:
+  - S1
+  source_quote: A significant 37% noted saving between 1 and 3 hours per week
+  quote_location: Saved time section
+  ai_attribution: direct
+  attribution_evidence: Time savings directly attributed to using JetBrains AI Assistant
+    as measured in user survey
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 1-3
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 22% of developers save 3-5 hours per week with AI Assistant
+  claim_description: 22% of survey respondents reported saving between 3 and 5 hours
+    per week using JetBrains AI Assistant, representing significant productivity gains.
+  source_ids:
+  - S1
+  source_quote: an additional 22% saved between 3 and 5 hours
+  quote_location: Saved time section
+  ai_attribution: direct
+  attribution_evidence: Time savings directly measured and attributed to AI Assistant
+    usage in survey responses
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 3-5
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: 4% of developers save more than 8 hours per week
+  claim_description: 4% of users (23 people) reported saving more than 8 hours per
+    week with JetBrains AI Assistant - equivalent to an entire working day.
+  source_ids:
+  - S1
+  source_quote: 4% of users (23 people) claimed to free up more than 8 hours per week.
+    That's an entire working day!
+  quote_location: Saved time section
+  ai_attribution: direct
+  attribution_evidence: Extreme time savings directly attributed to AI Assistant usage
+    by survey respondents
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 8+
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: 91% of developers save time using AI Assistant
+  claim_description: 91% of survey respondents reported saving time by using JetBrains
+    AI Assistant, demonstrating broad productivity impact across the user base.
+  source_ids:
+  - S1
+  source_quote: We were thrilled to hear that 91% of respondents had been saving time
+    by using JetBrains AI Assistant.
+  quote_location: Saved time section
+  ai_attribution: direct
+  attribution_evidence: Time savings directly attributed to AI Assistant usage across
+    majority of surveyed users
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '91'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: 75% user satisfaction rate with JetBrains AI Assistant
+  claim_description: 75% of surveyed users reported being satisfied with JetBrains
+    AI Assistant, with 25% reporting they are 'very satisfied', indicating strong
+    product-market fit.
+  source_ids:
+  - S1
+  source_quote: 75% of users who took our survey are happy with JetBrains AI Assistant.
+    Even better – 25% of them say they're 'very satisfied'.
+  quote_location: Satisfaction section
+  ai_attribution: direct
+  attribution_evidence: Satisfaction directly attributed to AI Assistant features
+    and performance
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '75'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: 78% of developers spend less time on information searches
+  claim_description: 78% of developers reported spending less time searching for information
+    when using JetBrains AI Assistant, improving research efficiency.
+  source_ids:
+  - S1
+  source_quote: 78% of developers find they spend less time on their information searches.
+  quote_location: Productivity section
+  ai_attribution: direct
+  attribution_evidence: Reduced search time directly attributed to AI Assistant's
+    ability to provide contextual answers
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '78'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: 71% of developers complete tasks faster with AI Assistant
+  claim_description: 71% of surveyed developers reported completing their development
+    tasks much faster when using JetBrains AI Assistant.
+  source_ids:
+  - S1
+  source_quote: Tasks are completed much faster for 71% of them
+  quote_location: Productivity section
+  ai_attribution: direct
+  attribution_evidence: Faster task completion directly attributed to AI Assistant
+    features and automation
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '71'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: 55% of developers engage in more exciting projects
+  claim_description: 55% of developers reported being able to dive into more exciting
+    projects as a result of time saved using JetBrains AI Assistant.
+  source_ids:
+  - S1
+  source_quote: 55% are diving into more exciting projects as a result of all the
+    time they're saving.
+  quote_location: Productivity section
+  ai_attribution: contributing
+  attribution_evidence: Time saved by AI Assistant enables developers to take on more
+    strategic work, though AI is not directly performing the exciting projects
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '55'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: 58% of users experience easier task completion and reduced mental strain
+  claim_description: 58% of AI Assistant users reported experiencing easier task completion
+    and reduced mental strain in their development workflows.
+  source_ids:
+  - S1
+  source_quote: AI Assistant enhances workflows, with 58% of users experiencing easier
+    task completion and reduced mental strain.
+  quote_location: Efficiency section
+  ai_attribution: direct
+  attribution_evidence: Cognitive benefits directly attributed to AI Assistant reducing
+    complexity and automating routine tasks
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '58'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: 49% of developers report better focus with AI Assistant
+  claim_description: 49% of surveyed developers reported experiencing better focus
+    when using JetBrains AI Assistant in their development work.
+  source_ids:
+  - S1
+  source_quote: Almost half of the respondents reported better focus and the ability
+    to achieve a flow state more easily, with those figures at 49% and 46% respectively.
+  quote_location: Efficiency section
+  ai_attribution: contributing
+  attribution_evidence: Better focus attributed to AI Assistant handling routine tasks
+    and reducing context switching
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '49'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-011
+  claim_title: 46% of developers achieve flow state more easily
+  claim_description: 46% of developers reported being able to achieve a flow state
+    more easily when using JetBrains AI Assistant.
+  source_ids:
+  - S1
+  source_quote: Almost half of the respondents reported better focus and the ability
+    to achieve a flow state more easily, with those figures at 49% and 46% respectively.
+  quote_location: Efficiency section
+  ai_attribution: contributing
+  attribution_evidence: Flow state achievement facilitated by AI Assistant reducing
+    interruptions and automating routine tasks
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '46'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-012
+  claim_title: Junior developers save 3-5 hours per week with AI Assistant
+  claim_description: Developers with less than two years of coding experience benefit
+    most from JetBrains AI Assistant, saving between 3 and 5 hours per week.
+  source_ids:
+  - S1
+  source_quote: developers with less than two years of coding experience seem to benefit
+    the most from JetBrains AI Assistant, saving between 3 and 5 hours per week.
+  quote_location: Saved time section
+  ai_attribution: direct
+  attribution_evidence: Time savings for junior developers directly attributed to
+    AI Assistant providing guidance and automation
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 3-5
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-013
+  claim_title: AI Assistant is fastest-growing commercial tool in JetBrains portfolio
+  claim_description: JetBrains AI Assistant became the fastest-growing commercial
+    tool ever in JetBrains' portfolio following its December 6 launch.
+  source_ids:
+  - S1
+  source_quote: JetBrains AI Assistant is deeply integrated into JetBrains development
+    environments, code editors, and other products...has since become the fastest-growing
+    commercial tool ever in JetBrains' portfolio.
+  quote_location: Introduction section
+  ai_attribution: direct
+  attribution_evidence: Growth rate directly attributed to AI Assistant adoption by
+    JetBrains user base
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - business_growth
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-014
+  claim_title: AI Assistant reduces task time from 30-40 minutes to 3-5 minutes
+  claim_description: Customer reported AI Assistant handles short tasks in 3-5 minutes
+    of agent time that would have taken 30-40 minutes of manual work.
+  source_ids:
+  - S5
+  source_quote: I tend to use it for short tasks that take 3–5 minutes of agent time,
+    which would have taken me 30–40 minutes of work.
+  quote_location: Customer testimonials section
+  ai_attribution: direct
+  attribution_evidence: Time reduction directly attributed to AI Assistant automating
+    specific development tasks
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 85-90
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-015
+  claim_title: Junie speed increased by 30% since Gartner research
+  claim_description: JetBrains increased Junie's processing speed by 30% following
+    the Gartner Magic Quadrant research period.
+  source_ids:
+  - S5
+  source_quote: Since Gartner's research, we've increased Junie's speed by 30%
+  quote_location: Priorities moving forward section
+  ai_attribution: direct
+  attribution_evidence: Speed improvement directly attributed to Junie AI agent optimization
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: '30'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: AI Assistant launched December 6, 2023
+  claim_description: JetBrains officially launched AI Assistant on December 6, 2023,
+    marking entry into AI-powered development tools market.
+  source_ids:
+  - S1
+  - S4
+  source_quote: JetBrains joined the AI race on December 6 after the official launch
+    of AI Assistant
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: scale
+  claim_title: Survey conducted with 640 respondents
+  claim_description: JetBrains conducted survey with 640 AI Assistant users to measure
+    impact and satisfaction.
+  source_ids:
+  - S1
+  source_quote: The survey collected answers from 640 people.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: organisational
+  claim_title: Primary users are developers and engineers
+  claim_description: 84% of survey respondents work as developers or engineers, representing
+    the core user base for AI Assistant.
+  source_ids:
+  - S1
+  source_quote: The majority of respondents (84%) work as developers or engineers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: organisational
+  claim_title: 65% of users are full-time employees
+  claim_description: 65% of survey respondents have full-time employment, with 16%
+    self-employed and 12% freelancers.
+  source_ids:
+  - S1
+  source_quote: As for employment, 65% have full-time jobs, 16% are self-employed,
+    and 12% work as freelancers.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: 59% of users have 10+ years coding experience
+  claim_description: Majority of AI Assistant users are experienced developers, with
+    59% having over 10 years of coding experience.
+  source_ids:
+  - S1
+  source_quote: When it comes to experience in coding, 59% of respondents have been
+    doing it for over 10 years.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: sectoral
+  claim_title: Primary markets are US and Germany
+  claim_description: Survey respondents primarily from US (16%) and Germany (11%),
+    indicating key geographic markets.
+  source_ids:
+  - S1
+  source_quote: Most of them are from the US (16%) and Germany (11%), with other countries
+    making up smaller percentages.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: temporal
+  claim_title: 56% of users had 1+ month experience with AI Assistant
+  claim_description: More than half of survey respondents had been using AI Assistant
+    for over a month, indicating established usage patterns.
+  source_ids:
+  - S1
+  source_quote: More than half of the people in the survey (56%) had been using the
+    JetBrains AI Assistant for more than a month when they answered the questions.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: products_services
+  claim_title: AI Assistant powered by OpenAI and JetBrains models
+  claim_description: JetBrains AI Assistant uses both OpenAI's language models and
+    proprietary JetBrains models.
+  source_ids:
+  - S1
+  - S4
+  source_quote: It is currently powered by both OpenAI's and JetBrains's models
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: products_services
+  claim_title: AI Assistant available across JetBrains IDE portfolio
+  claim_description: AI Assistant integrated into all commercial JetBrains IDEs, ReSharper,
+    and Fleet as of version 2023.3.
+  source_ids:
+  - S4
+  source_quote: AI Assistant is available in the 2023.3 versions of all our commercial
+    IDEs and ReSharper, as well as in Fleet
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: strategic_intent
+  claim_title: JetBrains positioned as neutral LLM provider
+  claim_description: JetBrains working to integrate multiple LLMs to act as neutral
+    provider, not locked into single vendor.
+  source_ids:
+  - S1
+  - S4
+  source_quote: the company is working on integrating other LLMs to act as a neutral
+    provider
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: functional
+  claim_title: AI Assistant supports software development lifecycle
+  claim_description: AI Assistant provides features across development workflow including
+    coding, refactoring, documentation, testing, and commit messages.
+  source_ids:
+  - S1
+  - S3
+  - S4
+  source_quote: AI-powered code completion, debugging, and generative explanations
+    to accelerate every stage of the software development life cycle
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10467'
+  apqc_name: Develop and maintain information technology solutions
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: temporal
+  claim_title: Technical preview phase preceded general availability
+  claim_description: AI Assistant went through technical preview phase with limited
+    users before December 2023 public launch.
+  source_ids:
+  - S2
+  - S4
+  source_quote: The AI Assistant is still in the technical preview stage and is available
+    only to a limited number of people.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: products_services
+  claim_title: AI Assistant requires separate subscription
+  claim_description: AI Assistant available as supplemental feature requiring JetBrains
+    AI service subscription for paid product customers.
+  source_ids:
+  - S4
+  source_quote: AI Assistant is available for customers of paid editions of our products
+    today as a supplemental feature requiring a JetBrains AI service subscription.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: sectoral
+  claim_title: 60% of developers familiar with AI code generation tools
+  claim_description: According to JetBrains State of Developer Ecosystem 2023 report,
+    60% of developers already familiar with AI code generation tools.
+  source_ids:
+  - S4
+  source_quote: According to our State of Developer Ecosystem 2023 report, 60% of
+    developers are already familiar with AI code generation tools
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: temporal
+  claim_title: JetBrains recognized in 2025 Gartner Magic Quadrant
+  claim_description: JetBrains AI (including AI Assistant and Junie) recognized in
+    2025 Gartner Magic Quadrant for AI Code Assistants.
+  source_ids:
+  - S5
+  source_quote: This year, JetBrains's AI (including both AI Assistant and Junie)
+    was recognized in the 2025 Gartner® Magic Quadrant™ for AI Code Assistants
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-016
+  context_type: strategic_intent
+  claim_title: Privacy-first approach with no training on user data
+  claim_description: Junie never trained on user data, with no data retention on JetBrains
+    servers or through subcontractors.
+  source_ids:
+  - S5
+  source_quote: Unlike other models, Junie is never trained on user data, so customer
+    privacy is never compromised. We also never retain data on our servers or through
+    subcontractors.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-017
+  context_type: products_services
+  claim_title: Partnership with OpenAI and Google Cloud
+  claim_description: JetBrains partnered with OpenAI for GPT models and Google Cloud
+    for Codey/Vertex AI integration.
+  source_ids:
+  - S4
+  source_quote: AI Assistant is currently powered by OpenAI and by our own models...We
+    are also working on integrating Google LLMs
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-018
+  context_type: functional
+  claim_title: AI Assistant supports .NET development in ReSharper
+  claim_description: AI Assistant integrated into ReSharper for .NET development with
+    Visual Studio integration.
+  source_ids:
+  - S3
+  source_quote: AI Assistant boosts ReSharper's already impressive code analysis and
+    refactoring capabilities by injecting an extra layer of intelligence
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10467'
+  apqc_name: Develop and maintain information technology solutions
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 15
+    verified: 13
+    needs_review: 2
+    rejected: 0
+    by_attribution:
+      direct: 12
+      contributing: 3
+  context_claims:
+    total: 18
+    verified: 17
+    unverified: 1
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Developer Productivity Enhancement
+
+## Executive Summary
+
+JetBrains: Developers save 1-3 hours per week with JetBrains AI Assistant.
+
+## Key Findings
+
+- **Developers save 1-3 hours per week with JetBrains AI Assistant** — verified (outcome)
+  - Quote: "A significant 37% noted saving between 1 and 3 hours per week"
+
+- **22% of developers save 3-5 hours per week with AI Assistant** — verified (outcome)
+  - Quote: "an additional 22% saved between 3 and 5 hours"
+
+- **4% of developers save more than 8 hours per week** — verified (outcome)
+  - Quote: "4% of users (23 people) claimed to free up more than 8 hours per week. That's an entire working day!"
+
+- **91% of developers save time using AI Assistant** — verified (outcome)
+  - Quote: "We were thrilled to hear that 91% of respondents had been saving time by using JetBrains AI Assistant."
+
+- **75% user satisfaction rate with JetBrains AI Assistant** — needs_review (adoption)
+  - Quote: "75% of users who took our survey are happy with JetBrains AI Assistant. Even better – 25% of them say they're 'very satisfied'."
+
+- **78% of developers spend less time on information searches** — verified (outcome)
+  - Quote: "78% of developers find they spend less time on their information searches."
+
+- **71% of developers complete tasks faster with AI Assistant** — verified (outcome)
+  - Quote: "Tasks are completed much faster for 71% of them"
+
+- **55% of developers engage in more exciting projects** — verified (outcome)
+  - Quote: "55% are diving into more exciting projects as a result of all the time they're saving."
+
+- **58% of users experience easier task completion and reduced mental strain** — verified (outcome)
+  - Quote: "AI Assistant enhances workflows, with 58% of users experiencing easier task completion and reduced mental strain."
+
+- **49% of developers report better focus with AI Assistant** — verified (outcome)
+  - Quote: "Almost half of the respondents reported better focus and the ability to achieve a flow state more easily, with those figures at 49% and 46% respectively."
+
+- **46% of developers achieve flow state more easily** — verified (outcome)
+  - Quote: "Almost half of the respondents reported better focus and the ability to achieve a flow state more easily, with those figures at 49% and 46% respectively."
+
+- **Junior developers save 3-5 hours per week with AI Assistant** — verified (outcome)
+  - Quote: "developers with less than two years of coding experience seem to benefit the most from JetBrains AI Assistant, saving between 3 and 5 hours per week."
+
+- **AI Assistant is fastest-growing commercial tool in JetBrains portfolio** — needs_review (method)
+  - Quote: "JetBrains AI Assistant is deeply integrated into JetBrains development environments, code editors, and other products...has since become the fastest-growing commercial tool ever in JetBrains' portfoli..."
+
+- **AI Assistant reduces task time from 30-40 minutes to 3-5 minutes** — verified (outcome)
+  - Quote: "I tend to use it for short tasks that take 3–5 minutes of agent time, which would have taken me 30–40 minutes of work."
+
+- **Junie speed increased by 30% since Gartner research** — verified (outcome)
+  - Quote: "Since Gartner's research, we've increased Junie's speed by 30%"
+
+## Sources
+
+- **S1**: https://blog.jetbrains.com/ai/2024/04/developers-save-up-to-8-hours-per-week-with-jetbrains-ai-assistant/
+- **S2**: https://blog.jetbrains.com/blog/2023/10/12/ai-assistant-update-october-2023/
+- **S3**: https://blog.jetbrains.com/dotnet/2024/04/30/jet-brains-ai-assistant-in-resharper/
+- **S4**: https://blog.jetbrains.com/blog/2023/12/06/introducing-jetbrains-ai-and-the-in-ide-ai-assistant/
+- **S5**: https://blog.jetbrains.com/blog/2025/09/30/jetbrains-recognized-in-the-2025-magic-quadrant-for-ai-code-assistants/

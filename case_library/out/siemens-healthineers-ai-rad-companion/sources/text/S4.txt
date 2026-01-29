@@ -1,0 +1,56 @@
+Home
+- Press center
+- Press features
+Siemens Healthineers at digital ECR 2020
+Siemens Healthineers at digital ECR 2020
+2020-07-15
+At ECR, we focus on the digital transformation of imaging and therapy to improve patient care in Radiology. Our aim is to help provide better outcomes and increased efficiency, during times of critical demand, recovery and (the new) normalization of operating with COVID-19. On this press feature we show how we are helping to make the right decision at the right time for every patient – efficiently.
+Press Releases
+Siemens Healthineers further expanding AI portfolio in the field of clinical decision-making
+Erlangen, Germany | Jul 16, 2020
+- The AI-Rad Companion product family supports customers in their daily routine of clinical decision-making
+- Newest additions to the family are solutions for post-processing of X-ray images and organ contouring for radiation therapy planning
+The AI-Rad Companion family supports radiologists, radiation oncologists, radiotherapists and medical physicists through automated post processing of MRI, CT and X-ray datasets. It saves the clinicians’ time and helps them to increase their diagnostic precision. The steady rise of radiology examinations and staff shortages lead to a limited amount of time per case as well as an increasing danger of missing clinically relevant findings. Siemens Healthineers is continuously working on further solutions to expand and enhance its AI-Rad Companion algorithms. These algorithms are trained, tested and validated against a substantial amount of data sets. The data sets are selected to reflect the diversity of the population, avoid bias and deliver reliable results. “Meanwhile I really trust the algorithm. It gives me a sense of additional security.”, states Dr. med. Martin Reiss-Zimmermann, Radiology Erfurt, Germany, who is using the AI-Rad Companion Chest CT in clinical practice.
+Bayer and Siemens Healthineers present first synchronized imaging system interface for MRI
+by Siemens Healthineers and Bayer | Jul 15, 2020
+- The Imaging System Interface1 (ISI) saves time, improves operational efficiency and reduces the number of steps in the MRI workflow by one third, allowing the user to focus more on the patient
+- ISI recently achieved CE mark certification
+- Joint hardware and software development by Bayer and Siemens Healthineers
+Bayer and Siemens Healthineers today presented the new Imaging System Interface (ISI) for magnetic resonance imaging (MRI) at this year’s European Congress of Radiology (ECR) 2020, taking place virtually for the first time from 15-19 July. ISI is a joint hardware and software development from Bayer and Siemens Healthineers and the first injector scanner interface for the MRI suite. It synchronizes the Bayer MRXperion Injection System and the Siemens Healthineers MR scanner, thereby overcoming significant challenges posed by the complex process used in conventional contrast-enhanced dynamic MRI, which can result in high stress for operators and suboptimal imaging. By enabling synchronized injector triggering from the MRI scanner operator console and a more efficient workflow, ISI allows users to conduct high quality, consistent contrast enhanced procedures and spend more time focusing on the patient.2
+Siemens Healthineers uses artificial intelligence to take X-ray diagnostics to a new level
+Erlangen, Germany | Jun 22, 2020
+- New X-ray system Ysio X.pree supports image acquisition using AI
+- New AI-Rad Companion Chest X-ray software offers decision support for radiographic thorax images with AI
+Siemens Healthineers introduces Ysio X.pree1, the world's first intelligent X-ray system with integrated AI for optimizing the daily routine of image acquisition in radiography. To assist radiologists with the subsequent image post-processing, Siemens Healthineers also offers its new CE-labeled AI-Rad Companion Chest X-ray, an AI-supported software that aids clinical decision making on upright thorax images. "X-rays are still the most commonly used form2 of diagnostic imaging. By introducing AI technologies and other innovations into this area, we’re taking traditional radiography to a new level," says Carsten Bertram, Head of X-ray Products at Siemens Healthineers.
+Freiburg University Hospital and Siemens Healthineers reduce COVID-19 infection risk for employees in radiology and drive quality improvements
+Erlangen, Germany | Jun 18, 2020
+- Freiburg University Hospital enables remote scanning assistance for radiology
+- Safe Scanning Room and home office link
+- Collaboration to develop remote scanning as a service
+- COVID-19 becomes a driver of the digital transformation in healthcare
+“Two things are important for us here at Freiburg University Hospital right now: Protecting our professional workforce from infection with COVID-19, and continuing to improve the quality of medicine in the hospital at the same time,” says Professor Frederik Wenz, Chief Medical Director at Freiburg University Hospital. “We therefore just began a very interesting project in our radiology clinic to deal with both challenges simultaneously. This is a perfect example of how we can use the current crisis to advance the digital transformation in healthcare and improve our quality of care.”
+Siemens Healthineers introduces AI-based assistants for magnetic resonance imaging
+Erlangen, Germany | Dec 01, 2019
+- The new applications in the product family AI-Rad Companion for the body regions brain and prostate can ease the burden of routine activities for radiologists and improve quality of care.
+- AI-Rad Companion Brain MR for Morphometry Analysis provides result tables on volumetric changes in brain areas.
+- AI-Rad Companion Prostate MR for Biopsy Support segments prostate and can facilitate targeted biopsy under MRI and US fusion imaging.
+At the Congress of the Radiological Society of North America (RSNA 2019) in Chicago, Siemens Healthineers will introduce two software assistants based on artificial intelligence (AI) that are designed to free radiologists from the burden of performing routine activities during magnetic resonance imaging (MRI) examinations in the body regions brain and prostate. AI-Rad Companion Brain MR for Morphometry Analysis1 automatically segments the brain in MRI images, measures brain volume, and marks volume deviations in result tables used by neurologists for diagnosis and treatment. AI-Rad Companion Prostate MR for Biopsy Support1 automatically segments the prostate on MRI images and enables radiologists to mark lesions, so that it’s easier for their colleagues in Urology to perform targeted prostate biopsies. Both new applications can be used on MRI scanners from different manufacturers and are available on teamplay2, the cloud-based healthcare platform from Siemens Healthineers.
+Siemens Healthineers markets new Somatom X.cite CT scanner with revolutionary user guidance system
+Erlangen, Germany | Nov 21, 2019
+- myExam Companion, a revolutionary intelligent user guidance system, automatically adapts scanner protocols in line with patient data
+- Somatom X.cite improves patient comfort with an 82 cm gantry and innovative system design
+- Somatom X.cite and myExam Companion have been clinically approved and will be available from December 2019
+Siemens Healthineers presents its new Somatom X.cite single-source CT scanner, together with the totally new myExam Companion user guiding system, based on artificial intelligence (AI). The revolutionary, intelligent user guidance system guides the user through the workflow using specific questions. This intuitive user interface, and the latest scanner hardware all work together to open up new possibilities. myExam Companion makes use of available patient data, such as sex, height, and age, and combines these with additional patient-specific information gathered by asking the user specific questions, for example about the presence of metal implants or the ability of patients to hold their breath. The scanner then optimizes the scan parameters accordingly to ensure the best possible result. In combination, these innovations help structure workflow more efficiently, smooth out differences in experience between the MTRAs, and achieve extremely high-quality results even in difficult diagnostic situations. The first CT scanner with myExam Companion is the new Somatom X.cite, featuring the Vectron x-ray tube that has previously only been used in the Somatom Force dual-source CT scanner. In combination with its 82 cm gantry, Somatom X.cite can offer unprecedented image quality in the single-source segment, in addition to maximum patient comfort.
+Image Gallery
+Information of the devices’ new 3D-camera together with AI-algorithms enables Automatic Thorax Collimation.
+Copyright: Siemens HealthineersSiemens Healthineers introduces Ysio X.pree, the first X-ray system with integrated AI for supporting image acquisition in radiography.
+Copyright: Siemens HealthineersMedical staff can use syngo virtual cockpit software solution to connect remotely to scanner workplaces to assist personnel at a different location.
+Freiburg University Hospital, Germany
+Copyright: Universitätsklinikum Freiburg/Britt SchillingAI-Rad Companion Brain MR for Morphometry Analysis from Siemens Healthineers automatically segments the brain in MRI images, measures brain volume, and marks volume deviations in result tables used by neurologists for diagnosis and treatment.
+Copyright: Siemens Healthineers
+AI-Rad Companion Brain MR for Morphometry Analysis from Siemens Healthineers automatically segments the brain in MRI images, measures brain volume, and marks volume deviations in result tables used by neurologists for diagnosis and treatment.
+Copyright: Siemens Healthineers
+AI-Rad Companion Brain MR for Morphometry Analysis from Siemens Healthineers automatically segments the brain in MRI images, measures brain volume, and marks volume deviations in result tables used by neurologists for diagnosis and treatment.
+Copyright: Siemens Healthineers
+High-End single source CT-Scanner Somatom X.cite, the first CT-Scanner with the new intelligent user guidance system myExam Companion.
+ECR Event Page

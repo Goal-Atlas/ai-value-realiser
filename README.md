@@ -35,10 +35,12 @@ These feed into a four-stage **Value Realisation Process**: Scope → Explore �
 ```
 ai-value-realiser/
 ├── case_library/           # AI Case Library
-│   ├── schemas/            # Pydantic data models
-│   ├── pipeline/           # 5-step provenance pipeline
+│   ├── schemas/            # Pydantic data models (v1.5)
+│   ├── pipeline/           # 5-step provenance pipeline + persistence, casefile export
+│   ├── viewer/             # Browse UI (hardwired path; run viewer.server)
 │   ├── ontology/           # Mechanism/Outcome/Cognitive Depth taxonomy
-│   └── data/               # Case data (cases/, sources/)
+│   ├── OLD_cases_enriched/  # Legacy seeds (reference only)
+│   └── out/                 # Rebuilt library (case_library/out by default; build.json, claims.json, casefile.md per case)
 │
 ├── profiler/               # Company Profiler (products, financials, functions)
 │
@@ -77,15 +79,30 @@ pytest
 
 ### AI Case Library
 
-A curated collection of **202+ cases** with **1,400+ verified claims** showing how organisations have created value through AI.
+A curated collection of **202 cases** (rebuilt from legacy with full provenance) showing how organisations have created value through AI. Each case has verified value claims, context claims, captured sources, and a human-readable `casefile.md`.
 
 **Key features:**
-- Two-axis classification: Application Type (Enhancement/Creation) × Evidence Type (Outcome/Method)
-- Three-dimensional ontology: Mechanism, Outcome, Cognitive Depth
-- Value attribution tracking: Direct, Contributing, Contextual
-- Human validation framework (Tier 1/2/3)
+- **Evidence level:** outcome / adoption / method (three-tier; outcome = quantified business result)
+- **Application type:** Capability Enhancement vs Capability Creation
+- **Ontology:** Mechanism, Outcome, Cognitive Depth (v1.0)
+- **Value attribution:** Direct, Contributing, Contextual
+- **Human validation:** Tier 1/2/3 (data recording in place; review UI pending)
 
-📄 [Full Specification](docs/specs/AI_CASE_LIBRARY_SPECIFICATION.md)
+**Pipeline:** Steps 1 (discovery) → 2 (extraction) → 3 (claim extraction, Anthropic) → 4 (verification) → 5 (human validation). Output per case: `build.json`, `claims.json`, `sources/text/*.txt`, `casefile.md`.
+
+**Run migration (already done for 202 cases):**
+```bash
+python -m case_library.run_legacy_cases --out case_library/out --limit 9999   # full run
+python -m case_library.run_legacy_cases --out case_library/out --resume       # resume after stop
+```
+
+**Browse the library:**
+```bash
+python -m case_library.viewer.server   # then open http://127.0.0.1:8765/
+```
+Library path is hardwired (`case_library/out` by default; override with `CASE_LIBRARY_PATH`).
+
+📄 [Full Specification](docs/specs/AI_CASE_LIBRARY_SPECIFICATION_v1_5.md) · [Development Notes](docs/DEVELOPMENT_NOTES_CASE_LIBRARY.md) · [Migration Estimate](docs/MIGRATION_ESTIMATE.md)
 
 ### Company Profiler
 
@@ -156,9 +173,11 @@ pytest --cov=case_library --cov-report=html
 
 ## Documentation
 
-- [AI Case Library Specification](docs/specs/AI_CASE_LIBRARY_SPECIFICATION.md)
-- [Work Plan](docs/WORK_PLAN.md) - Complete implementation roadmap
-- [Work Plan Summary](docs/WORK_PLAN_SUMMARY.md) - Quick reference
+- [AI Case Library Specification](docs/specs/AI_CASE_LIBRARY_SPECIFICATION_v1_5.md)
+- [Case Library Development Notes](docs/DEVELOPMENT_NOTES_CASE_LIBRARY.md) — Current status, pipeline, persistence, viewer, migration
+- [Migration Estimate](docs/MIGRATION_ESTIMATE.md) — API cost and time for rebuilding the 202-case library
+- [Work Plan](docs/WORK_PLAN.md) — Implementation roadmap
+- [Work Plan Summary](docs/WORK_PLAN_SUMMARY.md) — Quick reference
 - [Architecture Brief](docs/architecture/VALUE_REALISER_ARCHITECTURE_BRIEF.md) *(coming soon)*
 
 ---

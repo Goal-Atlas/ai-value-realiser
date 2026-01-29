@@ -1,0 +1,14 @@
+Dive Brief:
+- General Mills tied millions in cost-savings to AI projects that helped boost efficiency and optimize its supply chain, executives said during an investor conference Tuesday.
+- The food industry giant reduced transportation costs and boosted customer service levels by using AI in its logistics planning, CFO Kofi Bruce said. AI models also assess more than 5,000 daily shipments from plants to warehouses, leading to more than $20 million in savings since its 2024 fiscal year. General Mills predicts real-time performance data in manufacturing will produce more than $50 million in waste reduction this year.
+- General Mills’ digital, data and technology investments have doubled since 2019, CEO Jeff Harmening. The efforts to strengthen its digital infrastructure are part of the company’s Accelerate strategy, which was set in motion five years ago.
+Dive Insight:
+Even as businesses pour millions of dollars into AI initiatives, leaders hope the costly technology will end up saving their business money.
+Generative AI got a bad reputation last year for its elusive returns, but most businesses didn't deprioritize the technology despite disillusionment. Among businesses that have yet to reach ROI on AI initiatives, the majority still expect cost savings to occur within three years, according to an IBM report.
+The focus on cost-savings extends across industries.
+Toymaker Mattel highlighted its AI initiatives as part of a broader cost-savings initiative during an earnings call last year. Financial services company Charles Schwab also credited AI use with driving down costs during a January earnings call.
+Trimming costs and unlocking efficiencies can also drive revenue growth, leaders hope. Household product maker Colgate-Palmolive said it was using AI in revenue growth management practices to avoid unnecessary costs and bolster top-line growth during a conference in September. JPMorgan Chase executives estimated the company’s AI use cases will deliver around $2 billion in value during a September conference.
+“Either we’ll be able to process a lot more for the same money or spend less,” President and COO Daniel Pinto said.
+AI costs are also beginning to slide, a welcomed trend for enterprises. Accenture identified a 74% annual cost decline between GPT-3 and GPT-3.5 Turbo from December 2021 to December 2024. Existing cost structures were especially put under the microscope following the launch of DeepSeek’s R1 model.
+Still, AI skepticism isn't unwarranted, even with early signs of enterprise success.
+Most technology decision-makers are dealing with a laundry list of adoption barriers. More than 90% of leaders expressed concern about generative AI pilots proceeding without addressing problems uncovered by previous initiatives, according to Informatica. Leaders also admitted to feeling pressure to move projects along faster.

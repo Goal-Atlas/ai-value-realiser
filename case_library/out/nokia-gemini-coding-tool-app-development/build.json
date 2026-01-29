@@ -1,0 +1,117 @@
+{
+  "case_id": "nokia-gemini-coding-tool-app-development",
+  "build_started": "2026-01-29T10:52:28.566260",
+  "build_completed": "2026-01-29T10:52:28.875640",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "Nokia AI-Enhanced Network API Development Platform",
+      "Nokia AI-Enhanced Network API Development Platform"
+    ],
+    "results_considered": 3,
+    "urls_ranked": [
+      {
+        "url": "https://www.nokia.com/newsroom/nokia-and-google-cloud-collaborate-to-help-developers-worldwide-create-5g-applications-faster-with-telco-apis/",
+        "rank": 1
+      },
+      {
+        "url": "https://www.lightreading.com/wireless/nokia-turns-to-google-s-ai-to-give-apis-a-boost",
+        "rank": 2
+      },
+      {
+        "url": "https://www.nokia.com/about-us/news/releases/2023/09/26/nokia-launches-network-as-code-platform-to-accelerate-network-programmability-and-monetization/",
+        "rank": 3
+      }
+    ],
+    "urls_selected": [
+      "https://www.nokia.com/newsroom/nokia-and-google-cloud-collaborate-to-help-developers-worldwide-create-5g-applications-faster-with-telco-apis/",
+      "https://www.lightreading.com/wireless/nokia-turns-to-google-s-ai-to-give-apis-a-boost",
+      "https://www.nokia.com/about-us/news/releases/2023/09/26/nokia-launches-network-as-code-platform-to-accelerate-network-programmability-and-monetization/"
+    ],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [
+      {
+        "source_id": "S1",
+        "url": "https://www.nokia.com/newsroom/nokia-and-google-cloud-collaborate-to-help-developers-worldwide-create-5g-applications-faster-with-telco-apis/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S2",
+        "url": "https://www.lightreading.com/wireless/nokia-turns-to-google-s-ai-to-give-apis-a-boost",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      },
+      {
+        "source_id": "S3",
+        "url": "https://www.nokia.com/about-us/news/releases/2023/09/26/nokia-launches-network-as-code-platform-to-accelerate-network-programmability-and-monetization/",
+        "http_status": null,
+        "retries": 0,
+        "raw_file": null,
+        "text_file": null,
+        "extraction_method": null,
+        "extraction_quality": null,
+        "content_length": null,
+        "ocr_fallback_used": false,
+        "is_multi_page": false,
+        "multi_page_detection": {
+          "patterns_found": [],
+          "related_urls_detected": [],
+          "related_urls_followed": [],
+          "detection_method": null
+        }
+      }
+    ],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 0,
+    "context_claims_count": 0,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": true,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

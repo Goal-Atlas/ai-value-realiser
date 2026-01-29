@@ -1,0 +1,120 @@
+Lowe’s innovation: How Vertex AI helps create interactive shopping experiences
+Zaid Alibadi
+Senior Manager, Data Science, Lowe’s
+Olga Stolpovskaia
+Senior Data Scientist, Lowe's
+At Lowe's, we are always striving to make the shopping experience more enjoyable and convenient for our customers. A common challenge we’ve identified is that many shoppers visit our ecommerce site or mobile application without a clear idea of what they want but believe that they will recognize the right product when they see it.
+To address this issue and enhance the shopping journey, we introduced Visual Scout — an interactive way to explore the product catalog and quickly find products of interest on lowes.com. It’s an exemplar of the ways AI recommendations are helping transform retail experiences today across many modes of communication — not just text but imagery, video, voice, and the combination of them all.
+Visual Scout is designed for shoppers who value the visual aspects of products when making certain purchasing decisions. It offers an interactive experience for customers to discover a variety of styles within a product group. Visual Scout begins by presenting a panel of 10 items. Customers then indicate their preferences by “liking” or “disliking” items in the display. Based on this feedback, Visual Scout dynamically updates the panel, with items that reflect customer style and design preferences.
+Here’s an example of how user feedback from a shopper looking for hanging lamps influences a discovery panel refresh.
+The Visual Scout API interactively refreshes recommendation panels to reflect user feedback for currently displayed items
+In this post, we will delve into the technical aspects and explore the essential technologies and MLOps practices that enable this experience.
+How Visual Scout Works
+When customers visit a product detail page on lowes.com, they typically have a general idea of the ‘product group’ they are looking for, but they could still have many product variants to possibly choose from. Instead of opening multiple browser windows or viewing a predefined comparison table, customers can use Visual Scout to sift through visually similar items and quickly arrive at a subset of interesting items.
+For a given product page the item on that page will be treated as the “anchor item”, and this will seed the initial recommendation panel. From there, customers iteratively refine the displayed product set by providing either “like” or “dislike” feedback for individual items in the display:
+-
+"Like" feedback: If a customer selects the "more like this" button, Visual Scout replaces the two least visually similar products with items that closely match the one the customer just liked
+-
+"Dislike" feedback: Conversely, if a customer dislikes a product by clicking the 'X' button, Visual Scout replaces that product with a product that is visually similar to the anchor item
+As the service updates in real time, Visual Scout provides an engaging and gamified shopping experience that encourages customer engagement and, ultimately, conversion.
+Want to try it out?
+To see Visual Scout in action, visit this product page and find the section titled “Discover Similar Items”. You don’t need to be logged in to an account, but be sure to select a store location in the upper left corner of the page. This helps Visual Scout nominate items available near you.
+The technology behind Visual Scout
+Visual Scout is supported by several Google Cloud services:
+-
+Dataproc: Batch processing jobs that compute embeddings for new items by feeding an item’s image to a computer vision model as a prediction request; the predicted values are the image’s embedding representation
+-
+Vertex AI Model Registry: Central repository for managing the lifecycle of the computer vision model
+-
+Vertex AI Feature Store: Feature management for product image embeddings, and low latency online serving
+-
+Vertex AI Vector Search: Deploys a serving index and performs vector similarity search for low latency online retrieval
+-
+BigQuery: Hosts an enterprise-wide, immutable record of item metadata (e.g., price, promotions, inventory, rating, availability in user’s selected store, restrictions, etc.)
+-
+Google Kubernetes Engine: Deploys and operates the Visual Scout application with the rest of the online shopping experience
+To better understand how these components are operationalized in production, let’s review some key tasks in the following reference architecture:
+Figure 2: Reference architecture for serving the Visual Scout API on lowes.com
+-
+The Visual Scout API creates a vector match request for a given item
+-
+The request first calls Vertex AI Feature Store to retrieve an item’s latest image embedding vector
+-
+Using the item embedding, Visual Scout then searches a Vertex AI Vector Search index for the most similar embedding vectors and returns the associated item IDs
+-
+For each visually similar item, product-related metadata (e.g., inventory availability) is used to filter for only items available at the user’s selected store location
+-
+The available items and their metadata are sent back to the Visual Scout API for serving on lowes.com
+-
+A daily trigger launches an update job to compute image embeddings for any new items
+-
+Once triggered, Dataproc processes any new item images, converting them to embeddings with the registered computer vision model
+-
+Streaming updates add new image embeddings to the Vertex AI Vector Search serving index
+-
+New image embedding vectors are ingested to Vertex AI Feature Store online serving nodes; vectors indexed by item ID and the timestamp of the ingestion
+Low latency serving with Vertex AI
+Each time items are replaced in the recommendation panel, Visual Scout relies on two Vertex AI services to do this in real time: Vector Search and Feature Store.
+Vertex AI Feature Store is used to store the latest embedding representation of an item. This includes net new additions to the product catalog, as well as any new images that become available for an item. In the latter case, the previous embedding representation for an item is moved to offline storage, and the latest embedding is kept in online storage. At serving time, the Feature Store look-up retrieves the query item’s most up-to-date embedding representation from the online serving nodes, and passes this to the downstream retrieval task.
+Next, Visual Scout must find, within a database of diverse items, the most similar products to the query item based on their embedding vectors. This kind of nearest neighbor search requires calculating the similarity between the query and candidate item vectors, and at this scale, this calculation can quickly become a computational bottleneck for retrieval, especially if performing an exhaustive (i.e., brute-force) search. To address this bottleneck, Vertex AI Vector Search implements an approximate search, allowing the vector retrieval to meet our low latency serving requirements.
+Both of these services help Visual Scout process a high volume of requests while maintaining low-latency responses. The 99th percentile response times of approximately 180 milliseconds align with our performance expectations, and ensures a smooth and responsive user experience.
+Why is Vertex AI Vector Search so fast?
+Vertex AI Vector Search is a managed service providing efficient vector similarity search and retrieval from a billion-scale vector database. As these capabilities are critical to many projects across Google, this service builds upon years of internal research and development. It’s worth mentioning that several foundational algorithms and techniques are also publicly available with ScaNN, an open-source vector search library from Google Research. The purpose of ScaNN is to establish reproducible and credible benchmarking that ultimately advances research in the field. The purpose of Vertex AI Vector Search is to provide a scalable vector search solution for production-ready applications.
+ScaNN primer
+ScaNN provides an implementation of Google Research’s 2020 ICML paper, “Accelerating Large-Scale Inference with Anisotropic Vector Quantization”, which applies a novel compression algorithm to achieve state-of-the-art performance on nearest neighbor search benchmarks. ScaNN’s high-level workflow for vector similarity search can be described in four phases:
+-
+Partitioning: To reduce the search space, ScaNN performs hierarchical clustering to partition the index and represent its contents as a search tree, where each partition is represented by the partition’s centroids. This is usually (but not always) a k-means tree
+-
+Vector quantization: using the asymmetric hashing (AH) algorithm, this step compresses each vector into a sequence of 4-bit codes, where ultimately a codebook is learned. Its “asymmetric” because only database vectors are compressed, not the query vectors
+-
+Approximate scoring: at query time, AH creates partial-dot-product lookup-tables; uses tables to estimate
+<query, db-vector>
+dot products -
+Rescoring: given top-k items from approximate scoring, re-compute distances with greater precision (e.g., lower distortion or even raw datapoint)
+Building an index optimized for serving
+To build an index optimized for low-latency serving, Vertex AI Vector Search uses ScaNN’s tree-AH algorithm. The term “tree-AH” refers to a tree-X hybrid model consisting of (1) a partitioning “tree” and (2) a leaf searcher (in this case “AH” or asymmetric hashing). Essentially, it combines two complementary algorithms:
+-
+Tree-X, a k-means tree; a hierarchical clustering algorithm that reduces the search space by partitioning the index into a search tree, where each partition in the tree is represented by the centroid of the data points belonging to that partition.
+-
+Asymmetric Hashing (AH), a highly optimized approximate distance computation routine used to score the similarity between a query vector and the partition centroids at each level of the search tree
+Figure 3: Conceptually, ‘tree-X hybrids’ combine (1) a partitioning tree and (2) a leaf searcher, where the leaf searcher is used to search and score the tree.
+With tree-AH, it trains to learn an optimal indexing model that essentially defines the partition centroids and quantization codebook of the serving index. And this is even further optimized when training with an anisotropic loss function. The reason is that anisotropic loss emphasizes reducing the quantization error for vector pairs with high dot products. This makes sense because if the dot product for a <query, db-vector>
+vector pair is low then it is unlikely to be in the top-k, and thus the quantization error is not important. However, if a vector pair has a high dot product, we want to be even more careful about its quantization error because we want to preserve its relative ranking.
+To summarize the last point:
+-
+There will be quantization error between the original vector and its quantized form
+-
+Preserving the relative ranking of vectors leads to higher recall during inference
+-
+We can be more precise about preserving the relative ranking of a subset of vectors at the expense of being less precise about preserving the relative ranking of another subset of vectors
+For more details on the methods and implications of anisotropic loss, see Google Research’s blog, Announcing ScaNN: Efficient Vector Similarity Search, or the previously mentioned whitepaper.
+Supporting production-ready applications
+As a managed service, Vertex AI Vector Search let’s users take advantage of ScaNN performance while offering additional capabilities to alleviate operational overhead and deliver business value, including:
+-
+Real-time index updates - update indexes and metadata, query them in a matter of seconds
+-
+Multi-index deployments - deploy multiple indexes to a single endpoint (sometimes referred to as “namespacing”)
+-
+Autoscaling - ensures consistent performance at scale by automatically resizing serving nodes based on QPS traffic
+-
+Dynamic rebuilds - periodic index compaction to account for new updates; improves query performance and reliability without interpreting service
+-
+Full metadata filtering and diversity- restrict query results with strings, numerical values, allow lists, and deny lists; enforce diversity with crowding tags
+Get started with Vector Search and Feature Store
+If you’re looking to improve your customer experience with real-time personalization, a combination of Vertex AI’s Vector Search and Feature Store is the right choice. We continue to invest in these services because they are foundational components to many production AI workloads, and are used in many deployments across Google, and Lowe’s!
+To get started with Vertex AI Vector Search, check out these additional resources:
+-
+See the Vertex AI Vector Search quickstart to learn how to create, deploy, and query an index
+-
+Read our recent blog post, What is Multimodal Search: “LLMs with vision” change businesses, to learn how Vector Search can be used for multimodal search
+-
+Access hands-on tutorials for deploying, tuning, and serving Vector Search indexes with notebook tutorials and the Vector Search documentation
+To get started with Vertex AI Feature Store, check out these additional resources:
+-
+For a conceptual introduction, see Introduction to feature management in Vertex AI
+-
+Learn about our latest product features and roadmap in New Vertex AI Feature Store built with BigQuery, ready for predictive and generative AI
+-
+Access hands-on code tutorials for different use cases in our notebook tutorials
+And to learn more about what happens when using these together, see Enabling real-time AI with Streaming Ingestion in Vertex AI.
+The team would like to acknowledge the contributions Google Cloud retail AI specialiast Jordan Totten.

@@ -1,0 +1,36 @@
+The aerospace industry is undergoing a profound transformation, and at Airbus, we're at the forefront, driving innovation from design and manufacturing to operations. A key catalyst in this evolution is digital twin technology, which is revolutionising how we conceive, build, and maintain aircraft. But what are digital twins, and how are they reshaping the future of flight?
+As the aerospace industry ramps up to meet global demand, Airbus is embracing a digital-first strategy across all facets of its business. This commitment extends to the design, manufacture, and operation of our current and future portfolio of aeronautical products. Our goal is clear: to accelerate product development, enhance environmental performance, and elevate safety standards.
+What are digital twins?
+Central to this vision are digital twins. A digital twin is more than just a digital model; it's a dynamic, living virtual replica of a physical object, process, or system. This sophisticated technology integrates data from design, production, and in-service operations, providing a continuous, real-time reflection of its real-world counterpart.
+By harnessing the power of advanced analytics, simulation, and artificial intelligence, digital twins empower Airbus teams to optimise processes at every stage of the product lifecycle. From initial design and manufacturing to ongoing operations and predictive maintenance, digital twin technology is transforming aerospace.
+A data-driven approach at every stage of the product development
+The data-driven approach is being implemented across all Airbus divisions. From the Eurodrone and Future Combat Air System (FCAS) at Airbus Defence and Space, to groundbreaking programs at Airbus Helicopters, and across our Commercial Aircraft business with the A320 and A350 families, digital twinning is making a difference.
+Our teams are working towards “end-to-end digitalisation”, transforming how we work. This involves making all information about our aircraft, their production, and maintenance systems readily accessible in digital form, using detailed 3D models and precise descriptions of their functions and behaviours. Achieving full digitisation requires a unified approach to digital architecture, leveraging secure and reliable platforms like Dassault Systèmes' 3DXperience and SAP.
+Designing with unprecedented confidence
+In the early stages of product development, digital twins are a game-changer. They enable our engineering teams to simulate aircraft behaviour under a multitude of real-world scenarios, using physics-based models. This capability significantly reduces the need for physical prototypes, accelerating time to market and enhancing design accuracy and performance validation. For example, on the A320 family "heads of versions" – the first aircraft in a series with identical specifications for a given customer – the use of 3D data as a master and automation is significantly reducing quality issues and shortening design and production lead times.
+Digital twins also play a crucial role in the design of industrial tools. By creating virtual representations of future manufacturing lines and simulating product flow, we can optimise operations with precision. A prime example is the refurbishment of the former Jean-Luc Lagardère A380 building for new A321 assembly lines, where detailed industrial flow simulations and 3D modeling were essential.
+Smarter, more agile manufacturing
+Digital twin models are revolutionising our production systems. By simulating tools, robots, workflows, and supply chains, we can predict how designs will perform under various conditions, boosting efficiency and minimising paperwork. We're also using connected devices, such as tablets and smartglasses, to provide virtual training for operators before they even step onto the shop floor.
+Within our factories, industrial digital twins use machine data to monitor logistics flows and production processes, and to anticipate maintenance needs. At Hangar 9 in Hamburg and in the Gearbox manufacturing line for our Helicopters in Marignane, production progress is automatically tracked in real-time and compared with theoretical plans. At the Saint-Eloi plant in Toulouse, data from drilling and milling machines helps us detect quality deviations, predict breakdowns, and schedule maintenance proactively. In Illescas, monitoring parameters like speed, pressure, temperature, and humidity allows us to identify quality issues at a composite draping station.
+Predictive maintenance for enhanced operations
+The power of digital twins extends far beyond the factory floor. Once an aircraft is in service, its digital twin continues to evolve, providing invaluable insights for maintenance and operations. Today, over 12,000 aircraft are connected to the Skywise platform, where real-time data from sensors throughout the aircraft feeds their virtual twins.
+This data-driven information empowers more than 50,000 users worldwide to develop models that predict wear, optimise maintenance schedules, reduce downtime, and extend component life. This proactive approach to fleet management ensures greater availability, safety, and customer satisfaction throughout the aircraft's lifecycle. So, what is a digital twin's role in the future?
+Shaping the future of aerospace with digital twins
+Digital twins are a cornerstone of our digital transformation, enabling Airbus to deliver more innovative, sustainable, and high-performing solutions at an unprecedented pace. From the initial design concept to the final flight, we're effectively building each aircraft twice: first in the digital world, and then in the real one. This is the power of digital twin technology, and it's shaping the future of aerospace.
+Discover more Innovation news
+Continue Reading
+How Airbus is pioneering aircraft manufacturing with Titanium 3D printing
+Web Story
+Innovation
+From the A350 to future aircraft, see how Airbus is revolutionising manufacturing with w-DED titanium 3D printing for lighter, more agile aircraft design.Recycled and ready
+Web Story
+Innovation
+Expanding 5G connectivity with the Airbus UpNext SpaceRAN demonstrator
+Web Story
+Innovation
+Driving innovation at Airbus Helicopters
+Web Story
+Helicopters
+Airbus and partners complete successful wake energy retrieval trials
+Press Release
+Innovation

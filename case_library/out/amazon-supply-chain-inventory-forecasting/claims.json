@@ -1,0 +1,854 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "AI reduces logistics costs by 15%",
+      "claim_description": "Companies using AI in supply chain management have achieved a 15% reduction in logistics costs through predictive analytics, route optimization, and automated decision-making.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "According to a McKinsey report, companies using AI have reduced logistics costs by 15%, improved inventory levels by 35%, and enhanced service levels by 65%.",
+      "quote_location": "Section: Unlocking Competitive Advantage with AI-Driven Supply Chains",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The claim explicitly attributes the 15% logistics cost reduction to companies using AI in their supply chain operations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "15",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "AI improves inventory levels by 35%",
+      "claim_description": "AI-enabled supply chain management has resulted in a 35% improvement in inventory levels through predictive demand forecasting and automated inventory optimization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "According to a McKinsey report, companies using AI have reduced logistics costs by 15%, improved inventory levels by 35%, and enhanced service levels by 65%.",
+      "quote_location": "Section: Unlocking Competitive Advantage with AI-Driven Supply Chains",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The improvement in inventory levels is directly attributed to companies using AI in their supply chain operations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "35",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "AI enhances service levels by 65%",
+      "claim_description": "Companies implementing AI in supply chain management have achieved a 65% enhancement in service levels through improved demand forecasting, logistics optimization, and proactive risk management.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "According to a McKinsey report, companies using AI have reduced logistics costs by 15%, improved inventory levels by 35%, and enhanced service levels by 65%.",
+      "quote_location": "Section: Unlocking Competitive Advantage with AI-Driven Supply Chains",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 65% service level enhancement is explicitly attributed to companies using AI in supply chain operations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "65",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Amazon AI forecasts demand for 400 million products during peak seasons",
+      "claim_description": "Amazon's AI systems perform predictive analytics to forecast daily demand for over 400 million products during peak seasons, enabling optimized inventory management and fulfillment.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Amazon uses AI systems to forecast daily demand of over 400 million products during peak seasons.",
+      "quote_location": "Section: Technology-Driven Supply Chain Optimization",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The demand forecasting capability is directly attributed to Amazon's AI systems.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "400000000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Amazon AI-driven supply chain increases efficiency by 75%",
+      "claim_description": "Amazon is projected to increase supply chain efficiency by 75% through AI integration including machine learning, predictive analytics, and robotics for fulfillment, inventory management, and logistics.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Amazon is projected to increase the efficiency of its supply chain by an astounding 75%, with AI playing a central role in this transformation.",
+      "quote_location": "Introduction section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 75% efficiency increase is explicitly attributed to AI playing a central role in supply chain transformation.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "75",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Amazon AI enabled swift pandemic response and maintained service levels",
+      "claim_description": "During COVID-19, Amazon's AI models enabled rapid supply chain adjustments including inventory reallocation and shipment rerouting, maintaining service levels while competitors struggled.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "During the COVID-19 pandemic, Amazon's AI models enabled swift adjustments to supply chain disruptions. By reallocating inventory and rerouting shipments, the company maintained service levels while competitors struggled.",
+      "quote_location": "S1: Section Amazon's AI Supply Chain in Action",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The ability to maintain service levels during pandemic disruptions is directly attributed to Amazon's AI models enabling swift adjustments.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "risk_avoidance",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "AI-powered dynamic route planning reduces transit times and costs",
+      "claim_description": "Amazon's AI-powered logistics systems enable dynamic route planning that adjusts in real-time based on traffic, weather, and other factors, reducing both transit times and transportation costs.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "Dynamic route planning and AI-powered logistics reduced transit times and costs.",
+      "quote_location": "S1: Section Amazon's AI Supply Chain in Action",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The reduction in transit times and costs is directly attributed to AI-powered logistics and dynamic route planning.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI predictive tools monitor supplier performance and flag risks",
+      "claim_description": "Amazon's AI predictive tools continuously monitor supplier performance, flag potential risks, and suggest alternative sources before disruptions materialize, reducing downtime and enhancing resilience.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Predictive tools monitor supplier performance, flagging potential risks and suggesting alternative sources before disruptions materialize. This proactive approach reduces downtime and enhances resilience.",
+      "quote_location": "Section: Amazon's AI Supply Chain in Action",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The supplier risk monitoring and proactive risk mitigation is directly attributed to AI predictive tools.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "AI analyzes vast datasets in real-time for demand anticipation",
+      "claim_description": "Amazon's AI systems analyze vast datasets in real-time including sales trends, weather patterns, social media sentiment, and economic indicators to anticipate demand fluctuations and optimize inventory.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "Amazon's AI systems analyze vast datasets in real-time, incorporating factors like sales trends, weather patterns, social media sentiment, and economic indicators.",
+      "quote_location": "S1: Section Amazon's AI Supply Chain in Action",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The real-time analysis and demand anticipation capability is directly attributed to Amazon's AI systems.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Machine learning algorithms optimize inventory and replenishment",
+      "claim_description": "Amazon employs machine learning algorithms that continuously analyze supply chain data to optimize stock levels, reorder points, and replenishment strategies, ensuring inventory aligns with current demand.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Machine Learning Algorithms: These algorithms continuously analyze data from across the supply chain to optimize stock levels, reorder points, and replenishment strategies.",
+      "quote_location": "Section: Automated Inventory Management",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The inventory optimization capabilities are directly attributed to machine learning algorithms.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "AI-equipped robots optimize warehouse operations",
+      "claim_description": "Amazon uses robotic process automation with AI algorithms to manage goods movement within warehouses, optimizing layout and retrieval processes, reducing pick-and-pack time, and increasing efficiency.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Robotic Process Automation (RPA): Robots equipped with AI algorithms manage the movement of goods within warehouses, optimizing the layout and retrieval processes. This reduces the time it takes to pick and pack items.",
+      "quote_location": "Section: Automated Inventory Management",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The warehouse optimization and efficiency gains are directly attributed to robots equipped with AI algorithms.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-012",
+      "claim_title": "AI enables load balancing to prevent bottlenecks",
+      "claim_description": "Amazon's AI algorithms analyze goods flow through the logistics network and automatically adjust distribution to prevent bottlenecks, ensuring faster and more reliable deliveries.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Load Balancing: AI algorithms analyze the flow of goods through the logistics network and automatically adjust the distribution of goods to prevent bottlenecks.",
+      "quote_location": "Section: Logistics Optimization and Route Planning",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The load balancing capability that prevents bottlenecks is directly attributed to AI algorithms.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Amazon is the world's largest online retailer",
+      "claim_description": "Amazon has established itself as the world's largest online retailer with a vast global customer base and extensive e-commerce operations.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Amazon's rise to become the world's largest online retailer has been driven, in large part, by its ability to revolutionize supply chain management.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "scale",
+      "claim_title": "Amazon handles millions of products and orders daily",
+      "claim_description": "Amazon's supply chain manages millions of products from thousands of suppliers and processes millions of orders daily across a global customer base.",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "source_quote": "With millions of products, thousands of suppliers, and a global customer base, the company faces challenges that few others can match.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Amazon operates over 175 fulfillment centers worldwide",
+      "claim_description": "As of 2021, Amazon operates over 175 fulfillment centers worldwide, spanning millions of square feet for warehousing and distribution.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "As of 2021, Amazon operates over 175 fulfillment centers worldwide, spanning millions of square feet.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "temporal",
+      "claim_title": "Amazon's net sales reached $386 billion in 2020",
+      "claim_description": "According to Statista, Amazon's net sales reached $386 billion in 2020, highlighting the scale of its operations and customer base.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "According to a report by Statista, Amazon's net sales reached $386 billion in 2020, highlighting the scale of its operations and customer base.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "AI applied to demand forecasting",
+      "claim_description": "Amazon applies AI and machine learning to demand forecasting, analyzing sales data, social media trends, economic indicators, and weather patterns to predict future demand.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "source_quote": "AI and Machine Learning: Predictive analytics for demand forecasting and inventory optimization.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10403",
+      "apqc_name": "Perform demand planning",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "functional",
+      "claim_title": "AI applied to inventory optimization",
+      "claim_description": "Amazon uses AI for inventory optimization across warehouses, including stock level management, reorder points, and replenishment strategies.",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "source_quote": "AI and Machine Learning: Predictive analytics for demand forecasting and inventory optimization.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10404",
+      "apqc_name": "Manage inventory",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "AI applied to logistics and route planning",
+      "claim_description": "Amazon employs AI for logistics optimization including dynamic route planning, load balancing, and real-time adjustments based on traffic and weather conditions.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "Dynamic Route Planning: Using AI, Amazon can adjust delivery routes in real time based on traffic conditions, weather, and other factors.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10406",
+      "apqc_name": "Manage logistics and warehousing",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "functional",
+      "claim_title": "AI applied to supplier risk management",
+      "claim_description": "Amazon uses AI predictive tools to monitor supplier performance, identify potential risks, and suggest alternative sources proactively.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Predictive tools monitor supplier performance, flagging potential risks and suggesting alternative sources before disruptions materialize.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10402",
+      "apqc_name": "Manage supply chain partners and relationships",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "strategic_intent",
+      "claim_title": "Customer-centric supply chain design",
+      "claim_description": "Amazon's supply chain strategy is fundamentally customer-centric, prioritizing fast delivery, flexible options, easy returns, and superior customer experience.",
+      "source_ids": [
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Amazon's supply chain success can be attributed to its relentless focus on meeting customer needs and expectations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "products_services",
+      "claim_title": "Amazon Prime membership drives delivery expectations",
+      "claim_description": "Amazon Prime membership creates customer expectations for fast, often next-day delivery, and the supply chain is built to support these service level commitments.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Prime membership: With Prime, customers expect fast, often next-day delivery and Amazon's supply chain is built to support this expectation.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "temporal",
+      "claim_title": "COVID-19 pandemic created supply chain disruptions",
+      "claim_description": "The COVID-19 pandemic caused significant supply chain disruptions including surging demand for essential goods, requiring rapid adaptation and resource reallocation.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "During the COVID-19 pandemic, Amazon's AI systems were able to rapidly reallocate resources, adjust inventory levels, and reroute shipments to meet surging demand for essential goods.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "sectoral",
+      "claim_title": "E-commerce and retail sector",
+      "claim_description": "Amazon operates in the e-commerce and retail sector, managing online sales and physical delivery of consumer products globally.",
+      "source_ids": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "source_quote": "Amazon's supply chain management model offers valuable lessons for businesses across industries.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "strategic_intent",
+      "claim_title": "Sustainability commitment in supply chain",
+      "claim_description": "Amazon has committed to sustainability goals including making 50% of shipments net-zero carbon by 2030 and transitioning to electric delivery vehicles.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Shipment Zero: Initiative to make 50% of shipments net-zero carbon by 2030.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "organisational",
+      "claim_title": "Amazon Web Services supports supply chain technology",
+      "claim_description": "Amazon Web Services (AWS) is crucial to Amazon's technology infrastructure and also provides cloud-based tools for supply chain management to other businesses.",
+      "source_ids": [
+        "S5"
+      ],
+      "source_quote": "Cloud computing: Amazon Web Services (AWS) is crucial not only to Amazon's technology stack but also to help other businesses improve their supply chain operations.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

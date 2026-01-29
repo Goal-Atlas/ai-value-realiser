@@ -1,0 +1,872 @@
+---
+case_id: moloco-ghost-bidding-incrementality-platform
+organisation: Moloco
+title: AI-Powered Performance Advertising and Incrementality Platform
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.moloco.com/blog/selling-certainty-in-uncertain-times
+  url: https://www.moloco.com/blog/selling-certainty-in-uncertain-times
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.moloco.com/press-releases/advertising-beyond-google-and-meta
+  url: https://www.moloco.com/press-releases/advertising-beyond-google-and-meta
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://www.businesswire.com/news/home/20250812801294/en/Moloco-Research-Uncover...
+  url: https://www.businesswire.com/news/home/20250812801294/en/Moloco-Research-Uncovers-Substantial-Growth-Opportunities-for-Mobile-App-Advertising-Beyond-Google-and-Meta
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.airbridge.io/blog/airbridge-ctv-interview-moloco-ad-efficiency-and-m...
+  url: https://www.airbridge.io/blog/airbridge-ctv-interview-moloco-ad-efficiency-and-mobile-app-performance
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 400% ROAS achieved by advertisers using Moloco ML platform
+  claim_description: Moloco's machine learning platform powered advertisers to achieve
+    a 400% return on ad spend (ROAS) with precision, leveraging real-time inferences
+    and first-party data.
+  source_ids:
+  - S1
+  source_quote: Enter retail media networks (RMNs)—uniquely positioned to sell not
+    just ad space, but outcomes like a 400% return on ad spend (ROAS) or even a cost-per-order
+    (CPO). At Moloco, our machine learning platform has powered advertisers to hit
+    these targets with precision
+  quote_location: Introduction section
+  ai_attribution: direct
+  attribution_evidence: The claim explicitly states that Moloco's machine learning
+    platform powered advertisers to achieve the 400% ROAS outcome.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw:
+    value: '400'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 3x higher ROAS vs. legacy RMNs with static ad models
+  claim_description: Moloco's predictive engine adjusts campaigns in real-time, boosting
+    bids for high-intent users and dialing back on tire-kickers, delivering 3x higher
+    ROAS compared to legacy retail media networks with static ad models.
+  source_ids:
+  - S1
+  source_quote: Moloco's predictive engine adjusts campaigns on the fly—boosting bids
+    for high-intent users, dialing back on tire-kickers—delivering 3x higher ROAS
+    vs. legacy RMNs with static ad models.
+  quote_location: Section on proximity to purchase
+  ai_attribution: direct
+  attribution_evidence: The claim directly attributes the 3x higher ROAS to Moloco's
+    predictive engine and its real-time campaign adjustment capabilities.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - automation
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw:
+    value: '3'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: ratio
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: 214% improvement in ROAS by diversifying ad spend beyond Google and
+    Meta
+  claim_description: Return on Ad Spend improved by as much as 214% (Day 30) for consumer
+    mobile app marketers who diversified their media mix to include channels outside
+    Google and Meta, using Moloco's platform.
+  source_ids:
+  - S2
+  source_quote: Return on Ad Spend (ROAS) improved by as much as 214% (Day 30) for
+    consumer mobile app marketers who diversified their media mix to include channels
+    outside Google and Meta.
+  quote_location: Key findings section
+  ai_attribution: contributing
+  attribution_evidence: While the claim is about diversification strategy, Moloco's
+    AI platform enables the execution and optimization of campaigns across these diversified
+    channels, contributing to the outcome.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw:
+    value: '214'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: 253% to 1,609% incremental ROAS through AI-native incrementality testing
+  claim_description: Ghost bidding with AI-native incrementality testing delivered
+    proven incremental ROAS results ranging from 253% to 1,609% for retail media campaigns.
+  source_ids:
+  - S1
+  source_quote: Ghost bidding reveals true retail media ROI. See how AI-native incrementality
+    testing delivers proven results from 253% to 1,609% incremental ROAS.
+  quote_location: Related content section
+  ai_attribution: direct
+  attribution_evidence: The claim explicitly attributes the incremental ROAS results
+    to AI-native incrementality testing and ghost bidding technology.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - optimization
+  - innovation
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw:
+    value: 253-1609
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: 93-96% completion rates for CTV in-stream video ads
+  claim_description: In-stream video ads within AVOD, FAST, and live TV content delivered
+    completion rates as high as 93-96%, demonstrating high engagement through Moloco's
+    CTV advertising platform.
+  source_ids:
+  - S4
+  source_quote: Most of the strong results come from in-stream video ads within AVOD,
+    FAST, and live TV content. These formats are non-skippable, with completion rates
+    as high as 93–96%.
+  quote_location: Ad format section
+  ai_attribution: contributing
+  attribution_evidence: While completion rates are influenced by non-skippable format,
+    Moloco's AI platform optimizes targeting and bidding to maximize engagement and
+    performance outcomes.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - experience
+  cognitive_depth: predictive
+  metric_raw:
+    value: 93-96
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Real-time ML optimization at millisecond-level for campaign performance
+  claim_description: Moloco's ML platform optimizes for outcomes in real time at campaign/SKU
+    level through millisecond-level decisions and continuous learning, adapting to
+    shifting shopper behavior instantly to maintain performance.
+  source_ids:
+  - S1
+  source_quote: Moloco's ML optimizes for outcomes in real time, at a campaign/SKU
+    level, delivering unparalleled returns for advertisers. Through millisecond-level
+    decisions and continuous learning, our platform adapts to shifting shopper behavior
+    instantly
+  quote_location: Conclusion section
+  ai_attribution: direct
+  attribution_evidence: The claim directly attributes the real-time optimization capability
+    and performance maintenance to Moloco's ML platform and its millisecond-level
+    decision-making.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - automation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: autonomous
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Increased platform bookings validated through incrementality modeling
+  claim_description: Turo, a car rental marketplace app, achieved an increase in platform
+    bookings after expanding channels beyond social partners, validated through incrementality
+    modeling using Moloco's platform.
+  source_ids:
+  - S2
+  source_quote: Since expanding our channels beyond social partners, we've seen an
+    increase in platform bookings that we have been able to validate through incrementality
+    modeling, said Valerie Castro, Acquisition Marketing Director at Turo
+  quote_location: Customer testimonial section
+  ai_attribution: contributing
+  attribution_evidence: Moloco's platform enabled channel expansion and provided incrementality
+    modeling capabilities that validated the booking increases, contributing to the
+    outcome.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - business_growth
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Strong conversion efficiency for sports betting app during major season
+  claim_description: A leading sports betting app achieved strong conversion efficiency
+    during a major sports season using geo-targeted campaigns and CTV's clean ad environment
+    through Moloco CTV platform.
+  source_ids:
+  - S4
+  source_quote: A leading sports betting app achieved strong results with geo-targeted
+    campaigns and CTV's clean ad environment. During a major sports season, they achieved
+    strong conversion efficiency, demonstrating how scalable and performance-driven
+    CTV has become.
+  quote_location: Success stories section
+  ai_attribution: direct
+  attribution_evidence: The claim attributes the strong conversion efficiency to campaigns
+    executed through Moloco's CTV platform with geo-targeting capabilities.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - revenue_lift
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-009
+  claim_title: Highly efficient user acquisition costs for PC/console game publisher
+  claim_description: A leading Chinese game publisher ran UA campaigns for PC/console
+    titles with Moloco CTV, reaching high-value users at highly efficient costs.
+  source_ids:
+  - S4
+  source_quote: A leading Chinese game publisher also ran UA campaigns for PC/console
+    titles with Moloco CTV, reaching high-value users at highly efficient costs.
+  quote_location: Success stories section
+  ai_attribution: direct
+  attribution_evidence: The claim directly attributes the efficient user acquisition
+    costs to campaigns run through Moloco CTV platform.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - cost_reduction
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-010
+  claim_title: Significant growth for Cookie Run India launch through CTV and mobile
+    DSP integration
+  claim_description: Krafton leveraged Moloco CTV for upper- and mid-funnel reach
+    while mobile DSPs captured lower-funnel conversions, driving significant growth
+    for the Cookie Run India launch in the Indian market.
+  source_ids:
+  - S4
+  source_quote: For instance, Krafton leveraged Moloco CTV to support the launch of
+    'Cookie Run India' in the Indian market. They used CTV for upper- and mid-funnel
+    reach, while mobile DSPs captured lower-funnel conversions, driving significant
+    growth.
+  quote_location: Success stories section
+  ai_attribution: direct
+  attribution_evidence: The claim directly attributes the significant growth to the
+    integrated use of Moloco CTV and mobile DSP platforms for the game launch.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - business_growth
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Global ad spend to eclipse $1 trillion in 2025
+  claim_description: According to GroupM's 2025 forecast, global ad spend will exceed
+    $1 trillion for the first time in 2025, representing a 5.8% increase from 2024.
+  source_ids:
+  - S1
+  source_quote: According to GroupM's 2025 forecast, global ad spend will eclipse
+    $1 trillion this year for the first time, a modest 5.8% increase from 2024
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Retail media projected to reach $141 billion globally in 2025
+  claim_description: Retail media is projected to reach $141 billion globally in 2025,
+    up 18% year-over-year, eating share from social and display advertising.
+  source_ids:
+  - S1
+  source_quote: Retail media, projected to reach $141 billion globally in 2025, is
+    eating share from social and display—up 18% year-over-year—because it's tethered
+    to transactions.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: U.S. tariffs on Chinese goods creating macroeconomic uncertainty
+  claim_description: U.S. tariffs on Chinese goods are climbing higher with potential
+    for price increases and supply chain disruptions, creating macroeconomic uncertainty
+    affecting advertising budgets.
+  source_ids:
+  - S1
+  source_quote: With U.S. tariffs on Chinese goods climbing higher, potential for
+    price increases, supply chain snarls persisting, and macroeconomic uncertainty,
+    marketers are on edge.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: sectoral
+  claim_title: Digital advertising accounts for 78% of total US ad spend
+  claim_description: Digital advertising now accounts for 78% of total US ad spend
+    and is growing at 7.1%, while traditional channels like TV and print lag at 2.3%.
+  source_ids:
+  - S1
+  source_quote: digital, which now accounts for 78% of total US ad spend, is growing
+    at 7.1%, while traditional channels like TV and print lag at 2.3%.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: Moloco founded in 2013 by machine learning engineers
+  claim_description: Moloco was founded in 2013 by a team of machine learning engineers
+    and has offices across the U.S., U.K., Germany, Korea, China, India, Japan, and
+    Singapore.
+  source_ids:
+  - S2
+  source_quote: Founded in 2013 by a team of machine learning engineers, Moloco has
+    offices across the U.S., the U.K., Germany, Korea, China, India, Japan, and Singapore.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: products_services
+  claim_title: Moloco offers three main product solutions
+  claim_description: Moloco offers Moloco Ads for mobile app user acquisition, Commerce
+    Media for retailers/marketplaces, and Streaming Monetization for streaming platforms.
+  source_ids:
+  - S2
+  source_quote: Moloco Ads is an AI-powered platform that delivers real business outcomes
+    for mobile app marketers through performance-based user acquisition. Moloco's
+    Commerce Media and Streaming Monetization solutions enable retailers, marketplaces,
+    and streaming platforms
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: sectoral
+  claim_title: 88% of mobile app advertising spend concentrated with Google and Meta
+  claim_description: Despite shifting consumer attention to millions of mobile apps,
+    88% of mobile marketing spend remains highly concentrated with Google and Meta.
+  source_ids:
+  - S2
+  source_quote: mobile marketing spend remains highly concentrated with Google and
+    Meta which today attract 88% of consumer mobile app advertising dollars.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: sectoral
+  claim_title: Consumer mobile app revenue reached $70.5 billion in 2024
+  claim_description: Consumer mobile apps experienced significant revenue growth in
+    2024, with in-app purchase and subscription revenues rising 25% to reach $70.5
+    billion.
+  source_ids:
+  - S2
+  source_quote: Consumer mobile apps, including all mobile app categories outside
+    of gaming, such as entertainment, finance, delivery, and more, have experienced
+    significant revenue growth in 2024, with in-app purchase (IAP) and subscription
+    revenues rising 25% to reach $70.5 billion.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: scale
+  claim_title: Independent app ecosystem reaches over 2 billion daily active users
+  claim_description: The independent app ecosystem delivers over two billion daily
+    active users (DAU), matching the combined reach of TikTok and Instagram.
+  source_ids:
+  - S2
+  source_quote: Independent apps potentially reach as many users as TikTok and Instagram
+    combined. With over two billion daily active users (DAU), the independent app
+    ecosystem delivers the same level of reach and user engagement as TikTok and Instagram
+    combined.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: sectoral
+  claim_title: YouTube CTV viewership surpassed mobile in 2025
+  claim_description: YouTube's Connected TV viewership has already surpassed mobile
+    viewership, indicating a major shift in user attention to CTV platforms.
+  source_ids:
+  - S4
+  source_quote: YouTube's CTV viewership has already surpassed mobile, underscoring
+    this trend.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: functional
+  claim_title: Marketing and advertising function focus
+  claim_description: Moloco's solutions primarily serve the marketing and advertising
+    function, enabling performance-based user acquisition and retail media monetization.
+  source_ids:
+  - S1
+  - S2
+  - S4
+  source_quote: Moloco is the AI engine for growth helping businesses across the digital
+    economy. Built with AI from day one, Moloco's planet-scale machine learning platform
+    powers a suite of solutions for advertising growth and monetization.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '3.0'
+  apqc_name: Market and Sell Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: strategic_intent
+  claim_title: Focus on outcome-based advertising in uncertain economic times
+  claim_description: Moloco's strategic positioning emphasizes selling certainty through
+    outcome-based advertising (ROAS, CPO) rather than impression-based models, particularly
+    valuable during economic uncertainty.
+  source_ids:
+  - S1
+  source_quote: In uncertain times, this pro-cyclicality sharpens. During the 2008
+    recession, U.S. ad spend dropped nearly 18%, with discretionary channels like
+    newspapers hit hardest (-27%), while performance-driven search ads held steady.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: temporal
+  claim_title: Research study conducted January-December 2024
+  claim_description: The Moloco research study on mobile app advertising beyond Google
+    and Meta covered the timeframe of January-December 2024 across 13 countries.
+  source_ids:
+  - S2
+  source_quote: The report covers countries including Australia, Brazil, Canada, France,
+    Germany, India, Indonesia, Japan, Mexico, South Korea, the United Kingdom, the
+    United States, and Vietnam within the timeframe of January-December 2024.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: scale
+  claim_title: Research based on over $5 billion in ad spend analysis
+  claim_description: The research methodology included Singular's meta-analysis of
+    over $5 billion in ad spend across 2,000 gaming and consumer apps.
+  source_ids:
+  - S2
+  source_quote: Singular's meta-analysis of over $5 billion in ad spend and 2,000
+    gaming and consumer apps, comparing spend on mostly Google and Meta vs. diversified
+    spend across both major platforms and the independent app ecosystem.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-015
+  context_type: sectoral
+  claim_title: CTV ad market experiencing steep growth in 2025
+  claim_description: The Connected TV ad market is experiencing steep growth in 2025
+    driven by global streaming adoption and emerging success stories.
+  source_ids:
+  - S4
+  source_quote: With global streaming adoption on the rise and more success stories
+    emerging, the CTV ad market is experiencing steep growth in 2025.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 10
+    verified: 8
+    needs_review: 2
+    rejected: 0
+    by_attribution:
+      direct: 7
+      contributing: 3
+  context_claims:
+    total: 15
+    verified: 14
+    unverified: 1
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-Powered Performance Advertising and Incrementality Platform
+
+## Executive Summary
+
+Moloco: 400% ROAS achieved by advertisers using Moloco ML platform.
+
+## Key Findings
+
+- **400% ROAS achieved by advertisers using Moloco ML platform** — verified (outcome)
+  - Quote: "Enter retail media networks (RMNs)—uniquely positioned to sell not just ad space, but outcomes like a 400% return on ad spend (ROAS) or even a cost-per-order (CPO). At Moloco, our machine learning pla..."
+
+- **3x higher ROAS vs. legacy RMNs with static ad models** — verified (outcome)
+  - Quote: "Moloco's predictive engine adjusts campaigns on the fly—boosting bids for high-intent users, dialing back on tire-kickers—delivering 3x higher ROAS vs. legacy RMNs with static ad models."
+
+- **214% improvement in ROAS by diversifying ad spend beyond Google and Meta** — verified (outcome)
+  - Quote: "Return on Ad Spend (ROAS) improved by as much as 214% (Day 30) for consumer mobile app marketers who diversified their media mix to include channels outside Google and Meta."
+
+- **253% to 1,609% incremental ROAS through AI-native incrementality testing** — verified (outcome)
+  - Quote: "Ghost bidding reveals true retail media ROI. See how AI-native incrementality testing delivers proven results from 253% to 1,609% incremental ROAS."
+
+- **93-96% completion rates for CTV in-stream video ads** — verified (outcome)
+  - Quote: "Most of the strong results come from in-stream video ads within AVOD, FAST, and live TV content. These formats are non-skippable, with completion rates as high as 93–96%."
+
+- **Real-time ML optimization at millisecond-level for campaign performance** — verified (method)
+  - Quote: "Moloco's ML optimizes for outcomes in real time, at a campaign/SKU level, delivering unparalleled returns for advertisers. Through millisecond-level decisions and continuous learning, our platform ada..."
+
+- **Increased platform bookings validated through incrementality modeling** — needs_review (method)
+  - Quote: "Since expanding our channels beyond social partners, we've seen an increase in platform bookings that we have been able to validate through incrementality modeling, said Valerie Castro, Acquisition Ma..."
+
+- **Strong conversion efficiency for sports betting app during major season** — verified (method)
+  - Quote: "A leading sports betting app achieved strong results with geo-targeted campaigns and CTV's clean ad environment. During a major sports season, they achieved strong conversion efficiency, demonstrating..."
+
+- **Highly efficient user acquisition costs for PC/console game publisher** — verified (method)
+  - Quote: "A leading Chinese game publisher also ran UA campaigns for PC/console titles with Moloco CTV, reaching high-value users at highly efficient costs."
+
+- **Significant growth for Cookie Run India launch through CTV and mobile DSP integration** — needs_review (method)
+  - Quote: "For instance, Krafton leveraged Moloco CTV to support the launch of 'Cookie Run India' in the Indian market. They used CTV for upper- and mid-funnel reach, while mobile DSPs captured lower-funnel conv..."
+
+## Sources
+
+- **S1**: https://www.moloco.com/blog/selling-certainty-in-uncertain-times
+- **S2**: https://www.moloco.com/press-releases/advertising-beyond-google-and-meta
+- **S3**: https://www.businesswire.com/news/home/20250812801294/en/Moloco-Research-Uncovers-Substantial-Growth-Opportunities-for-Mobile-App-Advertising-Beyond-Google-and-Meta
+- **S4**: https://www.airbridge.io/blog/airbridge-ctv-interview-moloco-ad-efficiency-and-mobile-app-performance

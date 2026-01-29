@@ -1,0 +1,549 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Campaign performance increased by up to 200%",
+      "claim_description": "Customers using Sift Lab's AI-powered platform observed significant improvements in click-through rate (CTR) and conversion rate, resulting in campaign performance increases of up to 200%.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Customers have also observed significant improvements in click-through rate (CTR) and conversion rate, translating into increases in campaign performance of up to 200%.",
+      "quote_location": "Mid-document, performance outcomes section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Performance improvements directly attributed to AI-powered predictive analytics, automated segmentation, and ML-driven insights provided by the Sift Lab platform.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "business_growth",
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "200",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Analytics and campaign setup 10x faster",
+      "claim_description": "Marketers using Sift Lab's platform perform analytics workflows and campaign setup up to 10 times faster than before, with one client noting basket analysis that would have taken 5 months is now out-of-the-box.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Retailers using the platform have reported analytics workflows that run up to 10 times faster than before. 'The basket analysis alone would have taken us five months to build, and now it's out of the box'",
+      "quote_location": "Mid-document, time savings section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Speed improvements directly result from AI-powered automated segmentation, conversational AI (Sift Sense), and predictive analytics eliminating manual data science work.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "5-7% uplift in annual revenue across enterprise clients",
+      "claim_description": "Enterprise clients using Sift Lab's AI platform have experienced an increase in total annual revenue of 5-7%, driven by improved campaign performance and customer lifetime value optimization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Ultimately, these improvements can contribute to an increase in total revenue of 7\u201315%.",
+      "quote_location": "Header summary and mid-document outcomes section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Revenue increase is attributed to AI-driven improvements in campaign performance, CLV optimization, and ROAS, though other business factors may also contribute to total revenue growth.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "5-7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "15-30% increase in customer lifetime value (CLV)",
+      "claim_description": "Customers with marketing consent showed a 15-30% uplift in customer lifetime value through AI-powered predictive segmentation and personalized targeting enabled by Sift Lab's platform.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "An uplift of 15-30% on CLV is documented.",
+      "quote_location": "Mid-document, CLV outcomes section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CLV improvements directly result from AI-driven predictive analytics, behavioral pattern identification, and automated audience segmentation that enable personalized long-term customer relationships.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "revenue_lift",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "15-30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "40-50% improvement in return on ad spend (ROAS)",
+      "claim_description": "Clients reported up to 50% improvement in return on ad spend by exporting predictive audiences and product recommendations directly to Google Ads and other advertising platforms.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Marketers can then export predictive audiences, products or customers with any attributes directly to Google Ads and other platforms, with clients reporting up to 50% improvement in return on ad spend (ROAS).",
+      "quote_location": "Mid-document, advertising performance section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "ROAS improvements directly attributed to AI-powered predictive audience segmentation, product clustering, and automated export to advertising platforms.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "40-50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Hundreds of hours saved annually through predictive segmentation",
+      "claim_description": "One client reported that predictive segmentation alone saved them hundreds of hours per year by automating audience creation and eliminating manual data analysis work.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "According to one client, predictive segmentation alone has saved them hundreds of hours per year.",
+      "quote_location": "Mid-document, persona identification section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Time savings directly result from AI-powered automated segmentation and predictive modeling that eliminates manual audience creation and data analysis tasks.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "hundreds",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Conversational AI enables marketers to query insights without data science support",
+      "claim_description": "Sift Sense conversational AI agent, powered by Vertex AI and Gemini, enables marketers to query, interpret, and act on insights through natural language without requiring data science support or manual spreadsheet analysis.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Sift Sense uses Vertex AI and Gemini for natural-language understanding, together with proprietary predictive modeling for marketing use cases enabling marketers to query, interpret, and act on insights without data science support",
+      "quote_location": "Mid-document, Sift Sense description",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Capability is directly enabled by generative AI (Gemini) and conversational AI technology that translates natural language queries into actionable insights.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "AI-generated segment names improve data intuitiveness",
+      "claim_description": "Gemini generates intuitive names for customer segments and audiences, helping companies better understand and work with their data, as demonstrated by identifying distinct male and female customer personas for a wellness client.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "For example, we use Gemini to generate names for segments and audiences, which helps companies intuitively understand and work with their data",
+      "quote_location": "Mid-document, persona example section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Segment naming is directly generated by Gemini AI, improving data accessibility and enabling better targeting decisions such as identifying previously overlooked female customer segments.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Sift Lab is a Swedish AI company born from academic research",
+      "claim_description": "Sift Lab originated from academic research at Ume\u00e5 University's ICE Lab and is headquartered in Sweden.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The Swedish AI company, born out of academic research at Ume\u00e5 University's ICE Lab",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Sift Lab operates in the Retail and MarTech sectors",
+      "claim_description": "Sift Lab provides AI-powered marketing technology solutions primarily serving retail and e-commerce enterprise clients.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Industry: Retail",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Platform supports marketing and customer management functions",
+      "claim_description": "Sift Lab's AI platform addresses marketing campaign management, customer segmentation, and customer relationship management through predictive analytics and automation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "building an AI-powered MarTech platform that helps teams turn complex customer data into real-time marketing actions. Through predictive analytics, automated segmentation, Machine Learning, conversational AI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "products_services",
+      "claim_title": "Sift Lab platform includes predictive analytics, segmentation, and conversational AI",
+      "claim_description": "The platform combines predictive analytics, automated segmentation, conversational AI agent (Sift Sense), and integration with advertising platforms like Google Ads.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Sift Lab's self-service AI environment combines predictive analytics and insights, segmentation, and the conversational AI agent Sift Sense.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Strategic focus on lifetime value and first-party data monetization",
+      "claim_description": "Sift Lab's platform aims to help brands move beyond short-term campaign metrics to focus on customer lifetime value and monetize first-party data through advertising and new business opportunities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The shift to cloud infrastructure has really accelerated the focus on lifetime value. Companies are realizing they can monetize their first-party data, both in advertising and by creating new business opportunities.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "scale",
+      "claim_title": "Platform serves enterprise clients",
+      "claim_description": "Sift Lab's clients are described as enterprise companies with significant advertising budgets and complex customer data environments.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "5\u20137% uplift in annual revenue across enterprise clients",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "temporal",
+      "claim_title": "Future roadmap includes multi-agent automation for end-to-end campaign deployment",
+      "claim_description": "Sift Lab is expanding use of Gemini and Vertex AI to automate the entire marketing cycle through multi-agent communication, enabling campaign deployment from a single prompt.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "A multi-agent communication (MCP) server will enable different AI components, such as analytics, segmentation, and campaign setup agents, to share data and coordinate actions in real time.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Strategic partnership with Google Cloud ecosystem",
+      "claim_description": "Sift Lab has made a strategic choice to build on Google Cloud infrastructure, leveraging Google Ads integration and receiving early development support from Google.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "We've made a conscious choice to be part of the Google ecosystem. Google and Google Cloud understand marketing and the ad tech landscape better than anyone",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+About Johnson Controls
+Johnson Controls is a Fortune 500 leader in building technology with more than $25B in annual revenue. It delivers solutions across HVAC, fire protection, security, and sustainability—helping organizations operate safer, more energy-efficient buildings worldwide.
+With operations in 150+ countries and approximately 100,000 invoices processed each month, Johnson Controls runs AR at massive scale. The company supports both B2B and B2C customers and maintains a strong footprint across the United States, making speed, accuracy, and consistency in collections essential.
+Johnson Controls’ Objectives
+Johnson Controls wanted to strengthen its credit and collections operation to improve cash flow and accelerate payment timelines. Key goals included:
+- Ensuring the solution could scale globally and integrate cleanly with existing systems
+- Reducing overdue invoices and improving accounts receivable (AR) collections
+- Streamlining day-to-day AR workflows for a high-volume portfolio
+- Equipping credit teams with better tools to drive faster, more consistent payment outcomes
+Johnson Controls’ Challenges
+Before Debt Register, the team faced common AR friction points that slowed collections:
+- Customers often didn’t respond to traditional collection letters and email follow-ups
+- Limited visibility into whether messages reached the right contact—or were opened at all
+- High account volume across B2B and B2C added complexity and inconsistent outcomes
+- Manual record updates and dispute tracking created delays and operational drag
+Our Solution
+Debt Register helped Johnson Controls modernize AR outreach and improve collections performance with a scalable workflow:
+- Cloud-based platform supporting bulk uploads to save time and reduce manual work
+- Real-time engagement tracking (email opens/reads) to improve follow-up precision
+- Automated alerts highlighting potential credit-rating impact, boosting responsiveness
+- Reporting and analytics to support better prioritization and decision-making
+- Fast onboarding and training to drive adoption across the organization
+The Results
+Since implementing Debt Register, Johnson Controls achieved measurable improvements in collections and cost efficiency:
+- Before Debt Register: 20% collection rate, costing $3.6M annually
+- With Debt Register: collection rate increased to 27%, saving $1.8M annually
+- Combined (Debt Register + DCAs): total collection rate rose to 36%, increasing overall collections by $17M
+Angelica Bontea, Senior Finance Manager at Johnson Controls, shared her experience:
+“Debt Register is an incredibly flexible and fast tool that delivers results. It allows us to collect cash more effectively, saving time and reducing frustrations. The team appreciates its ease of use and the immediate impact it has on our collections process.“
+Mauricio Mustre, Global OTC Manager for Late Collections and Risk Management at Johnson Controls:
+“One of our main concerns before adopting Debt Register was if we were going to see a drop in the success rate. But quite the contrary. I think the success rate is very similar, in some cases, even higher success rate than the previous vendor we were using.“
+CRF : Fast-Track Collections Webinar
+Presented by Debt Register and the Credit Research Foundation (CRF)
+Debt Register Founder Gary Brown and board member and advisor Chris Caparon are joined by Mauricio Mustre, the Global OTC Manager for Late Collections at Johnson Controls.
+Mauricio oversees the optimization of Johnson Controls’ worldwide late-stage collections processes, ensuring efficiency, stronger performance, and improved decision-making across the organization’s AR operations.
+About the Credit Research Foundation (CRF)
+The Credit Research Foundation is a leading resource for education, benchmarking, and best practices for credit and finance professionals. Find out more about the Credit Research Foundation.

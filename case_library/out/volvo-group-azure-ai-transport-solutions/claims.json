@@ -1,0 +1,202 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Volvo Group saves 850 hours per month using Azure AI for invoice and claims processing",
+      "claim_description": "Volvo Group implemented Microsoft Azure AI and Azure AI Document Intelligence to streamline invoice and claims processes, resulting in time savings of approximately 850 employee hours monthly.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "companies like the Volvo Group using Microsoft Azure AI and Microsoft Azure AI Document Intelligence to streamline their invoice and claims process (saving Volvo employees about 850 hours a month)",
+      "quote_location": "Body paragraph 3",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The time savings are explicitly attributed to the use of Azure AI and Azure AI Document Intelligence for streamlining invoice and claims processes.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "850",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Volvo Group is the organization implementing Azure AI solutions",
+      "claim_description": "The Volvo Group is identified as the organization using Microsoft Azure AI technologies for business process improvement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "companies like the Volvo Group using Microsoft Azure AI and Microsoft Azure AI Document Intelligence",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Volvo Group operates in the transport and automotive sector",
+      "claim_description": "Volvo Group is a transport and automotive company, as evidenced by references to Volvo Trucks in the source materials.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": null,
+      "verification_status": "inferred",
+      "verification_confidence": "high",
+      "inferred_from": "Organization name 'Volvo Group' and references to 'Volvo Trucks' indicate automotive/transport sector",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Invoice processing function automated with Azure AI",
+      "claim_description": "The AI solution targets invoice processing, a finance and accounting function within the organization.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "streamline their invoice and claims process",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10404",
+      "apqc_name": "Process accounts payable (AP)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Claims processing function automated with Azure AI",
+      "claim_description": "The AI solution targets claims processing, likely related to warranty, insurance, or customer service operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "streamline their invoice and claims process",
+      "verification_status": "verified",
+      "verification_confidence": "medium",
+      "inferred_from": null,
+      "apqc_code": "10923",
+      "apqc_name": "Manage warranty and claims processing",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Volvo Group pursuing AI-driven business transformation and differentiation",
+      "claim_description": "Volvo Group is using AI as part of a broader strategy to innovate and differentiate in a competitive market where AI is becoming baseline for organizational differentiation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Innovations like generative AI are quickly becoming the baseline for how organizations differentiate. From companies like the Volvo Group using Microsoft Azure AI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "products_services",
+      "claim_title": "Microsoft Azure AI and Azure AI Document Intelligence are the AI technologies used",
+      "claim_description": "Volvo Group specifically implemented Microsoft Azure AI platform and Azure AI Document Intelligence service for their automation solution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Volvo Group using Microsoft Azure AI and Microsoft Azure AI Document Intelligence to streamline their invoice and claims process",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

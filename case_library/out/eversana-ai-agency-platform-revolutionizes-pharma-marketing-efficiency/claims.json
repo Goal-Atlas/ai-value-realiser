@@ -1,0 +1,416 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "30-minute campaign development from concept to broadcast-ready content",
+      "claim_description": "EVERSANA's AI Agency platform reduced pharma marketing campaign development time from weeks or months to just 30 minutes, enabling rapid iteration from concept to approval-ready video ads, social media content, and compliant marketing materials.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "In just 30 minutes, pharma marketing teams can use EVERSANA's AI Agency platform to iterate from concept to approval-ready video ads, social media content, and compliant marketing materials.",
+      "quote_location": "Main body, paragraph 2",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 30-minute timeframe is explicitly attributed to the AI Agency platform's capabilities, with AI agents working simultaneously across business strategy, omnichannel planning, and content creation.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "80% AI-powered platform with 20% human oversight",
+      "claim_description": "EVERSANA achieved 80% AI automation in their marketing agency platform while maintaining 20% strategic human oversight for quality assurance and precision, demonstrating high-level AI adoption in pharmaceutical marketing operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The platform is currently 80% AI-powered and maintains 20% human oversight to ensure quality and precision.",
+      "quote_location": "Main body, paragraph 3",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 80% AI-powered metric directly quantifies the extent of AI automation in the platform's operations, with explicit human oversight for quality control.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "80",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Three specialized AI agents for simultaneous multi-domain execution",
+      "claim_description": "EVERSANA deployed three master AI agents that work simultaneously across business strategy, omnichannel planning, and content creation, integrating medical, legal, and regulatory compliance from day one, replacing sequential traditional agency workflows.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EVERSANA's specialized AI agents work simultaneously across business strategy, omnichannel planning, and content creation, integrating medical, legal, and regulatory compliance from day one.",
+      "quote_location": "Main body, paragraph 2",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The specialized AI agents are explicitly described as executing business strategy, omnichannel planning, and content creation tasks simultaneously, directly enabling the transformation from sequential to parallel workflows.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "innovation"
+      ],
+      "outcome": [
+        "velocity",
+        "business_growth"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Industry-first AI Agency platform for pharmaceutical marketing",
+      "claim_description": "EVERSANA created the pharmaceutical industry's first AI-powered marketing agency platform, fundamentally reimagining pharma marketing workflows by replacing traditional sequential agency processes with simultaneous AI-driven execution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This deep integration allowed EVERSANA to create what it calls the industry's first 'AI Agency' platform, fundamentally reimagining pharmaceutical marketing from the ground up.",
+      "quote_location": "Main body, paragraph 3",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI Agency platform is explicitly described as the industry's first, with AI directly enabling the fundamental reimagination of pharmaceutical marketing processes.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "automation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Weeks-to-months campaign timeline reduced to 30 minutes",
+      "claim_description": "Traditional pharma marketing campaigns that previously took weeks or months to develop can now be completed in 30 minutes using EVERSANA's AI Agency platform, representing a dramatic acceleration in marketing velocity.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Previously, pharma marketing campaigns took weeks or months to develop, with traditional agencies executing tasks sequentially. Now...In just 30 minutes, pharma marketing teams can use EVERSANA's AI Agency platform",
+      "quote_location": "Main body, paragraph 2",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The source explicitly contrasts the previous weeks-to-months timeline with the new 30-minute capability enabled by the AI Agency platform's simultaneous agent execution.",
+      "verification_status": "needs_review",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "weeks-to-months reduced to 30 minutes",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "EVERSANA is a leading independent provider of global services to life sciences",
+      "claim_description": "EVERSANA is a full-service commercialization company serving pharmaceutical and life sciences organizations, providing integrated solutions spanning all stages of the product life cycle.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EVERSANA is a leading independent provider of global services to the life sciences industry. The company's integrated solutions are rooted in the patient experience and span all stages of the product life cycle.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Healthcare and Life Sciences industry focus",
+      "claim_description": "EVERSANA operates in the Healthcare and Life Sciences industry, specifically serving pharmaceutical organizations with commercialization and marketing services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Industry: Healthcare and Life Sciences",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "United States location",
+      "claim_description": "EVERSANA is located in the United States.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Location: United States",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Marketing and sales function",
+      "claim_description": "EVERSANA's AI Agency platform operates within the marketing and sales domain, specifically focused on pharmaceutical marketing campaign development and execution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EVERSANA transforms this process with its end-to-end, AI-powered marketing agency platform built on Google Cloud.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Transformation of pharmaceutical marketing workflows",
+      "claim_description": "EVERSANA's strategic intent was to fundamentally reimagine pharmaceutical marketing from the ground up, transforming traditional sequential agency workflows into simultaneous AI-driven execution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "This deep integration allowed EVERSANA to create what it calls the industry's first 'AI Agency' platform, fundamentally reimagining pharmaceutical marketing from the ground up.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "products_services",
+      "claim_title": "AI Agency platform for pharmaceutical marketing",
+      "claim_description": "EVERSANA's core AI product is an end-to-end AI Agency platform that enables pharmaceutical marketing teams to develop compliant marketing campaigns including video ads, social media content, and marketing materials.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "EVERSANA transforms this process with its end-to-end, AI-powered marketing agency platform built on Google Cloud.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "sectoral",
+      "claim_title": "Regulatory compliance complexity in pharmaceutical marketing",
+      "claim_description": "Pharmaceutical marketing requires balancing regulatory compliance with reaching patients and prescribers, integrating medical, legal, and regulatory requirements from day one.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Pharmaceutical marketing is notoriously complex, requiring a balance between maintaining regulatory compliance and reaching both patients and prescribers.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "temporal",
+      "claim_title": "Current state of AI platform deployment",
+      "claim_description": "The AI Agency platform is currently operational and being used by pharma marketing teams, with the platform described as 'currently 80% AI-powered'.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The platform is currently 80% AI-powered and maintains 20% human oversight to ensure quality and precision.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

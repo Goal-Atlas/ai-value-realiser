@@ -1,0 +1,75 @@
+Cloud CISO Perspectives: 27 security announcements at Next ‘25
+Phil Venables
+VP, TI Security & CISO, Google Cloud
+Archana Ramamoorthy
+Senior Director, Product Management, Google Cloud Security
+Get original CISO insights in your inbox
+The latest on security from Google Cloud's Office of the CISO, twice a month.
+SubscribeWelcome to the first Cloud CISO Perspectives for April 2025. Today, Google Cloud Security’s Peter Bailey reviews our top 27 security announcements from Next ‘25.
+As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog. If you’re reading this on the website and you’d like to receive the email version, you can subscribe here.
+--Phil Venables, strategic security advisor, Google Cloud
+27 top security announcements at Next ‘25
+By Peter Bailey, VP/GM SecOps, Google Cloud Security
+We just wrapped our annual Google Cloud Next conference in Las Vegas, where we introduced innovations across AI, app development, infrastructure, data cloud, partners, and more — including security.
+From the moment the curtain went up at our opening keynote, we showcased 229 new products, new capabilities, and new enhancements that highlight Google Cloud’s commitment to how our AI-optimized platform can help transform the way that companies work and our skyrocketing customer momentum.
+You can check out a recap of the opening keynote here. We made significant announcements with our seventh-generation TPU, Ironwood, our largest and most powerful TPU to date; three significant new AI inference enhancements; the preview availability of Gemini 2.5 Pro; bringing Gemini to on-premises environments with Google Distributed Cloud; new capabilities to build and manage multi-agent systems; new and improved scientific research tools; and improvements throughout Google Workspace, AI hypercomputer stack, networking, and application development.
+Google Unified Security brings together our visibility, threat detection, AI powered security operations, continuous virtual red-teaming, the most trusted enterprise browser, and Mandiant expertise — in one converged security solution running on a planet-scale data fabric.
+(Be sure to check out the reimagining of the Wizard of Oz at The Sphere, a collaboration between Sphere Entertainment, Google DeepMind, Google Cloud, Hollywood production company Magnopus, and five others.)
+For the first time this year, we also hosted CISO Connect at Next, a unique opportunity for security and business leaders to delve into the ever-evolving cybersecurity landscape with experts from Google on the current threat landscape, breach mitigation strategies, and the transformative potential of AI in fortifying your organization's security posture.
+"We are all solving for the same security challenges; CISO Connect offers a safe environment to collaborate and share, unlike any other conference," said Mike Orosz, CISO, Vertiv.
+We also focused heavily on innovations across our security portfolio, designed to deliver stronger security outcomes and enable every organization to make Google a part of their security team. Fresh from Next ‘25, here’s our top 27 security announcements.
+- Google Unified Security brings together our visibility, threat detection, AI powered security operations, continuous virtual red-teaming, the most trusted enterprise browser, and Mandiant expertise — in one converged security solution running on a planet-scale data fabric.
+- The alert triage agent in Google Security Operations will perform dynamic investigations on behalf of users. Expected to preview for select customers in Q2 2025, it analyzes the context of each alert, gathers relevant information, and renders a verdict on the alert, along with a history of the agent’s evidence and decision making.
+- The malware analysis agent in Google Threat Intelligence will investigate whether code is safe or harmful. Expected to preview for select customers in Q2 2025, it builds on Code Insight to analyze potentially malicious code, including the ability to create and execute scripts for deobfuscation.
+Google Security Operations
+- New data pipeline management capabilities, now generally available, can help customers better manage scale, reduce costs, and satisfy compliance mandates.
+- The new Mandiant Threat Defense service, now generally available, provides comprehensive active threat detection, hunting, and response. Mandiant experts work alongside customer security teams, using AI-assisted threat hunting techniques to identify and respond to threats, conduct investigations, and scale response through security operations SOAR playbooks, effectively extending customer security teams.
+Security Command Center
+- Model Armor is now integrated directly with Vertex AI. As part of our recently-announced AI Protection capabilities that can help manage risk across the AI lifecycle, developers can automatically route prompts and responses for protection without any changes to applications.
+- New Data Security Posture Management (DSPM) capabilities, coming to preview in June, can enable discovery, security, governance, and monitoring of sensitive data including AI training data. DSPM can help discover and classify sensitive data, apply data security and compliance controls, monitor for violations, and enforce access, flow, retention, and protection directly in Google Cloud data analytics and AI products.
+- A new Compliance Manager, launching in preview at the end of June, will combine policy definition, control configuration, enforcement, monitoring, and audit into a unified workflow. It builds on the configuration of infrastructure controls delivered using Assured Workloads, providing Google Cloud customers with an end-to-end view of their compliance state, making it easier to monitor, report, and prove compliance to auditors with Audit Manager.
+- Integration with Snyk’s developer security platform, in preview, to help teams find and fix software vulnerabilities faster.
+- New Security Risk dashboards for Google Compute Engine and Google Kubernetes Engine. Now generally available, they can deliver insights into top security findings, vulnerabilities, and open issues directly in the product consoles.
+- An expanded Risk Protection Program, with new program partners Beazley and Chubb, two of the world's largest cyber-insurers. They will provide discounted cyber-insurance coverage based on cloud security posture.
+Chrome Enterprise Premium
+- New employee phishing protections use Google Safe Browsing data to help protect employees against lookalike sites and portals attempting to capture credentials.
+- Data masking in Chrome Enterprise Premium is now generally available.
+- We are also extending key enterprise browsing protections to Android, including copy and paste controls, and URL filtering.
+Mandiant Cybersecurity Consulting
+- The Mandiant Retainer provides on-demand access to Mandiant experts. Customers now can redeem prepaid funds for investigations, education, and intelligence to boost their expertise and resilience.
+- Mandiant Consulting is partnering with Rubrik and Cohesity to create a solution to minimize downtime and recovery costs after a cyberattack. As part of the program, our partners provide affirmative AI insurance coverage, exclusively for Google Cloud customers and workloads. Chubb will also offer coverage for risks resulting from quantum exploits, proactively helping to address the risk of quantum computing attacks.
+Sovereign Cloud
+- We’ve partnered with Thales to launch the S3NS Trusted Cloud, now in preview, designed to meet France’s highest level of cloud certification. As part of our broad portfolio of sovereign cloud solutions, it is the first sovereign cloud offering based on Google Cloud platform, that is in this case operated, majority-owned and fully controlled by a European organization.
+Identity and Access Management
+- Unified access policies, coming to preview in Q2, create a single definition for IAM allow and IAM deny policies, enabling you to more consistently apply fine grained access controls.
+- Managed Workload Identities, now available in preview, lets you provision Secure Production Identity Framework For Everyone (SPIFFE)-based identities for workload to workload authentication using mutual TLS (mTLS). Workload Identity Federation with X.509 certificates is now generally available, allowing you to further strengthen your workload authentication.
+Data security
+- We're also expanding our Confidential Computing offerings. Confidential GKE Nodes with AMD SEV-SNP and Intel TDX will be generally available in Q2, requiring no code changes to secure your standard GKE workloads. Confidential GKE Nodes with NVIDIA H100 GPUs on the A3 machine series will be in preview in Q2, offering confidential GPU computing without code modifications.
+- Our Sensitive Data Protection discovery service for Vertex AI and Azure Storage is now generally available, enabling continuous data asset monitoring and integration with Security Command Center's virtual red teaming and AI Protection. We're also previewing data-in-motion scanning through Cloud Load Balancing and Secure Web Proxy, and announcing upcoming Dataplex V2 support.
+- Single-tenant Cloud Hardware Security Module (HSM), now in preview, provides dedicated, isolated HSM clusters managed by Google Cloud, while granting customers full administrative control.
+Network security
+- Network Security Integration allows enterprises to easily insert third-party network appliances and service deployments to protect Google Cloud workloads without altering routing policies or network architecture. Out-of-band integrations with ecosystem partners are generally available now, while in-band integrations are available in preview.
+- DNS Armor, powered by Infoblox Threat Defense, coming to preview later this year, uses multi-sourced threat intelligence and powerful AI/ML capabilities to detect DNS-based threats.
+- Cloud Armor Enterprise now includes hierarchical policies for centralized control and automatic protection of new projects, available in preview.
+- Cloud NGFW Enterprise supports L7 domain filtering capabilities to monitor and restrict egress web traffic to only approved destinations, coming to preview later this year.
+- Secure Web Proxy (SWP) now includes inline network data loss protection capabilities through integrations with Google’s Sensitive Data Protection and Symantec DLP using service extensions, available in preview.
+To learn more about how your organization can benefit from our announcements at Next ‘25, check out our CISO Insights Hub, and stay tuned for our announcements later this month at the RSA Conference in San Francisco.
+In case you missed it
+Here are the latest updates, products, services, and resources from our security teams so far this month:
+- Demystifying AI security: How to use SAIF in the real world: Our new paper, “SAIF in the real world," takes a deep look at how to apply Google's Secure AI Framework (SAIF) throughout the AI development lifecycle. Read more.
+- Shadow AI strikes back: Following our previous spotlight on shadow AI, we look at a new, more insidious form of shadow AI — emerging from within organizations themselves. Read more.
+- Google announces Sec-Gemini v1, a new experimental cybersecurity model: Sec-Gemini v1 is our new experimental AI model focused on advancing cybersecurity AI frontiers. It can power security operations workflows with state-of-the-art reasoning capabilities and extensive, current cybersecurity knowledge. Read more.
+- Building sovereign AI solutions with Google Cloud: The world has changed a lot since we started to speak about the options for data residency, operational transparency, and privacy controls in Google Cloud. Organizations are increasingly seeking AI solutions that drive innovation and enforce regional regulations. Here’s how Cloud Run can help. Read more.
+- Detecting IngressNightmare without the nightmare: To help detect the IngressNightmare vulnerability chain affecting Kubernetes Ingress Nginx Controllers, discovered by Wiz, we've developed a novel non-intrusive technique. Read more.
+Please visit the Google Cloud blog for more security stories published this month.
+Threat Intelligence news
+- DPRK IT workers expanding in scope and scale: Google Threat Intelligence Group (GTIG) has identified an increase of active North Korean IT insider worker operations in Europe, confirming the threat's expansion beyond the United States. This growth is coupled with evolving tactics, such as intensified extortion campaigns and the move to conduct operations in corporate virtualized infrastructure. Read more.
+- Suspected China-nexus threat actor actively exploiting critical Ivanti Connect Secure vulnerability: Ivanti disclosed a critical security vulnerability impacting many Ivanti Connect Secure VPN appliances on April 3. GTIG has linked UNC5221, a suspected China-nexus espionage actor, to some of the exploits of the vulnerability. Read more.
+- Windows RDP, going from remote to rogue: GTIG observed a novel phishing campaign in October 2024 that targeted European government and military organizations. Unlike typical remote desktop protocol (RDP) attacks focused on interactive sessions, this campaign creatively used resource redirection and malicious remote apps including a RDP proxy tool to automate malicious activities. The campaign likely enabled attackers to read victim drives, steal files, capture clipboard data (including passwords), and obtain victim environment variables. Read more.
+Please visit the Google Cloud blog for more threat intelligence stories published this month.
+Now hear this: Podcasts from Google Cloud
+- Decoding cyber-risk and threat actors in Asia-Pacific: From big-picture views to nuanced details only an expert could know, Steve Ledzian, APAC CTO, Mandiant at Google Cloud, shares his insight and knowledge with hosts Anton Chuvakin and Tim Peacock. Listen here.
+- The state of IAM, from cloud to AI: Henrique Teixeira, senior vice-president of strategy, Saviynt, explores with hosts Anton and Tim how identity and access management has evolved from the beginning of the cloud era through to today’s AI sea change. Listen here.
+- What not to do when red teaming AI: From uncovering surprises to facing new threats and exposing the same old mistakes, Alex Polyakov, CEO, Adversa AI, discusses how and why his company focuses on red teaming AI systems. Listen here.
+- Behind the Binary: Inside the mind of a binary ninja: Jordan Wiens, developer of the widely-used Binary Ninja and cofounder of Vector 35, brings his expertise as an avid CTF player to a discussion about the complexities of building a commercial reverse engineering platform. Listen here.
+To have our Cloud CISO Perspectives post delivered twice a month to your inbox, sign up for our newsletter. We’ll be back in a few weeks with more security-related updates from Google Cloud.

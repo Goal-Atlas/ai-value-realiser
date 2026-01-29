@@ -1,0 +1,22 @@
+The ability to access, analyze and use information from multiple sources has been a key factor in modernizing manufacturing, resulting in more efficient processes, and improved economic success.
+It all starts with the data. Manufacturers such as Mercedes-Benz are making these strides because they understand what kind of information they have at their disposal. This includes customer satisfaction surveys, product quality reports, or even device logs from machinery components on the production floor. They are also considering data source and quality. They know where this information coming from, internally or externally. They understand how complex, and proprietary the data is and how those impact structures when integrating them with other data sources such as SAP and Mainframes.
+Once appropriate datasets are identified, manufacturers can begin looking at ways to efficiently extract insights through analytics tools while also leveraging machine learning algorithms or Ai-driven solutions such as predictive models. These techniques allow for more accurate predictions about future outcomes based on current trends and better planning based on potential future scenarios, enabling smarter decision-making today and going forward.
+Analytics for Overall Equipment Efficiency
+Overall Equipment Efficiency (OEE) is the most widely used metric to measure how well a manufacturing facility is performing. It’s used to track the performance of individual machines, production lines, and even entire factories. At its core, OEE is a way of measuring the effectiveness of a manufacturing process by looking at three key areas: Availability, Performance, and Quality.
+Availability measures how often equipment is running and available for use
+Performance focuses on the speed of operations
+Quality looks at how many products are produced that meet specifications
+When measuring OEE, it’s important to consider several factors, such as materials and component availability, maintenance or repairs downtime, and production delays caused by manual processes. Additionally, it’s important to understand the impact that poor quality has on OEE. Defects can cause significant production delays, as well as increased costs from rework or scrap.
+One example of OEE analysis in action is at Mercedes Benz. Mercedes measures the torque force applied to wheel lugs as they’re installed in their assembly lines, then captures and reports on that for safety and regulatory compliance.
+Analytics can also be used to identify improvement in manufacturing supply chain performance. Companies like Mercedes-Benz are partnering with cloud providers like Microsoft to make more data available for analysis. The Mercedes Benz MO360 strategic initiative helps determine the root cause of inefficiencies and develop strategies to improve performance. The MO360 Data Platform is the evolution of Mercedes-Benz’ digital production ecosystem. MO360 allows teams to identify potential supply chain bottlenecks faster and enable a dynamic prioritization of production resources toward electric and Top-End vehicles. This unified data platform includes integrated solutions from Microsoft Azure and Qlik, providing Mercedes-Benz with flexibility and cloud computing power to run artificial intelligence (AI) and analytics at global scale while addressing cybersecurity and compliance standards across regions.
+The program’s goals include:
+Vehicle production efficiency expected to improve by 20% by 2025
+Logistic teams to solve supply chain bottlenecks much faster
+Dynamic allocation of resources to prioritize low-emission and Top-End Luxury vehicles
+Production teams can access self-service portal with analytics dashboards from any device
+Data analytics tool to monitor and forecast carbon emissions, energy and water usage, waste management
+Qlik’s partnerships with leading industry solution providers like Microsoft and Databricks help our mutual manufacturing customers like Mercedes-Benz take advantage of the power of manufacturing data to become more resilient, efficient, and sustainable. Learn how by downloading Qlik, Microsoft and Databricks joint resources linked below.
+If you’re ready to try Microsoft Azure or Databricks with Qlik for free, check out our joint Proof-of-Value offerings here.
+Looking to modernize manufacturing? Access, analyze and use information from multiple sources to create efficiencies and improve the bottom line.
+In this article:
+Data Integration

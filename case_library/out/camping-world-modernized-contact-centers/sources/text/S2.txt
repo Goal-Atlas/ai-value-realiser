@@ -1,0 +1,43 @@
+Companies are finding various ways to use AI for customer service and support. And when they implement those ideas, they learn how to tap AI technology to better understand and serve clients. Here, we look at several successful implementations of AI by customer service and support teams.
+1. Motel Rocks
+Motel Rocks is a fashion brand that is rising from its grassroots start. The company was using Zendesk to automate communications, including one-button macros to communicate with customers.
+The customer service department then used Zendesk Advanced AI to help its team manage customer inquiries while sticking with the voice and messaging of the brand, according to a case study. The customer service team started using chatbots to help customers serve themselves, get questions answered and more. This allowed the team to focus its attention on customers with complex queries. The customer service team also tapped into Advanced AI to sense the mood of customers, allowing service agents to step in and help the neediest customers.
+With Advanced AI, “there’s just more information on the screen for agents to see straight away,” says Lucy Hussey, customer service manager, Motel Rocks.
+The interface showed the team quick visuals that display the happiness level of customers who are in the queue. There was no time wasted getting up to speed, since the AI parsed the conversation and assigned an emoticon to it.
+Results
+- 43% of tickets deflected by AI agents
+- 50% reduction in ticket volume due to self-service
+- 9.44% increase in customer satisfaction
+2. Camping World
+After Camping World experienced a surge in calls to its contact centers, the company realized it had some challenges with its call center: not only was its staff strained by the sudden increase in calls, but any calls that came into the call center after hours could be missed or pushed to the next day, according to a case study. This meant customer queries were going unanswered, and the sales team was losing the potential leads from those calls.
+The company tapped IBM’s cognitive AI tool to create an AI assistant and named it Arvee. Arvee took calls 24/7, helped answer questions for customers, so agents didn’t have to get involved, and captured all the call data for the sales team, regardless of when the call came in.
+“The agents love the ease with which they can interact with the customers,” says Saurabh Shah, CIO, Camping World. “Arvee initiates and transmits a warm hand-off to agents. Also, having access to the customer engagement stats and metrics on the dashboard is greatly helping agents stay organized.”
+Results
+- 40% increase in customer engagement
+- 33-second drop in wait times
+- 33% increase in agent efficiency
+3. Telstra
+Telstra is a telecommunications company in Australia. It provides telecom services throughout and beyond the nation, keeping up with an evolving suite of technology products across a large distance. The company’s customer service agents have to tap into massive stores of data to answer customer questions, and speed is essential.
+Working with Microsoft Azure OpenAI service, Telstra rolled out Ask Telstra to help its customer service agents quickly find answers, according to a case study. Ask Telstra tapped vast stores of data to deliver a one-sentence summary to an agent’s screen. It summarized a customer's recent history – often long and detailed – and presented it to an agent in seconds. It also searched for answers about products and services as well as technical solutions, speeding up customer inquiries.
+Ask Telstra streamlined customer interactions and made it possible for new agents to get up to speed quickly without lengthy onboarding.
+“Agents are happy that they’re confident in their ability to support our customers more effectively,” says Lisa Green, data and AI solutions executive, Telstra.
+Results
+- 20% less follow-up on calls
+- 84% of agents said it positively impacted customer interactions
+- 90% of agents are more effective
+4. ClickUp
+ClickUp is a project management platform. The product and the way people use it can get complex, which can make customer inquiries complicated.
+The pressing nature of the questions and the challenge each one created for the ClickUp support team was stretching the human team to the limit, according to a case study. To support agents, ClickUp integrated Maven AGI’s Co-Pilot. This customer service-specific tool, built on ChatGPT, provided instant ticket summaries to agents and suggested responses. It instantly lessened the workload of agents by helping customers find their own answers — and for calls that escalated to human support, empowering agents with answers.
+“Just one week into the deployment, rep solves per hour increased 25%,” says David Doyle, head of customer support, ClickUp. “With increased efficiency on reactive operational support, we can invest more heavily in proactive retention activities.”
+Results
+- Improved support efficiency
+- Reduced onboarding time for new support agents
+- Fine-tuned AI responses to reflect company’s voice and tone
+5. Six Flags
+Six Flags is a place where people go to have fun. If you’re lost, standing in an endless line or listening to hungry kids whine, that fun can quickly turn to distress.
+To help customers navigate, order food on the hoof and find the most fun for the people in their crew, the company underwent a digital transformation that included a Google Cloud Vertex AI-driven digital concierge, according to a case study. People used the app to navigate the park, order food to where they are and purchase merchandise — without waiting in line. It also delivered the wait time of the rides to customer phones, so they could maximize their fun while in the park. An AI-powered parking system also eliminated the hassle of getting into the park.
+“Six Flags is reinventing amusement, making every moment more personalized and efficient,” says Omar Jacques Omran, chief digital officer, Six Flags.
+Results
+- Redirected customers away from lines
+- Automated car entry into parking lot within three seconds
+- Rolling out an AI-driven drowning prevention system at waterparks

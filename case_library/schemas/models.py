@@ -2,16 +2,16 @@
 AI Case Library Data Schemas
 
 Pydantic models for the AI Case Library, implementing the specification
-defined in docs/specs/AI_CASE_LIBRARY_SPECIFICATION.md
+defined in docs/specs/AI_CASE_LIBRARY_SPECIFICATION_v1_5.md
 
-Version: 0.3 (aligned with spec v0.3)
+Version: 1.5 (aligned with spec v1.5)
 """
 
 from datetime import datetime
 from enum import Enum
-from typing import Optional
+from typing import Literal, Optional
 
-from pydantic import BaseModel, Field, field_validator
+from pydantic import BaseModel, Field, field_validator, model_validator
 
 
 # =============================================================================
@@ -26,11 +26,12 @@ class ApplicationType(str, Enum):
     CAPABILITY_CREATION = "capability_creation"
 
 
-class EvidenceType(str, Enum):
-    """Axis 2: What kind of proof do we have?"""
+class EvidenceLevel(str, Enum):
+    """Axis 2: Evidence level hierarchy (outcome > adoption > method)."""
 
-    OUTCOME_VALIDATION = "outcome_validation"
-    METHOD_VALIDATION = "method_validation"
+    OUTCOME = "outcome"
+    ADOPTION = "adoption"
+    METHOD = "method"
 
 
 class AIAttribution(str, Enum):
@@ -66,13 +67,28 @@ class EvidenceGrade(str, Enum):
 
 
 class SourceType(str, Enum):
-    """Type of primary source."""
+    """Source type: primary vs secondary (Appendix E.3)."""
+
+    PRIMARY = "primary"
+    SECONDARY = "secondary"
+
+
+class SourceOrigin(str, Enum):
+    """Who is making the claim about the initiative (Section 4.1)."""
+
+    FIRST_PARTY = "first_party"
+    SECOND_PARTY = "second_party"
+    THIRD_PARTY = "third_party"
+
+
+class SourceGrade(str, Enum):
+    """Granular source grade (Section 4)."""
 
     ORGANISATION_ITSELF = "organisation_itself"
     MAJOR_CONSULTANCY = "major_consultancy"
     TECHNOLOGY_PROVIDER = "technology_provider"
     ACADEMIC_GOVERNMENTAL = "academic_governmental"
-    SECONDARY = "secondary"
+    OTHER = "other"
 
 
 class ContextClaimType(str, Enum):
@@ -160,6 +176,15 @@ class MagnitudeBand(str, Enum):
     TRANSFORMATIONAL = "transformational"
 
 
+class MetricType(str, Enum):
+    """Type of metric as extracted from source (Appendix E.1)."""
+
+    ABSOLUTE_VALUE = "absolute_value"
+    PERCENTAGE = "percentage"
+    RATIO = "ratio"
+    COUNT = "count"
+
+
 # =============================================================================
 # COMPONENT SCHEMAS
 # =============================================================================
@@ -172,7 +197,10 @@ class MetricRaw(BaseModel):
     currency: Optional[str] = Field(None, description="Currency code if applicable")
     magnitude: Optional[float] = Field(None, description="Numeric value if extractable")
     timeframe: Optional[str] = Field(None, description="Time period if specified")
-    metric_type: str = Field(..., description="Type: percentage, currency, count, time, etc.")
+    metric_type: MetricType = Field(
+        ...,
+        description="Classification of metric: absolute_value | percentage | ratio | count",
+    )
 
 
 class MetricClassification(BaseModel):
@@ -236,10 +264,20 @@ class Source(BaseModel):
     id: str = Field(..., description="Source ID, e.g., 'S1'")
     title: str
     url: str
-    type: SourceType
-    grade: EvidenceGrade
+    type: SourceType  # primary | secondary
+    origin: SourceOrigin  # first_party | second_party | third_party
+    grade: SourceGrade  # e.g., organisation_itself, major_consultancy
+    raw_file: str = Field(..., description="Path to captured source file under sources/raw/")
+    text_file: str = Field(..., description="Path to extracted text file under sources/text/")
+    extraction_method: str = Field(
+        ..., description="pypdf | trafilatura | tesseract_ocr (or other deterministic extractor)"
+    )
+    extraction_quality: Literal["high", "medium", "low"] = "high"
     is_multi_page: bool = False
-    related_urls: list[RelatedUrl] = Field(default_factory=list)
+    related_urls: list[str] = Field(
+        default_factory=list,
+        description="Related URLs if multi-page content detected",
+    )
 
 
 class ValueClaim(BaseModel):
@@ -260,7 +298,7 @@ class ValueClaim(BaseModel):
 
     # Evidence
     verification_status: VerificationStatus
-    evidence_type: EvidenceType
+    evidence_level: EvidenceLevel
     evidence_grade: EvidenceGrade
 
     # Application
@@ -296,6 +334,28 @@ class ValueClaim(BaseModel):
             raise ValueError("Maximum 4 outcomes per claim")
         return v
 
+    @model_validator(mode="after")
+    def validate_metric_for_evidence_level(self) -> "ValueClaim":
+        """
+        Enforce metric_raw requirement for outcome/adoption evidence levels.
+
+        By definition (spec §3.2.1), outcome and adoption claims are quantified.
+        Therefore, metric_raw (with value and metric_type) must be present
+        whenever evidence_level is outcome or adoption.
+        """
+
+        if self.evidence_level in {EvidenceLevel.OUTCOME, EvidenceLevel.ADOPTION}:
+            if self.metric_raw is None:
+                raise ValueError(
+                    f"metric_raw required for {self.evidence_level.value}-level claims"
+                )
+            if not self.metric_raw.value or not self.metric_raw.metric_type:
+                raise ValueError(
+                    f"metric_raw.value and metric_raw.metric_type required for "
+                    f"{self.evidence_level.value}-level claims"
+                )
+        return self
+
 
 class ContextClaim(BaseModel):
     """A claim about when/where/who was involved."""
@@ -304,12 +364,15 @@ class ContextClaim(BaseModel):
 
     context_type: ContextClaimType
     claim_title: str
-    claim_description: str
+    claim_description: Optional[str] = None
     source_ids: list[str]
     source_quote: Optional[str] = None
 
     verification_status: ContextVerificationStatus
-    verification_confidence: str = Field(..., description="high | medium | low")
+    verification_confidence: Optional[str] = Field(
+        None,
+        description="high | medium | low",
+    )
     inferred_from: Optional[str] = None
 
     # For functional claims
@@ -318,6 +381,36 @@ class ContextClaim(BaseModel):
 
     # Human validation
     human_validation: HumanValidation = Field(default_factory=HumanValidation)
+
+    @model_validator(mode="after")
+    def validate_source_and_functional_requirements(self) -> "ContextClaim":
+        """
+        Enforce Appendix E.2:
+
+        - source_ids: at least one, unless verification_status == inferred.
+        - If verification_status == inferred, inferred_from must be populated.
+        - For functional context_type, apqc_code and apqc_name are required.
+        """
+
+        if self.verification_status == ContextVerificationStatus.INFERRED:
+            if self.inferred_from is None:
+                raise ValueError(
+                    "inferred_from must be provided when verification_status is 'inferred'"
+                )
+            # For inferred claims source_ids may be empty.
+        else:
+            if not self.source_ids:
+                raise ValueError(
+                    "At least one source_id is required unless verification_status is 'inferred'"
+                )
+
+        if self.context_type == ContextClaimType.FUNCTIONAL:
+            if not self.apqc_code or not self.apqc_name:
+                raise ValueError(
+                    "apqc_code and apqc_name are required for functional context claims"
+                )
+
+        return self
 
 
 class VerificationSummary(BaseModel):
@@ -372,7 +465,7 @@ class OntologyMetadata(BaseModel):
     needs_retagging: bool = False
 
 
-class Case(BaseModel):
+class Casefile(BaseModel):
     """Complete case file representing an AI value creation case."""
 
     # Identity
@@ -389,6 +482,9 @@ class Case(BaseModel):
     value_claims: list[ValueClaim]
     context_claims: list[ContextClaim] = Field(default_factory=list)
 
+    # Case-level evidence level (highest among value_claims)
+    evidence_level: Optional[EvidenceLevel] = None
+
     # Summaries
     verification_summary: VerificationSummary
     human_validation_summary: Optional[HumanValidationSummary] = None
@@ -400,6 +496,32 @@ class Case(BaseModel):
 
     # Ontology
     ontology_metadata: OntologyMetadata
+
+    @model_validator(mode="after")
+    def derive_case_evidence_level(self) -> "Casefile":
+        """
+        Derive case-level evidence_level as the highest evidence level
+        present among all value_claims, regardless of verification_status.
+
+        Hierarchy: outcome (3) > adoption (2) > method (1).
+        """
+
+        if not self.value_claims:
+            return self
+
+        if self.evidence_level is None:
+            rank = {
+                EvidenceLevel.METHOD: 1,
+                EvidenceLevel.ADOPTION: 2,
+                EvidenceLevel.OUTCOME: 3,
+            }
+            highest = max(self.value_claims, key=lambda c: rank[c.evidence_level]).evidence_level
+            self.evidence_level = highest
+        return self
+
+
+# Backwards-compatibility alias (older code may import Case)
+Case = Casefile
 
 
 # =============================================================================
@@ -441,14 +563,96 @@ class BuildLog(BaseModel):
     build_started: datetime
     build_completed: Optional[datetime] = None
 
-    class StepLog(BaseModel):
-        started: datetime
-        completed: Optional[datetime] = None
-        status: str  # success | failed | skipped
-        details: dict = Field(default_factory=dict)
+    class Step1DiscoveryLog(BaseModel):
+        model: Optional[str] = None
+        search_queries: list[str] = Field(default_factory=list)
+        results_considered: Optional[int] = None
+        urls_ranked: list[dict] = Field(default_factory=list)
+        urls_selected: list[str] = Field(default_factory=list)
+        retries: int = 0
 
-    step_1_discovery: Optional[StepLog] = None
-    step_2_extraction: Optional[StepLog] = None
-    step_3_claims: Optional[StepLog] = None
-    step_4_verification: Optional[StepLog] = None
-    step_5_human_validation: Optional[StepLog] = None
+    class Step2ExtractionSourceLog(BaseModel):
+        source_id: str
+        url: str
+        http_status: Optional[int] = None
+        retries: int = 0
+        raw_file: Optional[str] = None
+        text_file: Optional[str] = None
+        extraction_method: Optional[str] = None
+        extraction_quality: Optional[str] = None
+        content_length: Optional[int] = None
+        ocr_fallback_used: bool = False
+        is_multi_page: bool = False
+        multi_page_detection: MultiPageDetection = Field(
+            default_factory=MultiPageDetection
+        )
+
+    class Step2ExtractionLog(BaseModel):
+        sources: list["BuildLog.Step2ExtractionSourceLog"] = Field(default_factory=list)
+        multi_page_candidates: list[str] = Field(default_factory=list)
+        multi_page_followed: list[str] = Field(default_factory=list)
+
+    class Step3ClaimsLog(BaseModel):
+        model: Optional[str] = None
+        prompt_version: Optional[str] = None
+        raw_response_file: Optional[str] = None
+        claims_file: Optional[str] = None
+        value_claims_count: int = 0
+        context_claims_count: int = 0
+        retries_malformed_json: int = 0
+        retries_zero_claims: int = 0
+        skipped_no_sources: bool = False
+        claims_downgraded_metric_missing: int = 0
+        context_claims_coerced_inferred: int = 0
+        value_claims_dropped_invalid: int = 0
+        context_claims_dropped_invalid: int = 0
+
+    class VerificationAttempt(BaseModel):
+        claim_id: str
+        source_id: str
+        method: str
+        result: str
+        char_offset_start: Optional[int] = None
+        char_offset_end: Optional[int] = None
+        match_confidence: Optional[float] = None
+        ai_explanation: Optional[str] = None
+
+    class Step4VerificationLog(BaseModel):
+        model: Optional[str] = None
+        verification_attempts: list["BuildLog.VerificationAttempt"] = Field(
+            default_factory=list
+        )
+        verification_summary: Optional[VerificationSummary] = None
+
+    class Step5HumanValidationLog(BaseModel):
+        tier: ValidationTier
+        reviewer_id: Optional[str] = None
+        review_date: Optional[datetime] = None
+        time_taken_minutes: Optional[int] = None
+        claims_reviewed: Optional[int] = None
+        verdicts: dict = Field(default_factory=dict)
+        missed_claims_added: int = 0
+        precision_score: Optional[float] = None
+        recall_score: Optional[float] = None
+
+    step_1_discovery: Optional[Step1DiscoveryLog] = None
+    step_2_extraction: Optional[Step2ExtractionLog] = None
+    step_3_claims: Optional[Step3ClaimsLog] = None
+    step_4_verification: Optional[Step4VerificationLog] = None
+    step_5_human_validation: Optional[Step5HumanValidationLog] = None
+
+
+class SeedEntry(BaseModel):
+    """
+    Seed list entry derived from legacy cases (OLD_cases_enriched).
+
+    Used only for input to the new provenance pipeline; does not carry over
+    any legacy claims or ontology tags.
+    """
+
+    organisation: str
+    initiative_description: str
+    original_case_id: str
+    legacy_urls: list[str] = Field(default_factory=list)
+    research_priority: Literal["high", "medium", "low"] = "medium"
+    notes: Optional[str] = None

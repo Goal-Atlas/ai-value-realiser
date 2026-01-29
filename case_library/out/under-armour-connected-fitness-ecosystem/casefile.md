@@ -1,0 +1,777 @@
+---
+case_id: under-armour-connected-fitness-ecosystem
+organisation: Under Armour
+title: Connected Fitness Ecosystem and Digital Platform
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.prnewswire.com/news-releases/under-armour-launches-a-suite-of-connec...
+  url: https://www.prnewswire.com/news-releases/under-armour-launches-a-suite-of-connected-fitness-products-changing-the-way-athletes-live-300199284.html
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://about.underarmour.com/en/stories/2019/01/under-armour-seamlessly-connect...
+  url: https://about.underarmour.com/en/stories/2019/01/under-armour-seamlessly-connects-runners-like-never-before-.html
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://about.underarmour.com/en/stories/press-releases/release.12026.html
+  url: https://about.underarmour.com/en/stories/press-releases/release.12026.html
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.ecosystemizer.com/blog/ecosystem-case-study-under-armour
+  url: https://www.ecosystemizer.com/blog/ecosystem-case-study-under-armour
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S5
+  title: https://medium.com/@waynemui/under-armour-case-study-710-million-dollar-data-ove...
+  url: https://medium.com/@waynemui/under-armour-case-study-710-million-dollar-data-oversight-a01828678c4b
+  raw_file: ''
+  text_file: sources/text/S5.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 160 million member Connected Fitness community
+  claim_description: Under Armour built the world's largest digital health and fitness
+    community with more than 160 million members through its Connected Fitness platform
+    and suite of applications.
+  source_ids:
+  - S1
+  - S3
+  source_quote: more than 160 million community members
+  quote_location: S1, paragraph 6
+  ai_attribution: direct
+  attribution_evidence: The Connected Fitness platform directly uses AI/data analytics
+    to power the community experience, track user data, and provide personalized insights
+    across UA Record, MapMyFitness, Endomondo and MyFitnessPal apps.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - augmentation
+  outcome:
+  - business_growth
+  - experience
+  cognitive_depth: predictive
+  metric_raw:
+    value: '160000000'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Personalized coaching improves runner performance and engagement
+  claim_description: MapMyRun app with connected HOVR shoes provides personalized
+    coaching using running data (pace, cadence, stride length), helping runners improve
+    performance and motivating users to log more workouts and get faster.
+  source_ids:
+  - S2
+  source_quote: The new MapMyRun technology in all connected HOVR shoes is shown to
+    actually help runners get better...users are motivated to log more workouts and
+    get faster.
+  quote_location: S2, Ben McAllister quote
+  ai_attribution: direct
+  attribution_evidence: AI-powered analytics directly analyze running metrics to deliver
+    personalized coaching recommendations, demonstrating predictive and prescriptive
+    capabilities that drive behavior change and performance improvement.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Holistic health view through four-pillar data integration
+  claim_description: UA Record provides holistic health view integrating data from
+    four quadrants (SLEEP, FITNESS, ACTIVITY, NUTRITION) through single-view dashboard
+    with insights and new 'How do you feel?' metric.
+  source_ids:
+  - S1
+  - S3
+  source_quote: UA Record now provides a holistic view of your health based on four
+    quadrants - SLEEP, FITNESS, ACTIVITY and NUTRITION - through an intuitive single-view
+    dashboard.
+  quote_location: S1, paragraph 5
+  ai_attribution: direct
+  attribution_evidence: AI analytics directly aggregate and synthesize multi-source
+    health data to generate insights and calculate personalized metrics, demonstrating
+    diagnostic and predictive cognitive capabilities.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Real-time coaching and feedback during runs
+  claim_description: MapMyRun app provides real-time coaching and feedback for runners,
+    with audio coaching delivered through UA True Wireless Flash headphones, enabling
+    phone-free running with Galaxy Watch integration.
+  source_ids:
+  - S2
+  source_quote: the UA MapMyRun app can be used to provide real-time coaching and
+    feedback for runners...relay audio coaching feedback directly in the ear.
+  quote_location: S2, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: AI algorithms directly analyze real-time running data to generate
+    prescriptive coaching recommendations delivered in-the-moment, demonstrating autonomous
+    feedback capabilities.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: prescriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: Advanced running metrics and form analysis
+  claim_description: UA HOVR Connected footwear provides in-depth running form analysis
+    and advanced metrics (cadence, stride length, distance, pace) with post-run coaching,
+    automatically pairing with devices.
+  source_ids:
+  - S2
+  source_quote: UA HOVR Connected footwear gives runners an in-depth analysis of their
+    running form and advanced running metrics to monitor their performance.
+  quote_location: S2, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: AI-powered analytics directly process sensor data from connected
+    shoes to generate diagnostic insights about running form and prescriptive coaching
+    recommendations.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - augmentation
+  outcome:
+  - experience
+  cognitive_depth: diagnostic
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-006
+  claim_title: Open platform with 400+ partner integrations
+  claim_description: Under Armour Connected Fitness API/SDK platform operates as open
+    platform with more than 400 partner apps and devices, enabling ecosystem expansion
+    and data interoperability.
+  source_ids:
+  - S1
+  source_quote: UA Record is powered by the Under Armour Connected Fitness™ API/SDK
+    platform (developer.underarmour.com), an open platform with more than 400 partner
+    apps and devices.
+  quote_location: S1, paragraph 9
+  ai_attribution: contributing
+  attribution_evidence: The API/SDK platform enables AI-powered data integration and
+    analytics across partner ecosystem, though partners contribute to the overall
+    value creation beyond just UA's AI capabilities.
+  verification_status: verified
+  evidence_level: adoption
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  outcome:
+  - business_growth
+  - experience
+  cognitive_depth: descriptive
+  metric_raw:
+    value: '400'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: count
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-007
+  claim_title: Seamless device-free running experience
+  claim_description: UA SpeedForm Gemini 2 Record Equipped smart shoe tracks and stores
+    running data (time, date, duration, distance, splits) enabling untethered, device-free
+    running experience.
+  source_ids:
+  - S3
+  source_quote: Under Armour's first smart shoe tracks and stores data including time
+    and date, duration, distance, and splits. This cutting-edge footwear provides
+    an untethered running experience.
+  quote_location: S3, product description
+  ai_attribution: direct
+  attribution_evidence: Embedded sensors and AI analytics directly enable autonomous
+    data capture and storage in footwear, creating new capability for phone-free tracking.
+  verification_status: needs_review
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - automation
+  outcome:
+  - experience
+  cognitive_depth: descriptive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-008
+  claim_title: Comprehensive ecosystem lock-in effects
+  claim_description: Under Armour ecosystem creates lock-in effects through integrated
+    services (membership rewards, connected products, apps, gyms) that drive innovation
+    flywheel and enable needs identification.
+  source_ids:
+  - S4
+  source_quote: This holistic and human-centered approach and focus to customer experience
+    creates lock-in effects that in turn drive the innovation flywheel.
+  quote_location: S4, Conclusion section
+  ai_attribution: contributing
+  attribution_evidence: AI-powered data analytics contribute to understanding customer
+    needs and personalizing experiences, but lock-in effects result from broader ecosystem
+    design including non-AI elements.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_low
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - business_growth
+  - experience
+  cognitive_depth: predictive
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Connected Fitness product launch at CES 2016
+  claim_description: Under Armour unveiled its first-ever Connected Fitness product
+    portfolio including UA HealthBox, smart shoes, and wireless headphones at Consumer
+    Electronics Show in Las Vegas on January 5, 2016.
+  source_ids:
+  - S1
+  - S3
+  source_quote: 'Today, Under Armour (NYSE: UA) unveiled the brand''s first-ever Connected
+    Fitness product portfolio...at the Consumer Electronics Show in Las Vegas.'
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: organisational
+  claim_title: Under Armour as performance apparel company
+  claim_description: Under Armour is the originator of performance footwear, apparel
+    and equipment, founded 20 years prior to 2016, with global headquarters in Baltimore,
+    Maryland.
+  source_ids:
+  - S1
+  - S3
+  source_quote: For 20 years, Under Armour has changed the way athletes dress and
+    now we will change the way athletes live
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: strategic_intent
+  claim_title: Transform from apparel to lifestyle platform
+  claim_description: Under Armour's strategic intent is to transform from changing
+    how athletes dress to changing how athletes live through Connected Fitness ecosystem
+    and holistic health data platform.
+  source_ids:
+  - S1
+  - S3
+  source_quote: For 20 years, Under Armour has changed the way athletes dress and
+    now we will change the way athletes live
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: sectoral
+  claim_title: Health and fitness technology sector
+  claim_description: Under Armour operates in the health and fitness technology sector,
+    positioning itself as provider of the world's largest digital health and fitness
+    community platform.
+  source_ids:
+  - S1
+  source_quote: The Under Armour Connected Fitness™ platform powers the world's largest
+    digital health and fitness community
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: Strategic partnerships with HTC and HARMAN
+  claim_description: Under Armour formed strategic partnerships with HTC for engineering
+    UA HealthBox system and HARMAN for developing sport headphones, announced at CES
+    2016.
+  source_ids:
+  - S1
+  source_quote: 'Under Armour is also announcing strategic partnerships with two leading
+    global brands: HTC and HARMAN International Industries'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: products_services
+  claim_title: Connected Fitness product portfolio
+  claim_description: Product portfolio includes UA HealthBox system ($400), UA Band
+    ($180), UA Heart Rate ($80), UA Scale ($180), smart shoes ($150), and wireless
+    headphones ($180-$250).
+  source_ids:
+  - S3
+  source_quote: 'The Under Armour Connected Products portfolio includes: UA HealthBox™...UA
+    Band™...UA Heart Rate™...UA Scale™...UA SpeedForm® Gemini 2 Record Equipped'
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: temporal
+  claim_title: 2019 runner ecosystem expansion
+  claim_description: In 2019, Under Armour expanded its runner ecosystem with Samsung
+    Galaxy Watch integration, new HOVR footwear, and UA True Wireless Flash headphones
+    with JBL partnership.
+  source_ids:
+  - S2
+  source_quote: In 2019, Under Armour is committed to helping runners reach their
+    goals by developing cutting-edge products to enhance the running experience.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: organisational
+  claim_title: Partnership with Samsung and JBL
+  claim_description: Under Armour partnered with Samsung for Galaxy Watch integration
+    and JBL for audio engineering, creating seamless ecosystem for runners announced
+    in 2019.
+  source_ids:
+  - S2
+  source_quote: Under Armour is excited to continue elevating our partnerships with
+    world-class technology and experience experts Samsung and JBL
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-009
+  context_type: functional
+  claim_title: Digital marketing and customer engagement
+  claim_description: Under Armour operates digital marketing and customer engagement
+    functions through apps, membership programs, and direct-to-consumer channels including
+    e-commerce and physical stores.
+  source_ids:
+  - S4
+  source_quote: Under Armour's main source of revenue is generated from their Direct-to-customer
+    (DTC) and retail business...This includes e-commerce via the Under Armour app
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '3.0'
+  apqc_name: Market and Sell Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-010
+  context_type: functional
+  claim_title: Product development and innovation
+  claim_description: Under Armour develops connected products integrating hardware
+    (shoes, wearables) with software (apps, analytics) to create integrated health
+    and fitness solutions.
+  source_ids:
+  - S1
+  - S2
+  source_quote: we've developed products that are easy to use together and also provide
+    a premium run experience that naturally integrate sound and data
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '4.0'
+  apqc_name: Develop and Manage Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-011
+  context_type: scale
+  claim_title: Global distribution and retail presence
+  claim_description: Under Armour operates globally with products sold in U.S. department
+    stores, specialty sporting goods stores, off-price retail locations, and mom-and-pop
+    businesses.
+  source_ids:
+  - S4
+  source_quote: Under Armour's merchandise is sold in a number of U.S. department
+    stores, specialty sporting goods stores and off-price retail locations
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-012
+  context_type: products_services
+  claim_title: Multi-app Connected Fitness platform
+  claim_description: Connected Fitness platform comprises suite of applications including
+    UA Record, MapMyFitness, MapMyRun, Endomondo, and MyFitnessPal serving different
+    fitness tracking needs.
+  source_ids:
+  - S1
+  - S4
+  source_quote: 'The Under Armour Connected Fitness™ platform powers the world''s
+    largest digital health and fitness community through a suite of applications:
+    UA Record, MapMyFitness, Endomondo and MyFitnessPal.'
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-013
+  context_type: strategic_intent
+  claim_title: Holistic health data strategy
+  claim_description: Strategic focus on capturing holistic health data across four
+    pillars (sleep, fitness, activity, nutrition) to provide comprehensive view beyond
+    just workout data.
+  source_ids:
+  - S1
+  - S3
+  source_quote: what can be accomplished during your workouts can easily be undone
+    in everyday life. The future of health and fitness is a holistic view of data
+    from these four core health and fitness pillars
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-014
+  context_type: organisational
+  claim_title: Leadership structure for digital transformation
+  claim_description: Under Armour has Chief Digital Officer (Robin Thurston) and SVP
+    Global Consumer Engagement and Digital (Jim Mollica) roles leading Connected Fitness
+    strategy.
+  source_ids:
+  - S1
+  - S2
+  source_quote: said Robin Thurston, Chief Digital Officer, Under Armour...said Jim
+    Mollica, SVP Global Consumer Engagement and Digital at Under Armour
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 8
+    verified: 5
+    needs_review: 3
+    rejected: 0
+    by_attribution:
+      direct: 6
+      contributing: 2
+  context_claims:
+    total: 14
+    verified: 10
+    unverified: 4
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Connected Fitness Ecosystem and Digital Platform
+
+## Executive Summary
+
+Under Armour: 160 million member Connected Fitness community.
+
+## Key Findings
+
+- **160 million member Connected Fitness community** — verified (adoption)
+  - Quote: "more than 160 million community members"
+
+- **Personalized coaching improves runner performance and engagement** — needs_review (method)
+  - Quote: "The new MapMyRun technology in all connected HOVR shoes is shown to actually help runners get better...users are motivated to log more workouts and get faster."
+
+- **Holistic health view through four-pillar data integration** — verified (method)
+  - Quote: "UA Record now provides a holistic view of your health based on four quadrants - SLEEP, FITNESS, ACTIVITY and NUTRITION - through an intuitive single-view dashboard."
+
+- **Real-time coaching and feedback during runs** — needs_review (method)
+  - Quote: "the UA MapMyRun app can be used to provide real-time coaching and feedback for runners...relay audio coaching feedback directly in the ear."
+
+- **Advanced running metrics and form analysis** — verified (method)
+  - Quote: "UA HOVR Connected footwear gives runners an in-depth analysis of their running form and advanced running metrics to monitor their performance."
+
+- **Open platform with 400+ partner integrations** — verified (adoption)
+  - Quote: "UA Record is powered by the Under Armour Connected Fitness™ API/SDK platform (developer.underarmour.com), an open platform with more than 400 partner apps and devices."
+
+- **Seamless device-free running experience** — needs_review (method)
+  - Quote: "Under Armour's first smart shoe tracks and stores data including time and date, duration, distance, and splits. This cutting-edge footwear provides an untethered running experience."
+
+- **Comprehensive ecosystem lock-in effects** — verified (method)
+  - Quote: "This holistic and human-centered approach and focus to customer experience creates lock-in effects that in turn drive the innovation flywheel."
+
+## Sources
+
+- **S1**: https://www.prnewswire.com/news-releases/under-armour-launches-a-suite-of-connected-fitness-products-changing-the-way-athletes-live-300199284.html
+- **S2**: https://about.underarmour.com/en/stories/2019/01/under-armour-seamlessly-connects-runners-like-never-before-.html
+- **S3**: https://about.underarmour.com/en/stories/press-releases/release.12026.html
+- **S4**: https://www.ecosystemizer.com/blog/ecosystem-case-study-under-armour
+- **S5**: https://medium.com/@waynemui/under-armour-case-study-710-million-dollar-data-oversight-a01828678c4b

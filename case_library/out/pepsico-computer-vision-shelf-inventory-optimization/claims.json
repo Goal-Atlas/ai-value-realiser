@@ -1,0 +1,733 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "50% reduction in order processing time through warehouse automation",
+      "claim_description": "PepsiCo reduced order processing times by over 50% in automated warehouses compared to traditional setups by implementing AI-powered inventory tracking, robotic picking systems, and Automated Guided Vehicles (AGVs).",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The results have been game-changing, with order processing times reduced by over 50% in automated warehouses compared to traditional setups.",
+      "quote_location": "Section: Why Pepsi Turned to Automation?",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered inventory tracking and robotic systems directly enabled the 50% reduction in order processing times.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "40% reduction in warehouse labor costs through AGV deployment",
+      "claim_description": "PepsiCo achieved a 40% reduction in warehouse labor costs by deploying Automated Guided Vehicles (AGVs) that operate 24/7, reducing the need for manual labor in product transportation.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "PepsiCo has also indicated a 40% reduction of its warehouse labour cost and improved safety due to the fact that there have been fewer workplace accidents.",
+      "quote_location": "Section: Pepsi's Automated Guided Vehicles (AGVs)",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AGVs directly replaced manual labor for product transportation, resulting in the 40% cost reduction.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "99.9% accuracy in order delivery through AGV operations",
+      "claim_description": "PepsiCo's Automated Guided Vehicles achieved 99.9% accuracy in order delivery, significantly reducing shipping errors and improving operational precision.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "AGV operation is 99.9% accurate on delivery of orders, becoming the hallmark of the company in the high-tech way of warehousing.",
+      "quote_location": "Section: Pepsi's Automated Guided Vehicles (AGVs)",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AGV automation directly enabled the 99.9% accuracy rate in order delivery operations.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "99.9",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "15% reduction in operating costs through warehouse automation",
+      "claim_description": "PepsiCo achieved a 15% reduction in operating costs by implementing warehouse automation that reduced reliance on manual labor and optimized storage space.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The company, therefore, used 15% less operating costs as it reduced reliance on manual labour, optimised storage space through automation",
+      "quote_location": "Section: The Cost Benefits of Warehouse Automation",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Automation systems contributed to cost reduction alongside other operational improvements like storage optimization.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "15",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "30% increase in warehouse space efficiency through automation",
+      "claim_description": "PepsiCo increased warehouse space efficiency by 30% through automated storage systems, reducing the need for physical infrastructure expansion.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "increased warehouse space efficiency by 30%, reduced much-desired storage from physical infrastructure",
+      "quote_location": "Section: The Cost Benefits of Warehouse Automation",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Automated storage systems contributed to space optimization alongside robotic handling systems.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "30",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "25% reduction in energy consumption in automated warehouses",
+      "claim_description": "PepsiCo reduced energy consumption by 25% in automated warehouses through intelligent climate control and lighting systems optimized by AI logistics.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Intelligent climate control and good lighting systems have reduced energy consumption in PepsiCo's automated warehouses by almost 25% from the efforts of the new technology",
+      "quote_location": "Section: Pepsi's Eco-Friendly Warehouses",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-optimized climate control and lighting systems directly enabled the 25% energy reduction.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "25",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "$4,000 annual sales increase per store through AI-driven product mix optimization",
+      "claim_description": "One convenience store chain saw salty snacks sales grow $4,000 per store annually after using PepsiCo's Pepviz platform to customize product assortment based on shopper behavior data.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "After customizing its assortment, one c-store chain saw sales of its salty snacks grow $4,000 per store annually, while the other rose nearly $1,300.",
+      "quote_location": "Mid-article example",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Pepviz's data analytics and AI-driven recommendations directly informed the product mix changes that generated the sales increase.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "4000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "$1,300 annual sales increase per store through AI-driven product mix optimization",
+      "claim_description": "A second convenience store chain achieved nearly $1,300 annual sales increase per store after using Pepviz to optimize product assortment based on customer cluster analysis.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "After customizing its assortment, one c-store chain saw sales of its salty snacks grow $4,000 per store annually, while the other rose nearly $1,300.",
+      "quote_location": "Mid-article example",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Pepviz platform's AI-driven shopper behavior analysis directly enabled the product mix optimization that drove sales growth.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "augmentation"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": {
+        "value": "1300",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "Real-time shelf auditing and merchandiser guidance through edge AI",
+      "claim_description": "PepsiCo's Shelf Intelligence solution uses edge AI and computer vision to audit shelves in seconds, identify SKUs and price tags, compare to planograms, and guide merchandisers with real-time corrective actions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The case study shows how they tackled it with edge AI and computer vision to audit shelves in seconds, guide merchandisers in real time, and capture trusted data for decisions.",
+      "quote_location": "Introduction section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Edge AI and computer vision directly enable the real-time shelf auditing and merchandiser guidance capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "Hyperlocal shopper behavior analysis for retail optimization",
+      "claim_description": "Pepviz platform analyzes shopper behavior on a hyperlocal scale, telling retailers what customers buy at their store and at other stores in the area to optimize product mix and increase basket sizes.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Pepviz takes that a step further by zeroing in on shopper behavior on a hyperlocal scale, not only telling a retailer what customers are buying at its store, but also what they're buying at other stores in the area.",
+      "quote_location": "Mid-article",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered data analytics in Pepviz directly enables the hyperlocal shopper behavior analysis capability.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "revenue_lift"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "PepsiCo began shelf intelligence transformation in 2021",
+      "claim_description": "PepsiCo embarked on its shelf intelligence transformation journey in 2021, seeking innovative solutions to revolutionize retail operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "That's why PepsiCo embarked on a transformation journey in 2021, seeking an innovative PepsiCo Shelf Intelligence solution to revolutionize its retail operations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "PepsiCo is one of the largest food and beverage companies globally",
+      "claim_description": "PepsiCo produces iconic brands like Pepsi, Lay's, and Gatorade, which are consumed a billion times daily worldwide.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "PepsiCo, one of the largest food and beverage companies in the world, takes a deeply customer-centric approach to in-store merchandising and accessibility. Producing iconic brands such as Pepsi, Lay's, and Gatorade, which are enjoyed by consumers a billion times a day",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "scale",
+      "claim_title": "PepsiCo operates over 1,000 warehouses and distribution centers globally",
+      "claim_description": "PepsiCo serves more than 200 countries through a vast system of over 1,000 warehouses and distribution centers, producing over 1 billion products daily.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "More than 200 countries are being served by PepsiCo through over 1 billion products manufactured every day using the vast system of over 1,000 warehouses and distribution centres.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "scale",
+      "claim_title": "PepsiCo supplies products to over 400,000 retail outlets",
+      "claim_description": "PepsiCo's distribution network supplies products to over 400,000 retail outlets including vending machines, restaurants, and supermarkets.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Beside vending machines, restaurants, and supermarkets, the company supplies products to over 400,000 retail outlets.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "functional",
+      "claim_title": "Shelf intelligence solution supports retail merchandising operations",
+      "claim_description": "The AI solution addresses in-store merchandising, product displays, share of shelf optimization, and stock level management for optimal customer experiences.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "strategic product displays, share of shelf, and optimal stock levels extremely important for optimal customer experiences",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.0",
+      "apqc_name": "Deliver Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "functional",
+      "claim_title": "Warehouse automation supports distribution and logistics operations",
+      "claim_description": "AI-powered warehouse automation addresses inventory management, order fulfillment, product transportation, and distribution center operations.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "These have changed everything from operations to a new benchmark for efficiency in the whole supply chain.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "4.2",
+      "apqc_name": "Deliver Products",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "functional",
+      "claim_title": "Pepviz platform supports retail analytics and sales optimization",
+      "claim_description": "Pepviz provides retailers with analytics, data science tools to attract shoppers, drive store trips, boost loyalty, encourage impulse buys, and optimize product mix.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The maker of Cheetos and Mtn Dew is launching Pepviz, a platform that offers retailers analytics, data science and other tools to attract new shoppers, drive store trips and boost loyalty, encourage impulse buys, improve product mix and increase sales both in store and online.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "3.0",
+      "apqc_name": "Market and Sell Products and Services",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "strategic_intent",
+      "claim_title": "Customer-centric approach drives merchandising strategy",
+      "claim_description": "PepsiCo takes a deeply customer-centric approach to in-store merchandising and accessibility, leveraging AI to drive informed strategies and decision-making.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "PepsiCo, one of the largest food and beverage companies in the world, takes a deeply customer-centric approach to in-store merchandising and accessibility.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "sectoral",
+      "claim_title": "Operating in food and beverage consumer packaged goods sector",
+      "claim_description": "PepsiCo operates as a CPG company in the food and beverage sector, facing challenges around changing consumer preferences, online grocery shopping, and pandemic-driven shifts.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The food landscape is being hit on a number of fronts, leaving CPGs to look for ways to become more nimble and responsive to the needs of both shoppers and retailers.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "Five-year data infrastructure build-up preceded Pepviz launch",
+      "claim_description": "PepsiCo aggressively built up its database for five years before launching Pepviz, regularly using data in working with retailers.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "PepsiCo has been aggressively building up its database for the last five years, and regularly uses data in working with retailers.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "products_services",
+      "claim_title": "Shelf Intelligence solution includes multiple retail audit capabilities",
+      "claim_description": "The solution provides retail space audits, shelf share analysis, price monitoring, POPM checks, automated reporting, and on-shelf availability features.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Feature set built for retail operations: retail space audits, shelf share analysis, price monitoring, POPM checks, automated reporting, and on-shelf availability.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "organisational",
+      "claim_title": "Collaboration with Grid Dynamics and Smartlook for shelf intelligence",
+      "claim_description": "PepsiCo collaborated with technology partners Grid Dynamics and Smartlook to develop the Shelf Intelligence solution.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Collaborating with technology leaders Grid Dynamics and Smartlook, PepsiCo needed to overcome the limitations of traditional retail shelf intelligence approaches",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

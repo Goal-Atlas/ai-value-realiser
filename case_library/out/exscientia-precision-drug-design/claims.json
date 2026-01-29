@@ -1,0 +1,746 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "70% acceleration in drug design timeline",
+      "claim_description": "Exscientia accelerated drug design by up to 70 percent compared with industry benchmarks using generative AI throughout the design-make-test-learn cycle.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Exscientia has accelerated drug design by up to 70 percent while decreasing capital cost by 80 percent, compared with industry benchmarks.",
+      "quote_location": "Main content section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The acceleration is explicitly attributed to using generative AI with other tools in the DMTL cycle for drug design.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "70",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "80% reduction in capital cost for drug design",
+      "claim_description": "Exscientia decreased capital cost by 80 percent compared with industry benchmarks using generative AI and automated processes in drug discovery.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Exscientia has accelerated drug design by up to 70 percent while decreasing capital cost by 80 percent, compared with industry benchmarks.",
+      "quote_location": "Main content section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost reduction directly attributed to generative AI use in the synthesis-aware, iterative approach built on AWS.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "80",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "10x reduction in compounds synthesized",
+      "claim_description": "Exscientia makes 10 times fewer compounds than the industry average using synthesis-aware, iterative approach with generative AI algorithms.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Using this synthesis-aware, iterative approach built on AWS, Exscientia makes 10 times fewer compounds than the industry average.",
+      "quote_location": "Main content section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Reduction directly attributed to AI algorithms that generate and select drug candidates, minimizing costly experiments.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "10",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Six AI-designed molecules entered clinical trials",
+      "claim_description": "Six molecules that Exscientia designed using AI have entered clinical trials, demonstrating successful translation from AI design to clinical application.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Six molecules that Exscientia designed using AI have entered clinical trials.",
+      "quote_location": "Clinical trials section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Molecules explicitly described as designed using AI and progressed to clinical trials.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "6",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Drug discovery timeline reduced from 4.5 years to 12-15 months",
+      "claim_description": "Exscientia's Centaur AI platform cuts the industry average timeline from 4.5 years to just 12 to 15 months for generating optimised molecules meeting clinical trial criteria.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "It achieves it in revolutionary timescales, cutting the industry average timeline from 4.5 years to just 12 to 15 months.",
+      "quote_location": "Innovative approaches section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Timeline reduction explicitly attributed to the Centaur AI platform generating highly optimised molecules.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "12-15",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "First AI-designed drug candidate created in 12 months",
+      "claim_description": "Exscientia's first AI-designed molecule for Sumitomo Pharma took just 12 months to discover and represents the first ever AI-designed drug candidate to enter clinical trials.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "It took just 12 months to discover and represents the first ever AI-designed drug candidate to enter clinical trials.",
+      "quote_location": "Clinical development section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Molecule explicitly described as AI-designed and first of its kind to enter clinical trials.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "12",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "75% prediction success rate for drug ligand design",
+      "claim_description": "Exscientia achieved an automated and adaptive methodology for designing drug ligands to multitarget profiles with a 75% prediction success rate using machine learning algorithms.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The outcome was an automated and adaptive methodology for designing drug ligands to multitarget profiles with a 75% prediction success rate.",
+      "quote_location": "Better drugs faster section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Success rate directly attributed to machine learning algorithms for drug design and testing of novel compounds.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "75",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "24/7 lab operation with minimal human supervision",
+      "claim_description": "Exscientia's lab, orchestrated by AWS microservices with automated robotics, can operate 24/7 with minimal human supervision, reducing make and test timelines.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Thus, its lab\u2014orchestrated by AWS microservices\u2014can operate 24/7 with minimal human supervision",
+      "quote_location": "Automated robotics section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AWS microservices orchestrate the automated lab operations, with AI contributing to the overall automation capability.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "Two-thirds reduction in early-stage drug development costs",
+      "claim_description": "Using automated computer algorithms to detect patterns in big, complex datasets can slash up to two-thirds off the cost of early-stage drug development.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Using automated computer algorithms to detect patterns in big, complex datasets can slash up to two-thirds off the cost of early-stage drug development",
+      "quote_location": "Where next for AI approaches section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost reduction directly attributed to automated computer algorithms (AI) detecting patterns in datasets.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "66.7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Pharmaceutical and biotechnology sector",
+      "claim_description": "Exscientia operates in the pharmaceutical and biotechnology sector, focusing on drug discovery and development.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Exscientia is a technology-driven drug design and development company, committed to creating more effective medicines for patients, faster.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "functional",
+      "claim_title": "Research and development function",
+      "claim_description": "Exscientia's AI platform is applied in the research and development function, specifically in drug discovery and design processes.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "Exscientia's platform uses generative AI models and the scalability and flexibility of AWS to securely, quickly and efficiently design drug candidates",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Perform research and development",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Company founded in 2012",
+      "claim_description": "Exscientia was founded in 2012 and has grown from five employees to 450-strong team operating in more than 20 countries.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Founded in 2012, Exscientia has quickly established itself as a leader in harnessing AI to identify promising drug molecules",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "organisational",
+      "claim_title": "Public company listed on Nasdaq",
+      "claim_description": "Exscientia went public on the Nasdaq stock market in October 2021, raising $510 million in the largest IPO for a European biotech company.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "In October 2021, Exscientia achieved a significant milestone by going public on the Nasdaq stock market, raising $510 million",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "scale",
+      "claim_title": "450 employees across 20+ countries",
+      "claim_description": "Exscientia has grown to a 450-strong team operating in more than 20 countries with six established global offices.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "From modest beginnings with just five employees, today Exscientia's 450-strong team operates in more than 20 countries and has six established global offices.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "organisational",
+      "claim_title": "Headquartered in Oxford, UK",
+      "claim_description": "Exscientia is headquartered at the Oxford Science Park in the UK, with operations spanning England, Scotland, Austria, and the US.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Headquartered at the Oxford Science Park in the UK, Exscientia's operations span across England, Scotland, Austria, and the US.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "strategic_intent",
+      "claim_title": "Mission to transform drug invention with AI and automation",
+      "claim_description": "Exscientia's mission is to transform the way the biopharma industry invents impactful medicines by pairing human science with AI/ML and experimental automation.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Our mission is to transform the way the biopharma industry invents impactful medicines, by pairing the best available human science, ingenuity and AI/ML tech expertise",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "products_services",
+      "claim_title": "Centaur AI platform for drug discovery",
+      "claim_description": "Exscientia's Centaur AI platform generates highly optimised molecules that meet multiple pharmacology criteria required for clinical trials.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Exscientia's Centaur AI platform exemplifies the company's innovative approach to drug discovery. Not only does the platform generate highly optimised molecules",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "products_services",
+      "claim_title": "Internal pipeline focused on oncology",
+      "claim_description": "Exscientia has developed an internal pipeline focused on oncology, while its partnered pipeline extends to many other therapeutic areas.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "We have developed an internal pipeline focused on oncology, while our partnered pipeline extends to many other therapeutic areas.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "organisational",
+      "claim_title": "Strategic partnerships with major pharmaceutical companies",
+      "claim_description": "Exscientia has established collaborations with industry giants such as Sanofi, Bristol Myers Squibb, and Sumitomo Pharma, alongside academic partnerships.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The collaborations were with industry giants such as Sanofi and Bristol Myers Squibb, alongside academic partnerships with institutions like the University of Oxford",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "temporal",
+      "claim_title": "First AI-designed drug entered clinical trials",
+      "claim_description": "Exscientia was the first company to progress AI-designed small molecules into a clinical setting, pioneering the use of AI in drug discovery.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "we pioneered the use of AI in drug discovery as the first company to progress AI-designed small molecules into a clinical setting.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "organisational",
+      "claim_title": "Built on Amazon Web Services infrastructure",
+      "claim_description": "Exscientia's platform is built on AWS, using AI/ML services, Amazon Bedrock for large language models, and microservices for lab orchestration.",
+      "source_ids": [
+        "S1",
+        "S4"
+      ],
+      "source_quote": "Built on Amazon Web Services (AWS), Exscientia's innovative DMTL solution incorporates in silico design\u2014using generative AI algorithms to design compounds in the cloud",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "functional",
+      "claim_title": "Automated laboratory operations",
+      "claim_description": "Exscientia operates an AutomationStudio with state-of-the-art robotics for molecular synthesis and testing, integrated with its DesignStudio.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The company's UK based AutomationStudio then synthesises and tests drug candidates that were identified by its DesignStudio as having high potential",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10218",
+      "apqc_name": "Perform research and development",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "temporal",
+      "claim_title": "Early BBSRC funding in 2009",
+      "claim_description": "BBSRC provided crucial early funding starting with a pathfinder grant in 2009 and \u00a3150,000 follow-on-fund that supported Exscientia's formation.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "BBSRC supported this work with a small pathfinder grant, awarded in 2009 for the experimental proof of concept for drug design.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

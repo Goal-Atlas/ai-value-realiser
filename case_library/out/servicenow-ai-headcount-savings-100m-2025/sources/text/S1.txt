@@ -1,0 +1,20 @@
+ServiceNow eyes $100M in AI-powered headcount savings
+CFO claims money being reinvested in sales and engineering staff
+ServiceNow claims it is on course to realize $100 million in savings on its global headcount this year due to the internal implementation of AI.
+The workflow automation biz talked up the move during its calendar Q2 results conference call with analysts, during which it revealed total revenues jumped 22.5 percent year-on-year to $3.2 billion and net income bounced 47 percent to $385 million.
+CFO Gina Mastantuono said it would make productivity gains from its use of AI and see that in reduced staffing costs. However, margins are not set to increase because of investments elsewhere, she told investors.
+AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all
+READ MOREShe said management is "thrilled" with the boost it is seeing from AI, having first discussed them at ServiceNow's Knowledge conference in May.
+"We talked about at Knowledge $100 million in savings in headcount alone in 2025. We're seeing that come to fruition as planned. Part of the key to the upside was driven by the timing of marketing spend. Some of which has shifted into Q3 and Q4.
+"In addition, we're maintaining some prudent expense management to ensure we can absorb any potential margin headwinds from Moveworks if it closes in the back half of the year."
+In March, ServiceNow announced it would buy Moveworks, which builds agentic AI assistants designed to connect enterprise systems.
+Mastantuono said the business is investing in salespeople and engineers to help customers embed the AI products ServiceNow has developed. She did not specify where the headcount reduction would come from.
+- AI coding tools make developers slower but they think they're faster, study finds
+- Call center staffers explain to researchers how their AI assistants aren't very helpful
+- Fed chair Powell says AI is coming for your job
+- What will UK government workers do with an extra 26 minutes a day?
+"We're definitely still investing for growth to meet demand for AI transformation. We're 100 percent seeing the efficiencies. I'm not being prudent because I don't think the efficiencies are coming through; I'm just reserving the opportunity to lean into investments because the opportunity we're seeing with AI is so massive."
+The promise of productivity gains at ServiceNow follows Salesforce's claim that AI was now doing between 30 and 50 percent of the work at the SaaS CRM vendor.
+"All of us have to get our head around this idea that AI can do things that before we were doing," CEO Marc Benioff told The Circuit with Emily Chang. "We can move on to do higher-value work."
+AI was also singled out as the main reason why Workday expunged 1,750 positions from its organization in February, equating to 8.5 percent of the workforce. CEO Carl Eschenbach said it was restructuring to "align our resources with our customers' evolving needs."
+"This means investing strategically, helping teams work better together, bringing innovations to market faster, and making it easier for our customers and partners to work with us." ®

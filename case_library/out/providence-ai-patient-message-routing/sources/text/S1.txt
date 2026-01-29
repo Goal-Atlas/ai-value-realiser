@@ -1,0 +1,57 @@
+[6 MIN READ]
+In this article:
+-
+In the last 10 years, more patients have been seeking urgent care via MyChart messages. But MyChart messages are reviewed in the order they’re received, so there could be a delay in getting a response.
+-
+To solve this problem, Providence developed Provaria, a technology that uses AI to help tag and categorize MyChart messages.
+-
+Learn how Provaria is helping doctors respond to patients more quickly and respond to those who need immediate care first.
+Provaria: Transforming care with AI patient message management
+A Providence patient sent a message through MyChart that described symptoms of worsening depression.
+In the past, a medical assistant or nurse would have read this message in the order it was received. If many patients had sent messages, it might have taken three days to reach this message. But thanks to new technology developed by Providence, the message was tagged as urgent and read less than an hour after it was sent.
+By 11:30 a.m., a medical assistant was on the phone with the patient to ask about symptoms and administer a depression screening over the phone. The patient screened positive for suicidal ideation, meaning there was a possibility the patient would harm themselves.
+At 11:40 a.m., a nurse called the patient to discuss their depression and thoughts of suicide, helped the patient make a safety plan and got the patient to come in.
+Ford Parsons, M.D., is chief of analytics innovation at Providence. He’s worked as a physician in the past, so he knows the clinical side well. For nearly seven years, he’s been working on health care analytics at Providence, finding better ways to manage workflows and, most recently, AI (artificial intelligence).
+“I’ve only recently been able to relate that story without getting choked up,” Dr. Parsons says. “When I first saw that happen, when I first saw the caregiver talk about how it had really expedited care for someone who really needed it, I realized, wow, this is really impacting people’s lives.”
+Lots of messages, not enough time
+“Since COVID, the number of in-basket messages from patients to doctors has really taken off,” Dr. Parsons says. “Ten years ago, everyone was making phone calls. But now, everything’s MyChart messages. As a patient, I like that, too! I don’t want to make a call. But it does present some operational challenges for the health system.”
+Working through a mountain of messages contributes to caregiver burnout, and what people in the health care industry refer to as “pajama time.”
+“A lot of times doctors see patients all day, and they go home, and instead of spending time with their family, they log back into Epic and they start working again, in their pajamas,” Dr. Parsons says.
+Why? There’s not enough time in the day to see patients, perform procedures and work through dozens of MyChart messages.
+“It’s an important way that we can communicate with our patients, but it does add to the hours per day for the doc,” Dr. Parsons says. “There are a couple of ways that Providence has been trying to handle that. Sometimes you need to talk to your doctor or your advanced practice provider to get an answer, but some questions don’t necessarily need a doctor. A nurse or medical assistant can answer those.”
+One way Providence is helping doctors reduce their pajama time is by creating teams of medical assistants and nurses who triage and respond to messages in inboxes in a centralized location. Another way is AI (artificial intelligence).
+Enter Provaria
+A couple of years ago, Providence approached Dr. Parsons and his team and asked if they could figure out how to handle this new influx of patient messages. The messages are important. They are, after all, where care often begins. But no one had time to sort through and reply to them quickly.
+First, Dr. Parsons looked at various vendors. It was right around the time that large language models, a type of AI, were starting to become popular. All the vendors’ technology felt outdated, and none truly understood a doctor’s office workflow.
+“All the brains in Big Tech, I’m sure, make great AI products, but they don’t have a nurse down the hall,” Dr. Parsons says. “They don’t have a medical assistant they know on a first-name basis to say, ‘How can I ease your way? How can I help your work be safer, more efficient?’”
+So, Providence chose to develop the technology in-house.
+“We didn’t think of our nurses and medical assistants as customers,” Dr. Parsons says. “They were helping build this with us. We had informatics gurus. We had AI gurus. And we had clinical gurus all working together and building this thing. I think it would be pretty hard to do if we didn’t have that culture of collaboration here at Providence. I was the clinical AI guy, but really, no role was more important than any other role. Those experts working together was the real secret sauce.”
+The result: Provaria, Providence’s In-Basket Assistant, a groundbreaking technology that uses AI to categorize the MyChart messages patients send automatically. Provaria can:
+- Comprehend messages and automatically categorize them based on content and context.
+- Tag messages like an ED triage, ensuring patients who need help fast are responded to first.
+- Suggest quick actions allowing caregivers to easily prioritize, route and document messages, saving time.
+- Provide workflow guidance, freeing caregivers’ time for the most critical work.
+How Provaria improves patient care
+In just 10 months after its release, Provaria screened 300,000 messages sent to 264 clinics. Thanks to its intelligent categorizing and tagging, dedicated nurses and medical assistants could quickly respond to messages without waiting for doctors. Doctors ended up receiving 57% fewer messages as a result. Patients also benefited, with a 50% reduction in the time it took to receive a response.
+“The AI is helping humans know what order to look at the messages,” Dr. Parsons says. “AI is not replying to people. There’s always a human, either a medical assistant, nurse or doctor, reading the message.”
+In the beginning, Dr. Parsons and his team constantly evaluated Provaria’s accuracy, and it’s still continuously trained and monitored today. The result is a highly accurate technology.
+Ideally, if a patient is experiencing a medical emergency, they call 911 instead of sending a MyChart message. But Dr. Parsons says that can put a lot of pressure on the patient, especially if they don’t know they’re experiencing an emergency. Provaria quickly and accurately identifies these emergencies, allowing medical assistants and nurses to review them first.
+“We need our nurses,” Dr. Parsons says. “We need our medical assistants. AI isn’t intended to replace people. It’s intended to free them up to do the stuff that they’re uniquely qualified to do. We need doctors in the rooms with the patient. We need nurses taking care of patients. And so if we can ease their way and unburden them from some of this paperwork, then that’s the goal we’re aiming for.”
+What’s on the horizon
+Providence initially launched Provaria in four clinic pilot sites. With promising results in turnaround time and quicker care, Providence extended Provaria’s reach to all its primary care clinics, including family medicine, internal medicine and pediatrics. To date, Providence has processed more than three million messages with the help of Provaria.
+“A lot of the specialty clinics have asked to have this same functionality turned on for them, such as cardiology and OB-GYN,” Dr. Parsons says. “In some cases, different specialties need different categories. We want to expand into the specialty clinics so the medical assistants and nurses for surgeons, cardiologists and neurologists can benefit from this same platform.”
+Providence also plans to use Provaria to help categorize and tag phone messages.
+“People still use the phone,” Dr. Parsons says. “And those phone calls are captured and triaged in more or less the same way by the same people. Pretty soon after we deployed the in-basket classification, these same folks were saying, ‘Can you categorize these phone messages as well?’ So that’s another thing we’re doing, using the technology to triage phone calls.”
+Providence is also working on a tool that allows doctors to reply to patients in MyChart quickly, in their own “language,” which is often highly clinical and has many abbreviations. Provaria will read and polish these messages, rewriting them in language that’s easy for everyone to understand. Doctors will review the rewritten message, approve and then send.
+“We have a whole bunch of interesting data science to make sure that the translation is accurate,” Dr. Parsons says. “But the doctor’s always in the driver’s seat. Nothing’s sent without a doctor writing the first draft and proofreading the final draft. We think this will help patients understand the sometimes opaque clinical jargon doctors use and help the doctors share a plan of care without having to type a bunch of extra stuff.”
+Contributing caregiver
+Ford Parsons, M.D., is chief of analytics innovation at Providence.
+Find a doctor
+If you are looking for a primary care provider, you can search for one who’s right for you in our provider directory.
+Download the Providence app
+It’s all in the app: easily stay connected with Providence and your health. With the Providence app, you can schedule appointments, have virtual visits from the comfort of your own home, get health recommendations personalized for you, access your health records and so much more. Learn more and download the app.
+Related resources
+Office of Transformation helps caregivers better help you
+Driving business model transformation
+Test and learn experimentation pivotal to transformation
+This information is not intended as a substitute for professional medical care. Always follow your health care professional’s instructions.

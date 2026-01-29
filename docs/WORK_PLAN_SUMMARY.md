@@ -10,14 +10,20 @@ Transform AI Value Realiser from foundation (schemas ✅) to fully functional sy
 
 ---
 
+## 📅 Current state (as of 2026-01)
+
+**Case Library:** Pipeline (Steps 1–5), persistence, casefile.md export, migration progress tracking, and browse viewer are implemented. **Migration complete:** 202 cases rebuilt from `OLD_cases_enriched` into `case_library/out`. Step 5 (human validation) has data recording only; review UI is not yet built.
+
+---
+
 ## 📅 Timeline: 12 Weeks (MVP)
 
 | Phase | Focus | Duration | Status |
 |-------|-------|----------|--------|
-| **Phase 1** | Core Pipeline (Steps 2→1→3→4) | 5 weeks | 🔴 Not Started |
-| **Phase 2** | Data Persistence & CLI | 3 weeks | 🔴 Not Started |
-| **Phase 3** | Human Validation Workflow | 2 weeks | 🔴 Not Started |
-| **Phase 4** | Testing & Quality | 2 weeks | 🔴 Not Started |
+| **Phase 1** | Core Pipeline (Steps 2→1→3→4) + orchestration | 5 weeks | ✅ Done |
+| **Phase 2** | Data Persistence, migration, viewer | 3 weeks | ✅ Done |
+| **Phase 3** | Human Validation Workflow (UI) | 2 weeks | 🟡 Data only; UI pending |
+| **Phase 4** | Testing & Quality | 2 weeks | 🟡 Tests in place; coverage can grow |
 
 **Total:** 12 weeks (3 months) for MVP
 
@@ -196,21 +202,20 @@ Transform AI Value Realiser from foundation (schemas ✅) to fully functional sy
 
 ## 📊 Progress Tracking
 
-Use this checklist to track progress:
-
-- [ ] Phase 1.1: Content Extraction
-- [ ] Phase 1.2: Source Discovery
-- [ ] Phase 1.3: Claim Extraction
-- [ ] Phase 1.4: Verification
-- [ ] Phase 1.5: Orchestration
-- [ ] Phase 2.1: Data Persistence
-- [ ] Phase 2.2: CLI
-- [ ] Phase 2.3: Configuration
-- [ ] Phase 3.1: Validation
-- [ ] Phase 4.1: Testing
-- [ ] Phase 4.2: Quality
+- [x] Phase 1.1: Content Extraction (Step 2)
+- [x] Phase 1.2: Source Discovery (Step 1)
+- [x] Phase 1.3: Claim Extraction (Step 3)
+- [x] Phase 1.4: Verification (Step 4)
+- [x] Phase 1.5: Orchestration + casefile export + migration progress
+- [x] Phase 2.1: Data Persistence (build.json, claims.json, casefile.md, sources/text)
+- [x] Phase 2.2: Migration runner (--out, --resume) + viewer (hardwired path)
+- [ ] Phase 2.3: CLI (optional; runners are `run_legacy_cases`, `viewer.server`)
+- [x] Phase 3.1: Step 5 data recording
+- [ ] Phase 3.2: Human validation UI
+- [x] Phase 4.1: Unit tests (pipeline, schemas, persistence, step5)
+- [ ] Phase 4.2: Integration / E2E as needed
 
 ---
 
-**Last Updated:** 2026-01-19  
-**See Full Plan:** [WORK_PLAN.md](WORK_PLAN.md)
+**Last Updated:** 2026-01-28  
+**See Full Plan:** [WORK_PLAN.md](WORK_PLAN.md) · **Status detail:** [DEVELOPMENT_NOTES_CASE_LIBRARY.md](DEVELOPMENT_NOTES_CASE_LIBRARY.md)

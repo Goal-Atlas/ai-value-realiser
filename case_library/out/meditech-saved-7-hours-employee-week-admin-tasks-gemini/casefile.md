@@ -1,0 +1,430 @@
+---
+case_id: meditech-saved-7-hours-employee-week-admin-tasks-gemini
+organisation: MEDITECH
+title: Administrative Task Automation with AI
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemi...
+  url: https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-tran...
+  url: https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://x.com/googlecloud/status/1992692379460018309
+  url: https://x.com/googlecloud/status/1992692379460018309
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 7 hours saved per employee per week with Gemini
+  claim_description: MEDITECH employees saved an average of 7 hours per week by using
+    Gemini to reduce manual tasks such as notetaking during meetings and drafting/revising
+    emails and documents.
+  source_ids:
+  - S1
+  source_quote: We found that we were able to save an average of seven hours per employee
+    per week by reducing some manual tasks such as notetaking during meetings or drafting
+    and revising emails and documents.
+  quote_location: Main content, trial results section
+  ai_attribution: direct
+  attribution_evidence: The time savings are explicitly attributed to Gemini usage
+    for specific tasks (notetaking, email drafting) during the trial period, with
+    tracked results in a spreadsheet.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  - augmentation
+  outcome:
+  - velocity
+  - cost_reduction
+  cognitive_depth: generative
+  metric_raw:
+    value: '7'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: Improved job satisfaction through automation of mundane tasks
+  claim_description: MEDITECH teams reported increased job satisfaction as Gemini
+    enabled them to automate mundane tasks and focus on innovation and more strategic
+    projects.
+  source_ids:
+  - S1
+  source_quote: Our teams overall are feeling more satisfied with their jobs because
+    they're able to automate these more mundane tasks and focus on innovation.
+  quote_location: Looking ahead section
+  ai_attribution: direct
+  attribution_evidence: Job satisfaction improvement is directly linked to Gemini's
+    ability to automate mundane tasks, allowing employees to focus on higher-value
+    work.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - experience
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: Faster access to complex healthcare industry information
+  claim_description: Gemini enables MEDITECH employees to rapidly consolidate, summarize,
+    and distribute healthcare regulations and industry research through Google Chat,
+    keeping teams informed.
+  source_ids:
+  - S1
+  source_quote: And now employees are using Gemini to rapidly consolidate, summarize,
+    and distribute that news through Google Chat, so we can ensure all of our teams
+    are well-informed and equipped to build the best possible solutions for our customers.
+  quote_location: Main content, use cases section
+  ai_attribution: direct
+  attribution_evidence: Gemini is explicitly used to consolidate and summarize healthcare
+    regulations and research, directly enabling faster information access and distribution.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - optimization
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Automatic summarization of Google Meet calls
+  claim_description: MEDITECH teams use Gemini to automatically summarize Google Meet
+    calls, saving time across multiple teams and reducing manual notetaking effort.
+  source_ids:
+  - S1
+  source_quote: One common use case that saves time across our teams is the ability
+    to automatically summarize our Google Meet calls.
+  quote_location: Main content, trial results section
+  ai_attribution: direct
+  attribution_evidence: Gemini's automatic summarization feature is directly used
+    to reduce manual notetaking during meetings, contributing to the overall time
+    savings.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: primary
+  application_type: capability_enhancement
+  mechanism:
+  - automation
+  outcome:
+  - velocity
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: organisational
+  claim_title: MEDITECH is an enterprise EHR solution provider
+  claim_description: MEDITECH provides electronic health record platforms supporting
+    healthcare customers of all sizes across more than 23 countries, from four-bed
+    facilities to integrated delivery networks.
+  source_ids:
+  - S1
+  source_quote: MEDITECH provides an enterprise EHR solution that supports healthcare
+    customers of all sizes — from four-bed care facilities to integrated delivery
+    networks with thousands of care sites — across more than 23 countries.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: sectoral
+  claim_title: Healthcare industry with strict regulatory requirements
+  claim_description: MEDITECH operates in a highly regulated healthcare industry with
+    strict data privacy and security compliance requirements.
+  source_ids:
+  - S1
+  source_quote: Introducing new technology into MEDITECH's ecosystem is especially
+    complicated due to the highly regulated nature of our industry, and we're committed
+    to complying with data privacy and security regulations.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: temporal
+  claim_title: Google Workspace adoption in 2012
+  claim_description: MEDITECH strategically transitioned from a proprietary collaboration
+    suite to Google Workspace in 2012.
+  source_ids:
+  - S1
+  source_quote: In 2012, we strategically transitioned from a proprietary collaboration
+    suite to Google Workspace, a cloud-based solution.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: strategic_intent
+  claim_title: Gemini rollout with trial group approach
+  claim_description: MEDITECH started Gemini rollout with a trial group of users across
+    different teams and divisions, tracking use cases and results in a spreadsheet
+    before full organizational deployment.
+  source_ids:
+  - S1
+  source_quote: We started our Gemini rollout with a trial group of users spread across
+    different teams and divisions. We wanted to ensure that a wide range of responsibilities
+    were represented in the sample group.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: organisational
+  claim_title: BAA compliance for data privacy
+  claim_description: Gemini is a covered service under MEDITECH's Business Associate
+    Agreement (BAA) with Google, ensuring internal data privacy and that data won't
+    be used to train AI models.
+  source_ids:
+  - S1
+  source_quote: Gemini is a covered service under our BAA with Google, meaning internal
+    data will be private and won't be used to train the AI model. Having this assurance
+    made choosing Gemini a no brainer.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: functional
+  claim_title: Administrative and communication tasks
+  claim_description: Gemini is used for administrative tasks including notetaking,
+    email drafting and revision, document creation, and meeting summarization.
+  source_ids:
+  - S1
+  source_quote: reducing some manual tasks such as notetaking during meetings or drafting
+    and revising emails and documents
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '10.0'
+  apqc_name: Manage Enterprise Information
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: functional
+  claim_title: Compliance and regulatory monitoring
+  claim_description: MEDITECH uses Gemini to review, consolidate, and summarize healthcare
+    regulations and industry research to stay ahead of compliance requirements.
+  source_ids:
+  - S1
+  source_quote: We're constantly reviewing new healthcare regulations and industry
+    research in order to stay ahead of compliance requirements or potential opportunities.
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '11.0'
+  apqc_name: Manage Compliance
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: scale
+  claim_title: Organization-wide Gemini deployment
+  claim_description: Following successful trial results, MEDITECH rolled out Gemini
+    to the entire organization with CEO endorsement.
+  source_ids:
+  - S1
+  source_quote: When I showed our leadership team the results of our Gemini trial,
+    our president and CEO just said, 'Adopting Gemini is the right thing to do.' Since
+    then, we've been able to roll out Gemini to our entire organization.
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 4
+    verified: 4
+    needs_review: 0
+    rejected: 0
+    by_attribution:
+      direct: 4
+  context_claims:
+    total: 8
+    verified: 6
+    unverified: 2
+    inferred: 0
+  all_value_verified: true
+  all_context_verified: false
+human_validation_summary: null
+status: complete
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# Administrative Task Automation with AI
+
+## Executive Summary
+
+MEDITECH: 7 hours saved per employee per week with Gemini.
+
+## Key Findings
+
+- **7 hours saved per employee per week with Gemini** — verified (outcome)
+  - Quote: "We found that we were able to save an average of seven hours per employee per week by reducing some manual tasks such as notetaking during meetings or drafting and revising emails and documents."
+
+- **Improved job satisfaction through automation of mundane tasks** — verified (method)
+  - Quote: "Our teams overall are feeling more satisfied with their jobs because they're able to automate these more mundane tasks and focus on innovation."
+
+- **Faster access to complex healthcare industry information** — verified (method)
+  - Quote: "And now employees are using Gemini to rapidly consolidate, summarize, and distribute that news through Google Chat, so we can ensure all of our teams are well-informed and equipped to build the best p..."
+
+- **Automatic summarization of Google Meet calls** — verified (method)
+  - Quote: "One common use case that saves time across our teams is the ability to automatically summarize our Google Meet calls."
+
+## Sources
+
+- **S1**: https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows
+- **S2**: https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai
+- **S3**: https://x.com/googlecloud/status/1992692379460018309

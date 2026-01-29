@@ -1,0 +1,37 @@
+Our leadership team members, being former IT professionals, have been very conscious about using technology to solve issues faced by
+public institutions. For example, when it comes to primary school students' learning, we believe that a teacher plays a pivotal role
+in the learning process and technology will be used more to assist the process whereas higher class students will benefit greatly by
+using technology for self-study or to supplement school teaching. Also, when technology is used for the purposes of monitoring programs,
+only actionable and minimal data will be collected and the process will be set up to ensure that the stakeholders are motivated to submit
+accurate data into the system.
+So our technology intervention can be broadly classified as:
+This app was developed during the Covid pandemic to help students continue to learn on a shared mobile device with limited online connectivity. Post the pandemic the app has been upgraded to help teachers use it as a teaching aid, help students to supplement their learning and can help just about anyone to self-learn various skills beyond just academic. Some features about this app that sets it apart from similar apps are:
+The app is currently available for android devices on the play store and also as a webapp with limited feature set at www.sikshanapedia.org. The accompanying demo video covers the various use cases of the App.
+Used in: Learning & Assessments (KA Govt. Schools & Gram Panchayat Libraries), Teaching (Malleswaram model schools)
+Technology used: Apache, Django, MySQL, PHP, Android (Kotlin, SQLite)
+Components: Android App and Public Dashboard with login
+A Windows/Linux based software program which enables students to engage in Project Based Learning (PBL) in a structured manner. Curriculum aligned projects with a social angle are listed as projects for students to choose from. The students will use the software to do further research about the topic, learn various methodologies involved in executing a project, coordinate tasks among the project group members, monitor project progress and finally upload project reports for review & grading by teachers. The entire framework runs on a standalone computer but mimics an online experience as the system will have its own webserver.
+Used in: Learning (Karnataka Public Schools, Malleswaram Model Schools, Select Govt. Primary and High Schools)
+Technology used: Apache server, Cake PHP
+Components: Desktop App and Private Dashboard with login
+For large scale learning assessments across vast geographical areas especially where availability of digital devices is miniscule, paper-based OMRs offer the best option. Most commercial OMR solutions are very expensive and are also not very child friendly. Sikshana has used SDAPS open-source OMR library and by creating an end-to-end process with supporting python scripts have a developed a solution that can be customized and scaled very easily.
+This technology was used for the 2019 and 2020 CSAS where nearly 55 lakhs students from class 4 thru 10, were assessed for academic performance. The key benefits of this solution are:
+Used in: Assessments (CSAS – Karnataka State Achievement Survey), Prerana usage monitoring
+Technology used: Ubuntu, Web server, Python, SDAPS (Open source OMR library)
+Components: Server side scripts and Private Dashboard
+An android app which was initially developed for the Karnataka Education department as part of the Prerana program statewide rollout was subsequently launched as the Prerana App. This app helped the department to monitor the implementation of the Prerana program across all the primary schools in the state of Karnataka. The app allows for a set of questions to be setup on the server which then get pushed to the mobile devices of the end users who are responsible for providing the required data. The app will also allow users to initiate a data transfer which provides the end users ability to highlight their achievement or flag a concern to the senior management team.
+Used in: This app has now been upgraded and called as NiB-KA (Nipun Bharath – Karnataka) and is used for managing various education department programs in Karnataka including Kalika Chetarike program which is focused on helping students to overcome the 2 year interruption due to the pandemic. In Andhra Pradesh the app is called MyShaala and is used to support the monitoring of the schools where Prerana program is being run in collaboration with other NGOs and the Government.
+Technology used: MySQL, PHP, Android
+Components: Android App and Public Dashboard with login
+The core MyShaala app described above was modified and deployed to help RDPR (Rural Development & Panchayat Raj) Department to manage their Panchayat Library Program “Oduva Belaku” during the pandemic. The app is now also used to track the implementation of the Grama Digi Vikasana program across the state which is a program we developed to transform GP libraries into digital transformation centers.
+Used in: GPs of Karnataka
+Technology used: MySQL, PHP, Android
+Components: Android App and Public Dashboard
+A simple app designed for teachers to engage with parents and get them to participate in their child’s learning activities in school and at home. The app allows for the teachers to send short messages to parents which seeks parents to observe and report on their child's behaviour, take part in an activity with their child, routine informational messages etc. The teacher also gets a simple dashboard to keep track of all the replies and some basic data analytics are presented.
+Used in: UNICEF block of schools in (AP & TS) and in Malleswaram schools in KA.
+Technology used: MySQL, PHP, Android
+Components: Android App and Private Dashboard
+As part of School or Community interventions, the use of volunteers or interns to help in program management has been found to be quite helpful. These apps help them to provide data on various predefined metrics which are sent to their phones as a checklist and help them to be more organized and structured in their volunteering efforts.
+Used in: UNICEF block of schools in (AP & TS), 200 High schools in KA and 400 GPs in KA
+Technology used: MySQL, PHP, Android
+Components: Android App and Private Dashboard

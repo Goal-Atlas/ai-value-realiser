@@ -1,0 +1,552 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "Rapid service reduces ML experimentation loops and accelerates model development",
+      "claim_description": "Scale Rapid accelerates and shortens the experimentation loops that ML engineers need to get to the perfect model by providing high-quality labeled data back quickly, enabling faster iteration on model training.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Scale is getting people the data that they need to train the models. It is also accelerating and shortening the experimentation loops that they need to get to the perfect model.",
+      "quote_location": "Rapid Iteration section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Scale's data labeling service contributes to AI model development by providing training data, but the AI value is created by customers using this data to train their models.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "Rapid provides label feedback within hours enabling fast iteration",
+      "claim_description": "Scale Rapid enables ML engineers to receive labels and instruction feedback in a matter of hours and scale to production volumes in days, significantly reducing time to iterate on labeling instructions.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "Scale Rapid is self-serve, on-demand labeling to train AI with high-quality ground-truth data and enables machine-learning engineers and researchers to receive labels and instruction feedback in a matter of hours",
+      "quote_location": "Rapid Iteration section",
+      "ai_attribution": "contextual",
+      "attribution_evidence": "This is about the infrastructure service itself, not AI creating value. The service enables AI development but doesn't directly use AI to create the value claim.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "hours",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Block achieved higher ROI switching from MTurk to Scale Rapid",
+      "claim_description": "Block (formerly Square) switched from Amazon MTurk to Scale Rapid for labeling product listings and achieved time savings and higher return on investment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "One of Block's services is to help clothing merchants list products on Amazon or Google...her team switched from MTurk to Rapid and hasn't looked back. It saves them time",
+      "quote_location": "Rapid Iteration section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Scale's service contributes to Block's ability to label data for their AI-powered product listing service, enabling the AI application to function effectively.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "At-Bay achieved higher ROI with Rapid for cyber insurance domain categorization",
+      "claim_description": "At-Bay uses Scale Rapid to categorize thousands of web domains weekly for cyber insurance underwriting, achieving higher return on investment compared to other labeling services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Every week they review three thousand potential clients, each with up to five Web domains...the return on investment with Rapid has been higher...The way that it's automated today is great.",
+      "quote_location": "Rapid Iteration section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "Scale Rapid provides labeled data that contributes to At-Bay's AI-powered cyber insurance risk assessment capabilities.",
+      "verification_status": "needs_review",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "3000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Scale Data Engine workforce of 240K enables large-scale data labeling",
+      "claim_description": "Scale AI's data engine leverages a workforce of 240,000 people across Kenya, Philippines, and Venezuela to provide high-quality annotated data at scale for companies including Lyft, Toyota, Airbnb, and General Motors.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Scale AI's core product is its data engine, which relies on a workforce of 240K people labeling data across Kenya, the Philippines, and Venezuela, managed through subsidiary RemoTasks.",
+      "quote_location": "Scale Data Engine section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "The human labeling workforce contributes to creating training data that enables AI models, but is not itself AI-driven value creation.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "business_growth"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "240000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "HITL labeling combines automation efficiency with human accuracy",
+      "claim_description": "Human-in-the-loop labeling combines automated systems handling bulk labeling with human expert review, ensuring high accuracy and efficiency by combining strengths of both automation and human expertise.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "HITL labeling combines both methods, where automated systems handle the bulk of the labeling and human experts review and refine the outputs. This hybrid approach ensures high accuracy and efficiency",
+      "quote_location": "Scale Data Engine section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI automation directly creates value by handling bulk labeling tasks, with human oversight ensuring quality, representing a direct AI-human collaboration model.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "temporal",
+      "claim_title": "Scale AI founded in 2016 through Y Combinator",
+      "claim_description": "Scale AI was accepted into Y Combinator in 2016 and raised a $120K seed round, founded by Alexandr Wang and Lucy Guo.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The Scale AI was accepted into Y-Combinator in 2016 and raised a $120K seed round.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "Alexandr Wang is 26-year-old founder and CEO",
+      "claim_description": "Alexandr Wang, Scale AI's founder and CEO, is 26 years old and dropped out of MIT after one year to start the company.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Alexandr Wang, its 26-year-old founder and CEO",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "sectoral",
+      "claim_title": "Initial focus on autonomous vehicle industry",
+      "claim_description": "Scale AI initially narrowed its efforts to autonomous vehicles as a use case, helping self-driving cars learn to recognize pedestrians, stop lights, and other objects through human-labeled images.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "They couldn't power the AI revolution singlehandedly, so they narrowed their efforts to a use case that had captured the world's attention: autonomous vehicles.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "sectoral",
+      "claim_title": "Expanded to multiple industries including e-commerce, insurance, and government",
+      "claim_description": "Scale AI expanded from autonomous vehicles to serve other industries including satellite data, e-commerce, insurance companies, and U.S. government organizations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "And then as we grew, it became more applicable to other industries of AI, whether that's for satellite data, or e-commerce data, or large internet companies, or insurance companies, or U.S. government organizations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "scale",
+      "claim_title": "Scale AI employs hundreds of people",
+      "claim_description": "Scale AI has grown to employ hundreds of employees in addition to its 240K labeling workforce.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Wang now oversees a successful business employing hundreds.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "strategic_intent",
+      "claim_title": "Vision to be foundational infrastructure for AI/ML applications",
+      "claim_description": "Scale AI's vision is to be the foundational infrastructure behind AI/ML applications, providing data infrastructure to power the AI revolution.",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "source_quote": "Scale AI's vision is to be the foundational infrastructure behind AI/ML applications...data infrastructure to power the AI revolution.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "Three main product offerings: Build AI, Apply AI, and Evaluate AI",
+      "claim_description": "As of October 2025, Scale AI segments products into Build AI (Scale Data Engine), Apply AI (Scale Donovan and Scale GenAI platform), and Evaluate AI (Scale Evaluation).",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "As of October 2025, Scale AI segments its products into three offerings, Build AI, Apply AI, and Evaluate AI, each with its own set of capabilities.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Lucy Guo co-founded Scale AI but left in 2018",
+      "claim_description": "Lucy Guo, a Thiel Fellow and Carnegie Mellon dropout, co-founded Scale AI with Alexandr Wang but left in 2018 to start Backend Capital venture firm due to division in culture and ambition alignment.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "By 2018, the company had grown significantly, and both Wang and Guo were named to the Forbes 30 Under 30 list. At this time, Guo left Scale AI to start a venture capital firm called Backend Capital.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "Data annotation and labeling for ML model training",
+      "claim_description": "Scale AI's core function is data engineering, specifically data annotation and labeling of ground truth data to train machine learning models.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Scale AI's core value proposition is built around the data engineering component of this lifecycle. Specifically, Scale AI helps companies with data annotation and labeling of ground truth data.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10640",
+      "apqc_name": "Manage information technology (IT)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "scale",
+      "claim_title": "240K labeling workforce across three countries",
+      "claim_description": "Scale AI operates a workforce of 240,000 people labeling data across Kenya, the Philippines, and Venezuela, managed through subsidiary RemoTasks.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Scale AI's core product is its data engine, which relies on a workforce of 240K people labeling data across Kenya, the Philippines, and Venezuela, managed through subsidiary RemoTasks.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Jeff Wilke serves as advisor to Alexandr Wang",
+      "claim_description": "Jeff Wilke, former CEO of Amazon Worldwide Consumer, serves as an advisor to Alexandr Wang, helping him develop leadership capabilities.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Understanding that he needs help along the way, Wang has engaged an advisor, Jeff Wilke, the former CEO of Amazon Worldwide Consumer.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "temporal",
+      "claim_title": "Meta invested $14.3B for 49% stake in June 2025",
+      "claim_description": "In June 2025, Meta finalized a deal to invest $14.3 billion into Scale AI in return for a 49% stake, with Alexandr Wang leaving to lead Meta's AI superintelligence lab.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "In June 2025, Meta finalized a deal to invest $14.3 billion into Scale AI in return for a 49% stake in the company. This same deal also committed Alexandr Wang to leaving Scale AI to lead Meta's AI superintelligence lab.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

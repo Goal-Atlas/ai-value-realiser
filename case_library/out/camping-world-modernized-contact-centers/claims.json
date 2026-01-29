@@ -1,0 +1,439 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "33% increase in agent efficiency at Camping World",
+      "claim_description": "Camping World implemented IBM Watson AI-powered virtual assistant Arvee in their call center, resulting in a 33% improvement in agent efficiency.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By implementing Arvee in their call center, Camping World was able to improve agent efficiency by 33% and increase customer engagement by 40%.",
+      "quote_location": "Main content section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The efficiency improvement is directly attributed to implementing the AI-powered virtual assistant Arvee in the call center.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "33",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "40% increase in customer engagement at Camping World",
+      "claim_description": "Camping World's implementation of IBM Watson AI-powered virtual assistant Arvee resulted in a 40% increase in customer engagement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By implementing Arvee in their call center, Camping World was able to improve agent efficiency by 33% and increase customer engagement by 40%.",
+      "quote_location": "Main content section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The customer engagement increase is directly attributed to the AI virtual assistant Arvee handling customer interactions.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "40",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "33-second reduction in customer wait times",
+      "claim_description": "Camping World achieved a 33-second drop in wait times after implementing the AI assistant Arvee to handle customer calls.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "33-second drop in wait times",
+      "quote_location": "Results section for Camping World case study",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The wait time reduction is directly attributed to Arvee handling calls 24/7 and answering customer questions without agent involvement.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "33",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "24/7 customer service availability",
+      "claim_description": "Arvee AI assistant enabled Camping World to provide round-the-clock customer service, capturing all call data regardless of when calls came in, eliminating missed calls after hours.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Arvee took calls 24/7, helped answer questions for customers, so agents didn't have to get involved, and captured all the call data for the sales team, regardless of when the call came in.",
+      "quote_location": "Camping World case study description",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 24/7 availability is directly enabled by the AI assistant Arvee, which was not possible with human agents alone.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "experience",
+        "business_growth"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "24/7",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "ratio"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Improved agent experience through warm handoffs",
+      "claim_description": "Agents at Camping World reported loving the ease of customer interaction, with Arvee initiating warm handoffs and providing customer engagement stats on dashboards.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The agents love the ease with which they can interact with the customers. Arvee initiates and transmits a warm hand-off to agents. Also, having access to the customer engagement stats and metrics on the dashboard is greatly helping agents stay organized.",
+      "quote_location": "Quote from Saurabh Shah, CIO, Camping World",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The improved agent experience is directly attributed to Arvee's capabilities in handling handoffs and providing dashboard metrics.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Potential cost savings of $5.50 per contained call",
+      "claim_description": "AI-powered virtual agents can handle up to 70% of calls automatically, potentially saving businesses an estimated $5.50 per contained call.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By using AI-powered virtual agents, it is possible to handle up to 70% of calls automatically, potentially saving your business an estimated $5.50 per contained call and saving time for customers.",
+      "quote_location": "Benefits section discussing reduced operational costs",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Cost savings are directly attributed to AI-powered virtual agents handling calls automatically without human agent involvement.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_low",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "5.50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Camping World is the top retailer of recreational vehicles",
+      "claim_description": "Camping World is identified as the leading retailer in the recreational vehicle industry.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Camping World, the top retailer of recreational vehicles",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Recreational vehicle retail and rental industry",
+      "claim_description": "Camping World operates in the recreational vehicle retail and rental sector, serving customers who rent and purchase RVs.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "A traveler goes on a camping trip and decides to extend their RV rental during their trip.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "temporal",
+      "claim_title": "Implementation during COVID-19 pandemic",
+      "claim_description": "Camping World implemented the IBM Watson AI-powered virtual assistant Arvee to handle increased customer demand during the COVID-19 pandemic.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Camping World, the top retailer of recreational vehicles, used IBM Watson AI-powered virtual assistant Arvee to handle an increase in customer demand during the COVID-19 pandemic.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Customer service and support function",
+      "claim_description": "The AI implementation was deployed in Camping World's call center and contact center operations for customer service.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "By implementing Arvee in their call center, Camping World was able to improve agent efficiency by 33%",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10004",
+      "apqc_name": "Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Addressing surge in customer calls and after-hours coverage",
+      "claim_description": "Camping World faced challenges with staff strain from sudden call increases and missed calls after hours, prompting the AI implementation to capture leads and answer queries 24/7.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "After Camping World experienced a surge in calls to its contact centers, the company realized it had some challenges with its call center: not only was its staff strained by the sudden increase in calls, but any calls that came into the call center after hours could be missed or pushed to the next day",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "products_services",
+      "claim_title": "IBM Watson Assistant named Arvee",
+      "claim_description": "Camping World deployed IBM's cognitive AI tool Watson Assistant, creating an AI assistant named Arvee specifically for their customer service operations.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "The company tapped IBM's cognitive AI tool to create an AI assistant and named it Arvee.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "organisational",
+      "claim_title": "CIO leadership of AI implementation",
+      "claim_description": "Saurabh Shah, CIO of Camping World, led or oversaw the implementation of the AI assistant.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "says Saurabh Shah, CIO, Camping World",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

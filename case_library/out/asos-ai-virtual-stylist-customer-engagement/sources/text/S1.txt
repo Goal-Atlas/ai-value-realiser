@@ -1,0 +1,138 @@
+ASOS uses machine learning for product clusters, visual search, virtual try-on, and Azure OpenAI to deliver personalized discovery and styling - improving conversion and average order value.
+ASOS is one of the most popular brands for young shoppers, especially in the UK. The brand has a global presence and caters to customers across the globe.
+Catering to customers in hundreds of countries, and working with thousands and lakhs of products, the fashion brand has adopted various strategies to meet the growing customer needs, including experimenting with AI-powered technology.
+ASOS implements artificial intelligence (AI), machine learning (ML), predictive analytics, and automation, among other AI-based capabilities to enhance customer experience, increase conversions, and customer satisfaction.
+In this blog, we breakdown the many ways in which ASOS AI personalization helps the brand and how you can implement lessons from its AI strategies.
+Key Ways ASOS Leverages AI to Personalize and Optimize Ecommerce
+-
+ASOS uses collaborative filtering and machine learning for smart recommendations, to suggest products based on browsing patterns and what similar customers buy together, increasing engagement and average order value.
+-
+The ASOS Fit Assistant tool uses machine learning to analyze past purchases, returns, and customer measurements to provide accurate size recommendations, reducing returns and improving customer satisfaction.
+-
+AI Stylist uses Azure OpenAI-powered conversational tools that help customers discover products through interactive chat, understanding their style preferences and shopping occasions for personalized suggestions.
+-
+ASOS AI personalization strategy enhances supply chain transparency with its partnership with TrusTrace that provides AI-powered supply chain mapping and traceability, supporting sustainability goals and risk management with a target to map 100% of products to raw materials by 2030.
+-
+The Profile Builder feature learns preferences from 36 sample products to personalize experiences across email, recommendations, and website features throughout the shopping journey.
+-
+ASOS increases operational efficiency with backend AI tools including Microsoft Copilot, Power Automate, and GitHub streamline internal processes, automate tasks, and enable rapid prototyping of new customer experiences.
+ASOS AI Personalization: An Overview of How the Brand uses AI
+Over the years, ASOS has experimented with many AI technologies to enhance its online shop experience. The brand uses collaborative filtering for personalization, analyzing customer-product fit.
+Its ML-based Fit Assistant technology makes it easy for customers to identify their correct size, reducing returns and exchanges. The ASOS website integrates Azure OpenAI-powered conversational AI Stylist to provide personalized style advice to customers based on their personal preferences and fashion trends of the industry.
+With the use of predictive analytics, the brand forecasts demand for specific products. AI-powered TrusTrace helps the brand with supply chain traceability. The brand uses AI for both frontend and backend operational processes. ASOS AI personalization strategies help increase average order value (AOV), reduce sizing-related returns and exchanges.
+ECommerce merchants looking to implement AI technologies can easily get started by hiring eCommerce AI retainers and agencies. AI retainers provide Shopify AI experts that can help brands create the right strategies, invest in the most efficient SaaS and AI tools, and manage AI strategies for maximum ROI.
+In the next section, we look at some key lessons from the way ASOS uses AI.
+A Breakdown of ASOS AI Personalization Strategy
+Here are six ways in which ASOS uses AI for personalization to improve customer experience and conversion rates.
+1. AI-powered recommender system and collaborative filtering
+ASOS implements machine learning to identify products that can be recommended to customers, based on customers’ browsing patterns. For instance, if a few different customers buy two products together (Eg., a red dress and black belt), the system then recommends these two products to other customers who have similar demographic profiles.
+ASOS’s recommendation system and collaborative filtering feature processes vast amounts of browser and customer data continuously, as new products are added to the website every week.
+A recent study by IBM reveals that three out of five customers would like to use AI features when shopping. ASOS’s AI system is constantly working to identify and understand individual preferences to meet the increasing need for personalization in eCommerce.
+ASOS AI systems work with thousands of products as the brand offers clothes, accessories, and footwear from multiple brands under one roof. The brand has product SKUs and data that only AI can handle, as it is impossible to sift through so many products manually.
+Here are the benefits of ASOS AI personalization:
+-
+Offer personalized experience
+-
+Provides recommendations based on individual preference
+-
+Reduces browsing through products for customers
+-
+Enhances engagement rate, conversions, and customer satisfaction
+-
+Increases AOV through recommendations
+2. Advanced fit assistant tool
+One of the biggest issues in eCommerce fashion is sizing accuracy. It is also a reason for returns and exchanges, making shopping more complex. ASOS tackles this problem with a Fit Assistant Tool, powered by machine learning.
+The tool provides personalized size recommendations based on various data points. For instance, for existing customers, the system analyzes data from past purchases and returns to understand customer sizes. For new customers, it asks a couple of quick questions about height, weight, and fit preference to receive accurate recommendations.
+The Fit Assistant technology combines garment information with purchase histories across ASOS brands, helping customers to find the right size. The tool displays the suggested size along with the percentage of other shoppers who have purchased the size.
+Here’s how having the Fit Assistant tool helps ASOS AI personalization strategy:
+-
+Reduces size-related returns and exchanges
+-
+Increased conversion rates
+-
+Increased customer satisfaction levels
+-
+Helps customers make more informed choices
+3. ASOS AI personalization with OpenAI-powered stylist
+ASOS incorporated Azure OpenAI Service-powered AI Stylist to make it easier for customers to discover new looks. The AI Stylist tool is different from traditional search or filtering features. The conversational tool interacts with customers to understand their style preferences, occasions they’re shopping for, and specific requirements.
+The AI system also collects data about fashion trends from other sources, insights from ASOS designers, and customers personal style preference to recommend products. This shifts the passive browsing experience to interactive discovery.
+Here’s how the AI Stylist tool helps ASOS:
+-
+Provides instant and personalized style suggestions
+-
+Enhances product discovery for customers
+-
+Makes shopping interactive and engaging
+-
+Reduces decision fatigue
+-
+Enhances experience for young customers.
+-
+Provides modern, conversational shopping experiences
+4. AI-powered supply chain mapping and traceability
+Transparency, sustainability, and ethical practices are important factors for businesses. ASOS partnered with TrusTrace to implement AI-based supply chain traceability. The tool provides real-time visibility into its supply chain.
+The AI platform collects and validates supply chain data, streamlines risks, manages regulatory compliance, footprint calculations, etc. The tool helps the brand to understand and address supply chain risks before they occur.
+The tool also helps centralize documentation, manage compliance standards, and integrate updated information with the system. With this tool, ASOS aims to have 100% of its own products’ supply chains mapped to raw material level by 2030.
+Here’s how the tool helps ASOS:
+-
+Provides real-time visibility across the supply chain
+-
+Proactive risk management and compliance
+-
+Supports sustainability goals
+-
+Build trust with customers
+-
+Enables ethical and transparent fashion
+-
+Creates resilience in supply chain operations
+5. Customer-product interaction analysis for enhanced personalization
+A study shows that shoppers complete purchases 47% faster with AI support. ASOS enhances shopping speed with AI. Its AI systems focus on how customers interact with products throughout their shopping journey.
+The brand uses AI and ML to understand customer interactions and improve personalization at every touchpoint. For instance, the brand uses a Profile Builder feature that captures information from customers about their style preference.
+So, how does Profile Builder work? The system selects a sample of 36 products from various product categories and presents one product per category to learn the most about customer preferences.
+The tool then uses these insights to personalize customer experiences via recommendations, email marketing, promotional messages, etc. Features such as “Your Edit”, “Style Match”, and “You Might Also Like” are displayed throughout customers’ shopping journey on the ASOS website.
+Here’s how ASOS AI personalization helps the brand:
+-
+Create relevant shopping experiences for customers
+-
+Improves efficiency of learning with minimal effort
+-
+Personalization across touchpoints
+-
+Increases sales and conversions potential
+-
+Enhances customer engagement throughout the shopping journey
+6. Machine learning for operational excellence
+ASOS not only enhances customer-facing capabilities with AI but also backend and internal operational features. ASOS uses Microsoft Copilot for Microsoft 365 and GitHub for code.
+The brand uses Power Automate for process automation, and Teams Premium for automated meeting summaries, notes, actions, and live translations. ASOS uses AI-based tools to increase efficiency, decision-making, and rapid prototyping of new customer experiences.
+ASOS is able to experiment with generative AI tools, reducing tedious work for employees, and freeing time to focus on creativity, insights, and strategy.
+Here’s how it helps ASOS AI personalization strategy:
+-
+Increases operational efficiency
+-
+Enables prototyping and testing of new AI-based features
+-
+Supports data-driven decision-making at all levels
+-
+Enhances demand forecasting
+Wrapping up: How to Implement ASOS AI Personalization Lessons in your Shopify Store?
+The AI strategies discussed here offer many lessons that you can adopt for your Shopify store. However, when implementing AI transformation for your eCommerce business, you have to be careful as you could end up making mistakes.
+To avoid AI transformation mistakes, hire experienced and skilled AI retainers and agencies to help you with the implementation and management of your AI infrastructure.
+If you’re looking to explore AI retainers and agencies, contact XgenTech today!
+Frequently Asked Questions About ASOS’s AI Personalization Strategy
+1. How is ASOS using AI to personalize the shopping experience?
+ASOS uses machine learning, visual search, and Azure OpenAI-powered insights to recommend products, create styling suggestions, and deliver personalized discovery.
+2. Does ASOS use generative AI for styling ideas?
+Yes. ASOS has developed generative AI features, including personalized outfit suggestions and conversational discovery using Azure OpenAI models.
+3. What kind of data does ASOS use for personalization?
+ASOS uses behavior data, purchase history, image preferences, browsing patterns, and product metadata to power real-time personalization models.
+4. How does ASOS use visual search?
+ASOS uses image-recognition models that let shoppers upload or tap images to find visually similar items across its catalog.
+5. What business results can AI personalization deliver for retailers like ASOS?
+AI-driven personalization can improve conversion rates, boost AOV, increase repeat purchases, and reduce friction in product discovery.
+6. Does ASOS use AI for size and fit recommendations?
+Yes. ASOS uses body-shape prediction, purchase history, and category-specific fit models to suggest accurate sizes and reduce returns.
+7. Is ASOS’s AI approach compliant with privacy laws?
+ASOS follows GDPR and global data privacy requirements by using consent-based data, anonymized models, and transparent user controls.
+8. Can smaller eCommerce brands implement similar AI personalization?
+Absolutely. With tools like Shopify AI, Azure AI, and plug-and-play personalization engines, smaller brands can deploy AI personalization in weeks.

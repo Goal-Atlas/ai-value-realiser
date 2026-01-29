@@ -1,0 +1,13 @@
+Personalization at scale is the future of guest experience
+I’m thrilled to share some exciting news. Marriott International has selected Adobe Experience Cloud to help deepen its relationships with guests through precise, one-to-one personalization — from the moment someone researches a trip to when they arrive on property.
+Enterprise applications running on Adobe Experience Platform, including Adobe Real-Time Customer Data Platform and Adobe Journey Optimizer, enable Marriott to unify data across channels and understand guests’ needs, with insights to orchestrate personalization at scale. This announcement expands a decade-long relationship between our companies, where applications such as Adobe Creative Cloud and Adobe Experience Manager have supported Marriott’s digital growth initiatives.
+“The Adobe Experience Cloud is helping our teams across the globe to deliver highly personalized moments at scale throughout the entire journey and across touchpoints, including Marriott’s award-winning Marriott Bonvoy App,” said Amit Manurkar, VP, Digital Content & MarTech, Marriott International.
+Leveraging Experience Cloud, Marriott will:
+- Deliver highly personalized guest experiences across online reservations and its loyalty program, Marriott Bonvoy
+- Customize data throughout a guest’s journey based on individual preferences they voluntarily share
+- Help the company match individuals with the best options across its portfolio of more than 30 brands and nearly 8,800 properties
+Why targeted personalization matters
+Personalization is crucial across all guest touchpoints, with modern-day travelers expecting brands to be intimately aware of the preferences they voluntarily share. Adobe solutions help Marriott build guest loyalty over time, support direct bookings and loyalty expansion, and help guests receive a high-touch experience on property.
+“At Marriott, we are putting personalization at the center of how we interact with our customers in an effort to create seamless, intuitive travel experiences,” said Chris Zheng, VP, Data Activation & Audience Strategy, Marriott International.
+Read more about Adobe’s exciting partnership with Marriott International.
+Learn more about the solutions Marriot is using — Adobe Experience Cloud, including Adobe Real-Time CDP and Adobe Journey Optimizer — to deepen its relationship with guests.

@@ -1,0 +1,559 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "45% reduction in false positive alerts",
+      "claim_description": "Custom alerts in riskCanvas led to a 45% drop in false positive alerts for financial crime detection, allowing analysts to focus on higher-quality alerts with higher probabilities of identifying actual fraud.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "First, the custom alerts led to a 45% drop in the number of false positives, which means analysts now have fewer cases to investigate.",
+      "quote_location": "Impact section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI-powered riskCanvas system with custom alerts directly caused the reduction in false positives through improved detection algorithms.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": {
+        "value": "45",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "60% faster case resolution time",
+      "claim_description": "Analysts can resolve financial crime cases 60% faster due to more integrated data and simpler workflows enabled by the riskCanvas platform.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "And when they do, they can resolve them 60% faster, thanks to more integrated data and simpler workflows.",
+      "quote_location": "Impact section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "The AI system contributes to faster resolution through data integration and workflow optimization, but analyst expertise remains essential.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "60",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Consolidated five case management systems into one",
+      "claim_description": "The riskCanvas solution reduced five separate case management systems to a single platform, creating a one-stop shop with an all-encompassing view of individual clients.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "The new solution also meant the previous five case management systems were reduced to one, creating a single, one-stop shop with an all-encompassing view of individual clients.",
+      "quote_location": "Solution section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI-powered platform directly enabled system consolidation through its integrated architecture and data management capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "5",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "50% reduction in margin calculation processing time",
+      "claim_description": "AlloyDB-based solution achieved a 50% reduction in processing time, enabling margin calculations for 100,000 accounts in just one minute.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "The AlloyDB-based solution achieved a remarkable 50 percent reduction in processing time, enabling margin calculations for 100,000 accounts in just one minute.",
+      "quote_location": "Crunching the numbers section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "AlloyDB's columnar engine and architecture contribute to faster processing, though the database itself is not AI but enables AI-driven analytics.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": {
+        "value": "50",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Entity-level risk scoring capability",
+      "claim_description": "riskCanvas introduced risk scoring at the entity level, providing better transparency into residual risk across Apex's portfolio and enabling risk-based decision making.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Genpact riskCanvas introduced risk scoring at the entity level. This gave Apex better transparency into the residual risk across its portfolio.",
+      "quote_location": "Solution section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-powered risk scoring algorithms directly enable entity-level risk assessment and portfolio-wide risk visibility.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "innovation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "Cross-account fraud detection capability",
+      "claim_description": "The monitoring system can now see activity for a single customer across multiple accounts at different financial institutions using IP addresses, login information, and funding sources.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "The Apex monitoring system could now see activity for a single customer across multiple accounts at different financial institutions. To achieve this holistic view, the data-driven tool used IP addresses, login information, and funding sources.",
+      "quote_location": "Solution section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "AI-driven data correlation and pattern recognition directly enables cross-account fraud detection by analyzing multiple data points.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "augmentation"
+      ],
+      "outcome": [
+        "risk_avoidance"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "Real-time margin calculation capability",
+      "claim_description": "Migrated from batch processing to real-time margin calculations on demand via API, enabling customers to determine their risk in seconds.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We needed real-time data from APIs to calculate the margin on demand and help our customers to determine their risk in seconds.",
+      "quote_location": "Overhauling processes section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "The database and microservices architecture enable real-time processing, with AI contributing to analytical query optimization.",
+      "verification_status": "needs_review",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization",
+        "innovation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "descriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Apex Fintech Solutions is a digital clearing and custody firm",
+      "claim_description": "Apex processes more than 1.8 million trades daily with over $114 billion in assets under custody, serving 220 clients representing more than 24 million brokerage accounts.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Apex Fintech Solutions is an international digital clearing and custody firm that processes more than 1.8 million trades daily. With over $114 billion in assets under custody, Apex serves 220 clients representing more than 24 million brokerage accounts.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Financial services - fintech clearing and custody",
+      "claim_description": "Apex operates in the fintech sector, providing clearing and custody services for online broker-dealers, wealth managers, wealthtechs, and consumer brands.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Apex serves over 220 clients, including many nontraditional, consumer-facing financial companies \u2014 such as online broker-dealers, traditional wealth managers, wealthtechs, professional traders, and consumer brands.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "functional",
+      "claim_title": "Financial crime compliance and risk management",
+      "claim_description": "Apex maintains a robust financial crime risk management program ensuring compliance with KYC and AML regulations, monitoring 200+ clients and 24 million brokerage accounts.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Apex maintains a robust financial crime risk management program that ensures compliance with various know-your-customer (KYC) and anti-money-laundering (AML) regulations.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10404",
+      "apqc_name": "Manage compliance",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "scale",
+      "claim_title": "24 million brokerage accounts monitored",
+      "claim_description": "Apex monitors both its 200+ direct clients and its clients' customers, totaling 24 million brokerage accounts for financial crime detection.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "That means monitoring both its 200+ direct clients and its clients' customers, amounting to 24 million brokerage accounts in all.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "strategic_intent",
+      "claim_title": "Digital transformation and cloud migration initiative",
+      "claim_description": "Apex leadership focused on transforming on-premises processes into SaaS-based product offerings as part of digital transformation strategy.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "Recently, Apex leadership has been focused on transforming on-premises processes into SaaS-based product offerings.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "temporal",
+      "claim_title": "Legacy system had 80% false positive rate",
+      "claim_description": "Prior to implementing riskCanvas, Apex's existing financial crime detection system generated 80% false positive alerts.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "With Apex's existing system, 80% of the alerts analysts received were false positives, or cases where a legitimate transaction is flagged as suspicious.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "Margin calculation service for brokerages",
+      "claim_description": "Apex provides margin calculation services to determine investor borrowing capacity and risk, a crucial service for brokerage clients.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "We saw an opportunity for improvement in our margin calculation method \u2014 a crucial service for brokerages. Margin is the capital that an investor borrows from a broker to purchase an investment.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Serves major fintech brands",
+      "claim_description": "Apex serves blue-chip brands and fast-growing fintech firms including Ally Invest, SoFi Wealth, Public.com, and Webull.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "Apex serves many blue-chip brands and is a key enabler for fast-growing fintech firms in the trading space, such as Ally Invest, SoFi Wealth, Public.com, and Webull.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "functional",
+      "claim_title": "Transaction monitoring and case management",
+      "claim_description": "The riskCanvas system provides transaction monitoring, case management, and entity risk scoring for financial crime detection.",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "source_quote": "In Apex's case, the new system provided transaction monitoring, case management, and entity risk scoring.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10404",
+      "apqc_name": "Manage compliance",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "temporal",
+      "claim_title": "AlloyDB implementation completed by November 2024",
+      "claim_description": "Internal testing and benchmarking of the AlloyDB solution was conducted in November 2024.",
+      "source_ids": [
+        "S3"
+      ],
+      "source_quote": "50% reduction in processing time is based on internal testing and benchmarking conducted in November 2024 using the Google database and services.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

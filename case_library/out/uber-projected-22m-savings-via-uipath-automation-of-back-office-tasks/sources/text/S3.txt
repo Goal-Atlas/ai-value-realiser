@@ -1,0 +1,25 @@
+"At Uber, customer experience is everything. That focus has been key as we’ve worked with Accenture to accelerate our growth by building the self-serve ad platform of tomorrow."
+Bernie Huddlestun / Sr Director, Operations
+Since its founding, Uber has revolutionized industries by making experiences simple, intuitive, and personalized and by removing friction from the customer journey.
+In keeping with their customer-centric focus, Uber set out to deliver even more personalized experiences by revolutionizing another industry: advertising.
+With 156 million monthly active users, Uber uses its global insights to create a hyper-personalized ad platform that connects advertisers with the right consumers in the moments that matter.
+Picture this: you’re arriving at work on an Uber trip when an ad gives you a discount for your go-to coffee shop next door. Or on your Uber ride home, an ad reminds you that your favorite TV show has a new season coming out next week. (Better buy some popcorn.) That’s the innovation Uber is bringing to advertisers.
+Since launching a new Uber advertising division in 2022, the platform has already surpassed an impressive US$1 billion in annual revenue run rate. But Uber’s rapid expansion wasn’t all smooth riding. The ads business was established quickly and had to move rapidly to meet its goals.
+This quick expansion and growth saw some employees hindered by manual processes, and teams struggled to keep up with the pace and volume of demand from advertisers. That’s why Uber partnered with Accenture to unify its disparate processes and smooth out the barriers that were slowing them down.
+Uber + Accenture were recognized with an Innovation Award at the 2025 Salesforce Consulting Partner Innovation Awards in the Communications category.
+Learn more
+70%
+increase in speed of Uber’s ad sales process
+$1 billion
+earned in ad sales in 2.5 years
+100+
+processes moved and modernized in the cloud
+75+
+custom dashboards created to give teams visibility into operations
+Uber and Accenture started by defining a new end-to-end ad sales process globally. Then, as part of a book-to-bill program, a digital solution was built on Salesforce Media Cloud, centralizing Uber’s ad sales operations and consolidating its customer data into one system. The team then integrated other third-party tools into Media Cloud, eliminating the need to juggle multiple tools to do straightforward tasks.
+Next, Uber onboarded global sales groups into Media Cloud, moved and modernized over 100 processes in the cloud, and created over 75 custom dashboards to give teams visibility into operations. To facilitate these changes, the team devised and delivered training and upskilling programs for Uber’s sales teams.
+By managing ad sales end-to-end through a single platform, Uber now saves time and increases efficiency, helping teams focus on business strategy and selling. And the gridlock of manually kept spreadsheets and decentralized systems? They’re in the rear-view mirror.
+Uber is now intaking advertising demand 50% faster and the speed of their end-to-end ad sales process has increased by nearly 70%.
+This is just the beginning of our journey together. Going forward, Uber will continue to expand Media Cloud’s scale while increasing gen AI integrations, including helping advertisers manage their campaigns and automating campaign optimization. These advancements are creating the world’s easiest-to-use, self-serve ad platform—and making advertising as simple as getting a ride via the Uber app.
+Discover how Accenture is reinventing ad sales and marketing with strategy and activation plans that boost revenues, click here.
+Across industries and markets, reinvention is redefining what’s possible—powering growth, sparking innovation and delivering measurable impact.

@@ -1,0 +1,846 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "KHAI AI engine deployed to 13,000 employees in 180 days",
+      "claim_description": "Kraft Heinz developed and launched KHAI, an internal AI engine, in approximately 180 days. The platform is now accessible to about 13,000 team members globally for document analysis, summarization, and workflow optimization.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "KHAI took about 180 days from idea to launch, and is now in the hands of about 13,000 team members globally",
+      "quote_location": "Mid-article section on KHAI deployment",
+      "ai_attribution": "direct",
+      "attribution_evidence": "KHAI is explicitly an AI engine built internally to democratize generative AI access across the organization.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "13000",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "KHAI deployment timeline of 180 days from idea to launch",
+      "claim_description": "The KHAI AI engine was developed and deployed in approximately 180 days, demonstrating rapid implementation of enterprise AI infrastructure with security controls.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "KHAI took about 180 days from idea to launch",
+      "quote_location": "Mid-article section on KHAI deployment",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The 180-day timeline directly measures the speed of AI platform development and deployment.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "180",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "The Cookbook AI agent prototype developed in under 3 months",
+      "claim_description": "Kraft Heinz developed The Cookbook, an AI agent for ketchup production knowledge access, from idea to prototype in fewer than three months using Azure OpenAI in partnership with Microsoft.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The tool, called The Cookbook, went from idea to prototype in fewer than three months",
+      "quote_location": "Opening section, Dive Brief",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The Cookbook is explicitly an AI agent built using Azure OpenAI to provide production process information.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "innovation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": {
+        "value": "90",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "absolute_value"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "The Cookbook provides access to 150 years of ketchup production expertise",
+      "claim_description": "The Cookbook AI agent gives workers access to 150 years of Kraft Heinz expertise in ketchup production, enabling queries about batch thickness, color, and production efficiency.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Workers have access to 150 years of Kraft Heinz expertise in ketchup production.",
+      "quote_location": "Opening section, Dive Brief",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The AI agent directly enables access to historical production knowledge that was previously less accessible.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "KHAI used for document analysis and summarization",
+      "claim_description": "Team members use KHAI to analyze and summarize documents or dense industry reports, optimizing workflows and improving access to information.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Team members use the platform to analyze and summarize documents or dense industry reports",
+      "quote_location": "Mid-article section describing KHAI usage",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Document analysis and summarization are core AI capabilities directly provided by KHAI.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "KHAI streamlined SAP rollouts in China",
+      "claim_description": "The KHAI AI engine helped streamline SAP system rollouts in China, contributing to improved implementation velocity and efficiency.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The engine also helped streamline SAP rollouts in China",
+      "quote_location": "Mid-article section describing KHAI usage",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "KHAI helped streamline the process, suggesting it was one contributing factor among potentially others in the SAP rollout.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-007",
+      "claim_title": "KHAI automates routine financial tasks",
+      "claim_description": "The KHAI platform is used to automate routine financial processes, reducing manual effort and improving efficiency in financial operations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The engine also helped streamline SAP rollouts in China and automate routine financials.",
+      "quote_location": "Mid-article section describing KHAI usage",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Automation of routine financials is directly attributed to KHAI's capabilities.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-008",
+      "claim_title": "PlantChat assists manufacturing strategic decision-making",
+      "claim_description": "PlantChat (formerly KraftGPT) is used across the manufacturing ecosystem to assist in strategic decision-making, integrated into KHAI capabilities.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The tool is now called PlantChat and is used across the manufacturing ecosystem to assist in strategic decision-making.",
+      "quote_location": "Section on KHAI integration",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "PlantChat assists in decision-making, suggesting it provides insights that contribute to but don't fully determine strategic decisions.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-009",
+      "claim_title": "AI improves demand forecasting accuracy",
+      "claim_description": "Kraft Heinz uses AI to improve demand forecasting, contributing to end-to-end operational improvements and better planning.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "From improving demand forecasting to optimizing factory floor processes, we are driving end-to-end improvement.",
+      "quote_location": "CEO quote in Q2 2025 earnings call section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CEO explicitly attributes demand forecasting improvements to AI investments.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "predictive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-010",
+      "claim_title": "AI optimizes factory floor processes",
+      "claim_description": "AI technology is used to optimize factory floor processes at Kraft Heinz, contributing to operational efficiency and end-to-end improvements.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "From improving demand forecasting to optimizing factory floor processes, we are driving end-to-end improvement.",
+      "quote_location": "CEO quote in Q2 2025 earnings call section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CEO explicitly attributes factory floor process optimization to AI investments.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "prescriptive",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-011",
+      "claim_title": "TasteMaker AI agent accelerates product development and marketing",
+      "claim_description": "Kraft Heinz deployed TasteMaker, an AI agent designed to accelerate product development and marketing processes, prior to The Cookbook.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "Prior to The Cookbook, the company launched TasteMaker, which was designed to accelerate product development and marketing.",
+      "quote_location": "Dive Insight section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "TasteMaker is explicitly an AI agent designed to accelerate specific business processes.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "augmentation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Kraft Heinz is a global food and beverage company",
+      "claim_description": "Kraft Heinz operates as a global food and beverage giant with operations spanning multiple countries.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "Pat Nestor, head of decision intelligence products and platforms at the food and beverage giant",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Kraft Heinz operates in food and beverage industry",
+      "claim_description": "The company operates in the consumer packaged goods sector, specifically food and beverage manufacturing and distribution.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "the food and beverage giant",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "organisational",
+      "claim_title": "Technology reorganization under global CIO Corrado Azzarita",
+      "claim_description": "Earlier in the year, Kraft Heinz reorganized its technology governance structure, bringing data, digital and IT under one global technology umbrella led by global CIO Corrado Azzarita.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Earlier in the year, Kraft Heinz reorganized its technology governance structure. The company brought data, digital and IT under one global technology umbrella and the company's global CIO, Corrado Azzarita.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Decision intelligence products and platforms team formed",
+      "claim_description": "Pat Nestor leads a newly formed decision intelligence products and platforms team, managing the data to AI value chain organization and associated platforms.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Nestor was tapped to lead a newly formed decision intelligence products and platforms team",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11045",
+      "apqc_name": "Manage information technology (IT)",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Six consecutive quarters of revenue decline",
+      "claim_description": "As of the reporting period, Kraft Heinz had experienced six consecutive quarters of total revenue decline.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "The reorg coincides with broader strategy shifts as the company grapples with six consecutive quarters of total revenue decline",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "strategic_intent",
+      "claim_title": "Focus on unlocking efficiencies and improving productivity",
+      "claim_description": "Kraft Heinz is pursuing strategies to unlock efficiencies and improve productivity to address revenue decline challenges.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Kraft Heinz is eyeing a number of levers to turn around the sales decline, such as unlocking efficiencies and improving productivity.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "organisational",
+      "claim_title": "Strategic partnership with Microsoft for digital twin in manufacturing",
+      "claim_description": "Kraft Heinz has a strategic technology partnership with Microsoft as part of a digital twin effort in manufacturing operations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Kraft Heinz leaned into its strategic technology partners, which include Microsoft as part of a digital twin effort in manufacturing",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "organisational",
+      "claim_title": "Strategic partnership with Snowflake for data infrastructure",
+      "claim_description": "Kraft Heinz partners with Snowflake for data management infrastructure, which serves as the foundation platform for its internal AI engine KHAI.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "Snowflake for its data management infrastructure and as the foundation platform for its internal AI engine, KHAI",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "scale",
+      "claim_title": "KHAI deployed to approximately 13,000 team members globally",
+      "claim_description": "The KHAI AI engine has been deployed to about 13,000 team members across Kraft Heinz's global operations.",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "KHAI took about 180 days from idea to launch, and is now in the hands of about 13,000 team members globally",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "products_services",
+      "claim_title": "Heinz Tomato Ketchup is a core product",
+      "claim_description": "Heinz Tomato Ketchup is a flagship product with 150 years of production history at Kraft Heinz.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "users will be able to ask The Cookbook questions on everything from the thickness and color of a batch of Heinz Tomato Ketchup",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-011",
+      "context_type": "organisational",
+      "claim_title": "Partnership with Microsoft for The Cookbook development",
+      "claim_description": "The Cookbook AI agent was created in partnership with Microsoft and built using Azure OpenAI.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "It was created in partnership with Microsoft and built using Azure OpenAI.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-012",
+      "context_type": "temporal",
+      "claim_title": "The Cookbook in early pilot stage with select U.S. team members",
+      "claim_description": "As of the reporting date, The Cookbook is in early pilot stages with limited access to a select group of U.S. team members.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The Cookbook is still in the early stages, with just a select group of U.S. team members having access.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-013",
+      "context_type": "strategic_intent",
+      "claim_title": "Planned company split into two entities",
+      "claim_description": "Kraft Heinz is planning to split into two companies: one focusing on sauces, spreads and seasonings, and another housing grocery staples like Lunchables and Oscar Mayer.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "The food and beverage giant is planning to reverse much of its $46 billion merger from 2015 and split into two companies",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-014",
+      "context_type": "temporal",
+      "claim_title": "Q2 2025 earnings call referenced",
+      "claim_description": "CEO Carlos Abrams-Rivera discussed AI investments during the company's Q2 2025 earnings call in July.",
+      "source_ids": [
+        "S4"
+      ],
+      "source_quote": "CEO Carlos Abrams-Rivera said during the company's Q2 2025 earnings call in July",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-015",
+      "context_type": "functional",
+      "claim_title": "AI use cases span supply chain and manufacturing",
+      "claim_description": "Kraft Heinz has implemented AI across supply chain operations, including pickle-producing processes and manufacturing ecosystems.",
+      "source_ids": [
+        "S2",
+        "S4"
+      ],
+      "source_quote": "Kraft Heinz has several other AI pursuits by way of its supply chain, including in its pickle-producing process.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "10614",
+      "apqc_name": "Manage supply chain",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-016",
+      "context_type": "strategic_intent",
+      "claim_title": "Quantitative and qualitative AI value assessment approach",
+      "claim_description": "Kraft Heinz measures AI success through both quantitative metrics (business case, sales, costs) and qualitative measures (NPS, adoption, engagement scores).",
+      "source_ids": [
+        "S2"
+      ],
+      "source_quote": "On the quantitative side, that's where the business case assessment comes in. The quantitative assessment is paired with qualitative value, such as impacts on its net promoter score and adoption levels.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

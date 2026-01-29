@@ -1,0 +1,73 @@
+The New Shape of Wall Street: What Comes After the Pyramid?
+When we founded Finalis, we asked a hard question:
+Why do capital markets professionals still rely on outdated team structures designed for fax machines and filing cabinets?
+Today, the answer is clear: they won’t for much longer.
+Artificial intelligence is no longer a whiteboard idea, it’s operating at the core of Wall Street. Agentic AI systems are performing due diligence, writing memos, building models – completing in mere minutes what once consumed legions of interns and analysts for weeks.
+And with that, the traditional labor pyramid is flattening. A new, more agile diamond is emerging in its place.
+The Pyramid Was Built for a Pre-AI World
+The traditional investment banking org chart was a predictable hierarchy:
+- Analysts and interns churned through modeling, research, and slides.
+- Associates and VPs reviewed and managed teams.
+- MDs and Partners steered client relationships and strategy.
+It was labor-intensive, expensive, and at the time, necessary. But today’s volume, velocity, and complexity of data are breaking the model.
+“Throw bodies at it” no longer scales.
+Junior staff are burning out. Attrition is high. And much of their work, whether it be updating comps, validating financials, or assembling diligence binders, can now be handled better by AI.
+The AI Edge: Thinning the Base, Amplifying the Middle
+Agentic AI is not a hypothetical, it’s already here. From JPMorgan’s AI pitchbook tools to Deutsche Bank’s internal copilots, banks are reducing repetitive tasks by 40 to 60%.
+“AI will enable us to do tasks that take 10 hours in 10 seconds” – Jay Horine, Co-Head of Investment Banking at JPMorgan
+Even smaller hedge funds are seeing 40%+ efficiency gains, according to Hedgeweek. That’s not just productivity, that’s margin expansion.
+The implications are monumental:
+- Junior hiring is shrinking (some banks down by 66%).
+- One AI-empowered analyst can do the work of five.
+- The pyramid narrows. The middle layer thickens.
+The Diamond Model: A New Architecture for Capital Markets
+Picture this:
+- At the base, fewer analysts with more technical skills work alongside AI.
+- In the middle, a broad layer of associates and VPs orchestrate people and their machine copilots.
+- At the top, MDs lead strategy, backed by real-time insights.
+This is not fantasy. It’s already happening.
+“With the right AI tools, a 15-person firm can outperform a 50-person team.” – Artis M&A founder
+The diamond model allows for greater deal velocity, higher margin per professional, and superior client experience.
+Implications for Talent: The Rise of the AI-Conductor Banker
+Tomorrow’s analysts will not just model, they’ll manage models.
+Their tasks may include:
+- Prompting agentic AI to run valuations and extract insights.
+- Interpreting and validating outputs, not just building from scratch.
+- Blending financial and AI fluency.
+“In the future, all talent must be AI talent.” – Industry executive
+Training is shifting. Firms are rolling out bootcamps on:
+- Generative AI ethics
+- Prompt engineering for finance
+- NLP tools for deal documents
+Finalis’ POV: AI as a Democratizing Force
+We’re seeing it every day: boutique firms are punching above their weight because of AI.
+They’re doing it by:
+- Using Finalis to automate compliance workflows
+- Scaling without expanding headcount
+- Executing multi-deal pipelines using lean teams + machine orchestration
+The same software that JPMorgan builds in-house is now accessible to 10-person shops.
+“It’s not just the elite firms with 900 quants who win anymore. With AI, execution quality, not headcount, drives the mandate.”
+AI is the great equalizer. And Finalis is the infrastructure layer making it possible.
+Building the AI-Banker of Tomorrow
+To prepare your teams, focus on:
+AI fluency: Understand how models work (and where they fail)
+Ethical decision-making: Comply, explain, and audit AI-driven insights
+Strategic agility: Adapt fast; zoom in on detail, zoom out on strategy
+Continuous upskilling: Rotate between product, engineering, and banking
+At Finalis, we’re embedding these capabilities directly into our platform, workflows, and enablement tools. Because we’re not just building software, we’re building the future of work.
+Final Thoughts: The Pyramid Had Its Moment—The Diamond Era Begins
+This is not just transformation, it’s reinvention. AI isn’t replacing bankers. It’s freeing them:
+- From 80-hour weeks in Excel
+- From manually updating diligence trackers
+- From spending weekends fixing PowerPoint fonts
+And it’s liberating talent to focus on what really matters – creativity, analysis, and client trust.
+“Learn to code” was the old advice.
+The new advice? “Learn to code. And learn where not to use code.”
+Finalis’ Call to Action
+If you’re building the firm of the future, let’s talk.
+- Explore Finalis’ AI-powered compliance and deal execution platform
+- Listen to the Pencils Down episode on AI orchestration in banking
+- Book a discovery call to see how Finalis can scale your firm
+The pyramid was an empire of the past.
+The diamond is the architecture of the future.
+Let’s shape it together.

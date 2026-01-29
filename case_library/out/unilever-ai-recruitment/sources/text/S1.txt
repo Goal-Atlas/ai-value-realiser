@@ -1,0 +1,25 @@
+AI Case Study
+Unilever saved over 50,000 hours in candidate interview time and delivered over £1M annual savings and improved candidate diversity with machine analysis of video-based interviewing.
+Unilever, a global leader in consumer, struggled with outdated and highly manual hiring practices. They would take up to six months to sift through 250,000 applications to hire 800 individuals. Using HireVue's solution they were able to filter up to 80% of the candidate pool Based on verbal responses to video interview questions that measure job-related competencies. It is claimed to have saved over £1M in annual costs along with 50,000 hours in candidate time over 18 months and to improved the diversity of candidates selected.
+Industry
+Consumer Goods And Services
+Retail General
+Project Overview
+"Through HireVue Assessments, artificial-intelligence was able to filter up to 80% of the candidate pool, using large language models to analyze candidate responses, ultimately surfacing those candidates that are most likely to be successful at Unilever."
+Reported Results
+HireVue claims that "Unilever has:
+* Saved 50,000 hours in candidate time over 18 months
+* £1M annual costs savings
+* 96% candidate completion rate compared to 50%
+* 90% reduction in time to hire
+* 16% increase in diversity hires."
+Technology
+The company claims sophisticated "emotion recognition technology."
+Function
+Human Resources
+Recruitment
+Background
+"A global leader in consumer goods, Unilever’s products can be found in more than 190 countries. Their 400+ brands meet their consumer’s needs across personal and home care, food, and more. To meet rapidly changing and dynamic consumer demands, Unilever recognized the need to attract talent from around the globe, appealing specifically to the millennial workforce."
+Unilever suffered from "...outdated processes rooted in paper, phone screens and manual assessments. 4-6 months to sift through 250,000 applications to hire 800 individuals."
+Benefits
+Data

@@ -1,0 +1,80 @@
+{
+  "value_claims": [],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "organisational",
+      "claim_title": "Bright Money is the organization deploying AI",
+      "claim_description": "Bright Money (also referred to as Bright) is a financial technology company focused on debt reduction and credit building services.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "How does Bright pay off my credit cards - Bright Money",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "sectoral",
+      "claim_title": "Financial technology sector",
+      "claim_description": "Bright Money operates in the financial technology (fintech) sector, specifically in personal finance management and debt reduction.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": null,
+      "verification_status": "inferred",
+      "verification_confidence": "high",
+      "inferred_from": "Case ID and source URL reference to credit card payments and debt reduction services",
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "products_services",
+      "claim_title": "Credit card debt payment service",
+      "claim_description": "Bright Money provides automated credit card debt payment and reduction services to consumers.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "How does Bright pay off my credit cards",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}

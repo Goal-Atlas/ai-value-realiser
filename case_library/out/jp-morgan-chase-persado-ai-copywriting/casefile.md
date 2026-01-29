@@ -1,0 +1,507 @@
+---
+case_id: jp-morgan-chase-persado-ai-copywriting
+organisation: JP Morgan Chase
+title: AI-Powered Marketing Copy Generation
+date_created: '2026-01-29'
+date_updated: '2026-01-29'
+sources:
+- id: S1
+  title: https://www.thedrum.com/news/jp-morgan-chase-placing-more-its-ad-copy-decisions-...
+  url: https://www.thedrum.com/news/jp-morgan-chase-placing-more-its-ad-copy-decisions-the-hands-ai
+  raw_file: ''
+  text_file: sources/text/S1.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S2
+  title: https://www.warc.com/newsandopinion/news/jp-morgan-chase-taps-ai-copywriting-tec...
+  url: https://www.warc.com/newsandopinion/news/jp-morgan-chase-taps-ai-copywriting-tech/en-gb/42435
+  raw_file: ''
+  text_file: sources/text/S2.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S3
+  title: https://martech.org/how-brands-like-klarna-and-mars-are-using-ai-in-marketing-op...
+  url: https://martech.org/how-brands-like-klarna-and-mars-are-using-ai-in-marketing-operations/
+  raw_file: ''
+  text_file: sources/text/S3.txt
+  extraction_method: unknown
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+- id: S4
+  title: https://www.gobeyond.ai/ai-resources/case-studies/jpmorgan-persado-ai-marketing-...
+  url: https://www.gobeyond.ai/ai-resources/case-studies/jpmorgan-persado-ai-marketing-copy-engagement
+  raw_file: ''
+  text_file: sources/text/S4.txt
+  extraction_method: trafilatura
+  extraction_quality: high
+  is_multi_page: false
+  related_urls: []
+value_claims:
+- id: VC-001
+  claim_title: 450% increase in click-through rates from AI-generated copy
+  claim_description: During a pilot starting in 2016, Persado's AI-generated marketing
+    copy achieved click-through rates up to 450% higher than human-written copy for
+    JP Morgan Chase's card and mortgage businesses.
+  source_ids:
+  - S1
+  - S2
+  source_quote: The trial, which began in 2016, saw an uplift in clickthrough rates
+    as high as 450% when text redrafted by the AI was compared to that of a human
+    marketer's original copy.
+  quote_location: S1, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: The claim explicitly compares AI-generated copy performance
+    to human-written copy, with the AI system (Persado) directly producing the copy
+    that achieved the measured uplift.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - experience
+  - revenue_lift
+  cognitive_depth: generative
+  metric_raw:
+    value: '450'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-002
+  claim_title: 88% increase in mortgage applications from AI-optimized copy
+  claim_description: AI-generated headline and call-to-action increased weekly mortgage
+    applications from 25 to 47, representing an 88% improvement over human-written
+    copy.
+  source_ids:
+  - S2
+  source_quote: In one test, human copywriters came up with the headline "Access cash
+    from the equity in your home" coupled with a "take a look" call for action button.
+    This generated 25 applications a week...However, a Persado AI version generated
+    47 applications a week
+  quote_location: S2, paragraph 7-8
+  ai_attribution: direct
+  attribution_evidence: The AI system directly generated the alternative copy that
+    produced measurably higher application volumes in a controlled comparison test.
+  verification_status: needs_review
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  - augmentation
+  outcome:
+  - revenue_lift
+  - business_growth
+  cognitive_depth: generative
+  metric_raw:
+    value: '88'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-003
+  claim_title: 50-200% click-through rate improvement from manually written copy baseline
+  claim_description: Persado AI-generated copy consistently delivered click-through
+    rate improvements ranging from 50% to 200% compared to manually written copy across
+    various tests.
+  source_ids:
+  - S2
+  source_quote: Tests showed that copy generated by Persado's AI technology lifted
+    click-through rates as much as 450% versus manually written copy, which resulted
+    in a lower uptick of between 50% to 200%.
+  quote_location: S2, paragraph 2
+  ai_attribution: direct
+  attribution_evidence: The claim directly attributes CTR improvements to Persado's
+    AI-generated copy in comparison to human-written baseline copy across multiple
+    tests.
+  verification_status: verified
+  evidence_level: outcome
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - optimization
+  outcome:
+  - experience
+  - velocity
+  cognitive_depth: generative
+  metric_raw:
+    value: 50-200
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: percentage
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-004
+  claim_title: Five-year enterprise-wide AI copywriting deployment
+  claim_description: JP Morgan Chase signed a five-year deal to deploy Persado AI
+    across marketing, internal communications, and customer service to reach millions
+    of customers with personalized messaging.
+  source_ids:
+  - S1
+  - S2
+  source_quote: JP Morgan Chase has signed a five-year deal with Persado...aiming
+    to reach "millions of current and potential customers" with the augmented copy...to
+    use Persado not just in marketing, but in our internal communications...as well
+    as in our customer service prompts.
+  quote_location: S1, paragraphs 1 and 6
+  ai_attribution: direct
+  attribution_evidence: The organization committed to a multi-year contract specifically
+    for AI-generated copy deployment across multiple business functions based on pilot
+    results.
+  verification_status: needs_review
+  evidence_level: adoption
+  evidence_grade: secondary_high
+  application_type: capability_enhancement
+  mechanism:
+  - augmentation
+  - automation
+  outcome:
+  - velocity
+  - experience
+  cognitive_depth: generative
+  metric_raw:
+    value: '5'
+    currency: null
+    magnitude: null
+    timeframe: null
+    metric_type: absolute_value
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: VC-005
+  claim_title: AI generates copy variations human marketers would not create
+  claim_description: Persado AI created effective copy and headlines that human marketers,
+    using subjective judgment and experience, would not have written, expanding creative
+    possibilities beyond human intuition.
+  source_ids:
+  - S1
+  - S2
+  source_quote: It rewrote copy and headlines that a marketer, using subjective judgment
+    and their experience, likely wouldn't have. And they worked.
+  quote_location: S1, paragraph 5
+  ai_attribution: direct
+  attribution_evidence: The CMO explicitly states that AI generated effective copy
+    outside the scope of what human marketers would produce, demonstrating capability
+    creation rather than just enhancement.
+  verification_status: verified
+  evidence_level: method
+  evidence_grade: secondary_high
+  application_type: capability_creation
+  mechanism:
+  - innovation
+  - augmentation
+  outcome:
+  - experience
+  - revenue_lift
+  cognitive_depth: generative
+  metric_raw: null
+  metric_classification: null
+  ontology_version: '1.0'
+  ontology_confidence: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+context_claims:
+- id: CC-001
+  context_type: temporal
+  claim_title: Pilot program began in 2016
+  claim_description: JP Morgan Chase initiated a pilot program with Persado in 2016,
+    running for three years before signing the five-year enterprise deal.
+  source_ids:
+  - S1
+  - S2
+  source_quote: The trial, which began in 2016...they have been working together for
+    the past three years on a pilot
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-002
+  context_type: organisational
+  claim_title: America's largest bank
+  claim_description: JP Morgan Chase is identified as America's largest bank at the
+    time of the AI copywriting deployment.
+  source_ids:
+  - S2
+  source_quote: America's largest bank and New York-based Persado said in a statement
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-003
+  context_type: sectoral
+  claim_title: Financial services - banking sector
+  claim_description: JP Morgan Chase operates in the financial services sector, specifically
+    banking, with card and mortgage business lines.
+  source_ids:
+  - S1
+  - S2
+  source_quote: The bank inked the deal...for Chase's card and mortgage businesses
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-004
+  context_type: functional
+  claim_title: Marketing and customer communications function
+  claim_description: AI deployment focused on marketing creative, advertising copy,
+    internal communications, and customer service prompts.
+  source_ids:
+  - S1
+  - S2
+  source_quote: JP Morgan Chase will allow Persado to 'write' more of its marketing
+    creative...use Persado not just in marketing, but in our internal communications...as
+    well as in our customer service prompts
+  verification_status: unverified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: '3.0'
+  apqc_name: Market and Sell Products and Services
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-005
+  context_type: scale
+  claim_title: Millions of customers targeted
+  claim_description: The AI copywriting system aims to reach millions of current and
+    potential customers with personalized messaging.
+  source_ids:
+  - S1
+  source_quote: aiming to reach "millions of current and potential customers" with
+    the augmented copy
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-006
+  context_type: strategic_intent
+  claim_title: Personalization strategy for 2020 and beyond
+  claim_description: AI copywriting deployment is part of a strategic initiative to
+    target consumers with more personalized messaging, focusing on new product and
+    service launches.
+  source_ids:
+  - S1
+  source_quote: the tech would be used as part of its bid to target consumers with
+    more personalized messaging in 2020 and beyond, focusing predominantly on new
+    product and services launches
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-007
+  context_type: products_services
+  claim_title: Card and mortgage product lines
+  claim_description: Initial AI copywriting pilot and deployment focused on Chase's
+    card services and mortgage businesses.
+  source_ids:
+  - S2
+  source_quote: working together for the past three years on a pilot to create more
+    resonate copy for Chase's card and mortgage businesses
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+- id: CC-008
+  context_type: organisational
+  claim_title: 'Technology partner: Persado'
+  claim_description: New York-based Persado provides AI copywriting technology using
+    machine learning and computational linguistics with a database of 1M+ tagged and
+    scored words and phrases.
+  source_ids:
+  - S1
+  - S2
+  source_quote: Persado's "Message Machine" system uses AI, machine learning and computational
+    linguistics to scan a database of more than one million tagged and scored words
+    and phrases
+  verification_status: verified
+  verification_confidence: high
+  inferred_from: null
+  apqc_code: null
+  apqc_name: null
+  human_validation:
+    reviewed: false
+    reviewer_verdict: null
+    attribution_correct: null
+    attribution_override: null
+    missed_claim: false
+    review_notes: null
+    review_date: null
+    reviewer_id: null
+verification_summary:
+  value_claims:
+    total: 5
+    verified: 3
+    needs_review: 2
+    rejected: 0
+    by_attribution:
+      direct: 5
+  context_claims:
+    total: 8
+    verified: 5
+    unverified: 3
+    inferred: 0
+  all_value_verified: false
+  all_context_verified: false
+human_validation_summary: null
+status: needs_review
+confidence: high
+review_flags: []
+ontology_metadata:
+  version_used: '1.0'
+  tagged_date: '2026-01-29'
+  needs_retagging: false
+---
+
+# AI-Powered Marketing Copy Generation
+
+## Executive Summary
+
+JP Morgan Chase: 450% increase in click-through rates from AI-generated copy.
+
+## Key Findings
+
+- **450% increase in click-through rates from AI-generated copy** — verified (outcome)
+  - Quote: "The trial, which began in 2016, saw an uplift in clickthrough rates as high as 450% when text redrafted by the AI was compared to that of a human marketer's original copy."
+
+- **88% increase in mortgage applications from AI-optimized copy** — needs_review (outcome)
+  - Quote: "In one test, human copywriters came up with the headline "Access cash from the equity in your home" coupled with a "take a look" call for action button. This generated 25 applications a week...However..."
+
+- **50-200% click-through rate improvement from manually written copy baseline** — verified (outcome)
+  - Quote: "Tests showed that copy generated by Persado's AI technology lifted click-through rates as much as 450% versus manually written copy, which resulted in a lower uptick of between 50% to 200%."
+
+- **Five-year enterprise-wide AI copywriting deployment** — needs_review (adoption)
+  - Quote: "JP Morgan Chase has signed a five-year deal with Persado...aiming to reach "millions of current and potential customers" with the augmented copy...to use Persado not just in marketing, but in our inte..."
+
+- **AI generates copy variations human marketers would not create** — verified (method)
+  - Quote: "It rewrote copy and headlines that a marketer, using subjective judgment and their experience, likely wouldn't have. And they worked."
+
+## Sources
+
+- **S1**: https://www.thedrum.com/news/jp-morgan-chase-placing-more-its-ad-copy-decisions-the-hands-ai
+- **S2**: https://www.warc.com/newsandopinion/news/jp-morgan-chase-taps-ai-copywriting-tech/en-gb/42435
+- **S3**: https://martech.org/how-brands-like-klarna-and-mars-are-using-ai-in-marketing-operations/
+- **S4**: https://www.gobeyond.ai/ai-resources/case-studies/jpmorgan-persado-ai-marketing-copy-engagement

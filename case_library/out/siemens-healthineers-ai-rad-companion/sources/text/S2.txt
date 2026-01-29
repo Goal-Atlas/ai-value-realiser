@@ -1,0 +1,28 @@
+To unlock the potential of artificial intelligence in healthcare, AI solutions must deliver tangible benefits for better care. Siemens Healthineers develops AI-powered healthcare technology that transforms patient outcomes. From AI in patient care to procedure automation and digital health, we're helping healthcare organizations worldwide harness the benefits of artificial intelligence in healthcare delivery.
+AI and digital solutions in healthcareElevating patient care
+Did this information help you?
+1) The products/features and/or service offerings (mentioned herein) are not commercially available in all countries and/or for all modalities. Their future availability cannot be guaranteed. Please contact your local Siemens Healthineers organization for further details. Results from case studies are not predictive of results in other cases. Results in other cases may vary. Study source: Testing bay environment study, Forchheim, Germany
+2) Auto Thorax Collimation is an option.
+3) Whitepaper (2023): YSIO X.pree – How intelligent imaging assures an efficient and patient-centered radiography workflow; a chest X-ray examination is defined as the time between patient positioning on the Bucky wall stand and images being displayed on the workstation. The products/features (mentioned herein) are not commercially available in all countries. Their future availability cannot be guaranteed.
+4) The feedback and the results are from the collaboration performed at CCGM
+5) PennState Cancer Institute
+6) The statements by customers of Siemens Healthineers described herein are based on results that were achieved in the customer's unique setting. Because there is no “typical” hospital or laboratory and many variables exist (e.g., hospital size, samples mix, case mix, level of IT and/or automation adoption) there can be no guarantee that other customers will achieve the same results.
+7) Syngo Carbon consists of several products which are (medical) devices in their own right. Syngo Carbon is not commercially available in all countries. Some products are under development and not commercially available. Future availability cannot be ensured.
+8) This product is under development and not commercially available. Its future availability cannot be ensured.
+9) https://pubmed.ncbi.nlm.nih.gov/37210268/
+10) Intelligent Optimization Engine (IOE) works similarly to a human planner. The role of IOE is to replace manual, iterative planning, and produce clinically acceptable plans from initial planning to daily online adaptive plan generation.
+11) 2D.J. Sher, V. Avkshtol, M.H. Lin et al. Acute Toxicity and Efficiency Outcomes in the DARTBOARD Randomized Trial of Daily Adaptive Radiotherapy for Head and Neck Squamous Cell Carcinoma. ASTRO 2023 Late Breaking Abstract LBA08.
+12) 8% in DART versus 31% in IGRT (p=0.05).
+13) Åström LM, Behrens CP, Calmels L, Sjöström D, Geertsen P, Mouritsen LS, et al. Online adaptive radiotherapy of urinary bladder cancer with full re-optimization to the anatomy of the day: initial experience and dosimetric benefits. Radiother Oncol. 2022;171:37-42
+14) Data on file. B Maldera A, et al. (2016): Digital breast tomosynthesis: Dose and image quality assessment; For average breast size of 50/50 glandular/adipose tissue and 5 cm thickness
+15) van Winkel et al. Impact of artificial intelligence support on accuracy and reading time in breast tomosynthesis image interpretation. Eur Radiol. 2021;31:8682-8691
+16) https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00267-X/fulltext); Next-Gen AI is an option and available with Transpara® (FusionAI™ ScreenPointMedical)
+17) AI-Rad Companion Chest CT is not commercially available in all countries. Future availability cannot be ensured.
+18) Lee C, Nagy PG, Weaver SJ and Newman-Toker DE: Cognitive and System Factors Contributing to Diagnostic Errors in Radiology. https://www.ejradiology.com/article/S0720-048X(20)30614-8/fulltext
+19) The limitations of other digital solutions mean you may need to return to the manual microscope to diagnose a patient. This can make the process slower and requires more equipment and lab space.
+20) Relative to their legacy data management system. Data collection is ongoing at the Controlled Rollout site, Manchester University Foundation Trust. Results are preliminary and pending validation over time.
+21) © 2025 VARIAN MEDICAL SYSTEMS, INC. For immediate recipient´s use only.
+22) In a study involving 20 patients Viitala et.al 2021 'Online follow-up with a mobile device improves incurable cancer patients` coping - A qualitative study` European Journal of Oncology Nursing, vol. 55 102047. Your results may vary.
+23) Noona adoption KPIs as of February 2025
+24) Takala, L et al. 2021 "Electronic Patient-reported Outcomes During Breast Cancer Adjuvant Radiotherapy" Clinical Breast Cancer , vol 21, issue 3, E252-E270
+25) In this project, Siemens Healthineers’ solution focuses exclusively on delivering digital interoperability, utilizing standardized interfaces.

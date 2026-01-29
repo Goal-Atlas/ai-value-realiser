@@ -1,0 +1,42 @@
+{
+  "case_id": "state-of-oregon-ois-automated-observability-improved-payment-application-reliability",
+  "build_started": "2026-01-29T11:43:22.783611",
+  "build_completed": "2026-01-29T11:43:22.783632",
+  "step_1_discovery": {
+    "model": null,
+    "search_queries": [
+      "State of Oregon Office of Information Services (OIS) Automated Observability for Payment Application Reliability",
+      "State of Oregon Office of Information Services (OIS) Automated Observability for Payment Application Reliability"
+    ],
+    "results_considered": 0,
+    "urls_ranked": [],
+    "urls_selected": [],
+    "retries": 0
+  },
+  "step_2_extraction": {
+    "sources": [],
+    "multi_page_candidates": [],
+    "multi_page_followed": []
+  },
+  "step_3_claims": {
+    "model": "claude-sonnet-4-5-20250929",
+    "prompt_version": "v1.0",
+    "raw_response_file": null,
+    "claims_file": null,
+    "value_claims_count": 0,
+    "context_claims_count": 0,
+    "retries_malformed_json": 0,
+    "retries_zero_claims": 0,
+    "skipped_no_sources": true,
+    "claims_downgraded_metric_missing": 0,
+    "context_claims_coerced_inferred": 0,
+    "value_claims_dropped_invalid": 0,
+    "context_claims_dropped_invalid": 0
+  },
+  "step_4_verification": {
+    "model": "claude-sonnet-4-5-20250929",
+    "verification_attempts": [],
+    "verification_summary": null
+  },
+  "step_5_human_validation": null
+}

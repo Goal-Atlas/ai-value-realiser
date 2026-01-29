@@ -1,0 +1,22 @@
+Oleksiy Mark - Fotolia
+City of Helsinki adopts MyData principles to improve digital services
+Principles on the use of personal data for the benefit of society will guide Finnish capital’s ambitious digital plans
+The City of Helsinki has adopted MyData principles as it attempts to become the most functional digital city on the planet through proactive digital services.
+MyData principles will guide the Finnish capital to ensure that people retain control of their data and trust how it is used while also benefiting from more digital services.
+Although reactive digital services are widely available, enabling citizens to use services when they need them, Helsinki’s digital team wants to go beyond this with services that automatically contact citizens when required.
+Core to meeting this ambition, Helsinki wants to personalise data for citizens while protecting data from inappropriate use. To this end, the local authority joined the international MyData Global association last month and has adopted its principles.
+The MyData not-for-profit organisation states its goal as: “Empowering individuals with their personal data, thus helping them and their communities to develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations.”
+The MyData principles declaration adds: “As the importance of personal data in society continues to expand, it becomes increasingly urgent to make sure individuals are in a position to know and control their personal data, but also to gain personal knowledge from them and to claim their share of the benefits.”
+The City of Helsinki’s chief digital officer, Mikko Rusama, is driving the project. He said implementing the MyData principles is a central goal in Helsinki’s digitisation programme, adding: “We want to ensure citizens’ transparency and better control on how their data is being used.”
+Rusama said MyData will guide the authority when offering advanced digital services to citizens. “One big theme of the digitisation programme I am leading is that we want to transform from the reactive to the proactive, with services personalised,” he said.
+For these predictive services to be available, analytics and data is necessary, he added. “This must happen on people’s own terms and this is where MyData comes in.”
+Read more about data use in local government
+- The Centre for Data Ethics and Innovation says momentum in local authority data use during the Covid-19 pandemic is in danger of being dissipated.
+- The Mayor of London’s Office has launched an online interactive map of the capital’s cultural locations as part of its open data strategy.
+- Nearly a third of councils can’t tell how much citizen information they store is in digital format, study shows.
+Jan Vapaavuori, mayor of Helsinki, agreed that trust is essential. “The citizens need to trust that the city is using data on their behalf and with their consent, so that it benefits both the citizens and the city,” he said. “This is what MyData is basically about.”
+Helsinki holds various types of citizen data, which is gathered, for example, from services that citizens use. It said it wants to be open about the data that is gathered, what data is collected and how it is used.
+It also wants individuals to be able to decide whether data is shared between different services inside the city or between organisations. This is a major challenge – and traditional paper-based approvals are inefficient.
+Rusama added: “If we can crack this challenge, we are able to create transparency and give control to the people. That increases trust and allows us to support them better.”
+He gave the example of a proactive health service. “We have a lot of healthcare data from people who have visited our healthcare services and, through new technologies, we can analyse this data and find patients at the highest risk of getting sick. We can see from the data if someone doesn’t have the right medication, for example, and we can proactively contact them.”
+Rusama acknowledged the legal and moral challenges of introducing proactive services. “But this raises questions,” he said. “Are we allowed to contact patients about this, and if we didn’t, would we be guilty of neglect?”

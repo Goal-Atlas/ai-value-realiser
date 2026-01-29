@@ -1,0 +1,54 @@
+Rio Tinto has revealed plans to create its first “intelligent” mine, where all assets are networked together and capable of making decisions themselves “in a microsecond”.
+The enormous project was disclosed at an iron ore site tour that kicked off yesterday, and is the likely successor to Rio Tinto’s now decade old ‘Mine of the Future’ program.
+Back in March, the miner suggested that it would need to invest significant resources into data science in the future, but did not reveal exactly why.
+Now it is clear: the company plans to build on its autonomous capabilities by making the pit-to-port process as integrated and intelligent as possible, placing decision-making with the machines themselves.
+It appears the first mines to be given this level of “intelligence” will be new ones, rather than those kitted out under Mine of the Future.
+“The mines in our study pipeline will be established with leading edge technology, including automated trucks, drills and trains but also for the first time systems connecting all components of the dynamic schedule, from [the] customer right through to orebody planning,” managing director of planning, integration and assets Kellie Parker said.
+The first intelligent mine is set to be Koodaideri, which will deliver its first tonnes of ore in 2021, assuming it meets regulatory approvals.
+“Koodaideri will adopt many new processes and technologies and will deliver world first performance by being safe, smarter and more productive than any other mine,” Parker said.
+“We are assessing over 100 innovation opportunities which will make this our first intelligent mine.
+“One such initiative is digital twinning. We are building a replica digital plant that collects all the data on the plant from design, build, commissioning and operation.
+“This allows work to change through augmented reality.”
+The digital twin model was first created by NASA but has been heavily adopted in industrial sectors such as manufacturing in recent years.
+It involves creating a living virtual model or simulation of a physical environment. They take real-time data from the physical environment, where it can be used to quickly test scenarios that could optimise production or operations.
+Parker noted that Rio Tinto’s digital twin would be “a living model which is linked to a data lake with a number of pieces of static and dynamic information contained within.”
+“From a field or remote location our operators will have access to this data, and coupled with analytics and machine learning, will drive business related outcomes in a shorter time and with greater accuracy.
+“Importantly, this data is the heart of our digital twin - and is also used to simulate plant operation and to optimise the plant control systems parameters.”
+Parker said that a number of “virtual reality modules are being developed” that look at a range of complex maintenance activities.
+“This allows a highly interactive and engaging method of training which ensures better task retention and competency from our operators,” she said.
+“In addition to VR we are also investing in 360 degree capture of complex tasks as in the example you see here.
+“This will also be available ‘on demand’ for our workers who want to access this at any time.”
+Data-driven integration
+Rio Tinto spent considerable time talking up the benefits of more strongly integrating its mine assets.
+The miner said that it had to be better able to anticipate customer orders and market shifts, and to be able to adjust its operations accordingly.
+“We are now evolving from a traditional push system to a truly market-led supply chain,” vice president of sales and marketing Simon Farry said.
+“We already have a number of examples of the additional value that can be generated when we are able to respond to the market in a dynamic way.”
+Farry said that some elements of integrated mining were already in place.
+He said that in late 2017, the company set up “a targeted approach to bring forward the supply of Pilbara Blend lump when premiums were at an all-time high”.
+Pilbara Blend is a specific product marketed by Rio Tinto that combines iron ores from across its operations.
+The “targeted approach” has now been “systemised … underpinned by data analytics and real time data visualisation that enables an agile response to market demand for lump.”
+Farry said that the initial project had been successful, “extracting around US$10 million ($13.47 million) of additional value.”
+He suggested that a much larger body of data science work was also underway.
+“We are currently experimenting with machine learning and predictive analytics to anticipate market conditions and enable better decision making,” he said.
+“Real-time data visualisation has supported tighter linkages between our Pilbara operations and our sales and marketing hub in Singapore, increasing our agility from mine to market.”
+Parker also highlighted a series of “integrated planning” projects that had been delivered to date.
+She said the systems helped Rio Tinto “schedule large track maintenance windows” so that shipments weren’t impacted.
+“We can also optimise our shipping schedule because we know what cargo, will go to which customer on what ship,” she said.
+“We have now include integrated GPS tracking of ships to our ship schedule so we know exactly when the ship will arrive.
+“This allows us to reduce demurrage but also ensures the largest ships with the biggest draft can be scheduled into the deepest berth pockets.”
+The miner is also able to work out which mine will be the best to source ore from for a particular order.
+“For instance short haul, low cost sites can be prioritised over high cost or lower grade mines in the daily dynamic schedule,” Parker said.
+“We use our advance planning system [to] run multiple scenarios on tonnes and grade. We implemented this system in 2017 and what used to take three-to-four weeks in scheduling can now be done is 48 hours.
+“This creates the ability to respond to short term market signals and to maximise value over volume.”
+AI-driven mining
+Parker said that the company’s future operations would be driven by broad adoption of technologies including artificial intelligence and big data.
+She said that these “systems of tomorrow” are currently being developed with undisclosed partners.
+“Picture a future dynamic system which learns to adapt and change a schedule based on
+past experience and lessons learned and also integrates customer needs,” she said.
+“A system which has the power to assess multiple scenarios to make a decision instantly.
+“A system which understands in a microsecond how to manage an unplanned event by assessing past experiences and uses market intelligence to ensure value over volume.”
+Parker said that the AI and big data tools would be supported by “decision support and automation tools” that “codified” the company’s significant knowledge base.
+This includes trials of “augmented asset health tools”, which use cognitive technology to predict problems.
+“This is the next step from predictive maintenance,” Parker said.
+“Imagine predicting a potential maintenance issue and then being able to check on the asset condition through augmented reality.
+“The list is endless, however all are driving towards achieving automated end-to-end scheduling.”

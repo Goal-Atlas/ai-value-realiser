@@ -1,0 +1,34 @@
+[4 MIN READ]
+In this article:
+-
+Navigating a health system isn’t always the easiest experience – and it can be even harder if you aren’t feeling your best. Fortunately, patient navigation, which connects patients to the health resources they’re looking for, can help make this complicated experience a little smoother.
+-
+Providence is working to improve patient navigation with its chatbot, Grace, in the Providence app.
+-
+Read on to learn how Grace can help you find the right care at the right time, refill prescriptions and even identify financial assistance resources.
+Making your way through your health care journey isn’t always easy. From identifying where to get the right care at the right time, understanding financial assistance options and even knowing where the best place to park is when you’re receiving care at a particular hospital, patient navigation, or assistance connecting to the health care resources patients need, can help improve access to care and make things feel a little easier when you might not be feeling your best.
+The Providence Digital Innovation Group (DIG) is working to make the patient navigation experience simpler for patients through innovative digital tools, including the Providence app and its chatbot, Grace, which has some patient navigation tools embedded for easy patient access.
+“At a basic level, finding and using health care services can feel complex, especially in a large health system like Providence,” says Bethany Vick, director of digital strategy for the Providence Digital Innovation Group. “If a patient doesn’t get access to the care they need, they may give up and not receive any care at all. Easing that experience through the Providence app and Grace helps patients access care when they need it, get answers to ongoing care needs and support their overall health journey.”
+Finding what patients need, faster
+As an artificial intelligence (AI)-powered chatbot, Grace answers questions and navigates to care and support options based on patient needs. Once they are logged in, patients can access Grace through the Providence mobile app.
+Working as a navigation tool, Grace can help with some of the “admin” tasks of managing your health care, including scheduling appointments, finding lab and test results, navigating your health record, and paying bills. Grace can also support more in-depth tasks like checking eligibility for financial assistance. It will ask some questions about household size and income, and then walk through the process to apply for financial assistance. Grace can then connect users to financial counselors to answer specific questions through live chat.
+Grace also has an in-depth symptom checker to help you find the right care for how you’re feeling. Grace will ask a series of questions about your symptoms and recommend where to go as a next step. For instance, Grace may recommend a live, virtual visit with a Providence provider through ExpressCare, a scheduled appointment with your primary care provider or, for more serious cases, a trip to urgent care.
+Patients who use Grace can get answers to many of their questions faster than sending a message directly to their provider.
+“Grace will ask some questions about why you’re messaging your provider and can point you to some helpful tools to self-serve answers, like directing you to the test results you might be looking for,” says Vick. “It can also help you determine how best to get things like prescription refills completed. It is an extension to how you communicate with Providence that will help you get what you want faster.”
+Building patient navigation support for the future
+Building Grace into a tool that is useful for patients required a team effort within DIG, including partnering with engineers, product leaders and user experience experts. These teams worked closely with caregivers, operations leaders and the patient engagement center within the health system to make sure the technology was synced with the care patients experience in the hospital or clinic. The DIG team also collaborated with patients as they designed new experiences within Grace.
+“We are always looking at how to expand to new use cases,” says Vick. “We will typically look at the questions patients are most frequently asking and that providers are getting the most messages about and use that to direct what we built out in Grace.”
+DIG continues to weave in new advances in AI technology so Grace can better respond to questions from patients. That includes securely expanding Grace’s knowledge to support queries around medication management and referrals that can be more complex.
+The Providence app and Grace have already helped thousands of patients find answers to their questions, with more than 101,000 active monthly users on the app.
+“As we add new use cases, people find them helpful and come back to Grace to get answers and navigate their care options more and more often,” says Vick. “That means we can help improve access to care without the barriers that patients may face while waiting for a phone call, email or appointment. Now, Grace can help be a bridge to make sure patients are getting to the right place the first time and enable better health for individuals and communities.”
+Contributing caregiver
+Bethany Vick is the director of digital strategy for the Providence Digital Innovation Group.
+Find a doctor
+Your provider can connect you to care and treatments that can improve your quality of life. If you are looking for a primary care provider, you can search for one who’s right for you in our provider directory.
+Download the Providence app
+We’re with you, wherever you are. Make Providence’s app your personalized connection to your health. Schedule appointments, conduct virtual visits, get personal health recommendations, view your health record and more. Learn more and download the app.
+Related resources
+Praia Health: Powering health care where you need it
+Digital in action: Finding the right care with the Providence app
+Download the Providence app for care at your fingertips
+This information is not intended as a substitute for professional medical care. Always follow your health care professional’s instructions.

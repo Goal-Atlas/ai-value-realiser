@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Case Library Viewer (v1.5)</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.5/babel.min.js"></script>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; color: #333; line-height: 1.6; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        .header { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 30px; border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 15px rgba(30, 58, 95, 0.3); }
+        .header h1 { font-size: 28px; font-weight: 600; margin-bottom: 8px; }
+        .header p { opacity: 0.9; font-size: 15px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .stat-card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); text-align: center; }
+        .stat-value { font-size: 28px; font-weight: 700; color: #1e3a5f; }
+        .stat-value.success { color: #22c55e; }
+        .stat-value.warning { color: #f59e0b; }
+        .stat-label { font-size: 12px; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 4px; }
+        .controls { background: white; padding: 20px; border-radius: 10px; margin-bottom: 24px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .search-input { flex: 1; min-width: 220px; padding: 10px 16px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 14px; }
+        .search-input:focus { outline: none; border-color: #2d5a87; }
+        .filter-select { padding: 10px 16px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 14px; background: white; min-width: 140px; cursor: pointer; }
+        .clear-btn { padding: 10px 16px; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 14px; background: white; cursor: pointer; }
+        .clear-btn:hover { background: #f1f5f9; }
+        .cases-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 20px; }
+        .case-card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); cursor: pointer; transition: all 0.2s; border: 2px solid transparent; }
+        .case-card:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); border-color: #2d5a87; }
+        .case-card.has-review { border-left: 4px solid #f59e0b; }
+        .case-title { font-size: 18px; font-weight: 600; color: #1e3a5f; margin-bottom: 8px; }
+        .case-id { font-size: 12px; color: #64748b; margin-bottom: 12px; }
+        .case-meta { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: #64748b; margin-bottom: 12px; }
+        .claim-badges { display: flex; gap: 8px; flex-wrap: wrap; }
+        .claim-badge { padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 500; }
+        .claim-badge.verified { background: #dcfce7; color: #166534; }
+        .claim-badge.review { background: #fef3c7; color: #92400e; }
+        .claim-badge.outcome { background: #dbeafe; color: #1e40af; }
+        .claim-badge.adoption { background: #e0e7ff; color: #3730a3; }
+        .claim-badge.method { background: #f3e8ff; color: #6b21a8; }
+        .empty-state { text-align: center; padding: 60px 20px; color: #64748b; }
+        .empty-state h3 { font-size: 18px; margin-bottom: 8px; color: #475569; }
+        .loading-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.95); display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 2000; gap: 20px; }
+        .loading-spinner { width: 50px; height: 50px; border: 4px solid #e2e8f0; border-top-color: #2d5a87; border-radius: 50%; animation: spin 1s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .status-message { background: #fef2f2; border-left: 4px solid #ef4444; padding: 12px 20px; margin-bottom: 24px; border-radius: 8px; font-size: 14px; color: #991b1b; }
+        .status-message.success { border-left-color: #22c55e; background: #f0fdf4; color: #166534; }
+        .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6); display: flex; justify-content: center; align-items: flex-start; padding: 40px 20px; z-index: 1000; overflow-y: auto; }
+        .modal-content { background: white; border-radius: 16px; max-width: 900px; width: 100%; max-height: calc(100vh - 80px); overflow-y: auto; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+        .modal-header { background: linear-gradient(135deg, #1e3a5f 0%, #2d5a87 100%); color: white; padding: 24px 30px; border-radius: 16px 16px 0 0; position: sticky; top: 0; z-index: 10; }
+        .modal-header h2 { font-size: 22px; margin-bottom: 4px; }
+        .close-btn { position: absolute; top: 20px; right: 20px; background: rgba(255,255,255,0.2); border: none; color: white; width: 36px; height: 36px; border-radius: 50%; font-size: 20px; cursor: pointer; }
+        .close-btn:hover { background: rgba(255,255,255,0.3); }
+        .modal-body { padding: 30px; }
+        .section-title { font-size: 16px; font-weight: 600; color: #1e3a5f; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 2px solid #e2e8f0; }
+        .claim-item { background: #f8fafc; border-radius: 10px; padding: 16px; margin-bottom: 12px; border-left: 4px solid #2d5a87; }
+        .claim-item.verified { border-left-color: #22c55e; }
+        .claim-item.review { border-left-color: #f59e0b; }
+        .claim-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; gap: 12px; }
+        .claim-id { font-weight: 600; color: #1e3a5f; font-size: 14px; }
+        .claim-status { padding: 3px 10px; border-radius: 4px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+        .claim-status.verified { background: #dcfce7; color: #166534; }
+        .claim-status.review { background: #fef3c7; color: #92400e; }
+        .claim-text { font-size: 14px; color: #475569; margin-bottom: 8px; }
+        .claim-evidence { font-size: 13px; color: #64748b; background: white; padding: 10px; border-radius: 6px; margin-top: 8px; border: 1px solid #e2e8f0; }
+        .source-item { background: #f8fafc; padding: 14px 16px; border-radius: 8px; margin-bottom: 8px; }
+        .source-id { font-weight: 600; color: #1e3a5f; font-size: 13px; margin-bottom: 4px; }
+        .source-url { font-size: 12px; color: #2d5a87; word-break: break-all; }
+        .source-url a { color: #2d5a87; }
+        .collapsible { margin-top: 16px; }
+        .collapsible-header { cursor: pointer; padding: 10px 0; font-weight: 600; color: #475569; }
+        .collapsible-body { padding-left: 0; }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        const { useState, useEffect, useMemo } = React;
+
+        const API_BASE = ''; // same origin (server serves /api/cases)
+
+        function App() {
+            const [cases, setCases] = useState([]);
+            const [selectedCase, setSelectedCase] = useState(null);
+            const [caseDetail, setCaseDetail] = useState(null);
+            const [loading, setLoading] = useState(true);
+            const [error, setError] = useState(null);
+            const [searchTerm, setSearchTerm] = useState('');
+            const [filterVerification, setFilterVerification] = useState('all');
+            const [filterEvidenceLevel, setFilterEvidenceLevel] = useState('all');
+            const [contextOpen, setContextOpen] = useState(false);
+
+            useEffect(() => {
+                fetch(API_BASE + '/api/cases')
+                    .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+                    .then(data => { setCases(Array.isArray(data) ? data : []); setError(null); })
+                    .catch(err => { setError(err.message); setCases([]); })
+                    .finally(() => setLoading(false));
+            }, []);
+
+            useEffect(() => {
+                if (!selectedCase) { setCaseDetail(null); return; }
+                setCaseDetail(null);
+                fetch(API_BASE + '/api/cases/' + encodeURIComponent(selectedCase.case_id))
+                    .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+                    .then(setCaseDetail)
+                    .catch(() => setCaseDetail(null));
+            }, [selectedCase]);
+
+            const stats = useMemo(() => {
+                const totalClaims = cases.reduce((s, c) => s + (c.value_claims_count || 0), 0);
+                const verified = cases.reduce((s, c) => s + (c.verified_count || 0), 0);
+                const needsReview = cases.reduce((s, c) => s + (c.needs_review_count || 0), 0);
+                return {
+                    totalCases: cases.length,
+                    totalClaims,
+                    verified,
+                    needsReview,
+                    approvalRate: totalClaims ? Math.round((verified / totalClaims) * 100) : 0
+                };
+            }, [cases]);
+
+            const filteredCases = useMemo(() => {
+                return cases.filter(c => {
+                    const search = searchTerm.toLowerCase();
+                    const matchSearch = !search ||
+                        (c.title || '').toLowerCase().includes(search) ||
+                        (c.case_id || '').toLowerCase().includes(search);
+                    const matchVerification = filterVerification === 'all' ||
+                        (filterVerification === 'verified' && (c.verified_count || 0) > 0) ||
+                        (filterVerification === 'needs_review' && (c.needs_review_count || 0) > 0);
+                    const matchEvidence = filterEvidenceLevel === 'all' ||
+                        (c.evidence_levels || []).includes(filterEvidenceLevel);
+                    return matchSearch && matchVerification && matchEvidence;
+                });
+            }, [cases, searchTerm, filterVerification, filterEvidenceLevel]);
+
+            const hasReviewItems = (c) => (c.needs_review_count || 0) > 0;
+
+            return (
+                <div className="container">
+                    {loading && (
+                        <div className="loading-overlay">
+                            <div className="loading-spinner"></div>
+                            <div>Loading case library…</div>
+                        </div>
+                    )}
+                    {error && <div className="status-message">Failed to load cases: {error}. Is the server running?</div>}
+                    <div className="header">
+                        <h1>AI Case Library Viewer (v1.5)</h1>
+                        <p>Browse cases from the hardwired library path. Value claims with verification and evidence level.</p>
+                    </div>
+                    {!loading && cases.length === 0 && !error && (
+                        <div className="empty-state">
+                            <h3>No cases in library</h3>
+                            <p>Run the pipeline with <code>--out case_library/out</code> (or set CASE_LIBRARY_PATH), then start this server.</p>
+                        </div>
+                    )}
+                    {!loading && cases.length > 0 && (
+                        <>
+                            <div className="stats-grid">
+                                <div className="stat-card"><div className="stat-value">{stats.totalCases}</div><div className="stat-label">Cases</div></div>
+                                <div className="stat-card"><div className="stat-value">{stats.totalClaims}</div><div className="stat-label">Value claims</div></div>
+                                <div className="stat-card"><div className="stat-value success">{stats.verified}</div><div className="stat-label">Verified</div></div>
+                                <div className="stat-card"><div className="stat-value warning">{stats.needsReview}</div><div className="stat-label">Needs review</div></div>
+                                <div className="stat-card"><div className="stat-value">{stats.approvalRate}%</div><div className="stat-label">Verified rate</div></div>
+                            </div>
+                            <div className="controls">
+                                <input type="text" className="search-input" placeholder="Search by title or case ID…" value={searchTerm} onChange={e => setSearchTerm(e.target.value)} />
+                                <select className="filter-select" value={filterVerification} onChange={e => setFilterVerification(e.target.value)}>
+                                    <option value="all">All verification</option>
+                                    <option value="verified">Has verified</option>
+                                    <option value="needs_review">Has needs review</option>
+                                </select>
+                                <select className="filter-select" value={filterEvidenceLevel} onChange={e => setFilterEvidenceLevel(e.target.value)}>
+                                    <option value="all">All evidence levels</option>
+                                    <option value="outcome">Outcome</option>
+                                    <option value="adoption">Adoption</option>
+                                    <option value="method">Method</option>
+                                </select>
+                                <button className="clear-btn" onClick={() => { setSearchTerm(''); setFilterVerification('all'); setFilterEvidenceLevel('all'); }}>Clear filters</button>
+                            </div>
+                            <div className="cases-grid">
+                                {filteredCases.map((c, i) => (
+                                    <div key={c.case_id || i} className={`case-card ${hasReviewItems(c) ? 'has-review' : ''}`} onClick={() => setSelectedCase(c)}>
+                                        <div className="case-title">{c.title || c.case_id}</div>
+                                        <div className="case-id">{c.case_id}</div>
+                                        <div className="case-meta">
+                                            <span>{c.value_claims_count || 0} value claims</span>
+                                            <span>{c.context_claims_count || 0} context</span>
+                                        </div>
+                                        <div className="claim-badges">
+                                            {(c.verified_count || 0) > 0 && <span className="claim-badge verified">✓ {c.verified_count} verified</span>}
+                                            {(c.needs_review_count || 0) > 0 && <span className="claim-badge review">⚠ {c.needs_review_count} need review</span>}
+                                            {(c.evidence_levels || []).map(el => <span key={el} className={`claim-badge ${el}`}>{el}</span>)}
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                            {filteredCases.length === 0 && <div className="empty-state"><h3>No cases match filters</h3></div>}
+                        </>
+                    )}
+                    {selectedCase && (
+                        <div className="modal-overlay" onClick={() => setSelectedCase(null)}>
+                            <div className="modal-content" onClick={e => e.stopPropagation()}>
+                                <div className="modal-header" style={{ position: 'relative' }}>
+                                    <h2>{selectedCase.title || selectedCase.case_id}</h2>
+                                    <div style={{ opacity: 0.9, fontSize: 14 }}>{selectedCase.case_id}</div>
+                                    <button className="close-btn" onClick={() => setSelectedCase(null)}>×</button>
+                                </div>
+                                <div className="modal-body">
+                                    {!caseDetail && <div>Loading…</div>}
+                                    {caseDetail && (
+                                        <>
+                                            <div className="section-title">Value claims (main viewer)</div>
+                                            {(caseDetail.value_claims || []).map((vc, i) => (
+                                                <div key={vc.id || i} className={`claim-item ${(vc.verification_status || '').toLowerCase() === 'verified' ? 'verified' : 'review'}`}>
+                                                    <div className="claim-header">
+                                                        <span className="claim-id">{vc.id} — {vc.claim_title}</span>
+                                                        <span className={`claim-status ${(vc.verification_status || '').toLowerCase() === 'verified' ? 'verified' : 'review'}`}>
+                                                            {vc.verification_status || 'needs_review'} {vc.evidence_level ? ' · ' + vc.evidence_level : ''}
+                                                        </span>
+                                                    </div>
+                                                    {vc.claim_description && <div className="claim-text">{vc.claim_description}</div>}
+                                                    {vc.source_quote && <div className="claim-evidence"><strong>Quote:</strong> {vc.source_quote}</div>}
+                                                    {vc.human_validation && vc.human_validation.reviewed && (
+                                                        <div className="claim-evidence" style={{ marginTop: 8 }}>
+                                                            <strong>Human:</strong> {vc.human_validation.reviewer_verdict || '—'} {vc.human_validation.reviewer_id ? '(' + vc.human_validation.reviewer_id + ')' : ''}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            ))}
+                                            {(caseDetail.context_claims || []).length > 0 && (
+                                                <div className="collapsible">
+                                                    <div className="section-title" style={{ cursor: 'pointer' }} onClick={() => setContextOpen(!contextOpen)}>
+                                                        Context claims (curation) {contextOpen ? '▼' : '▶'}
+                                                    </div>
+                                                    {contextOpen && (
+                                                        <div className="collapsible-body">
+                                                            {(caseDetail.context_claims || []).map((cc, i) => (
+                                                                <div key={cc.id || i} className="claim-item">
+                                                                    <div className="claim-header">
+                                                                        <span className="claim-id">{cc.id} — {cc.claim_title}</span>
+                                                                        <span className="claim-status">{cc.verification_status || '—'}</span>
+                                                                    </div>
+                                                                    {cc.claim_description && <div className="claim-text">{cc.claim_description}</div>}
+                                                                </div>
+                                                            ))}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            )}
+                                            {(caseDetail.sources || []).length > 0 && (
+                                                <>
+                                                    <div className="section-title" style={{ marginTop: 24 }}>Sources</div>
+                                                    {(caseDetail.sources || []).map((s, i) => (
+                                                        <div key={s.source_id || i} className="source-item">
+                                                            <div className="source-id">{s.source_id}</div>
+                                                            <div className="source-url">{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer">{s.url}</a> : '—'}</div>
+                                                        </div>
+                                                    ))}
+                                                </>
+                                            )}
+                                        </>
+                                    )}
+                                </div>
+                            </div>
+                        </div>
+                    )}
+                </div>
+            );
+        }
+        ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+    </script>
+</body>
+</html>

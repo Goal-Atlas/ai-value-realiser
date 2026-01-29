@@ -1,0 +1,70 @@
+How AXA Group streamlined resource planning and project visibility
+Insurance
+2021
+Czech Republic, Prague
+Project management
+Easy Redmine provided AXA with real-time insights into team workloads and helped optimize portfolio management through centralized dashboards.
+AXA Group is a global leader in insurance and asset management, offering life and non-life insurance, pension schemes, and investment mutual funds across the Czech Republic and Slovakia. With a client base of 94 million and assets under management totalling EUR 644.45 billion, AXA operates in 51 countries worldwide, supported by over 147,000 employees.
+This case study explores the implementation of Easy Redmine, showcasing its tailored solutions for the Czech and Slovak markets under the brand Easy Project.
+Before using Easy Redmine
+AXA Group Czech Republic and Slovakia sought to introduce a project portfolio management system for its project office in collaboration with various departments. Initially, Easy Redmine was rolled out to the project office in a pilot phase and was later extended to other departments.
+The client specifically required a tool for resource management to better oversee project resources both at the departmental level and for individual team members.
+Prior to implementing Easy Redmine, AXA Group Czech Republic and Slovakia faced challenges in managing their project portfolios effectively. The absence of a centralized project management system led to fragmented processes, limited visibility into resource allocation, and inefficiencies in project tracking and reporting.
+Challenges
+- Decentralized project management: Projects were managed using disparate tools, leading to inconsistencies and communication gaps.
+- Inefficient resource allocation: Lack of a unified system hindered effective planning and utilization of resources.
+- Limited reporting capabilities: Difficulty in generating transparent and comprehensive reports for management review.
+- Data security concerns: The need for an on-premises solution to ensure data sovereignty and compliance with internal policies.
+Requirements for project management software
+- Enhanced document management
+- Intuitive personal dashboards
+- Optimal capacity planning and resource management
+- Project evaluation
+- On-premises deployment
+- Data security
+Key requirements of AXA Group
+- Crafting transparent reports for management review
+- Quick project creation using predefined templates
+- Efficient management of personnel
+Implementation
+AXA initiated the implementation of Easy Redmine with a pilot phase involving the project office, focusing on defining fundamental requirements and testing the platform’s capabilities. Following successful validation, the solution was rolled out to other departments through a structured approach.
+Implementation steps
+- Pilot phase: Conducted to identify and define key requirements, which were integrated into Easy Redmine.
+- Stakeholder engagement: Active involvement of key users from the project office to ensure alignment with organizational needs.
+- Iterative deployment: Implementation executed through weekly sprints, allowing for continuous feedback and adjustments.
+- Training and support: Provided to ensure smooth adoption and effective utilization of the new system.
+Setup and project templates
+The first step involved setting up a clear project structure, defining all user roles, and customising their personal dashboards.
+Project templates were also created, enabling teams to quickly and easily start new projects with standardised settings.
+These templates save time, reduce errors, and ensure consistency across all projects, allowing for more efficient management and improved team productivity.
+Results and benefits using Easy Redmine
+The adoption of Easy Redmine led to significant improvements in AXA’s project management processes:
+- Unified project environment: Centralization of project data facilitated better coordination and oversight.
+- Enhanced resource planning: Improved visibility into resource capacity enabled more effective allocation.
+- Streamlined reporting: Ability to generate transparent reports enhanced decision-making processes.
+- Data security compliance: On-premises deployment ensured adherence to internal data protection policies.
+On-premises solution
+AXA Group Czech Republic and Slovakia chose an on-premises solution to meet their security needs. Initially, we set up the system environment on a temporary cloud before migrating the entire system to the client’s own server. Further changes to the application were made remotely through remote access to the server.
+Most used features
+- Resource management: Tools for efficient planning and allocation of human resources across projects.
+- Project templates: Predefined templates streamlined the creation and management of new projects.
+- Custom dashboards: Personalized dashboards provided intuitive access to relevant project information.
+- Reporting tools: Enabled the generation of comprehensive reports for various stakeholders.
+Project dashboard in Easy Redmine
+Conclusion
+By implementing Easy Redmine, AXA Group Czech Republic and Slovakia successfully transformed their project portfolio management approach. The centralized platform enhanced transparency, optimized resource utilization, and improved reporting capabilities, aligning with the organization’s strategic objectives and ensuring compliance with data security requirements.
+AXA Group Czech Republic and Slovakia with Easy Redmine
+The most used features
+Work Breakdown Structure (WBS)
+Project portfolio management
+Custom fields on the project overview page
+Who is AXA Group?
+AXA is a global leader in insurance, asset management, and financial services. Headquartered in Paris, France, the AXA Group operates in 51 countries and serves over 94 million clients worldwide. With more than 147,000 employees and distributors, AXA offers a broad range of services including life and non-life insurance, savings, investment management, and pension plans.In the Czech Republic and Slovakia, AXA provides tailored financial products such as life insurance, accident and health coverage, retirement savings, and mutual fund investments, helping individuals and businesses secure their financial future.
+Related case studies
+Bosch optimized project planning for 4,400‑employee plant by automating Excel workflows
+Manufacturing
+Production teams at Bosch Diesel gained clearer timelines and faster project tracking after moving from scattered spreadsheets to a unified system.
+Case study of Murrelektronik: Streamlining complex project management with Easy Redmine
+Decentralized Automation Manufacturer
+Murrelektronik, a global leader in industrial automation solutions, faced growing complexities in managing large-scale projects across multiple departments and international teams.
+To enhance visibility, streamline processes, and ensure timely project delivery, they required a flexible, robust solution—deployed on-premises to uphold stringent data security standards.

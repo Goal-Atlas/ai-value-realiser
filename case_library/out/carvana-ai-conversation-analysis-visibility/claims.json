@@ -1,0 +1,510 @@
+{
+  "value_claims": [
+    {
+      "id": "VC-001",
+      "claim_title": "45% reduction in inbound calls per sale over two years",
+      "claim_description": "Through AI agent Sebastian and CARE platform refinement, Carvana reduced average inbound calls per sale by 45% over two years, enabling Customer Advocates to focus on complex, high-value support interactions.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "As Sebastian gets better at supporting customers, driven by refinement through CARE, average calls per sale have decreased 45% over the past two years.",
+      "quote_location": "Executive summary and main body",
+      "ai_attribution": "direct",
+      "attribution_evidence": "The reduction is explicitly attributed to Sebastian (AI agent) getting better at supporting customers through refinement via CARE (AI-powered platform).",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "cost_reduction",
+        "experience"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": {
+        "value": "45",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-002",
+      "claim_title": "100% visibility into customer interactions",
+      "claim_description": "CARE platform enabled Carvana to move from sampling a subset of customer interactions to achieving 100% visibility into all customer interactions, enabling continuous improvement across operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "By moving from sampling a smaller number of customer interactions to 100% visibility into customer interactions, CARE enables continuous improvement across the board.",
+      "quote_location": "Attaining 100% visibility section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CARE, an AI-powered conversation analysis platform, is directly credited with enabling 100% visibility by analyzing millions of customer conversations monthly.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience",
+        "velocity"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-003",
+      "claim_title": "Millions of customer conversations analyzed monthly",
+      "claim_description": "CARE platform analyzes millions of customer conversations each month to ensure quality consistency and identify improvement opportunities across Carvana's customer support operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "CARE, Carvana's quality review platform, works alongside Sebastian to analyze millions of customer conversations each month to ensure consistency in quality and identify opportunities for improvement.",
+      "quote_location": "Analyzing conversations with AI section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CARE is explicitly described as an AI-powered platform that performs the conversation analysis at scale.",
+      "verification_status": "verified",
+      "evidence_level": "adoption",
+      "evidence_grade": "primary",
+      "application_type": "capability_creation",
+      "mechanism": [
+        "automation",
+        "optimization"
+      ],
+      "outcome": [
+        "velocity",
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": {
+        "value": "millions",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "count"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-004",
+      "claim_title": "Faster product deployment through development automation",
+      "claim_description": "GitHub Copilot enables Carvana engineers to automate repetitive coding tasks, allowing focus on complex problems and faster time-to-market for products like CARE.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The development team at Carvana works with GitHub Copilot to automate repetitive tasks and enable faster, more efficient code writing. With GitHub Copilot handling routine coding tasks, engineers can focus on more complex and creative problems.",
+      "quote_location": "Efficient development for faster deployment section",
+      "ai_attribution": "contributing",
+      "attribution_evidence": "GitHub Copilot contributes to faster deployment by automating routine tasks, but the outcome depends on broader development processes and infrastructure.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "velocity"
+      ],
+      "cognitive_depth": "generative",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-005",
+      "claim_title": "Validated training effectiveness through data insights",
+      "claim_description": "CARE data validated that training efforts are effective and Customer Advocates are aligned in how they service customers, enabling evidence-based improvement of support quality.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The data has validated that our training efforts are paying off, and our advocates are all on the same page in how we're servicing customers.",
+      "quote_location": "Attaining 100% visibility section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "CARE's AI-powered analysis directly provides the data that validates training effectiveness and advocate alignment.",
+      "verification_status": "verified",
+      "evidence_level": "outcome",
+      "evidence_grade": "secondary_high",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "optimization"
+      ],
+      "outcome": [
+        "experience"
+      ],
+      "cognitive_depth": "diagnostic",
+      "metric_raw": {
+        "value": "100",
+        "currency": null,
+        "magnitude": null,
+        "timeframe": null,
+        "metric_type": "percentage"
+      },
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "VC-006",
+      "claim_title": "Reallocation of advocate time to complex, high-value support",
+      "claim_description": "Sebastian AI agent handles standard scenarios, freeing Customer Advocates to dedicate more time to personalized service and complex problem-solving where human expertise matters most.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Sebastian handles more standard scenarios, leaving more time and space for our Advocates to handle complex situations where it matters most.",
+      "quote_location": "Attaining 100% visibility section",
+      "ai_attribution": "direct",
+      "attribution_evidence": "Sebastian AI agent directly handles standard scenarios, explicitly enabling the reallocation of human advocate time to complex cases.",
+      "verification_status": "verified",
+      "evidence_level": "method",
+      "evidence_grade": "primary",
+      "application_type": "capability_enhancement",
+      "mechanism": [
+        "automation",
+        "augmentation"
+      ],
+      "outcome": [
+        "experience",
+        "cost_reduction"
+      ],
+      "cognitive_depth": "autonomous",
+      "metric_raw": null,
+      "metric_classification": null,
+      "ontology_version": "1.0",
+      "ontology_confidence": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ],
+  "context_claims": [
+    {
+      "id": "CC-001",
+      "context_type": "sectoral",
+      "claim_title": "Online automotive retail industry",
+      "claim_description": "Carvana operates as a leading online automotive retailer, reimagining the car buying and selling process with vertically integrated operations.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Leading online automotive retailer Carvana is known for changing the way people buy and sell cars.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-002",
+      "context_type": "organisational",
+      "claim_title": "Vertically integrated operations with purpose-built technology",
+      "claim_description": "Carvana uses vertically integrated operations and purpose-built technology to enable customers to browse, finance, purchase, and trade in cars entirely online.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Its vertically integrated operations and purpose-built technology let customers browse, finance, purchase, and even trade in a car entirely online.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-003",
+      "context_type": "strategic_intent",
+      "claim_title": "Customer experience prioritization and continuous improvement culture",
+      "claim_description": "Carvana's strategy focuses on creating fundamentally better customer experiences with technology-driven convenience and transparency, supported by a strong culture of continuous improvement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Our goal has always been to make the car buying process the smoothest, easiest, and most transparent experience possible. We put the customer in the driver's seat.",
+      "verification_status": "unverified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-004",
+      "context_type": "functional",
+      "claim_title": "Customer service and support operations",
+      "claim_description": "Carvana operates customer service functions with AI agent Sebastian and Customer Advocates providing support throughout the car buying and selling journey.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Sebastian has deep insight and action-taking capabilities to help guide customers through every step of the buying and selling journey.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "6.0",
+      "apqc_name": "Develop and Manage Customer Service",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-005",
+      "context_type": "temporal",
+      "claim_title": "Two-year period of AI-driven improvement (2021-2023 estimated)",
+      "claim_description": "The 45% reduction in calls per sale occurred over a two-year period of Sebastian and CARE refinement.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "average calls per sale have decreased 45% over the past two years",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-006",
+      "context_type": "products_services",
+      "claim_title": "Sebastian AI agent for customer support",
+      "claim_description": "Sebastian is an AI agent with deep insight and action-taking capabilities that guides customers through the buying and selling journey, handling standard scenarios autonomously.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Carvana delivered high-quality customer support with Sebastian, an AI agent. Sebastian has deep insight and action-taking capabilities to help guide customers through every step of the buying and selling journey.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-007",
+      "context_type": "products_services",
+      "claim_title": "CARE (Conversation Analysis Review Engine) platform",
+      "claim_description": "CARE is an AI-powered quality review platform that analyzes customer conversations to ensure consistency, identify improvement opportunities, and provide feedback for tools and teams.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Carvana created CARE (Conversation Analysis Review Engine). This AI-powered platform pulls insight from every customer touchpoint to keep getting better.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-008",
+      "context_type": "scale",
+      "claim_title": "Millions of customer conversations processed monthly",
+      "claim_description": "Carvana processes millions of customer conversations each month through the CARE platform, indicating significant operational scale.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "CARE, Carvana's quality review platform, works alongside Sebastian to analyze millions of customer conversations each month",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-009",
+      "context_type": "organisational",
+      "claim_title": "Microsoft Azure cloud infrastructure foundation",
+      "claim_description": "Carvana's systems run on Microsoft Azure Kubernetes Service (AKS) with Azure AI services, Azure Cosmos DB, and Azure AI Foundry forming the infrastructure and AI foundation.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "Pretty much all of our systems run on Microsoft Azure Kubernetes Service (AKS) to scale and reliably provide all our services and for simplified management.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": null,
+      "apqc_name": null,
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    },
+    {
+      "id": "CC-010",
+      "context_type": "functional",
+      "claim_title": "Software engineering and development operations",
+      "claim_description": "Carvana operates engineering teams that develop AI solutions using GitHub Copilot for code development and Azure services for deployment.",
+      "source_ids": [
+        "S1"
+      ],
+      "source_quote": "The development team at Carvana works with GitHub Copilot to automate repetitive tasks and enable faster, more efficient code writing.",
+      "verification_status": "verified",
+      "verification_confidence": "high",
+      "inferred_from": null,
+      "apqc_code": "11.0",
+      "apqc_name": "Manage Information Technology",
+      "human_validation": {
+        "reviewed": false,
+        "reviewer_verdict": null,
+        "attribution_correct": null,
+        "attribution_override": null,
+        "missed_claim": false,
+        "review_notes": null,
+        "review_date": null,
+        "reviewer_id": null
+      }
+    }
+  ]
+}
