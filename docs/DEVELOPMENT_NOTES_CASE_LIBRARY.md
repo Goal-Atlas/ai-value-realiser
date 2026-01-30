@@ -7,15 +7,35 @@ Audience: future maintainers and anyone building the *next* library.
 
 ## 0. Current status (as of 2026-01)
 
-- **Migration complete:** All 202 legacy cases (from `OLD_cases_enriched`) have been rebuilt via the pipeline and written to `case_library/out/<case_id>/`. Progress is recorded in `case_library/out/migration_progress.json`.
+- **Migration complete:** Legacy cases have been rebuilt via the pipeline and written to `case_library/out/<case_id>/`. Progress is recorded in `case_library/out/migration_progress.json`. Library has 200 cases.
 - **Pipeline:** Steps 1–5 implemented. Steps 1–4 run in the legacy runner (`run_legacy_cases.py` with `--out`); Step 5 is data-only (record verdicts via API, no UI yet).
 - **Output per case:** `build.json`, `claims.json`, `sources/text/*.txt`, `casefile.md` (YAML frontmatter + markdown body).
 - **Viewer:** `python -m case_library.viewer.server` serves the library from the hardwired path (`case_library/out` by default). No upload; cards + filters + modal.
+- **Industry sector overlay:** ISIC Rev 5 classifications for all 200 cases in `case_library/overlays/industry_sector/`. Run via `python -m case_library.run_industry_classification`; join to cases with `case_library.overlay_loader`. See §1 (Data safety) and `case_library/overlays/README.md`.
 - **Next:** Human validation UI (Step 5) and/or value-claim APQC post-step if desired.
 
 ---
 
-## 1. Environment & Tooling
+## 1. Data safety & backups
+
+**Rule: before any long-running or destructive pipeline, commit or push to version control (or copy outputs elsewhere) so you can restore if something goes wrong.**
+
+This applies to **all** created files, not just overlays:
+
+- **Case library output** — `case_library/out/<case_id>/` (build.json, claims.json, casefile.md, sources). Full rebuilds and migrations can take a long time; a bad run or accidental overwrite can wipe hours of work.
+- **Overlays** — e.g. `case_library/overlays/industry_sector/classifications.json`. Classification batches (e.g. 200 cases) can take over an hour.
+- **Progress / state files** — e.g. `migration_progress.json`, or any script that writes a single file summarizing many items.
+
+**Script-level safeguards:** Where a script writes a file that aggregates many entries (e.g. one JSON with 200 classifications), it should:
+
+1. **Merge when running a subset** — If the user passes something like `--case-id foo`, load existing data and merge the new result(s) instead of replacing the whole file.
+2. **Refuse to shrink without explicit consent** — If the run would replace N existing entries with M &lt; N, refuse unless the user passes something like `--append` (or equivalent).
+
+The industry classification script (`run_industry_classification.py`) implements both; see `case_library/overlays/README.md` for overlay-specific notes. When adding or changing other writers (build pipeline, other overlays), apply the same pattern where it fits.
+
+---
+
+## 2. Environment & Tooling
 
 - **Shell (zsh) vs pip extras**
   - In `zsh`, `pip install -e ".[dev]"` can be misinterpreted if `extendedglob` is enabled.
@@ -49,7 +69,7 @@ Audience: future maintainers and anyone building the *next* library.
 
 ---
 
-## 2. Spec ↔ Code Alignment
+## 3. Spec ↔ Code Alignment
 
 - **Single authoritative spec**
   - Old draft: `docs/specs/AI_CASE_LIBRARY_SPECIFICATION.md` (v0.3) has been removed.
@@ -75,7 +95,7 @@ Audience: future maintainers and anyone building the *next* library.
 
 ---
 
-## 3. Testing Pattern
+## 4. Testing Pattern
 
 - **Schema-first approach**
   - Implement and stabilise:
@@ -95,7 +115,7 @@ Audience: future maintainers and anyone building the *next* library.
 
 ---
 
-## 4. Legacy Library Strategy
+## 5. Legacy Library Strategy
 
 - **Location & purpose**
   - Legacy enriched cases live in `case_library/OLD_cases_enriched/`.
@@ -139,7 +159,7 @@ Audience: future maintainers and anyone building the *next* library.
 
 ---
 
-## 5. Pipeline Implementation Order
+## 6. Pipeline Implementation Order
 
 - **Phase 1 – Schemas & storage**
   - Done:
@@ -162,7 +182,7 @@ Audience: future maintainers and anyone building the *next* library.
 
 ---
 
-## 6. General Lessons
+## 7. General Lessons
 
 - Always update **spec, schemas, and tests together**.
 - Keep a **single** spec version in `docs/specs/`, and delete or clearly archive older drafts.

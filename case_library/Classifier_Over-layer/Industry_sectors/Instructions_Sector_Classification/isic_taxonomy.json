@@ -1,0 +1,460 @@
+{
+  "A": {
+    "name": "Agriculture, forestry and fishing",
+    "divisions": {
+      "A01": {
+        "name": "Crop and animal production, hunting and related service activities",
+        "includes": "Growing of non-perennial crops; Growing of perennial crops; Plant propagation; Animal production; Mixed farming; Support activities to agriculture and post-harvest crop activities; Hunting, trapping and related service activities"
+      },
+      "A02": {
+        "name": "Forestry and logging",
+        "includes": "Silviculture and other forestry activities; Logging; Gathering of non-wood forest products; Support services to forestry"
+      },
+      "A03": {
+        "name": "Fishing and aquaculture",
+        "includes": "Fishing; Aquaculture; Support activities for fishing and aquaculture"
+      }
+    }
+  },
+  "B": {
+    "name": "Mining and quarrying",
+    "divisions": {
+      "B05": {
+        "name": "Mining of coal and lignite",
+        "includes": "Mining of hard coal; Mining of lignite"
+      },
+      "B06": {
+        "name": "Extraction of crude petroleum and natural gas",
+        "includes": "Extraction of crude petroleum; Extraction of natural gas"
+      },
+      "B07": {
+        "name": "Mining of metal ores",
+        "includes": "Mining of iron ores; Mining of non-ferrous metal ores"
+      },
+      "B08": {
+        "name": "Other mining and quarrying",
+        "includes": "Quarrying of stone, sand and clay; Mining and quarrying n.e.c."
+      },
+      "B09": {
+        "name": "Mining support service activities",
+        "includes": "Support activities for petroleum and natural gas extraction; Support activities for other mining and quarrying"
+      }
+    }
+  },
+  "C": {
+    "name": "Manufacturing",
+    "divisions": {
+      "C10": {
+        "name": "Manufacture of food products",
+        "includes": "Processing and preserving of meat; Processing and preserving of fish, crustaceans and molluscs; Processing and preserving of fruit and vegetables; Manufacture of vegetable and animal oils and fats; Manufacture of dairy products; Manufacture of grain mill products, starches and starch products; Manufacture of other food products; Manufacture of prepared animal feeds"
+      },
+      "C11": {
+        "name": "Manufacture of beverages",
+        "includes": "Manufacture of beverages"
+      },
+      "C12": {
+        "name": "Manufacture of tobacco products",
+        "includes": "Manufacture of tobacco products"
+      },
+      "C13": {
+        "name": "Manufacture of textiles",
+        "includes": "Spinning, weaving and finishing of textiles; Manufacture of other textiles"
+      },
+      "C14": {
+        "name": "Manufacture of wearing apparel",
+        "includes": "Manufacture of wearing apparel, except fur apparel; Manufacture of articles of fur; Manufacture of knitted and crocheted apparel"
+      },
+      "C15": {
+        "name": "Manufacture of leather and related products",
+        "includes": "Tanning, dyeing, dressing of leather and fur; manufacture of luggage, handbags, saddlery and harness; Manufacture of footwear"
+      },
+      "C16": {
+        "name": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+        "includes": "Sawmilling and planing of wood; Manufacture of products of wood, cork, straw and plaiting materials"
+      },
+      "C17": {
+        "name": "Manufacture of paper and paper products",
+        "includes": "Manufacture of paper and paper products"
+      },
+      "C18": {
+        "name": "Printing and reproduction of recorded media",
+        "includes": "Printing and service activities related to printing; Reproduction of recorded media"
+      },
+      "C19": {
+        "name": "Manufacture of coke and refined petroleum products",
+        "includes": "Manufacture of coke oven products; Manufacture of refined petroleum products; manufacture of fossil fuel products"
+      },
+      "C20": {
+        "name": "Manufacture of chemicals and chemical products",
+        "includes": "Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms; Manufacture of other chemical products; Manufacture of man-made fibres"
+      },
+      "C21": {
+        "name": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+        "includes": "Manufacture of pharmaceuticals, medicinal chemical and botanical products"
+      },
+      "C22": {
+        "name": "Manufacture of rubber and plastic products",
+        "includes": "Manufacture of rubber products; Manufacture of plastics products"
+      },
+      "C23": {
+        "name": "Manufacture of other non-metallic mineral products",
+        "includes": "Manufacture of glass and glass products; Manufacture of non-metallic mineral products n.e.c."
+      },
+      "C24": {
+        "name": "Manufacture of basic metals",
+        "includes": "Manufacture of basic iron and steel; Manufacture of basic precious and other non-ferrous metals; Casting of metals"
+      },
+      "C25": {
+        "name": "Manufacture of fabricated metal products, except machinery and equipment",
+        "includes": "Manufacture of structural metal products, tanks, reservoirs and steam generators; Manufacture of weapons and ammunition; Manufacture of other fabricated metal products; metalworking service activities"
+      },
+      "C26": {
+        "name": "Manufacture of computer, electronic and optical products",
+        "includes": "Manufacture of electronic components and boards; Manufacture of computers and peripheral equipment; Manufacture of communication equipment; Manufacture of consumer electronics; Manufacture of measuring, testing, navigating and control equipment; watches and clocks; Manufacture of irradiation, electromedical and electrotherapeutic equipment; Manufacture of optical instruments and photographic equipment; Manufacture of magnetic and optical media"
+      },
+      "C27": {
+        "name": "Manufacture of electrical equipment",
+        "includes": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus; Manufacture of batteries and accumulators; Manufacture of wiring and wiring devices; Manufacture of lighting equipment; Manufacture of domestic appliances; Manufacture of other electrical equipment"
+      },
+      "C28": {
+        "name": "Manufacture of machinery and equipment n.e.c.",
+        "includes": "Manufacture of general-purpose machinery; Manufacture of special-purpose machinery"
+      },
+      "C29": {
+        "name": "Manufacture of motor vehicles, trailers and semi-trailers",
+        "includes": "Manufacture of motor vehicles; Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers; Manufacture of parts and accessories for motor vehicles"
+      },
+      "C30": {
+        "name": "Manufacture of other transport equipment",
+        "includes": "Building of ships and boats; Manufacture of railway locomotives and rolling stock; Manufacture of air and spacecraft and related machinery; Manufacture of military fighting vehicles; Manufacture of transport equipment n.e.c."
+      },
+      "C31": {
+        "name": "Manufacture of furniture",
+        "includes": "Manufacture of furniture"
+      },
+      "C32": {
+        "name": "Other manufacturing",
+        "includes": "Manufacture of jewellery, bijouterie and related articles; Manufacture of musical instruments; Manufacture of sports goods; Manufacture of games and toys; Manufacture of medical and dental instruments and supplies; Other manufacturing n.e.c."
+      },
+      "C33": {
+        "name": "Repair, maintenance and installation of machinery and equipment",
+        "includes": "Repair and maintenance of fabricated metal products, machinery and equipment; Installation of industrial machinery and equipment"
+      }
+    }
+  },
+  "D": {
+    "name": "Electricity, gas, steam and air conditioning supply",
+    "divisions": {
+      "D35": {
+        "name": "Electricity, gas, steam and air conditioning supply",
+        "includes": "Electric power generation, transmission and distribution activities; Manufacture of gas; distribution of gaseous fuels through mains; Steam and air conditioning supply; Activities of brokers and agents for electric power and natural gas"
+      }
+    }
+  },
+  "E": {
+    "name": "Water supply; sewerage, waste management and remediation activities",
+    "divisions": {
+      "E36": {
+        "name": "Water collection, treatment and supply",
+        "includes": "Water collection, treatment and supply"
+      },
+      "E37": {
+        "name": "Sewerage",
+        "includes": "Sewerage"
+      },
+      "E38": {
+        "name": "Waste collection, treatment and disposal, and recovery activities",
+        "includes": "Waste collection activities; Waste treatment and disposal; Materials and other waste recovery"
+      },
+      "E39": {
+        "name": "Remediation and other waste management service activities",
+        "includes": "Remediation and other waste management service activities"
+      }
+    }
+  },
+  "F": {
+    "name": "Construction",
+    "divisions": {
+      "F41": {
+        "name": "Construction of residential and non-residential buildings",
+        "includes": "Construction of residential and non-residential buildings"
+      },
+      "F42": {
+        "name": "Civil engineering",
+        "includes": "Construction of roads and railways; Construction of utility projects; Construction of other civil engineering projects"
+      },
+      "F43": {
+        "name": "Specialized construction activities",
+        "includes": "Demolition and site preparation; Electrical, plumbing and other construction installation activities; Building completion and finishing; Intermediation service activities for specialized construction services; Other specialized construction activities"
+      }
+    }
+  },
+  "G": {
+    "name": "Wholesale and retail trade",
+    "divisions": {
+      "G46": {
+        "name": "Wholesale trade",
+        "includes": "Wholesale on a fee or contract basis; Wholesale of agricultural raw materials and live animals; Wholesale of food, beverages and tobacco; Wholesale of household goods; Wholesale of machinery, equipment and supplies; Wholesale of motor vehicles, motorcycles and related parts and accessories; Other specialized wholesale; Non-specialized wholesale trade"
+      },
+      "G47": {
+        "name": "Retail trade",
+        "includes": "Non-specialized retail sale; Retail sale of food, beverages and tobacco; Retail sale of automotive fuel; Retail sale of information and communication equipment; Retail sale of other household equipment; Retail sale of cultural and recreational goods; Retail sale of other goods, except motor vehicles and motorcycles; Retail sale of motor vehicles, motorcycles and related parts and accessories; Intermediation service activities for retail sale"
+      }
+    }
+  },
+  "H": {
+    "name": "Transportation and storage",
+    "divisions": {
+      "H49": {
+        "name": "Land transport and transport via pipelines",
+        "includes": "Transport via railways; Other land transport; Transport via pipeline"
+      },
+      "H50": {
+        "name": "Water transport",
+        "includes": "Sea and coastal water transport; Inland water transport"
+      },
+      "H51": {
+        "name": "Air transport",
+        "includes": "Passenger air transport; Freight air transport"
+      },
+      "H52": {
+        "name": "Warehousing and support activities for transportation",
+        "includes": "Warehousing and storage; Support activities for transportation; Intermediation service activities for transportation"
+      },
+      "H53": {
+        "name": "Postal and courier activities",
+        "includes": "Postal activities; Courier activities; Intermediation service activities for postal and courier activities"
+      }
+    }
+  },
+  "I": {
+    "name": "Accommodation and food service activities",
+    "divisions": {
+      "I55": {
+        "name": "Accommodation",
+        "includes": "Hotels and similar accommodation activities; Other short term accommodation activities; Camping grounds, recreational vehicle parks and trailer parks; Intermediation service activities for accommodation; Other accommodation n.e.c."
+      },
+      "I56": {
+        "name": "Food and beverage service activities",
+        "includes": "Restaurants and mobile food service activities; Event catering and other food service activities; Beverage serving activities; Intermediation service activities for food and beverage services activities"
+      }
+    }
+  },
+  "J": {
+    "name": "Publishing, broadcasting, and content production and distribution activities",
+    "divisions": {
+      "J58": {
+        "name": "Publishing activities",
+        "includes": "Publishing of books, newspapers, periodicals and other publishing activities; Software publishing"
+      },
+      "J59": {
+        "name": "Motion picture, video and television programme production, sound recording and music publishing activities",
+        "includes": "Motion picture, video and television programme activities; Sound recording and music publishing activities"
+      },
+      "J60": {
+        "name": "Programming, broadcasting, news agency and other content distribution activities",
+        "includes": "Radio broadcasting and audio distribution activities; Television programming, broadcasting and video distribution activities; News agency and other content distribution activities"
+      }
+    }
+  },
+  "K": {
+    "name": "Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",
+    "divisions": {
+      "K61": {
+        "name": "Telecommunications",
+        "includes": "Wired, wireless, and satellite telecommunication activities; Telecommunication reselling activities and intermediation service activities for telecommunication; Other telecommunication activities"
+      },
+      "K62": {
+        "name": "Computer programming, consultancy and related activities",
+        "includes": "Computer programming activities; Computer consultancy and computer facilities management activities; Other information technology and computer service activities"
+      },
+      "K63": {
+        "name": "Computing infrastructure, data processing, hosting, and other information service activities",
+        "includes": "Computing infrastructure, data processing, hosting and related activities; Web search portals activities and other information service activities"
+      }
+    }
+  },
+  "L": {
+    "name": "Financial and insurance activities",
+    "divisions": {
+      "L64": {
+        "name": "Financial service activities, except insurance and pension funding",
+        "includes": "Monetary intermediation; Activities of holding companies and financing conduits; Activities of trusts, funds and similar financial entities; Other financial service activities, except insurance and pension funding activities"
+      },
+      "L65": {
+        "name": "Insurance, reinsurance and pension funding, except compulsory social security",
+        "includes": "Insurance; Reinsurance; Pension funding"
+      },
+      "L66": {
+        "name": "Activities auxiliary to financial service and insurance activities",
+        "includes": "Activities auxiliary to financial services, except insurance and pension funding; Activities auxiliary to insurance and pension funding; Fund management activities"
+      }
+    }
+  },
+  "M": {
+    "name": "Real estate activities",
+    "divisions": {
+      "M68": {
+        "name": "Real estate activities",
+        "includes": "Real estate activities with own or leased property; Real estate activities on a fee or contract basis"
+      }
+    }
+  },
+  "N": {
+    "name": "Professional, scientific and technical activities",
+    "divisions": {
+      "N69": {
+        "name": "Legal and accounting activities",
+        "includes": "Legal activities; Accounting, bookkeeping and auditing activities; tax consultancy"
+      },
+      "N70": {
+        "name": "Activities of head offices; management consultancy activities",
+        "includes": "Activities of head offices; Business and other management consultancy activities"
+      },
+      "N71": {
+        "name": "Architectural and engineering activities; technical testing and analysis",
+        "includes": "Architectural and engineering, and related technical consultancy activities; Technical testing and analysis"
+      },
+      "N72": {
+        "name": "Scientific research and development",
+        "includes": "Research and experimental development on natural sciences and engineering; Research and experimental development on social sciences and humanities"
+      },
+      "N73": {
+        "name": "Activities of advertising, market research and public relations",
+        "includes": "Advertising activities; Market research and public opinion polling activities; Public relations activities"
+      },
+      "N74": {
+        "name": "Other professional, scientific and technical activities",
+        "includes": "Specialized design activities; Photographic activities; Translation and interpretation activities; Other professional, scientific and technical activities n.e.c."
+      },
+      "N75": {
+        "name": "Veterinary activities",
+        "includes": "Veterinary activities"
+      }
+    }
+  },
+  "O": {
+    "name": "Administrative and support service activities",
+    "divisions": {
+      "O77": {
+        "name": "Rental and leasing activities",
+        "includes": "Rental and leasing of motor vehicles; Rental and leasing of personal and household goods; Rental and leasing of other machinery, equipment and tangible goods; Leasing of intellectual property and similar products, except copyrighted works; Intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets"
+      },
+      "O78": {
+        "name": "Employment activities",
+        "includes": "Activities of employment placement agencies; Temporary employment agency activities and other human resource provisions"
+      },
+      "O79": {
+        "name": "Travel agency, tour operator, and other travel related activities",
+        "includes": "Travel agency and tour operator activities; Other travel related activities"
+      },
+      "O80": {
+        "name": "Investigation and security activities",
+        "includes": "Investigation and security activities"
+      },
+      "O81": {
+        "name": "Services to buildings and landscape activities",
+        "includes": "Combined facilities support activities; Cleaning activities; Landscape service activities"
+      },
+      "O82": {
+        "name": "Office administrative, office support and other business support activities",
+        "includes": "Office administrative and support activities; Activities of call centres; Organization of conventions and trade shows; Intermediation service activities for business support activities n.e.c., except financial intermediation; Business support service activities n.e.c."
+      }
+    }
+  },
+  "P": {
+    "name": "Public administration and defence; compulsory social security",
+    "divisions": {
+      "P84": {
+        "name": "Public administration and defence; compulsory social security",
+        "includes": "Administration of the State and the economic, social and environmental policies of the community; Provision of services to the community as a whole; Compulsory social security activities"
+      }
+    }
+  },
+  "Q": {
+    "name": "Education",
+    "divisions": {
+      "Q85": {
+        "name": "Education",
+        "includes": "Pre-primary education; Primary education; Secondary and post-secondary non-tertiary education; Tertiary education; Other education; Educational support activities"
+      }
+    }
+  },
+  "R": {
+    "name": "Human health and social work activities",
+    "divisions": {
+      "R86": {
+        "name": "Human health activities",
+        "includes": "Hospital activities; Medical and dental practice activities; Other human health activities"
+      },
+      "R87": {
+        "name": "Residential care activities",
+        "includes": "Residential nursing care activities; Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse; Residential care activities for older persons or persons with physical disabilities; Other residential care activities"
+      },
+      "R88": {
+        "name": "Social work activities without accommodation",
+        "includes": "Social work activities without accommodation for older persons or persons with disabilities; Other social work activities without accommodation"
+      }
+    }
+  },
+  "S": {
+    "name": "Arts, sports and recreation",
+    "divisions": {
+      "S90": {
+        "name": "Arts creation and performing arts activities",
+        "includes": "Arts creation activities; Activities of performing arts; Support activities to arts creation and performing arts"
+      },
+      "S91": {
+        "name": "Library, archives, museum and other cultural activities",
+        "includes": "Library and archive activities; Museum, collection, historical site and monument activities; Conservation, restoration and other support activities for cultural heritage; Botanical and zoological garden and nature reserve activities"
+      },
+      "S92": {
+        "name": "Gambling and betting activities",
+        "includes": "Gambling and betting activities"
+      },
+      "S93": {
+        "name": "Sports activities and amusement and recreation activities",
+        "includes": "Sports activities; Amusement and recreation activities"
+      }
+    }
+  },
+  "T": {
+    "name": "Other service activities",
+    "divisions": {
+      "T94": {
+        "name": "Activities of membership organizations",
+        "includes": "Activities of business, employers and professional membership organizations; Activities of trade unions; Activities of other membership organizations"
+      },
+      "T95": {
+        "name": "Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",
+        "includes": "Repair and maintenance of computers and communication equipment; Repair and maintenance of personal and household goods; Repair and maintenance of motor vehicles and motorcycles; Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles"
+      },
+      "T96": {
+        "name": "Personal service activities",
+        "includes": "Washing and cleaning of textile and fur products; Hairdressing, beauty treatment, day spa and similar activities; Funeral and related activities; Intermediation service activities for personal services; Other personal service activities n.e.c."
+      }
+    }
+  },
+  "U": {
+    "name": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+    "divisions": {
+      "U97": {
+        "name": "Activities of households as employers of domestic personnel",
+        "includes": "Activities of households as employers of domestic personnel"
+      },
+      "U98": {
+        "name": "Undifferentiated goods- and services-producing activities of private households for own use",
+        "includes": "Undifferentiated goods-producing activities of private households for own use; Undifferentiated service-producing activities of private households for own use"
+      }
+    }
+  },
+  "V": {
+    "name": "Activities of extraterritorial organizations and bodies",
+    "divisions": {
+      "V99": {
+        "name": "Activities of extraterritorial organizations and bodies",
+        "includes": "Activities of extraterritorial organizations and bodies"
+      }
+    }
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "1.0": {
+    "name": "Develop Vision and Strategy",
+    "description": "Establishing a direction and vision for an organization. This involves defining the business concept and long-term vision, as well as developing the business strategy and managing strategic initiatives. Processes in this category focus on creating a vision, a mission, and strategic objectives, and culminate in creating measures to ensure that the organization is moving in the desired direction.",
+    "process_groups": {
+      "1.1": {
+        "name": "Define the business concept and long-term vision",
+        "description": "Creating a conceptual framework of the organization's business activity and strategic vision with long-term applicability. Scout the organization's internal capabilities, as well as the customer's needs and desires, to identify a fit that can be used to advance a conceptual structure of the organization's business activity. Conduct analysis in light of relevant externalities and large-scale shifts in the market landscape.",
+        "includes": [
+          "Assess the external environment",
+          "Survey market and determine customer needs and wants",
+          "Assess the internal environment",
+          "Establish strategic vision",
+          "Conduct organization restructuring opportunities"
+        ]
+      },
+      "1.2": {
+        "name": "Develop business strategy",
+        "description": "Developing an organization's mission statement, strategy, and business design. Create a concise statement that clearly articulates the mission of the organization, outlining practicable targets to Establish a strategic vision [10020]. Delineate strategic options by matching these alternatives with the organization's internal capabilities. Create an organizational design, and identify goals by developing strategies at the functional and process levels.",
+        "includes": [
+          "Develop overall mission statement",
+          "Define and evaluate strategic options to achieve the mission",
+          "Set/Develop long-term enterprise strategy",
+          "Coordinate and align cross-functional and process strategies",
+          "Create organizational design",
+          "Develop and set organizational objectives",
+          "Formulate business unit strategies",
+          "Develop customer experience strategy",
+          "Communicate strategies internally and externally"
+        ]
+      },
+      "1.3": {
+        "name": "Develop and measure strategic initiatives",
+        "description": "Managing strategic initiatives, from development through selection, execution, and evaluation. Conduct and oversee strategic projects supporting long-term objectives. Administer programs of strategic significance by developing such initiatives, select the most appropriate projects, and formulate measures to assess their impact.",
+        "includes": [
+          "Develop strategic initiatives",
+          "Evaluate strategic initiatives",
+          "Select strategic initiatives",
+          "Establish high-level measures",
+          "Execute strategic initiatives",
+          "Review execution of strategic initiatives",
+          "Refine strategic initiatives and project plans as needed"
+        ]
+      },
+      "1.4": {
+        "name": "Develop and maintain business models",
+        "description": "Establishing how an organization creates, delivers and captures value or makes profit. Identify the products or services that a business will sell, its target market, anticipated expenses, and other core aspects of its modus operandi. Revise the plan as required to reflect changing circumstances.",
+        "includes": [
+          "Develop business models",
+          "Maintain business models",
+          "Establish business model governance"
+        ]
+      }
+    }
+  },
+  "2.0": {
+    "name": "Develop and Manage Products and Services",
+    "description": "Detailing practices and procedures related to the concept of developing and managing products and services. These are reflected in the process groups Govern and manage product/service development program [19696], Generate and define new product/service ideas [19698], and Develop products and services [10062].",
+    "process_groups": {
+      "2.1": {
+        "name": "Govern and manage product/service development program",
+        "description": "Supervising the complete product/service program from innovation until its commercial success. Meeting the customer demand and expectations. Conduct further development and innovation pertaining to business goals.",
+        "includes": [
+          "Manage product and service portfolio",
+          "Manage product and service life cycle",
+          "Manage patents, copyrights, and regulatory requirements",
+          "Manage product and service master data"
+        ]
+      },
+      "2.2": {
+        "name": "Generate and define new product/service ideas",
+        "description": "Identifying and describing new product or service thoughts based on organizational objectives/targets.",
+        "includes": [
+          "Perform discovery research",
+          "Generate new product/service concepts",
+          "Define product/service development requirements"
+        ]
+      },
+      "2.3": {
+        "name": "Develop products and services",
+        "description": "Developing new products/services from scratch, including all activities associated with the design, prototyping, evaluation, and market testing of these planned offerings.",
+        "includes": [
+          "Design and prototype products and services",
+          "Test market for new or revised products and services",
+          "Prepare for production/service delivery"
+        ]
+      }
+    }
+  },
+  "3.0": {
+    "name": "Market and Sell Products and Services",
+    "description": "Outlining process groups related to understanding markets, customers, and capabilities; developing marketing strategies; executing marketing plans; developing sales strategies; developing and managing marketing plans; and managing sales partners and alliances.",
+    "process_groups": {
+      "3.1": {
+        "name": "Understand markets, customers, and capabilities",
+        "description": "Making sense of the market and customers to identify the right opportunities to be capitalized, given the organization's competencies. Discern trends and shift in the market and customers. Identify the right market opportunities that fit closely with the organization's capabilities and strategy by gathering intelligence on various attributes of different market/customer segments.",
+        "includes": [
+          "Perform customer and market intelligence analysis",
+          "Evaluate and prioritize market opportunities"
+        ]
+      },
+      "3.2": {
+        "name": "Develop marketing strategy",
+        "description": "Charting a strategic course for marketing products/services. This will include defining the value proposition, creating a mechanism for pricing, and determining the right mix of marketing channels. Create a specific positioning and branding for the organization's offerings. Enlist marketing head to lead, with inputs from the business development and sales functions.",
+        "includes": [
+          "Define offering and customer value proposition",
+          "Define pricing strategy",
+          "Define and manage channel strategy",
+          "Analyze and manage channel performance",
+          "Develop marketing communication strategy",
+          "Design and manage customer loyalty program"
+        ]
+      },
+      "3.3": {
+        "name": "Develop and manage marketing plans",
+        "description": "Creating specific plans to market offerings to customers. This process group includes processes for making budgets, identifying and developing media, pricing products and services, managing packaging, managing marketing content and promotional activities, tracking and responding to customer insight and monitoring measures established within \"develop marketing strategy\". Additionally, in this process group, organizations take action on plans made in earlier processes. Here, marketing and customers are managed and measured along with any supporting materials.",
+        "includes": [
+          "Establish goals, objectives, and measures for products/services by channel/segment",
+          "Establish marketing budgets",
+          "Develop and manage pricing",
+          "Develop and manage promotional activities",
+          "Track customer management measures",
+          "Analyze and respond to customer insight",
+          "Develop and manage packaging strategy",
+          "Develop go-to-market strategy",
+          "Manage product marketing material"
+        ]
+      },
+      "3.4": {
+        "name": "Develop sales strategy",
+        "description": "Developing concrete plans for guiding and providing support to the sales function. Chart a road map for the sales function, including an analysis of historical sales data to create forecasts for anticipated sales, forming sales targets, forging partnerships with other economic agents to boost sales, devising a budget for this function, and determining metrics to measure customer management activities as well as progress in achieving sales targets.",
+        "includes": [
+          "Develop sales forecast",
+          "Develop sales partner/alliance relationships",
+          "Establish overall sales budgets",
+          "Establish sales goals and measures",
+          "Establish customer management measures"
+        ]
+      },
+      "3.5": {
+        "name": "Develop and manage sales plans",
+        "description": "Selling products/services. Set appropriate customer expectations. Work with customers using the same schedule that product/service development, production, and customer service functions follow. Manage sales personnel and sales partnerships/alliances.",
+        "includes": [
+          "Manage leads/opportunities",
+          "Manage customers and accounts",
+          "Develop and manage sales proposals, bids, and quotes",
+          "Manage sales orders",
+          "Manage sales partners and alliances",
+          "Perform sales at physical outlets",
+          "Perform field sales",
+          "Perform digital sales"
+        ]
+      }
+    }
+  },
+  "4.0": {
+    "name": "Manage Supply Chain for Physical Products",
+    "description": "Performing supply chain activities include planning supply chain, procuring materials and services, and managing logistics.",
+    "process_groups": {
+      "4.1": {
+        "name": "Plan for and align supply chain resources",
+        "description": "Creating strategies for production and materials. Handle the demand for the products of the organization. Develop plans for handling materials. Develop and administer the schedule for master production. Plan for distribution requirements and its constraints by reviewing and assessing distribution policies and performance and by establishing quality standards and procedures.",
+        "includes": [
+          "Develop production and materials strategies",
+          "Manage demand for products",
+          "Create materials plan",
+          "Create and manage master production schedule",
+          "Plan distribution requirements",
+          "Establish distribution planning constraints",
+          "Review distribution planning policies",
+          "Develop quality standards and procedures"
+        ]
+      },
+      "4.2": {
+        "name": "Procure materials and services",
+        "description": "Creating a plan for procuring materials and services. Develop strategies for sourcing materials and services. Choose the most appropriate suppliers, and develop contracts with them. Order the materials and services as per the requirements. Manage relationships with suppliers.",
+        "includes": [
+          "Provide sourcing governance and perform category management",
+          "Select suppliers and develop/maintain contracts",
+          "Order materials and services",
+          "Manage suppliers"
+        ]
+      },
+      "4.3": {
+        "name": "Produce/Assemble/Test product",
+        "description": "Processing and delivering the finished goods manufactured by the organization. Schedule the production of products. Execute the product production activities. Perform tests to oversee and ensure quality of production. Maintain records of the production process. Track lots.",
+        "includes": [
+          "Schedule production",
+          "Produce/Assemble product",
+          "Perform quality testing",
+          "Maintain production records and manage lot traceability"
+        ]
+      },
+      "4.4": {
+        "name": "Manage logistics and warehousing",
+        "description": "Administering and overseeing all activities related to logistics and warehousing. Outline and establish a strategy for the logistics function. Plan and administer the flow of inbound materials. Administer the operational activities of warehousing and outbound transportation. Manage reverse logistics including returns and exchanges.",
+        "includes": [
+          "Provide logistics governance",
+          "Plan and manage inbound material flow",
+          "Operate warehousing",
+          "Operate outbound transportation"
+        ]
+      }
+    }
+  },
+  "5.0": {
+    "name": "Deliver Services",
+    "description": "Offering services to customers. This is the act of providing service delivery as a core business practice and covers identifying strategies for performing service delivery, managing resources, and delivering services to the customer.",
+    "process_groups": {
+      "5.1": {
+        "name": "Establish service delivery governance and strategies",
+        "description": "Creating rules and regulations for service delivery to the customer. Establish a system to manage performance, delivery, and direction of service delivery. Engage with the customer for satisfaction feedback. Define goals, policies, processes, and workplace layout and infrastructure as a part of the service delivery strategy.",
+        "includes": [
+          "Establish service delivery governance",
+          "Develop service delivery strategies"
+        ]
+      },
+      "5.2": {
+        "name": "Manage service delivery resources",
+        "description": "Understanding the demands on resources and creating a plan to enable the delivery of services via those resources.",
+        "includes": [
+          "Manage service delivery resource demand",
+          "Create and manage resource plan",
+          "Enable service delivery resources"
+        ]
+      },
+      "5.3": {
+        "name": "Deliver service to customer",
+        "description": "Rendering service to the customer by initiating, executing, and completing tasks associated with service delivery.",
+        "includes": [
+          "Initiate service delivery",
+          "Execute service delivery",
+          "Complete service delivery"
+        ]
+      }
+    }
+  },
+  "6.0": {
+    "name": "Manage Customer Service",
+    "description": "Managing customers before and after the delivery of services. This includes developing and planning customer service practices with an eye on steering processes relating to inquiries after sales, feedback, warranties, and recalls.",
+    "process_groups": {
+      "6.1": {
+        "name": "Develop customer service strategy",
+        "description": "Defining a plan that removes customer obstacles by gathering operational insight and competitive insight, as well as improving soft skills and forward resolution for employees. Develop customer segmentation. Define rules and regulations for customer service. Establish service levels for customers.",
+        "includes": [
+          "Define customer service requirements across the enterprise",
+          "Define customer service experience",
+          "Define and manage customer service channel strategy",
+          "Define customer service policies and procedures",
+          "Establish target service level for each customer segment",
+          "Define warranty claims",
+          "Develop recall strategy"
+        ]
+      },
+      "6.2": {
+        "name": "Plan and manage customer service contacts",
+        "description": "Planning and administering work force operations for customer service provision by taking care of customer services requests/inquiries, as well as the complaints.",
+        "includes": [
+          "Plan and manage customer service work force",
+          "Manage customer service problems, requests, and inquiries",
+          "Manage customer complaints",
+          "Process returns",
+          "Report incidents and risks to regulatory bodies"
+        ]
+      },
+      "6.3": {
+        "name": "Service products after sales",
+        "description": "Assigning post-sales policies and paying claims on purchased products. This is a process that is an administrative function focused on creating rules (claim codes). This group ensures that claims are valid and are processed quickly. As well as to quickly determine responsibility for claim settlement.",
+        "includes": [
+          "Register products",
+          "Process warranty claims",
+          "Manage supplier recovery",
+          "Service products"
+        ]
+      },
+      "6.4": {
+        "name": "Manage product recalls and regulatory audits",
+        "description": "Removing defective products from the distribution chain. Participate in audits from watchdog agencies.",
+        "includes": [
+          "Initiate recall",
+          "Assess the likelihood and consequences of occurrence of any hazards",
+          "Manage recall related communications",
+          "Submit regulatory reports",
+          "Monitor and audit recall effectiveness",
+          "Manage recall termination"
+        ]
+      },
+      "6.5": {
+        "name": "Evaluate customer service operations and customer satisfaction",
+        "description": "Calculating and assessing the operational activities of the customer service function. Evaluation is achieved through the customer requests/inquiries handling process, the customer complaint handling process, and product and services quality. Examine activities to ensure high levels of customer service.",
+        "includes": [
+          "Measure customer satisfaction with customer problems, requests, and inquiries handling",
+          "Measure customer satisfaction with customer- complaint handling and resolution",
+          "Measure customer satisfaction with products and services",
+          "Evaluate and manage warranty performance",
+          "Evaluate recall performance"
+        ]
+      }
+    }
+  },
+  "7.0": {
+    "name": "Develop and Manage Human Capital",
+    "description": "Delivering processes traditionally defined as \"human resources\". Process groups include those related to developing and maintaining workforce strategy, recruiting employees, developing and counseling employees, managing employee relations, rewarding and retaining employees, redeploying and retiring employees, managing employee information, and managing employee communications.",
+    "process_groups": {
+      "7.1": {
+        "name": "Develop and manage human resources planning, policies, and strategies",
+        "description": "Creating strategies for the HR function. Create and implement strategies for managing the work force. Supervise and enhance the strategies, plans, and policies supporting the HR function. Developing models for managing competency levels of the HR of the organization.",
+        "includes": [
+          "Develop human resources strategy",
+          "Develop and implement workforce strategy and policies",
+          "Monitor and update strategy, plans, and policies",
+          "Develop competency management models"
+        ]
+      },
+      "7.2": {
+        "name": "Recruit, source, and select employees",
+        "description": "Determining and handling employee requirements. Recruit or source the candidates as per the requirements. Screen and select the most appropriate candidates. Take care of the newly hired and re-hired employees. Maintain records of information for all applicants.",
+        "includes": [
+          "Manage employee requisitions",
+          "Recruit/Source candidates",
+          "Screen and select candidates",
+          "Manage new hire/re-hire",
+          "Manage applicant information"
+        ]
+      },
+      "7.3": {
+        "name": "Manage employee onboarding, training, and development",
+        "description": "Assisting employees in developing their capabilities, and providing them counseling services. Handle the orientation and deployment of the employees. Administer the performance of employees. Administer the development and enhancement of the employees. Provide training and development programs for employees.",
+        "includes": [
+          "Manage employee orientation and deployment",
+          "Manage employee performance",
+          "Manage employee career development",
+          "Develop and train employees"
+        ]
+      },
+      "7.4": {
+        "name": "Manage employee relations",
+        "description": "Assisting general management in developing, maintaining, and improving employee relationships. This is accomplished through communication, performance management, processing grievances, and/or dispute. Interpret and convey organizational policies.",
+        "includes": [
+          "Manage labor relations",
+          "Manage collective bargaining process",
+          "Manage labor management partnerships",
+          "Manage employee grievances",
+          "Monitor legal and regulatory environment"
+        ]
+      },
+      "7.5": {
+        "name": "Reward and retain employees",
+        "description": "Creating frameworks for rewarding and recognizing employees with the objective of retaining them. Create and manage programs for provision of rewards, recognition, and motivation. Manage and administer the benefits for employees. Help assist and retain employees. Administer payroll to employees.",
+        "includes": [
+          "Develop and manage reward, recognition, and motivation programs",
+          "Manage and administer benefits",
+          "Manage employee assistance and retention",
+          "Administer payroll"
+        ]
+      },
+      "7.6": {
+        "name": "Redeploy and retire employees",
+        "description": "Managing the reassignment and retirement of employees. Manage the process of employee promotion and demotion. Administer separation, retirement, and leaves of absence. Outplace employees. Deploy personnel. Relocate employees in order to manage assignments.",
+        "includes": [
+          "Manage promotion and demotion process",
+          "Manage separation",
+          "Manage retirement",
+          "Manage leave of absence",
+          "Develop and implement employee outplacement",
+          "Manage workforce scheduling",
+          "Relocate employees and manage assignments"
+        ]
+      },
+      "7.7": {
+        "name": "Manage employee information and analytics",
+        "description": "Managing the employee reporting processes, employee inquiry process, employee information and data, and the HR information systems. Create and administer the employee metrics. Develop and handle the time and attendance systems. Refurbish the indicators for employee retention and motivation.",
+        "includes": [
+          "Manage reporting processes",
+          "Manage employee inquiry process",
+          "Manage and maintain employee data",
+          "Manage human resource information systems HRIS",
+          "Develop and manage employee measures",
+          "Develop and manage time and attendance systems",
+          "Develop workforce analytics",
+          "Implement workforce analytics",
+          "Manage/Collect employee suggestions and perform employee research"
+        ]
+      },
+      "7.8": {
+        "name": "Manage employee communication",
+        "description": "Creating an effective plan that initiates and promotes communication and engagement among the employees and between employees and management.",
+        "includes": [
+          "Develop employee communication plan",
+          "Conduct employee engagement surveys",
+          "Deliver employee communications"
+        ]
+      }
+    }
+  },
+  "8.0": {
+    "name": "Manage Information Technology (IT)",
+    "description": "Managing process groups relevant to the business of information technology within an organization. The process groups include \"Develop and manage IT customer relationships\", \"Develop and manage IT business strategy\", \" Develop and manage IT resilience and risk\", \" Manage information\", \" Develop and manage services/solutions\", \"Deploy services/solutions\", and \" Create and manage support services/solutions\".",
+    "process_groups": {
+      "8.1": {
+        "name": "Develop and manage IT customer relationships",
+        "description": "Creating and administering relationships with IT customers. Understanding customer needs including high-level business requirements for IT transformation. Plan for and communicate IT services along with establishing IT service levels, providing transformation guidance, and performance analysis that foster IT customer relationships.",
+        "includes": [
+          "Understand IT customer needs",
+          "Identify IT customer transformation needs",
+          "Plan and communicate IT services",
+          "Provide IT transformation guidance",
+          "Develop and manage IT service levels",
+          "Manage IT customer relationships",
+          "Analyze service performance"
+        ]
+      },
+      "8.2": {
+        "name": "Develop and manage IT business strategy",
+        "description": "Handling the business of IT. Create a organization-wide strategy for the IT function. Define the organization's IT architecture. Manage the IT portfolio. Research and innovate in the field of IT. Assess and convey the performance and the value of the IT function.",
+        "includes": [
+          "Define business technology and governance strategy",
+          "Manage IT portfolio strategy",
+          "Define and maintain enterprise architecture",
+          "Define IT service management strategy",
+          "Control IT management system",
+          "Manage IT value portfolio",
+          "Define and manage technology innovation"
+        ]
+      },
+      "8.3": {
+        "name": "Develop and manage IT resilience and risk",
+        "description": "Develop and include the processes required to rapidly adapt and respond to any internal or external opportunity, demand, disruption, or threat to IT. Develop a more dynamic, strategic, and integrated approach to managing risk and compliance obligations.",
+        "includes": [
+          "Develop IT compliance, risk, and security strategy",
+          "Develop IT resilience strategy",
+          "Control IT risk, compliance, and security",
+          "Plan and manage IT continuity",
+          "Develop and manage IT security, privacy, and data protection",
+          "Conduct and analyze IT compliance assessments",
+          "Develop and execute IT resilience and continuity operations",
+          "Manage IT user identity and authorization"
+        ]
+      },
+      "8.4": {
+        "name": "Manage information",
+        "description": "Creating strategies to manage the organization's information and content. Outline the architecture for information. Administer information resources. Administer the management of data and content.",
+        "includes": [
+          "Define business information and analytics strategy",
+          "Define and maintain business information architecture",
+          "Define and execute business information lifecycle planning and control",
+          "Manage business information"
+        ]
+      },
+      "8.5": {
+        "name": "Develop and manage services/solutions",
+        "description": "Designing and maintaining the IT services/solutions catalogue. Evaluate the performance of IT services/solutions. Communicate the results to the management.",
+        "includes": [
+          "Develop service/solution and integration strategy",
+          "Manage service/solution lifecycle planning",
+          "Develop and manage service/solution architecture",
+          "Execute IT service/solution creation and testing",
+          "Perform service/solution maintenance and testing"
+        ]
+      },
+      "8.6": {
+        "name": "Deploy services/solutions",
+        "description": "Executing IT services/solutions by creating a strategy for deployment. Plan and execute the changes. Plan and administer the release of its IT services and solutions.",
+        "includes": [
+          "Develop and manage service/solution deployment strategy",
+          "Plan service and solution implementation",
+          "Manage change deployment control",
+          "Implement technology solutions",
+          "Perform service and solution rollout"
+        ]
+      },
+      "8.7": {
+        "name": "Create and manage support services/solutions",
+        "description": "Establishing and managing services for providing support to users of IT services and solutions. Define the plethora of services by which the organization assists users of computers, software products, or other information technology products.",
+        "includes": [
+          "Define and establish service delivery strategy",
+          "Define and develop service support strategy",
+          "Plan and manage service delivery control",
+          "Develop and manage infrastructure resource planning",
+          "Define service support planning",
+          "Develop and manage service delivery operations",
+          "Manage infrastructure resource administration",
+          "Operate IT user support"
+        ]
+      }
+    }
+  },
+  "9.0": {
+    "name": "Manage Financial Resources",
+    "description": "Overseeing key back-office processes for organizations. This category includes process groups related to planning and management accounting, revenue accounting, general accounting and reporting, fixed-asset project accounting, payroll, accounts payable and expense reimbursements, treasury operations, internal controls, tax management, international funds/consolidation, and global trade services.",
+    "process_groups": {
+      "9.1": {
+        "name": "Perform planning and management accounting",
+        "description": "Determining different stages of the planning process and accounting. Classify, determine, analyze, interpret, and communicate information to make up-to-date business decisions for better management and control functions.",
+        "includes": [
+          "Perform planning/budgeting/forecasting",
+          "Perform cost accounting and control",
+          "Perform cost management",
+          "Evaluate and manage financial performance"
+        ]
+      },
+      "9.2": {
+        "name": "Perform revenue accounting",
+        "description": "Comparing revenue targets to reality. Review all transactions and entries passed in final accounts in a year in order to examine profits.",
+        "includes": [
+          "Process customer credit",
+          "Invoice customer",
+          "Process accounts receivable (AR)",
+          "Manage and process collections",
+          "Manage and process adjustments/deductions"
+        ]
+      },
+      "9.3": {
+        "name": "Perform general accounting and reporting",
+        "description": "Making statements about business activities and functions. Prepare financial statements (balance sheet, income statement, statement of cash flows, and statement of stockholders' equity) according to accounting concepts and principles.",
+        "includes": [
+          "Manage financial policies and procedures",
+          "Perform general accounting",
+          "Perform fixed-asset accounting",
+          "Perform financial reporting"
+        ]
+      },
+      "9.4": {
+        "name": "Manage fixed-asset project accounting",
+        "description": "Managing accounts for large funds-invested projects. Manage and account for fixed assets projects (capital projects), which required significant capital investments over many years.",
+        "includes": [
+          "Perform capital planning and project approval",
+          "Perform capital project accounting"
+        ]
+      },
+      "9.5": {
+        "name": "Process payroll",
+        "description": "Handling reporting time, managing pay, and processing taxes from salaries. Pay employees. Withhold taxes. Confirm the correct funds are paid to the correct government agency.",
+        "includes": [
+          "Report time",
+          "Manage pay",
+          "Manage and process payroll taxes"
+        ]
+      },
+      "9.6": {
+        "name": "Process accounts payable and expense reimbursements",
+        "description": "Handling bills and reimbursements to be made. Make payments for goods or services taken or used on behalf of the organization.",
+        "includes": [
+          "Process accounts payable (AP)",
+          "Process expense reimbursements",
+          "Manage corporate credit cards"
+        ]
+      },
+      "9.7": {
+        "name": "Manage treasury operations",
+        "description": "Managing business's investments in trading in bonds, currencies, financial derivatives, etc. Manage the financial assets and holdings of the organization. Optimize the organization's liquidity. Invest excess cash. Reduce financial risks.",
+        "includes": [
+          "Manage treasury policies and procedures",
+          "Manage cash",
+          "Manage in-house bank accounts",
+          "Manage debt and investment",
+          "Monitor and execute risk and hedging transactions",
+          "Manage financial fraud/dispute cases"
+        ]
+      },
+      "9.8": {
+        "name": "Manage internal controls",
+        "description": "Administering internal controls. This process requires the organization to manage entity's board of trustees, management, and other personnel in order to offer judicious assurance about the achievement of effectiveness, proficiency of operations, and reliability of financial reporting.",
+        "includes": [
+          "Establish internal controls, policies, and procedures",
+          "Operate controls and monitor compliance with internal controls policies and procedures",
+          "Report on internal controls compliance"
+        ]
+      },
+      "9.9": {
+        "name": "Manage taxes",
+        "description": "Estimating the organization's periodic tax liabilities. Ensure that appropriate taxing authorities receive tax return filings and payments when due.",
+        "includes": [
+          "Develop tax strategy and plan",
+          "Process taxes"
+        ]
+      },
+      "9.10": {
+        "name": "Manage international funds/consolidation",
+        "description": "Managing cash collections and disbursements made by operating units across the enterprise. When appropriate, transfer cash from the operating units to parent-level bank accounts managed by the organization's treasury team.",
+        "includes": [
+          "Monitor international rates",
+          "Manage transactions",
+          "Monitor currency exposure/hedge currency",
+          "Report results"
+        ]
+      },
+      "9.11": {
+        "name": "Perform global trade services",
+        "description": "Making and collecting payments for transactions in products/services, and transporting them to interested markets.",
+        "includes": [
+          "Screen sanctioned party list",
+          "Control exports and imports",
+          "Classify products",
+          "Perform currency conversion",
+          "Calculate duty",
+          "Communicate with customs",
+          "Document trade",
+          "Process trade preferences",
+          "Handle restitution",
+          "Prepare letter of credit"
+        ]
+      }
+    }
+  },
+  "10.0": {
+    "name": "Acquire, Construct, and Manage Assets",
+    "description": "Relating to the design, construction, acquisition, and management of both productive and non-productive assets.",
+    "process_groups": {
+      "10.1": {
+        "name": "Plan and acquire assets",
+        "description": "Planning, acquiring, and managing facilities, workspaces, and supporting assets. Acquire, configure, and manage facilities and workspaces, to include supporting equipment and materials.",
+        "includes": [
+          "Develop property strategy and long term vision",
+          "Plan facility",
+          "Provide workspace and facilities",
+          "Manage facilities operations"
+        ]
+      },
+      "10.2": {
+        "name": "Design and construct assets",
+        "description": "Designing and constructing assets such as machines, tools, factories, etc. Manage steps to acquire assets including managing capital, as well as planning, scheduling, and overseeing acquisition/construction.",
+        "includes": [
+          "Manage capital program for assets",
+          "Design and plan asset construction",
+          "Schedule and perform construction work",
+          "Manage asset construction"
+        ]
+      },
+      "10.3": {
+        "name": "Maintain assets",
+        "description": "Preserving productive assets through the planning, managing, and performance of preventative, routine, and critical maintenance work.",
+        "includes": [
+          "Plan asset maintenance",
+          "Manage asset maintenance",
+          "Perform asset maintenance"
+        ]
+      },
+      "10.4": {
+        "name": "Manage asset end-of-life",
+        "description": "Managing the disposition of assets at their end-of-life. End-of-life for an asset may be due to obsolescence, replacement, excess capacity, or disrepair among other potential factors. Steps may include decommissioning, disassembly, recycling, etc. Tracking and reporting may also be appropriate for some or all asset types due to law, regulation, or social/environmental responsibility.",
+        "includes": [
+          "Develop exit strategy",
+          "Decommission productive assets",
+          "Perform sale or trade",
+          "Manage take-back centers",
+          "Dismantle assets",
+          "Track parts",
+          "Recycle parts",
+          "Ship hazardous material",
+          "Provide government reporting",
+          "Perform abandonment",
+          "Perform waste and hazardous goods management"
+        ]
+      }
+    }
+  },
+  "11.0": {
+    "name": "Manage Enterprise Risk, Compliance, Remediation, and Resiliency",
+    "description": "Ensuring that an organization effectively manages its risk. Process groups are aligned with traditional risk management activities.",
+    "process_groups": {
+      "11.1": {
+        "name": "Manage enterprise risk",
+        "description": "Creating requisite frameworks and coordinating all risk management activities for the entire organization and each function. Manage the enterprise risk by outlining the risk policies and procedures. Monitor and communicate all risk management activities. Encourage correspondence among the business units. Manage the risk of all business units and functions.",
+        "includes": [
+          "Establish the enterprise risk framework and policies",
+          "Oversee and coordinate enterprise risk management activities",
+          "Manage business unit and function risk"
+        ]
+      },
+      "11.2": {
+        "name": "Manage compliance",
+        "description": "Managing steps to confirm enduring compliance to industry regulations and government legislation.",
+        "includes": [
+          "Establish compliance framework and policies",
+          "Manage regulatory compliance"
+        ]
+      },
+      "11.3": {
+        "name": "Manage remediation efforts",
+        "description": "Administering the efforts and activities for remediation. This process element requires the organization to create plans for corrective action in collaboration with government agencies and pertinent professional services agencies which specialize in remediation efforts relevant to the organization's operations. Additionally, the organization needs to consult experts to validate the plan, determine resources allocation, resolve any legal concerns, and formulate a company-wide policy for remediation.",
+        "includes": [
+          "Create remediation plans",
+          "Contact and confer with experts",
+          "Identify/dedicate resources",
+          "Investigate legal aspects",
+          "Investigate damage cause",
+          "Amend or create policy"
+        ]
+      },
+      "11.4": {
+        "name": "Manage business resiliency",
+        "description": "Including the processes required to rapidly adapt and respond to any internal or external opportunity, demand, disruption, or threat. Develop a more dynamic, strategic, and integrated approach to managing compliance obligations.",
+        "includes": [
+          "Develop the business resilience strategy",
+          "Perform continuous business operations planning",
+          "Test continuous business operations",
+          "Maintain continuous business operations",
+          "Share knowledge of specific risks across other parts of the organization"
+        ]
+      }
+    }
+  },
+  "12.0": {
+    "name": "Manage External Relationships",
+    "description": "Fostering external relationships with stakeholders of the entity, including investors, government and industry, the board of directors, and the general public. This is not related to customer management.",
+    "process_groups": {
+      "12.1": {
+        "name": "Build investor relationships",
+        "description": "Creating a strategic management responsibility for integrating finance, communication, marketing, and securities law compliance. Allow the most effective two-way communication among the organization, the financial community, and other constituencies. Enlist the investor relations function to provide market intelligence to corporate management.",
+        "includes": [
+          "Plan, build, and manage lender relations",
+          "Plan, build, and manage analyst relations",
+          "Communicate with shareholders"
+        ]
+      },
+      "12.2": {
+        "name": "Manage government and industry relationships",
+        "description": "Creating and maintaining relationships with government and industry representatives.",
+        "includes": [
+          "Manage government relations",
+          "Manage relations with quasi-government bodies",
+          "Manage relations with trade or industry groups",
+          "Manage lobby activities"
+        ]
+      },
+      "12.3": {
+        "name": "Manage relations with board of directors",
+        "description": "Maintaining relations with representatives of the stockholders. Establish corporate management-related policies and to make decisions on major company issues. Implement practices designed to engender communication, trust, and cooperation.",
+        "includes": [
+          "Report financial results",
+          "Report audit findings"
+        ]
+      },
+      "12.4": {
+        "name": "Manage legal and ethical issues",
+        "description": "Managing legal practices to abide by the law, as well as ethical practices.",
+        "includes": [
+          "Create ethics policies",
+          "Manage corporate governance policies",
+          "Develop and perform preventive law programs",
+          "Ensure compliance",
+          "Manage outside counsel",
+          "Protect intellectual property",
+          "Resolve disputes and litigations",
+          "Provide legal advice/counseling",
+          "Negotiate and document agreements/contracts"
+        ]
+      },
+      "12.5": {
+        "name": "Manage public relations program",
+        "description": "Managing a public relations programs through business and communications skills.",
+        "includes": [
+          "Manage community relations",
+          "Manage media relations",
+          "Promote political stability",
+          "Create press releases",
+          "Issue press releases"
+        ]
+      }
+    }
+  },
+  "13.0": {
+    "name": "Develop and Manage Business Capabilities",
+    "description": "Performing activities by an organization that are fundamental to the successful operation of the organization, even across functions in a business. Capabilities defined in the PCF include business process management; portfolio, program, and project management; quality management; change management; benchmarking; environmental health and safety management; and knowledge management.",
+    "process_groups": {
+      "13.1": {
+        "name": "Manage business processes",
+        "description": "Establishing and administering governance for management of the processes. Outline and manage the frameworks for management of the processes. Define the business processes. Administer the performance of the processes. Enhance the business processes.",
+        "includes": [
+          "Establish and maintain process management governance",
+          "Define and manage process frameworks",
+          "Define processes",
+          "Manage process performance",
+          "Improve processes"
+        ]
+      },
+      "13.2": {
+        "name": "Manage portfolio, program, and project",
+        "description": "Managing investments, holdings, products, businesses, and brands, along with the related projects that together constitute a program.",
+        "includes": [
+          "Manage portfolio",
+          "Manage programs",
+          "Manage projects"
+        ]
+      },
+      "13.3": {
+        "name": "Manage enterprise quality",
+        "description": "Managing organizational attributes that are closely associated with the quality of output. Determine the quality requirements. Evaluate the correspondence between the quality performance and requirements. Manage non-conformance activities. Ensure implementation and maintenance of the enterprise quality management system.",
+        "includes": [
+          "Establish quality requirements",
+          "Evaluate performance to requirements",
+          "Manage non-conformance",
+          "Implement and maintain the enterprise quality management system (EQMS)"
+        ]
+      },
+      "13.4": {
+        "name": "Manage change",
+        "description": "Planning, designing, and implementing the change. Ensure improvement in the change process.",
+        "includes": [
+          "Plan for change",
+          "Design the change",
+          "Implement change",
+          "Sustain improvement"
+        ]
+      },
+      "13.5": {
+        "name": "Develop and manage enterprise-wide knowledge management (KM) capability",
+        "description": "Creating and administering the capability of the organization's knowledge management function. Develop a strategy for knowledge management. Assess capabilities of the knowledge management function.",
+        "includes": [
+          "Develop KM strategy",
+          "Assess KM capabilities",
+          "Design and implement KM capabilities",
+          "Evolve and sustain KM capabilities"
+        ]
+      },
+      "13.6": {
+        "name": "Measure and benchmark",
+        "description": "Defining and managing measurement and benchmarking. Measure and benchmark the performance of internal processes, as well as the organization as a whole.",
+        "includes": [
+          "Define and manage organizational performance strategy",
+          "Benchmark performance",
+          "Evaluate performance"
+        ]
+      },
+      "13.7": {
+        "name": "Develop, manage, and deliver analytics",
+        "description": "Creating new and improving existing analytical capabilities to enhance data management pipeline.",
+        "includes": [
+          "Identify needs from stakeholders",
+          "Scope analytics project",
+          "Develop and manage hypotheses",
+          "Collect data",
+          "Prepare data",
+          "Analyze data",
+          "Create data models",
+          "Review data models with stakeholders",
+          "Refine data models",
+          "Report on analysis",
+          "Identify remedial actions"
+        ]
+      },
+      "13.8": {
+        "name": "Manage environmental health and safety (EHS)",
+        "description": "Determining the impacts of environmental health and safety. Create and implement the EHS program. Train and educate employees of the EHS function. Oversee and manage the EHS program.",
+        "includes": [
+          "Determine environmental health and safety impacts",
+          "Develop EHS program",
+          "Monitor and manage EHS program"
+        ]
+      },
+      "13.9": {
+        "name": "Manage sustainability",
+        "description": "Developing and managing sustainability practices for the organization. Ensure proper understanding and communication of ESG standards, requirements, capabilities, and future trends. Promote awareness, alignment, and continuity.",
+        "includes": [
+          "Develop sustainability capability",
+          "Manage sustainability capability"
+        ]
+      }
+    }
+  }
+}

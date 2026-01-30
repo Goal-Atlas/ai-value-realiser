@@ -1,0 +1,14 @@
+{
+  "overlay_id": "industry_sector",
+  "display_name": "Industry Sector Classifications",
+  "description": "Maps cases to industry codes (NAICS, SIC, or custom). Add classifications.json to populate.",
+  "version": "1.0",
+  "created_date": "2026-01-29T00:00:00Z",
+  "last_updated": "2026-01-30T13:19:58Z",
+  "maintainer": "",
+  "coverage": {
+    "total_cases": 200,
+    "classified_cases": 200,
+    "coverage_percent": 100.0
+  }
+}
