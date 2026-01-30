@@ -9,6 +9,7 @@
       ],
       "source_quote": "The new generative AI functionality helps to counteract the skill shortage in the maintenance sector.",
       "quote_location": "Press release headline/summary",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "The generative AI functionality is explicitly stated as the mechanism to counteract skill shortage",
       "verification_status": "verified",
@@ -46,6 +47,7 @@
       ],
       "source_quote": "Mindsphere app Predictive Service Assistance uses artificial intelligence to optimize maintenance efficiency of drive systems",
       "quote_location": "Press release title",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "AI is explicitly stated as the technology used to optimize maintenance efficiency",
       "verification_status": "verified",
@@ -334,7 +336,7 @@
       "claim_title": "AI agents for industrial automation announcement",
       "claim_description": "Siemens introduced AI agents for industrial automation on May 12, 2025",
       "source_ids": [
-        "S5"
+        "S3"
       ],
       "source_quote": "Press Release12 May 2025Siemens AGNuremberg/Detroit",
       "verification_status": "verified",
@@ -360,8 +362,7 @@
       "claim_description": "Siemens AG is headquartered in Berlin and Munich, Germany",
       "source_ids": [
         "S1",
-        "S3",
-        "S5"
+        "S3"
       ],
       "source_quote": "Siemens AG (Berlin and Munich) is a leading technology company",
       "verification_status": "verified",

@@ -43,7 +43,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 2760,
@@ -58,30 +58,11 @@
       },
       {
         "source_id": "S2",
-        "url": "https://www.accenture.com/gb-en/services/data-ai",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 2760,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S3",
         "url": "https://www.accenture.com/us-en/case-studies/interactive/salling-group-grocery-customer-experience",
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 2052,
@@ -95,15 +76,15 @@
         }
       },
       {
-        "source_id": "S4",
+        "source_id": "S3",
         "url": "https://www.accenture.com/in-en/blogs/accenture-india-blog/accenture-india-blog-retail-profitability-race",
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S3.txt",
         "extraction_method": null,
         "extraction_quality": null,
-        "content_length": null,
+        "content_length": 0,
         "ocr_fallback_used": false,
         "is_multi_page": false,
         "multi_page_detection": {
@@ -115,7 +96,20 @@
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 3,
+      "dropped_url_pattern": 1,
+      "dropped_content_similarity": 0,
+      "url_duplicates": [
+        {
+          "dropped": "S2",
+          "duplicate_of": "S1",
+          "signature": "accenture.com/services/data-ai"
+        }
+      ],
+      "content_duplicates": []
+    }
   },
   "step_3_claims": {
     "model": "gpt-4o",
@@ -146,18 +140,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-001",
-        "source_id": "S2",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 581,
-        "char_offset_end": 664,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-002",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 1596,
@@ -176,16 +160,6 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-003",
-        "source_id": "S2",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 774,
-        "char_offset_end": 949,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-004",
         "source_id": "S1",
         "method": "exact",
@@ -196,28 +170,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-004",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 1383,
-        "char_offset_end": 1494,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-001",
         "source_id": "S1",
-        "method": "not_found",
-        "result": "not_found",
-        "char_offset_start": null,
-        "char_offset_end": null,
-        "match_confidence": 0.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-001",
-        "source_id": "S2",
         "method": "not_found",
         "result": "not_found",
         "char_offset_start": null,
@@ -227,7 +181,7 @@
       },
       {
         "claim_id": "CC-002",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 354,
@@ -237,7 +191,7 @@
       },
       {
         "claim_id": "CC-003",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 314,
@@ -247,7 +201,7 @@
       },
       {
         "claim_id": "CC-004",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 53,
@@ -266,18 +220,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-005",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2037,
-        "char_offset_end": 2119,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-006",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "not_found",
         "result": "not_found",
         "char_offset_start": null,
@@ -287,7 +231,7 @@
       },
       {
         "claim_id": "CC-007",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 1286,

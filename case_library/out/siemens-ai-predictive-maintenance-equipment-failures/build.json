@@ -48,7 +48,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 2399,
@@ -67,7 +67,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 65,
@@ -86,7 +86,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S3.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 2300,
@@ -105,7 +105,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S4.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 1591,
@@ -117,29 +117,23 @@
           "related_urls_followed": [],
           "detection_method": null
         }
-      },
-      {
-        "source_id": "S5",
-        "url": "https://press.siemens.com/global/en/pressrelease/siemens-introduces-ai-agents-industrial-automation",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 2230,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 4,
+      "dropped_url_pattern": 0,
+      "dropped_content_similarity": 1,
+      "url_duplicates": [],
+      "content_duplicates": [
+        {
+          "dropped": "S5",
+          "duplicate_of": "S3",
+          "similarity": 0.9201
+        }
+      ]
+    }
   },
   "step_3_claims": {
     "model": "claude-3-7-sonnet-20250219",
@@ -301,7 +295,7 @@
       },
       {
         "claim_id": "CC-011",
-        "source_id": "S5",
+        "source_id": "S3",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 67,
@@ -326,16 +320,6 @@
         "result": "matched",
         "char_offset_start": 1002,
         "char_offset_end": 1064,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-012",
-        "source_id": "S5",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 932,
-        "char_offset_end": 994,
         "match_confidence": 1.0,
         "ai_explanation": null
       }

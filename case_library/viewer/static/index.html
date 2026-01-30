@@ -69,6 +69,25 @@
         .source-id { font-weight: 600; color: #1e3a5f; font-size: 13px; margin-bottom: 4px; }
         .source-url { font-size: 12px; color: #2d5a87; word-break: break-all; }
         .source-url a { color: #2d5a87; }
+        .view-source-btn { margin-top: 8px; padding: 6px 12px; font-size: 12px; background: #2d5a87; color: white; border: none; border-radius: 6px; cursor: pointer; }
+        .view-source-btn:hover { background: #1e3a5f; }
+        .source-text-block { margin-top: 10px; padding: 12px; background: #f1f5f9; border-radius: 8px; border: 1px solid #e2e8f0; max-height: 320px; overflow-y: auto; white-space: pre-wrap; font-size: 12px; color: #334155; line-height: 1.5; }
+        .source-text-loading { color: #64748b; font-style: italic; }
+        .validation-section { margin-top: 24px; padding-top: 20px; border-top: 2px solid #e2e8f0; }
+        .validation-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; flex-wrap: wrap; }
+        .validation-verdict { padding: 4px 10px; border-radius: 6px; font-size: 12px; cursor: pointer; border: 1px solid #e2e8f0; background: white; }
+        .validation-verdict.selected-valid { background: #dcfce7; border-color: #22c55e; color: #166534; }
+        .validation-verdict.selected-invalid { background: #fee2e2; border-color: #ef4444; color: #991b1b; }
+        .validation-verdict.selected-unclear { background: #fef3c7; border-color: #f59e0b; color: #92400e; }
+        .validation-form-grid { display: grid; gap: 12px; margin-top: 16px; max-width: 400px; }
+        .validation-form-grid label { font-size: 13px; font-weight: 500; color: #475569; }
+        .validation-form-grid input, .validation-form-grid select { padding: 8px 12px; border: 1px solid #e2e8f0; border-radius: 6px; font-size: 14px; }
+        .submit-validation-btn { margin-top: 12px; padding: 10px 20px; background: #22c55e; color: white; border: none; border-radius: 8px; font-weight: 600; cursor: pointer; }
+        .submit-validation-btn:hover { background: #16a34a; }
+        .submit-validation-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+        .validation-feedback { margin-top: 12px; padding: 10px 14px; border-radius: 8px; font-size: 14px; }
+        .validation-feedback.success { background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; }
+        .validation-feedback.error { background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; }
         .collapsible { margin-top: 16px; }
         .collapsible-header { cursor: pointer; padding: 10px 0; font-weight: 600; color: #475569; }
         .collapsible-body { padding-left: 0; }
@@ -91,6 +110,13 @@
             const [filterVerification, setFilterVerification] = useState('all');
             const [filterEvidenceLevel, setFilterEvidenceLevel] = useState('all');
             const [contextOpen, setContextOpen] = useState(false);
+            const [sourceTextMap, setSourceTextMap] = useState({});
+            const [validationVerdicts, setValidationVerdicts] = useState({});
+            const [validationReviewerId, setValidationReviewerId] = useState('');
+            const [validationTier, setValidationTier] = useState('tier_1');
+            const [validationTimeTaken, setValidationTimeTaken] = useState('');
+            const [validationSubmitting, setValidationSubmitting] = useState(false);
+            const [validationMessage, setValidationMessage] = useState(null);
 
             useEffect(() => {
                 fetch(API_BASE + '/api/cases')
@@ -101,13 +127,65 @@
             }, []);
 
             useEffect(() => {
-                if (!selectedCase) { setCaseDetail(null); return; }
+                if (!selectedCase) { setCaseDetail(null); setSourceTextMap({}); setValidationVerdicts({}); setValidationMessage(null); return; }
                 setCaseDetail(null);
+                setSourceTextMap({});
+                setValidationVerdicts({});
+                setValidationMessage(null);
                 fetch(API_BASE + '/api/cases/' + encodeURIComponent(selectedCase.case_id))
                     .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
                     .then(setCaseDetail)
                     .catch(() => setCaseDetail(null));
             }, [selectedCase]);
+
+            function fetchSourceText(caseId, sourceId) {
+                const key = caseId + '::' + sourceId;
+                if (sourceTextMap[key] !== undefined) return;
+                setSourceTextMap(prev => ({ ...prev, [key]: { loading: true } }));
+                fetch(API_BASE + '/api/cases/' + encodeURIComponent(caseId) + '/sources/' + encodeURIComponent(sourceId))
+                    .then(r => {
+                        if (!r.ok) throw new Error(r.statusText);
+                        return r.text();
+                    })
+                    .then(text => setSourceTextMap(prev => ({ ...prev, [key]: { text } })))
+                    .catch(err => setSourceTextMap(prev => ({ ...prev, [key]: { error: err.message } })));
+            }
+
+            function setVerdict(claimId, verdict) {
+                setValidationVerdicts(prev => ({ ...prev, [claimId]: verdict }));
+            }
+
+            function submitValidation() {
+                if (!selectedCase || !caseDetail) return;
+                setValidationSubmitting(true);
+                setValidationMessage(null);
+                const payload = {
+                    verdicts: validationVerdicts,
+                    reviewer_id: validationReviewerId || undefined,
+                    tier: validationTier,
+                    time_taken_minutes: validationTimeTaken ? parseInt(validationTimeTaken, 10) : undefined
+                };
+                fetch(API_BASE + '/api/cases/' + encodeURIComponent(selectedCase.case_id) + '/validate', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                })
+                    .then(r => r.json())
+                    .then(data => {
+                        if (data.success) {
+                            setValidationMessage({ type: 'success', text: 'Validation saved. ' + (data.claims_validated || 0) + ' claim(s) updated.' });
+                            setValidationVerdicts({});
+                            fetch(API_BASE + '/api/cases/' + encodeURIComponent(selectedCase.case_id))
+                                .then(r => { if (!r.ok) throw new Error(r.statusText); return r.json(); })
+                                .then(setCaseDetail)
+                                .catch(() => {});
+                        } else {
+                            setValidationMessage({ type: 'error', text: data.error || 'Validation failed' });
+                        }
+                    })
+                    .catch(err => setValidationMessage({ type: 'error', text: err.message }))
+                    .finally(() => setValidationSubmitting(false));
+            }
 
             const stats = useMemo(() => {
                 const totalClaims = cases.reduce((s, c) => s + (c.value_claims_count || 0), 0);
@@ -224,7 +302,29 @@
                                                         </span>
                                                     </div>
                                                     {vc.claim_description && <div className="claim-text">{vc.claim_description}</div>}
-                                                    {vc.source_quote && <div className="claim-evidence"><strong>Quote:</strong> {vc.source_quote}</div>}
+                                                    {vc.source_quote && (
+                                                        <div className="claim-evidence">
+                                                            <strong>{vc.quote_source_id ? `Quote (from ${vc.quote_source_id}):` : 'Quote:'}</strong> {vc.source_quote}
+                                                            {(vc.quote_source_id || (vc.source_ids && vc.source_ids.length > 0)) && (
+                                                                <div style={{ marginTop: 8 }}>
+                                                                    {(vc.quote_source_id ? [vc.quote_source_id] : (vc.source_ids || [])).map(sid => {
+                                                                        const key = selectedCase ? selectedCase.case_id + '::' + sid : '';
+                                                                        const st = key ? (sourceTextMap[key] || null) : null;
+                                                                        return (
+                                                                            <div key={sid} style={{ marginBottom: 6 }}>
+                                                                                <button type="button" className="view-source-btn" onClick={() => selectedCase && fetchSourceText(selectedCase.case_id, sid)}>
+                                                                                    View source {sid}
+                                                                                </button>
+                                                                                {st && st.loading && <div className="source-text-block source-text-loading" style={{ maxHeight: 240 }}>Loading…</div>}
+                                                                                {st && st.text !== undefined && <div className="source-text-block" style={{ maxHeight: 240 }}>{st.text}</div>}
+                                                                                {st && st.error && <div className="source-text-block" style={{ maxHeight: 120, color: '#b91c1c' }}>{st.error}</div>}
+                                                                            </div>
+                                                                        );
+                                                                    })}
+                                                                </div>
+                                                            )}
+                                                        </div>
+                                                    )}
                                                     {vc.human_validation && vc.human_validation.reviewed && (
                                                         <div className="claim-evidence" style={{ marginTop: 8 }}>
                                                             <strong>Human:</strong> {vc.human_validation.reviewer_verdict || '—'} {vc.human_validation.reviewer_id ? '(' + vc.human_validation.reviewer_id + ')' : ''}
@@ -255,14 +355,59 @@
                                             {(caseDetail.sources || []).length > 0 && (
                                                 <>
                                                     <div className="section-title" style={{ marginTop: 24 }}>Sources</div>
-                                                    {(caseDetail.sources || []).map((s, i) => (
-                                                        <div key={s.source_id || i} className="source-item">
-                                                            <div className="source-id">{s.source_id}</div>
-                                                            <div className="source-url">{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer">{s.url}</a> : '—'}</div>
-                                                        </div>
-                                                    ))}
+                                                    {(caseDetail.sources || []).map((s, i) => {
+                                                        const key = (selectedCase && selectedCase.case_id) ? selectedCase.case_id + '::' + (s.source_id || '') : '';
+                                                        const st = key ? (sourceTextMap[key] || null) : null;
+                                                        return (
+                                                            <div key={s.source_id || i} className="source-item">
+                                                                <div className="source-id">{s.source_id}</div>
+                                                                <div className="source-url">{s.url ? <a href={s.url} target="_blank" rel="noopener noreferrer">{s.url}</a> : '—'}</div>
+                                                                <button type="button" className="view-source-btn" onClick={() => selectedCase && fetchSourceText(selectedCase.case_id, s.source_id)}>
+                                                                    View extracted text
+                                                                </button>
+                                                                {st && st.loading && <div className="source-text-block source-text-loading">Loading…</div>}
+                                                                {st && st.text !== undefined && <div className="source-text-block">{st.text}</div>}
+                                                                {st && st.error && <div className="source-text-block" style={{ color: '#b91c1c' }}>{st.error}</div>}
+                                                            </div>
+                                                        );
+                                                    })}
                                                 </>
                                             )}
+                                            <div className="validation-section">
+                                                <div className="section-title">Human validation (Step 5)</div>
+                                                <p style={{ fontSize: 13, color: '#64748b', marginBottom: 12 }}>Set verdict per value claim and submit to persist.</p>
+                                                {(caseDetail.value_claims || []).map((vc, i) => (
+                                                    <div key={vc.id || i} className="claim-item" style={{ marginBottom: 12 }}>
+                                                        <div className="claim-header" style={{ marginBottom: 8 }}>
+                                                            <span className="claim-id">{vc.id} — {vc.claim_title}</span>
+                                                        </div>
+                                                        <div className="validation-row">
+                                                            <span style={{ fontSize: 12, color: '#64748b' }}>Verdict:</span>
+                                                            {['valid', 'invalid', 'unclear'].map(v => (
+                                                                <button key={v} type="button" className={`validation-verdict ${(validationVerdicts[vc.id] || '').toLowerCase() === v ? 'selected-' + v : ''}`} onClick={() => setVerdict(vc.id, v)}>{v}</button>
+                                                            ))}
+                                                        </div>
+                                                    </div>
+                                                ))}
+                                                <div className="validation-form-grid">
+                                                    <label>Reviewer ID</label>
+                                                    <input type="text" placeholder="e.g. reviewer_1" value={validationReviewerId} onChange={e => setValidationReviewerId(e.target.value)} />
+                                                    <label>Tier</label>
+                                                    <select value={validationTier} onChange={e => setValidationTier(e.target.value)}>
+                                                        <option value="tier_1">Tier 1</option>
+                                                        <option value="tier_2_blind">Tier 2 (blind)</option>
+                                                        <option value="tier_3_calibration">Tier 3 (calibration)</option>
+                                                    </select>
+                                                    <label>Time taken (minutes)</label>
+                                                    <input type="number" min="0" placeholder="optional" value={validationTimeTaken} onChange={e => setValidationTimeTaken(e.target.value)} />
+                                                </div>
+                                                <button type="button" className="submit-validation-btn" onClick={submitValidation} disabled={validationSubmitting || Object.keys(validationVerdicts).length === 0}>
+                                                    {validationSubmitting ? 'Saving…' : 'Submit validation'}
+                                                </button>
+                                                {validationMessage && (
+                                                    <div className={`validation-feedback ${validationMessage.type}`}>{validationMessage.text}</div>
+                                                )}
+                                            </div>
                                         </>
                                     )}
                                 </div>

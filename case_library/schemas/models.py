@@ -291,6 +291,7 @@ class ValueClaim(BaseModel):
     source_ids: list[str]
     source_quote: str
     quote_location: Optional[str] = None
+    quote_source_id: Optional[str] = None  # source where source_quote was verified (e.g. S1)
 
     # Attribution
     ai_attribution: AIAttribution
@@ -591,6 +592,10 @@ class BuildLog(BaseModel):
         sources: list["BuildLog.Step2ExtractionSourceLog"] = Field(default_factory=list)
         multi_page_candidates: list[str] = Field(default_factory=list)
         multi_page_followed: list[str] = Field(default_factory=list)
+        deduplication: Optional[dict] = Field(
+            default=None,
+            description="Deduplication results: kept_count, dropped sources with reasons",
+        )
 
     class Step3ClaimsLog(BaseModel):
         model: Optional[str] = None
@@ -656,3 +661,31 @@ class SeedEntry(BaseModel):
     legacy_urls: list[str] = Field(default_factory=list)
     research_priority: Literal["high", "medium", "low"] = "medium"
     notes: Optional[str] = None
+
+
+# =============================================================================
+# OVERLAY METADATA (classification overlays)
+# =============================================================================
+
+
+class OverlayCoverage(BaseModel):
+    """Coverage stats for an overlay."""
+
+    total_cases: Optional[int] = None
+    classified_cases: Optional[int] = None
+    coverage_percent: Optional[float] = None
+
+
+class OverlayMetadata(BaseModel):
+    """
+    Metadata for a classification overlay (overlays/<name>/metadata.json).
+    """
+
+    overlay_id: str
+    display_name: str
+    description: str = ""
+    version: str = "1.0"
+    created_date: Optional[str] = None
+    last_updated: Optional[str] = None
+    maintainer: Optional[str] = None
+    coverage: Optional[OverlayCoverage] = None

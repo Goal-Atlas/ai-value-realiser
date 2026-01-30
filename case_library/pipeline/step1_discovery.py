@@ -20,6 +20,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Callable, Iterable, List, Sequence
 
+from case_library.pipeline.deduplication import dedupe_urls
 from case_library.schemas import SeedEntry
 
 
@@ -121,6 +122,9 @@ def discover_sources_for_seed(
     for url in seed.legacy_urls:
         if url not in candidates:
             candidates.append(url)
+
+    # Deduplicate by normalised URL (e.g. locale variants /gb-en/ vs /mu-en/)
+    candidates = dedupe_urls(candidates)
 
     return DiscoveryResult(seed=seed, search_queries=queries, candidate_urls=candidates)
 

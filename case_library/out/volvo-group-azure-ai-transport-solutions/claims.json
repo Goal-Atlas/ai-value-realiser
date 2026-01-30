@@ -9,6 +9,7 @@
       ],
       "source_quote": "companies like the Volvo Group using Microsoft Azure AI and Microsoft Azure AI Document Intelligence to streamline their invoice and claims process (saving Volvo employees about 850 hours a month)",
       "quote_location": "Body paragraph 3",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "The time savings are explicitly attributed to the use of Azure AI and Azure AI Document Intelligence for streamlining invoice and claims processes.",
       "verification_status": "verified",

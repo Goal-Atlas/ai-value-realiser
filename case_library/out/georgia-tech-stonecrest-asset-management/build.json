@@ -43,7 +43,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 5749,
@@ -62,7 +62,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 4742,
@@ -77,33 +77,14 @@
       },
       {
         "source_id": "S3",
-        "url": "https://www.microgridknowledge.com/distributed-energy/article/11427820/asking-all-the-questions-you-can-ask-about-a-microgrid-via-georgia-tech-project",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 6973,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S4",
         "url": "https://www.businesswire.com/news/home/20250423704154/en/Georgia-Tech-and-Stryten-Energy-Unveil-Installation-of-Lead-Battery-Energy-Storage-System-for-Advanced-Research",
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S3.txt",
         "extraction_method": null,
         "extraction_quality": null,
-        "content_length": null,
+        "content_length": 0,
         "ocr_fallback_used": false,
         "is_multi_page": false,
         "multi_page_detection": {
@@ -115,7 +96,20 @@
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 3,
+      "dropped_url_pattern": 0,
+      "dropped_content_similarity": 1,
+      "url_duplicates": [],
+      "content_duplicates": [
+        {
+          "dropped": "S3",
+          "duplicate_of": "S2",
+          "similarity": 0.8978
+        }
+      ]
+    }
   },
   "step_3_claims": {
     "model": "gpt-4o",

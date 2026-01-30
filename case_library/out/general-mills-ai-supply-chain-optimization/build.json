@@ -38,7 +38,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 2870,
@@ -53,30 +53,11 @@
       },
       {
         "source_id": "S2",
-        "url": "https://www.fooddive.com/news/General-Mills-AI-cost-saving-strategy/740460/",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 2870,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S3",
         "url": "https://www.marketingbrew.com/stories/2024/04/18/palantir-is-pitching-ad-agencies-on-its-ai-technology",
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 6301,
@@ -91,7 +72,20 @@
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 2,
+      "dropped_url_pattern": 0,
+      "dropped_content_similarity": 1,
+      "url_duplicates": [],
+      "content_duplicates": [
+        {
+          "dropped": "S2",
+          "duplicate_of": "S1",
+          "similarity": 1.0
+        }
+      ]
+    }
   },
   "step_3_claims": {
     "model": "gpt-4o",
@@ -122,28 +116,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-001",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 190,
-        "char_offset_end": 338,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-002",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 339,
-        "char_offset_end": 491,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-002",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 339,
@@ -162,28 +136,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-003",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 492,
-        "char_offset_end": 623,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-004",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 14,
-        "char_offset_end": 187,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-004",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 14,
@@ -202,28 +156,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-001",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 190,
-        "char_offset_end": 316,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-002",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 190,
-        "char_offset_end": 213,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-002",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 190,
@@ -242,28 +176,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-003",
-        "source_id": "S2",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 727,
-        "char_offset_end": 866,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-004",
         "source_id": "S1",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 626,
-        "char_offset_end": 726,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-004",
-        "source_id": "S2",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 626,
@@ -282,28 +196,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-005",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 133,
-        "char_offset_end": 186,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-006",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 282,
-        "char_offset_end": 418,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-006",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 282,
@@ -322,28 +216,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-007",
-        "source_id": "S2",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 492,
-        "char_offset_end": 623,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-008",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 339,
-        "char_offset_end": 418,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-008",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 339,
@@ -353,7 +227,7 @@
       },
       {
         "claim_id": "CC-009",
-        "source_id": "S3",
+        "source_id": "S2",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 1570,
@@ -364,16 +238,6 @@
       {
         "claim_id": "CC-010",
         "source_id": "S1",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 420,
-        "char_offset_end": 490,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-010",
-        "source_id": "S2",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 420,

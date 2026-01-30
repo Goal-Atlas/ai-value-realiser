@@ -170,7 +170,8 @@ def write_casefile_md(
     for v in value_claims:
         body_lines.append(f"- **{v.claim_title}** — {_enum_value(v.verification_status) or '—'} ({_enum_value(v.evidence_level) or '—'})")
         if v.source_quote:
-            body_lines.append(f"  - Quote: \"{v.source_quote[:200]}{'...' if len(v.source_quote) > 200 else ''}\"")
+            quote_label = f"Quote (from {v.quote_source_id}): " if v.quote_source_id else "Quote: "
+            body_lines.append(f"  - {quote_label}\"{v.source_quote[:200]}{'...' if len(v.source_quote) > 200 else ''}\"")
         body_lines.append("")
     body_lines.append("## Sources")
     body_lines.append("")

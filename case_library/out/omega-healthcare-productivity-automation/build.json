@@ -43,7 +43,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 7170,
@@ -62,48 +62,10 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": null,
         "extraction_quality": null,
-        "content_length": null,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S3",
-        "url": "https://www.uipath.com/newsroom/omega-healthcare-processes-60-million-transactions-with-enterprise-ai-and-automation",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 5908,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S4",
-        "url": "https://ir.uipath.com/news/detail/370/omega-healthcare-processes-60-million-transactions-with-enterprise-ai-and-automation-from-uipath",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 7461,
+        "content_length": 0,
         "ocr_fallback_used": false,
         "is_multi_page": false,
         "multi_page_detection": {
@@ -115,7 +77,25 @@
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 2,
+      "dropped_url_pattern": 0,
+      "dropped_content_similarity": 2,
+      "url_duplicates": [],
+      "content_duplicates": [
+        {
+          "dropped": "S3",
+          "duplicate_of": "S1",
+          "similarity": 0.94
+        },
+        {
+          "dropped": "S4",
+          "duplicate_of": "S1",
+          "similarity": 0.9016
+        }
+      ]
+    }
   },
   "step_3_claims": {
     "model": "claude-3-7-sonnet-20250219",
@@ -146,52 +126,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-001",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4037,
-        "char_offset_end": 4135,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-001",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 3900,
-        "char_offset_end": 3998,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-002",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 3842,
         "char_offset_end": 3894,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-002",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4140,
-        "char_offset_end": 4192,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-002",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4003,
-        "char_offset_end": 4055,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -206,52 +146,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-003",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4194,
-        "char_offset_end": 4231,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-003",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4057,
-        "char_offset_end": 4094,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-004",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 3935,
         "char_offset_end": 3969,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-004",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4233,
-        "char_offset_end": 4267,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-004",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4096,
-        "char_offset_end": 4130,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -266,52 +166,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-005",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4273,
-        "char_offset_end": 4312,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-005",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4136,
-        "char_offset_end": 4175,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-006",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 4134,
         "char_offset_end": 4190,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-006",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4433,
-        "char_offset_end": 4489,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-006",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4296,
-        "char_offset_end": 4352,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -326,52 +186,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "VC-007",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2296,
-        "char_offset_end": 2404,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-007",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2159,
-        "char_offset_end": 2267,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "VC-008",
         "source_id": "S1",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 2866,
         "char_offset_end": 3033,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-008",
-        "source_id": "S3",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 3164,
-        "char_offset_end": 3331,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "VC-008",
-        "source_id": "S4",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 3027,
-        "char_offset_end": 3194,
         "match_confidence": 0.75,
         "ai_explanation": null
       },
@@ -386,38 +206,8 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-001",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 482,
-        "char_offset_end": 588,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-001",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 343,
-        "char_offset_end": 449,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-002",
         "source_id": "S1",
-        "method": "not_found",
-        "result": "not_found",
-        "char_offset_start": null,
-        "char_offset_end": null,
-        "match_confidence": 0.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-002",
-        "source_id": "S4",
         "method": "not_found",
         "result": "not_found",
         "char_offset_start": null,
@@ -436,32 +226,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-003",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 5660,
-        "char_offset_end": 5784,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-004",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 4822,
         "char_offset_end": 4875,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-004",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 4984,
-        "char_offset_end": 5037,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -476,52 +246,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-005",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2296,
-        "char_offset_end": 2404,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-005",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2159,
-        "char_offset_end": 2267,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-006",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 1284,
         "char_offset_end": 1387,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-006",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 1582,
-        "char_offset_end": 1685,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-006",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 1445,
-        "char_offset_end": 1548,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -536,52 +266,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-007",
-        "source_id": "S3",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 4491,
-        "char_offset_end": 4657,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-007",
-        "source_id": "S4",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 4354,
-        "char_offset_end": 4520,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-008",
         "source_id": "S1",
         "method": "exact",
         "result": "matched",
         "char_offset_start": 2714,
         "char_offset_end": 2865,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-008",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 3012,
-        "char_offset_end": 3163,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-008",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2875,
-        "char_offset_end": 3026,
         "match_confidence": 1.0,
         "ai_explanation": null
       },
@@ -596,52 +286,12 @@
         "ai_explanation": null
       },
       {
-        "claim_id": "CC-009",
-        "source_id": "S3",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2833,
-        "char_offset_end": 3011,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-009",
-        "source_id": "S4",
-        "method": "exact",
-        "result": "matched",
-        "char_offset_start": 2696,
-        "char_offset_end": 2874,
-        "match_confidence": 1.0,
-        "ai_explanation": null
-      },
-      {
         "claim_id": "CC-010",
         "source_id": "S1",
         "method": "regex_normalized",
         "result": "matched",
         "char_offset_start": 4233,
         "char_offset_end": 4322,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-010",
-        "source_id": "S3",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 4532,
-        "char_offset_end": 4621,
-        "match_confidence": 0.75,
-        "ai_explanation": null
-      },
-      {
-        "claim_id": "CC-010",
-        "source_id": "S4",
-        "method": "regex_normalized",
-        "result": "matched",
-        "char_offset_start": 4395,
-        "char_offset_end": 4484,
         "match_confidence": 0.75,
         "ai_explanation": null
       }

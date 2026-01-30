@@ -5,11 +5,11 @@
       "claim_title": "AI-driven logistics planning reduced transportation costs and improved customer service",
       "claim_description": "General Mills used AI in logistics planning to reduce transportation costs while simultaneously boosting customer service levels, demonstrating dual value creation in supply chain operations.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "The food industry giant reduced transportation costs and boosted customer service levels by using AI in its logistics planning, CFO Kofi Bruce said.",
       "quote_location": "Dive Brief, second bullet point",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "CFO explicitly attributes transportation cost reduction and customer service improvements directly to AI use in logistics planning.",
       "verification_status": "verified",
@@ -44,11 +44,11 @@
       "claim_title": "AI assessment of daily shipments generated $20M+ in savings since FY2024",
       "claim_description": "AI models assess over 5,000 daily shipments from plants to warehouses, resulting in more than $20 million in cost savings since fiscal year 2024.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "AI models also assess more than 5,000 daily shipments from plants to warehouses, leading to more than $20 million in savings since its 2024 fiscal year.",
       "quote_location": "Dive Brief, second bullet point",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "Executives directly attribute the $20M+ savings to AI models assessing shipments, with specific operational detail (5,000 daily shipments).",
       "verification_status": "verified",
@@ -89,11 +89,11 @@
       "claim_title": "Real-time manufacturing performance data predicted to reduce waste by $50M+ in 2025",
       "claim_description": "General Mills predicts that AI-enabled real-time performance data in manufacturing will produce more than $50 million in waste reduction during the current year.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "General Mills predicts real-time performance data in manufacturing will produce more than $50 million in waste reduction this year.",
       "quote_location": "Dive Brief, second bullet point",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "Company prediction directly links real-time performance data (AI-enabled) to specific waste reduction value, though outcome is projected rather than realized.",
       "verification_status": "verified",
@@ -133,11 +133,11 @@
       "claim_title": "AI projects helped boost efficiency and optimize supply chain",
       "claim_description": "General Mills tied millions in cost-savings to AI projects that improved operational efficiency and optimized supply chain operations overall.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "General Mills tied millions in cost-savings to AI projects that helped boost efficiency and optimize its supply chain, executives said during an investor conference Tuesday.",
       "quote_location": "Dive Brief, first bullet point",
+      "quote_source_id": null,
       "ai_attribution": "direct",
       "attribution_evidence": "Executives directly tie cost savings in the millions to AI projects focused on efficiency and supply chain optimization.",
       "verification_status": "verified",
@@ -181,8 +181,7 @@
       "claim_title": "General Mills is a food industry giant",
       "claim_description": "General Mills operates as a major player in the food manufacturing industry.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "The food industry giant reduced transportation costs and boosted customer service levels by using AI in its logistics planning",
       "verification_status": "verified",
@@ -207,8 +206,7 @@
       "claim_title": "General Mills operates in the food manufacturing sector",
       "claim_description": "The organization is positioned within the food and beverage manufacturing industry.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "The food industry giant",
       "verification_status": "verified",
@@ -233,8 +231,7 @@
       "claim_title": "Accelerate strategy launched five years ago to strengthen digital infrastructure",
       "claim_description": "General Mills implemented its Accelerate strategy five years prior to strengthen digital infrastructure, under which AI initiatives are organized.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "The efforts to strengthen its digital infrastructure are part of the company's Accelerate strategy, which was set in motion five years ago.",
       "verification_status": "verified",
@@ -259,8 +256,7 @@
       "claim_title": "Digital, data and technology investments doubled since 2019",
       "claim_description": "General Mills has doubled its investments in digital, data and technology capabilities since 2019, providing context for AI adoption scale.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "General Mills' digital, data and technology investments have doubled since 2019, CEO Jeff Harmening.",
       "verification_status": "verified",
@@ -285,8 +281,7 @@
       "claim_title": "Statements made during investor conference in 2025",
       "claim_description": "Executive statements about AI value were made during an investor conference, providing temporal context for claims.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "executives said during an investor conference Tuesday",
       "verification_status": "verified",
@@ -311,8 +306,7 @@
       "claim_title": "AI applied to logistics and supply chain management",
       "claim_description": "General Mills applies AI within logistics planning and supply chain operations, specifically for shipment assessment and transportation optimization.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "using AI in its logistics planning, CFO Kofi Bruce said. AI models also assess more than 5,000 daily shipments from plants to warehouses",
       "verification_status": "verified",
@@ -337,8 +331,7 @@
       "claim_title": "AI applied to manufacturing operations",
       "claim_description": "General Mills uses AI for real-time performance monitoring in manufacturing to reduce waste.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "General Mills predicts real-time performance data in manufacturing will produce more than $50 million in waste reduction this year.",
       "verification_status": "verified",
@@ -363,8 +356,7 @@
       "claim_title": "AI processes over 5,000 daily shipments",
       "claim_description": "The AI system operates at scale, assessing more than 5,000 shipments daily from plants to warehouses.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "AI models also assess more than 5,000 daily shipments from plants to warehouses",
       "verification_status": "verified",
@@ -389,7 +381,7 @@
       "claim_title": "General Mills uses Palantir AIP technology",
       "claim_description": "General Mills is identified as a user of Palantir's AIP (Artificial Intelligence Platform) technology.",
       "source_ids": [
-        "S3"
+        "S2"
       ],
       "source_quote": "When it comes to AIP in particular, Lowe's, General Mills and OpenAI are all using the technology, according to a press release from March.",
       "verification_status": "verified",
@@ -414,8 +406,7 @@
       "claim_title": "Fiscal year 2024 baseline for savings measurement",
       "claim_description": "The $20M+ savings from AI shipment assessment is measured from fiscal year 2024 onwards.",
       "source_ids": [
-        "S1",
-        "S2"
+        "S1"
       ],
       "source_quote": "leading to more than $20 million in savings since its 2024 fiscal year",
       "verification_status": "verified",

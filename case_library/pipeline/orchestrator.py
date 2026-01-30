@@ -21,6 +21,7 @@ from case_library.pipeline.step1_discovery import (
     SearchFn,
     discover_sources_for_seed,
 )
+from case_library.pipeline.deduplication import dedupe_sources_pipeline
 from case_library.pipeline.step2_extraction import (
     ExtractionResult,
     extract_sources_from_urls,
@@ -54,11 +55,40 @@ def run_step2_extraction_for_case(
         starting_source_index=starting_source_index,
     )
 
-    # Build the step_2_extraction log from the in-memory results.
-    step2_sources: List[BuildLog.Step2ExtractionSourceLog] = []
+    sources_from_extraction: List[SourceExtraction] = [
+        res.source for res in extraction_results
+    ]
 
-    for result in extraction_results:
-        src = result.source
+    # Deduplicate by URL pattern then content similarity; renumber to S1, S2, ...
+    dedup_result = dedupe_sources_pipeline(
+        sources_from_extraction,
+        get_url=lambda s: s.source_url,
+        get_content=lambda s: s.content or "",
+        content_threshold=0.85,
+        get_id=lambda s: s.source_id,
+    )
+    kept_sources: List[SourceExtraction] = dedup_result.kept
+    # Renumber source_id to S1, S2, S3, ... so downstream steps see contiguous IDs
+    renumbered: List[SourceExtraction] = []
+    for i, src in enumerate(kept_sources, start=1):
+        new_id = f"S{i}"
+        renumbered.append(
+            SourceExtraction(
+                source_id=new_id,
+                source_url=src.source_url,
+                fetch_timestamp=src.fetch_timestamp,
+                fetch_status=src.fetch_status,
+                extraction_method=src.extraction_method,
+                content_length=src.content_length,
+                content=src.content,
+                is_multi_page=src.is_multi_page,
+                multi_page_detection=src.multi_page_detection,
+            )
+        )
+
+    # Build the step_2_extraction log from the (deduplicated, renumbered) results.
+    step2_sources: List[BuildLog.Step2ExtractionSourceLog] = []
+    for src in renumbered:
         step2_sources.append(
             BuildLog.Step2ExtractionSourceLog(
                 source_id=src.source_id,
@@ -80,6 +110,7 @@ def run_step2_extraction_for_case(
         sources=step2_sources,
         multi_page_candidates=[],
         multi_page_followed=[],
+        deduplication=dedup_result.to_log_dict() if dedup_result.total_dropped > 0 else None,
     )
 
     build_log = BuildLog(
@@ -93,8 +124,7 @@ def run_step2_extraction_for_case(
         step_5_human_validation=None,
     )
 
-    extracted_sources: List[SourceExtraction] = [res.source for res in extraction_results]
-    return build_log, extracted_sources
+    return build_log, renumbered
 
 
 def run_discovery_and_extraction_for_seed(

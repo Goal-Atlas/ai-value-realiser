@@ -41,4 +41,7 @@ from .models import (
     ClaimExtraction,
     SeedEntry,
     SourceExtraction,
+    # Overlay metadata
+    OverlayCoverage,
+    OverlayMetadata,
 )

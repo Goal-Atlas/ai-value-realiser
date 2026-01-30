@@ -148,10 +148,12 @@ def verify_value_claims_against_sources(
                 best_match = match
                 best_source = source_id
 
-        # Update verification_status based on best match
+        # Update verification_status and quote_source_id based on best match
         updated = claim.model_copy(deep=True)
         if best_match and best_match.matched:
             updated.verification_status = VerificationStatus.VERIFIED
+            if best_source:
+                updated.quote_source_id = best_source
             # If quote_location is missing, add a lightweight pointer
             if not updated.quote_location and best_source and best_match.start is not None:
                 updated.quote_location = f"{best_source}@{best_match.start}:{best_match.end}"

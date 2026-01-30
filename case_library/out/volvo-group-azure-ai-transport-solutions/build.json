@@ -43,7 +43,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S1.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 8979,
@@ -62,45 +62,7 @@
         "http_status": null,
         "retries": 0,
         "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 265,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S3",
-        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/mar/ai-in-action--a-journey-of-data-and-ai-driven-innovation-and-col.html",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
-        "extraction_method": "trafilatura",
-        "extraction_quality": null,
-        "content_length": 266,
-        "ocr_fallback_used": false,
-        "is_multi_page": false,
-        "multi_page_detection": {
-          "patterns_found": [],
-          "related_urls_detected": [],
-          "related_urls_followed": [],
-          "detection_method": null
-        }
-      },
-      {
-        "source_id": "S4",
-        "url": "https://www.volvogroup.com/en/news-and-media/news/2024/sep/volvo-group-venture-capital-invests-in-aifleet--an-ai-driven-trucking-company.html",
-        "http_status": null,
-        "retries": 0,
-        "raw_file": null,
-        "text_file": null,
+        "text_file": "sources/text/S2.txt",
         "extraction_method": "trafilatura",
         "extraction_quality": null,
         "content_length": 265,
@@ -115,7 +77,25 @@
       }
     ],
     "multi_page_candidates": [],
-    "multi_page_followed": []
+    "multi_page_followed": [],
+    "deduplication": {
+      "kept_count": 2,
+      "dropped_url_pattern": 0,
+      "dropped_content_similarity": 2,
+      "url_duplicates": [],
+      "content_duplicates": [
+        {
+          "dropped": "S3",
+          "duplicate_of": "S2",
+          "similarity": 0.9567
+        },
+        {
+          "dropped": "S4",
+          "duplicate_of": "S2",
+          "similarity": 0.9698
+        }
+      ]
+    }
   },
   "step_3_claims": {
     "model": "gpt-4o",
